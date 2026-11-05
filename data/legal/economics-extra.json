@@ -1,0 +1,186 @@
+{
+  "2024-10-22-82": {
+    "status": "cited",
+    "citations": [
+      {
+        "act": "Ustawa z dnia 15 września 2000 r. – Kodeks spółek handlowych",
+        "provision": "art. 4 § 1 pkt 1",
+        "url": "https://eli.gov.pl/api/acts/DU/2024/18/text.html#titl_I-bran_I-arti_4",
+        "evidence": "1) spółka osobowa - spółkę jawną, spółkę partnerską, spółkę komandytową i spółkę komandytowo-akcyjną; 2) spółka kapitałowa - spółkę z ogranic"
+      }
+    ]
+  },
+  "2024-04-23-80": {
+    "status": "cited",
+    "citations": [
+      {
+        "act": "Ustawa z dnia 15 września 2000 r. – Kodeks spółek handlowych",
+        "provision": "art. 4 § 1 pkt 1",
+        "url": "https://eli.gov.pl/api/acts/DU/2024/18/text.html#titl_I-bran_I-arti_4",
+        "evidence": "1) spółka osobowa - spółkę jawną, spółkę partnerską, spółkę komandytową i spółkę komandytowo-akcyjną; 2) spółka kapitałowa - spółkę z ogranic"
+      }
+    ]
+  },
+  "2024-03-19-19": {
+    "status": "cited",
+    "citations": [
+      {
+        "act": "Ustawa z dnia 29 września 1994 r. o rachunkowości",
+        "provision": "art. 48 ust. 1",
+        "url": "https://eli.gov.pl/api/acts/DU/2023/120/text.html#chpt_5-arti_48",
+        "evidence": "1. Informacja dodatkowa powinna zawierać istotne dane i objaśnienia niezbędne do tego, aby sprawozdanie finansowe odpowiadało warunkom określonym w art. 4 ust. 1, a w szczególności obejmować: 1) wprowadzenie do sprawozdania finansowego, zawierające opis przyjętych zasad (polityki) rachunkowości, w tym metod wyceny i sporządzenia sprawozdania finansowego w zakresie, w jakim ustawa pozostawia jednostce prawo wyboru, oraz przedstawienie przyczyn i skutków ich ewentualnych zmian w stosunku do roku poprzedzającego; 2) dodatkowe informacje i objaśnienia: a) do pozycji bilansu, rachunku zysków i strat, zestawienia zmian w kapitale (funduszu) własnym oraz rachunku przepływów pieniężnych za okresy sprawozdawcze objęte sprawozdaniem finansowym, b) proponowany podział zysku lub pokrycia straty, c) podstawowe informacje dotyczące pracowników i organów jednostki, d) inne istotne informacje dla zrozumienia sprawozdania finansowego. 2. Zakres informacji dodatkowej, sporządzanej przez jednostki inne niż banki, zakłady ubezpieczeń i zakłady reasekuracji, określa załącznik nr 1 do ustawy. 3. Jednostka"
+      }
+    ],
+    "note": "Art. 48 ust. 3 przewiduje uproszczenie dla jednostek mikro; opis zakresu informacji należy czytać z tym wyjątkiem."
+  },
+  "2024-03-19-83": {
+    "status": "cited",
+    "citations": [
+      {
+        "act": "Ustawa z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych",
+        "provision": "art. 16a ust. 1",
+        "url": "https://eli.gov.pl/api/acts/DU/2023/2805/text.html#chpt_3-arti_16a",
+        "evidence": "Art. 16a. 1. Amortyzacji podlegają, z zastrzeżeniem art. 16c, stanowiące własność lub współwłasność podatnika, nabyte lub wytworzone we własnym zakresie, kompletne i zdatne do użytku w dniu przyjęcia do używania: 1) budowle, budynki oraz lokale będące odrębną własnością, 2) maszyny, urządzenia i środki transportu, 3) inne przedmioty - o przewidywanym okresie używania dłuższym niż rok, wykorzystywane przez podatnika na potrzeby związane z prowadzoną przez niego działalnością gospodarczą albo oddane do używania na podstawie umowy najmu, dzierżawy lub umowy określonej w art. 17a pkt 1, zwane środkami trwałymi. 2. Amortyzacji podlegają również, z zastrzeżeniem art. 16c, niezależnie od przewidywanego okresu używania"
+      },
+      {
+        "act": "Ustawa z dnia 29 września 1994 r. o rachunkowości",
+        "provision": "art. 3 ust. 1 pkt 17",
+        "url": "https://eli.gov.pl/api/acts/DU/2023/120/text.html#chpt_1-arti_3",
+        "evidence": "17) inwestycjach - rozumie się przez to aktywa posiadane przez jednostkę w celu osiągnięcia z nich korzyści ekonomicznych wynikających z przyrostu wartości tych aktywów, uzyskania przychodów w formie odsetek, dywidend (udziałów w zyskach) lub innych pożytków, w tym również z transakcji handlowej, a w szczególności aktywa finansowe oraz te nieruchomości i wartości niematerialne i prawne, które nie są użytkowane przez jednostkę, lecz są posiadane przez nią w celu osiągnięcia tych korzyści. W przypadku zakładów ubezpieczeń i zakładów reasekuracji przez inwestycje rozumie się lokaty; 18) aktywach obrotowych - rozumie się przez to tę część aktywów jednostki, które w przypadku: a) aktywów rzeczowych, o których mowa w pkt 19 - są przeznaczone do zbycia lub zużycia w ciągu 12 miesięcy od dnia bila"
+      }
+    ],
+    "note": "Kwalifikacja księgowa jako inwestycja nie przesądza o podatkowej amortyzacji; trzeba uwzględnić warunki art. 16a oraz wyłączenia art. 16c, w tym dotyczące budynków mieszkalnych."
+  },
+  "2022-12-01-77": {
+    "status": "cited",
+    "citations": [
+      {
+        "act": "Ustawa z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych",
+        "provision": "art. 16c pkt 1",
+        "url": "https://eli.gov.pl/api/acts/DU/2023/2805/text.html#chpt_3-arti_16c",
+        "evidence": "Art. 16c. Amortyzacji nie podlegają: 1) grunty i prawa wieczystego użytkowania gruntów, 2) budynki, lokale, budowle i urządzenia zaliczane d"
+      }
+    ]
+  },
+  "2022-09-15-83": {
+    "status": "cited",
+    "citations": [
+      {
+        "act": "Ustawa z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych",
+        "provision": "art. 16h ust. 4",
+        "url": "https://eli.gov.pl/api/acts/DU/2023/2805/text.html#chpt_3-arti_16h",
+        "evidence": "4. Podatnicy mogą dokonywać odpisów amortyzacyjnych w równych ratach co miesiąc albo w równych ratach co kwartał, albo jednorazowo na koniec roku podatkowego, z uwzględnieniem art. 16i. Suma odpisów amortyzacyjnych od środków trwałych oraz wartości niematerialnych i prawnych dokonanych w pierwszym roku podatkowym, w którym środki te zostały wprowadzone do ewidencji, nie może przekroczyć wartości tych odpisów przypadających za okres od wprowadzenia ich do ewidencji do końca tego roku podatkowego. 5. Przepisu ust. 3 nie stosuje się do podzia"
+      }
+    ]
+  },
+  "2022-03-24-20": {
+    "status": "cited",
+    "citations": [
+      {
+        "act": "Ustawa z dnia 29 września 1994 r. o rachunkowości",
+        "provision": "art. 45 ust. 2",
+        "url": "https://eli.gov.pl/api/acts/DU/2023/120/text.html#chpt_5-arti_45",
+        "evidence": "2. Sprawozdanie finansowe składa się z: 1) bilansu; 2) rachunku zysków i strat; 3) informacji dodatkowej, obejmującej wprowadzenie do sprawozdania finansowego oraz dodatkowe informacje i objaśnienia. 3. Sprawozdanie finansowe jednostek określonych w art. 64 ust. 1, podlegające corocznemu badaniu, obejmuje ponadto zestawienie zmian w kapitale (funduszu) własnym, a w przypadku funduszy inwestycyjnych - zestawienie zmian w aktywach netto, oraz rachunek przepływów pieniężnych, z zastrzeżeniem ust. 3a. 3a. Sprawozdanie finansowe funduszu inwestycyjn"
+      }
+    ]
+  },
+  "2026-09-09-87": {
+    "status": "cited",
+    "citations": [
+      {
+        "act": "Ustawa z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych",
+        "provision": "art. 4 pkt 1",
+        "url": "https://eli.gov.pl/api/acts/DU/2024/295/text.html",
+        "evidence": "Art. 4. Obowiązek podatkowy, z zastrzeżeniem art. 5, ciąży: 1) przy umowie sprzedaży - na kupującym; 2) przy umowie zamiany"
+      }
+    ]
+  },
+  "2025-03-26-80": {
+    "status": "cited",
+    "citations": [
+      {
+        "act": "Ustawa z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych",
+        "provision": "art. 4 pkt 1",
+        "url": "https://eli.gov.pl/api/acts/DU/2024/295/text.html",
+        "evidence": "Art. 4. Obowiązek podatkowy, z zastrzeżeniem art. 5, ciąży: 1) przy umowie sprzedaży - na kupującym; 2) przy umowie zamiany"
+      }
+    ]
+  },
+  "2021-10-28-80": {
+    "status": "cited",
+    "citations": [
+      {
+        "act": "Ustawa z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych",
+        "provision": "art. 4 pkt 1",
+        "url": "https://eli.gov.pl/api/acts/DU/2024/295/text.html",
+        "evidence": "Art. 4. Obowiązek podatkowy, z zastrzeżeniem art. 5, ciąży: 1) przy umowie sprzedaży - na kupującym; 2) przy umowie zamiany"
+      }
+    ]
+  },
+  "2024-04-23-86": {
+    "status": "cited",
+    "citations": [
+      {
+        "act": "Ustawa z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych",
+        "provision": "art. 6 ust. 1 pkt 2 lit. a",
+        "url": "https://eli.gov.pl/api/acts/DU/2024/295/text.html",
+        "evidence": "2) przy umowie zamiany: a) lokalu mieszkalnego stanowiącego odrębną nieruchomość lub własnościowego spółdzielczego prawa do lokalu mieszkalnego na taki lokal lub prawo do lokalu - różnica wartości rynkowych zamienianych lokali lub praw do lokali, b) w pozostałych przypadkach - wartość rynkowa rzeczy"
+      }
+    ]
+  },
+  "2021-06-24-85": {
+    "status": "cited",
+    "citations": [
+      {
+        "act": "Ustawa z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych",
+        "provision": "art. 6 ust. 1 pkt 2 lit. a",
+        "url": "https://eli.gov.pl/api/acts/DU/2024/295/text.html",
+        "evidence": "2) przy umowie zamiany: a) lokalu mieszkalnego stanowiącego odrębną nieruchomość lub własnościowego spółdzielczego prawa do lokalu mieszkalnego na taki lokal lub prawo do lokalu - różnica wartości rynkowych zamienianych lokali lub praw do lokali, b) w pozostałych przypadkach - wartość rynkowa rzeczy"
+      }
+    ]
+  },
+  "2024-06-25-79": {
+    "status": "cited",
+    "citations": [
+      {
+        "act": "Ustawa z dnia 28 lipca 1983 r. o podatku od spadków i darowizn",
+        "provision": "art. 7 ust. 1",
+        "url": "https://eli.gov.pl/api/acts/DU/2024/1837/text.html",
+        "evidence": "Art. 7. 1. Podstawę opodatkowania stanowi wartość nabytych rzeczy i praw majątkowych po potrąceniu długów i ciężarów (czysta wartość), ustalona według stanu rzeczy i praw majątkowych w dniu nabycia i cen rynkowych z dnia powstania obowiązku podatkowego. Jeżeli przed dokonaniem wymiaru podatku nastąpi ubytek rzeczy spowodowany siłą wyższą, do ustalenia wartości przyjmuje się stan rzeczy w dniu dokonania wymiaru, a odszkodowanie za ubytek należne z tytułu ubezpieczenia wlicza się do podstawy wymiaru. 2. Jeżeli spadkobierca, obdarowany lub osoba, "
+      }
+    ]
+  },
+  "2021-09-09-84": {
+    "status": "cited",
+    "citations": [
+      {
+        "act": "Ustawa z dnia 28 lipca 1983 r. o podatku od spadków i darowizn",
+        "provision": "art. 7 ust. 1",
+        "url": "https://eli.gov.pl/api/acts/DU/2024/1837/text.html",
+        "evidence": "Art. 7. 1. Podstawę opodatkowania stanowi wartość nabytych rzeczy i praw majątkowych po potrąceniu długów i ciężarów (czysta wartość), ustalona według stanu rzeczy i praw majątkowych w dniu nabycia i cen rynkowych z dnia powstania obowiązku podatkowego. Jeżeli przed dokonaniem wymiaru podatku nastąpi ubytek rzeczy spowodowany siłą wyższą, do ustalenia wartości przyjmuje się stan rzeczy w dniu dokonania wymiaru, a odszkodowanie za ubytek należne z tytułu ubezpieczenia wlicza się do podstawy wymiaru. 2. Jeżeli spadkobierca, obdarowany lub osoba, "
+      }
+    ]
+  },
+  "2021-06-24-78": {
+    "status": "cited",
+    "citations": [
+      {
+        "act": "Ustawa z dnia 28 lipca 1983 r. o podatku od spadków i darowizn",
+        "provision": "art. 7 ust. 1",
+        "url": "https://eli.gov.pl/api/acts/DU/2024/1837/text.html",
+        "evidence": "Art. 7. 1. Podstawę opodatkowania stanowi wartość nabytych rzeczy i praw majątkowych po potrąceniu długów i ciężarów (czysta wartość), ustalona według stanu rzeczy i praw majątkowych w dniu nabycia i cen rynkowych z dnia powstania obowiązku podatkowego. Jeżeli przed dokonaniem wymiaru podatku nastąpi ubytek rzeczy spowodowany siłą wyższą, do ustalenia wartości przyjmuje się stan rzeczy w dniu dokonania wymiaru, a odszkodowanie za ubytek należne z tytułu ubezpieczenia wlicza się do podstawy wymiaru. 2. Jeżeli spadkobierca, obdarowany lub osoba, "
+      }
+    ]
+  },
+  "2022-10-27-84": {
+    "status": "cited",
+    "citations": [
+      {
+        "act": "Ustawa z dnia 28 lipca 1983 r. o podatku od spadków i darowizn",
+        "provision": "art. 16 ust. 5",
+        "url": "https://eli.gov.pl/api/acts/DU/2024/1837/text.html",
+        "evidence": "5. Powierzchnie pomieszczeń lub ich części oraz część kondygnacji o wysokości w świetle od 1,40 m do 2,20 m zalicza się do powierzchni użytkowej budynku w 50 %, a jeżeli wysokość jest mniejsza niż 1,40 m - powierzchnię tę pomija się. 6. (uchylony) 7. Nie stanowi podstawy do wygaśnięcia decyzji lub ustalenia zobowiązania podatkowego: 1) zbycie udziału w budynku lub lokalu mieszkalnym stanowiącym odrębną nieruchomość, albo spółdzielczym własnościowym prawie do lokalu mieszkalnego na rzecz innego ze spadkobierców lub obdarowanych, albo 2) zbycie budynku lub lokalu mieszkalnego stanowiącego odrębną nieruchomość (udziału w budynku lub lokalu), alb"
+      }
+    ]
+  }
+}

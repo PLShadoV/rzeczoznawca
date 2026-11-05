@@ -1,0 +1,6663 @@
+[
+  {
+    "question": "Wskaźniki szacunkowe gruntów wykorzystywane w wycenie gruntów rolnych są podane w:",
+    "options": [
+      "rozporządzeniu Ministra Rolnictwa wydanego w porozumieniu z Ministrem Finansów;",
+      "rozporządzeniu Ministra Rozwoju i Technologii;",
+      "komunikatach Prezesa GUS."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-36",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "O dokonanie podziału na działki gruntu nieruchomości przeznaczonych na inne cele niż rolne i leśne może wnioskować:",
+    "options": [
+      "właściciel nieruchomości;",
+      "użytkownik wieczysty nieruchomości;",
+      "osoba, która ma w tym interes prawny."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-45",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Podziały na działki gruntu nieruchomości przeznaczonych na inne cele niż rolne i leśne zatwierdza się w drodze:",
+    "options": [
+      "zaświadczenia;",
+      "decyzji;",
+      "umowy cywilnoprawnej."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-52",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Odszkodowanie za przedwczesny wyrąb drzewostanu określa się wg wzoru O=(Wi-Ws)xZxPxC. W wzorze tym \"Z\" oznacza:",
+    "options": [
+      "współczynnik zalesienia;",
+      "współczynnik zadrzewienia;",
+      "zmieszanie drzewostanu."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-66",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Nieruchomościami rolnymi (gruntami rolnymi) są nieruchomości, które są lub mogą być wykorzystywane do prowadzenia działalności wytwórczej w rolnictwie w zakresie produkcji:",
+    "options": [
+      "roślinnej i zwierzęcej;",
+      "ogrodniczej i sadowniczej;",
+      "rybnej."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-67",
+        "session": "2026-09-09"
+      },
+      {
+        "id": "2026-03-25-65",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "question": "Uproszczony plan urządzania lasu sporządza się dla:",
+    "options": [
+      "lasów niestanowiących własności Skarbu Państwa o powierzchni mniejszej niż 10 ha;",
+      "lasów niestanowiących własności Skarbu Państwa o powierzchni 10 ha i więcej;",
+      "lasów wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa niezależnie od ich powierzchni."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-68",
+        "session": "2026-09-09"
+      },
+      {
+        "id": "2026-03-25-67",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "question": "Cena nieruchomości Zasobu Własności Rolnej SP wynosi 10 tys. zł. Nieruchomość ta została przekazana w trwały zarząd pod drogę publiczną. Opłata roczna z tego tytułu wyniesie:",
+    "options": [
+      "10 zł;",
+      "0 zł;",
+      "100 zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-69",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Koszty pozyskania drewna obejmują:",
+    "options": [
+      "wyrąb drzew;",
+      "obcięcie gałęzi;",
+      "transport z miejsca wyrębu do najbliższej drogi publicznej."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-70",
+        "session": "2026-09-09"
+      },
+      {
+        "id": "2022-07-07-66",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "question": "Dyrektor Regionalnej Dyrekcji Lasów Państwowych może dokonać zamiany lasów, gruntów leśnych i innych nieruchomości pozostających w zarządzie Lasów Państwowych na lasy, grunty leśne i inne nieruchomości w przypadkach uzasadnionych potrzebami i celami gospoodarstwa leśnego",
+    "options": [
+      "po uzyskaniu opinii nadleśniczego;",
+      "za zgodą Dyrektora Generalnego Lasów Państwowych;",
+      "po ich wycenie przez rzeczoznawcę majątkowego."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-71",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "W borach występują typy siedliskowe:",
+    "options": [
+      "bór suchy;",
+      "bór świeży;",
+      "bór bagienny."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-72",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Powierzchnia gruntów ornych należących do osoby fizycznej wynosi 1,0000 ha. Podatek rolny od tych gruntów wyniesie równowartość:",
+    "options": [
+      "2,5 q ziarna żyta;",
+      "5 q ziarna żyta;",
+      "7,5 q ziarna żyta"
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-76",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Podatek rolny od gruntów rolnych jest wyrażany w kwintalach ziarna żyta i za 1 ha (fizyczny lub przeliczeniowy) wynosi równowartość:",
+    "options": [
+      "5 q;",
+      "2,5 q;",
+      "10 q."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-77",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Plan urządzenia lasu sporządza się na okres:",
+    "options": [
+      "10 lat;",
+      "w przypadkach uzasadnionych stanem lasów, może być sporządzony na okres krótszy niż 10 lat;",
+      "nie ma obligatoryjnie ustalonego okresu jego obowiązywania."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-78",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "We wzorach na wycenę drzewostanów leśnych techniką wskaźnikową „ U ” oznacza:",
+    "options": [
+      "wskaźnik redukujący ceny sprzedaży drewna o stopnie degradacji siedliska;",
+      "wskaźnik redukujący ceny sprzedaży drewna o koszty pozyskania i zrywki;",
+      "wskaźnik redukujący ceny sprzedaży drewna ze względu na jego jakość."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-79",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Wartość budynku rolniczego w stanie nowym wynosi 200 000 zł. Jego zużycie wynosi 20%. Suma ubezpieczenia tego budynku może odpowiadać wartości wynoszącej:",
+    "options": [
+      "160 000 zł;",
+      "220 000 zł;",
+      "180 000 zł."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-85",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Wartość utraconych pożytków, przy wycenie plantacji kultur wieloletnich, w celu ustalenia wysokości odszkodowania za ich wywłaszczenie jest ustalana dla okresu:",
+    "options": [
+      "od dnia wydania decyzji o wywłaszczeniu do dnia wydania decyzji o odszkodowaniu;",
+      "od dnia wywłaszczenia do dnia zakończenia pełnego plonowania;",
+      "od dnia założenia plantacji do dnia wywłaszczenia."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-30",
+        "session": "2026-06-17"
+      },
+      {
+        "id": "2024-06-25-22",
+        "session": "2024-06-25"
+      },
+      {
+        "id": "2023-04-20-20",
+        "session": "2023-04-20"
+      },
+      {
+        "id": "2022-09-15-38",
+        "session": "2022-09-15"
+      },
+      {
+        "id": "2022-03-24-32",
+        "session": "2022-03-24"
+      },
+      {
+        "id": "2021-12-02-38",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "Plan miejscowy zmienił przeznaczenie działki o pow. 0,5000 ha z rolnego na rekreacyjne. Właściciel podzielił tę działkę na 5 równych działek i jedną z nich sprzedał. Wartość działek o przeznaczeniu rolniczym w dacie sprzedaży wynosiła 100 tys. zł za hektar. Zmiana planu spowodowała przyrost wartości o 40 zł na 1 mkw. Maksymalna wielkość opłaty planistycznej od sprzedanej działki wyniesie:",
+    "options": [
+      "9 000 zł;",
+      "12 000 zł;",
+      "45 000 zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-58",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "question": "Do użytków rolnych w ewidencji gruntów i budynków zalicza się m.in:",
+    "options": [
+      "sady;",
+      "nieużytki;",
+      "śródpolne zadrzewienia."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-60",
+        "session": "2026-06-17"
+      },
+      {
+        "id": "2022-10-27-59",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Fazy rozwojowe w drzewostanie to:",
+    "options": [
+      "uprawa leśna;",
+      "drągowina;",
+      "tyczkowina."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-65",
+        "session": "2026-06-17"
+      },
+      {
+        "id": "2023-09-14-77",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Nieruchomości leśne położone w strefie zainwestowania miejskiego, udostępniane publicznie, gdy brak jest danych rynkowych, należy szacować:",
+    "options": [
+      "odrębnie grunt i drzewostan;",
+      "grunt w wysokości wartości gruntów o przeznaczeniu przeważającym wśród gruntów przyległych;",
+      "drzewostan według kosztów wyhodowania."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-66",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "question": "Nadzór nad gospodarką leśną w lasach stanowiących własność Skarbu Państwa sprawuje:",
+    "options": [
+      "Minister Środowiska;",
+      "Dyrektor Generalny Lasów Państwowych;",
+      "Dyrektor Regionalny Dyrekcji Lasów Państwowych."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-67",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "question": "Cena nieruchomości Zasobu Własności Rolnej SP wynosi 10 tys. zł. Nieruchomość ta została przekazana w trwały zarząd na cele obronności państwa. Opłata roczna z tego tytułu wyniesie:",
+    "options": [
+      "10 zł;",
+      "30 zł;",
+      "100 zł"
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-68",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "question": "Zmiana lasu na użytek rolny:",
+    "options": [
+      "jest niedopuszczalna;",
+      "jest dopuszczalna w przypadkach szczególnie uzasadnionych potrzeb właścicieli lasów;",
+      "jest dopuszczalna bez żadnych ograniczeń."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-69",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "question": "Właściciel nieruchomości lub jej części, stanowiącej las, obowiązany jest do ponownego wprowadzenia roślinności leśnej w okresie:",
+    "options": [
+      "do 2 lat od usunięcia drzewostanu;",
+      "do 5 lat od usunięcia drzewostanu;",
+      "brak jest regulacji prawnych w tym zakresie."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-72",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "question": "Uproszczone plany urządzania lasu sporządza się dla:",
+    "options": [
+      "lasów stanowiących własność Skarbu Państwa wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa o powierzchni przekraczającej 10 ha;",
+      "lasów niestanowiących własności Skarbu Państwa niezależnie od ich powierzchni;",
+      "lasów niestanowiących własności Skarbu Państwa o powierzchni przekraczającej 10 ha."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-73",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "question": "Koszty pozyskania i zrywki rzeczoznawca majątkowy uwzględnia przy określaniu wartości nieruchomości leśnych, w podejściu mieszanym, metodą wskaźników szacunkowych w odniesieniu do:",
+    "options": [
+      "tylko wybranych drzewostanów;",
+      "wartości drzew i drzewostanów występujących na gruncie;",
+      "nie uwzględnia kosztów pozyskania i zrywki w odniesieniu do drzew i drzewostanów."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-74",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "question": "Skład gatunkowy drzewostanu o powierzchni 0,5ha, w którym miąższość sosny wynosi 300m3, miąższość dębu wynosi 150m3, brzoza stanowi 10% udziału, a grab stanowi pojedyncze egzemplarze to:",
+    "options": [
+      "5Db 4So 1Brz;",
+      "6So 3Db 1Brz;",
+      "59So 30Db 10Brz 1Gb."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-75",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "question": "Podział nieruchomości przeznaczonej na inne cele niż rolne i leśne może być dokonany:",
+    "options": [
+      "wyłącznie na wniosek właściciela nieruchomości, gdyż podział jest ingerencją w prawo własności i nikt inny niż właściciel nie ma prawa do takiej ingerencji;",
+      "w niektórych przypadkach z urzędu;",
+      "na wniosek osoby, która ma w tym interes prawny."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-77",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "question": "Podejście mieszane, metodę wskaźników szacunkowych gruntów można stosować przy określaniu wartości nieruchomości leśnych:",
+    "options": [
+      "w przypadku wyceny mienia zabużańskiego;",
+      "w przypadku bezpośredniego sąsiedztwa z gruntami rolnymi;",
+      "w przypadku braku transakcji rynkowych."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-23",
+        "session": "2026-04-22"
+      },
+      {
+        "id": "2025-03-26-30",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "question": "Przestrzeń, w granicach której przedsiębiorca uprawniony jest do wydobywania kopaliny objętej koncesją nazywa się:",
+    "options": [
+      "terenem górniczym;",
+      "obszarem górniczym;",
+      "wyrobiskiem górniczym."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-49",
+        "session": "2026-04-22"
+      },
+      {
+        "id": "2022-10-27-46",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Czy można dokonać podziału na działki gruntu nieruchomości przeznaczonych na inne cele niż rolne i leśne, w przypadku braku miejscowego planu zagospodarowania przestrzennego?",
+    "options": [
+      "Nie można w żadnym przypadku;",
+      "Można w niektórych przypadkach;",
+      "Można bez żadnych ograniczeń."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-51",
+        "session": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Nadleśniczy może samodzielnie sprzedać grunty leśne i nieleśne jeżeli:",
+    "options": [
+      "stanowią enklawę wśród gruntów innej formy własności, a ich powierzchnia nie przekracza 1 ha;",
+      "stwierdził ich nieprzydatność na potrzeby gospodarki leśnej, niezależnie od ich powierzchni;",
+      "ich powierzchnia nie przekracza 1 ha i stwierdził ich nieprzydatność na potrzeby gospodarki leśnej, niezależnie od ich położenia."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-64",
+        "session": "2026-04-22"
+      },
+      {
+        "id": "2021-07-22-72",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Wielkość należności za wyłączenie gruntów leśnych z produkcji jest wyrażana jako równowartość:",
+    "options": [
+      "m3 drewna tartacznego iglastego;",
+      "m3 drewna klasy WBO;",
+      "m3 drewna."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-65",
+        "session": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Pomniejszenie ceny sprzedaży najemcy lokalu mieszkalnego przez Krajowy Ośrodek Wsparcia Rolnictwa zależy od:",
+    "options": [
+      "okresu pracy najemcy w państwowych przedsiębiorstwach gospodarki rolnej;",
+      "okresu najmu lokalu;",
+      "górnej granicy pomniejszenia."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-66",
+        "session": "2026-04-22"
+      },
+      {
+        "id": "2021-10-28-77",
+        "session": "2021-10-28"
+      },
+      {
+        "id": "2021-09-09-75",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Cena nieruchomości Zasobu Własności Rolnej Skarbu Państwa wynosi 10 tys. zł. Nieruchomość ta została przekazana w użytkowanie wieczyste na cele ochrony przeciwpożarowej. Opłata roczna z tego tytułu wyniesie:",
+    "options": [
+      "10 zł;",
+      "100 zł;",
+      "200 zł."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-67",
+        "session": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Cenę drewna przyjmowaną przez rzeczoznawcę majątkowego dla określenia wartości gruntu leśnego w podejściu mieszanym metodą wskaźników szacunkowych stanowi:",
+    "options": [
+      "średnia ceny sortymentów wielkowymiarowych sprzedawane przez nadleśnictwo;",
+      "średnia ceny sortymentów średniowymiarowych sprzedawane przez nadleśnictwo;",
+      "cena jako średnia ważona z ostatnich 3 lat z uwzględnieniem rodzaju sortymentów sprzedawanego drewna przez nadleśnictwo właściwe dla miejsca położenia nieruchomości lub nadleśnictwa sąsiednie."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-68",
+        "session": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "question": "W którym momencie powstaje obowiązek wnoszenia należności oraz opłat rocznych z tytułu wyłączenia gruntów rolnych z produkcji rolnej?",
+    "options": [
+      "z dniem faktycznego wyłączenia gruntów rolnych z produkcji rolnej;",
+      "z dniem, w którym decyzja zezwalająca na wyłączenie stała się ostateczna;",
+      "z dniem, w którym stała się ostateczna decyzja o pozwoleniu na budowę, skutkująca wyłączeniem gruntów rolnych z produkcji rolnej."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-70",
+        "session": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "question": "W przypadku drzewostanu dębowo-sosnowego w celu ustalenia bonitacji:",
+    "options": [
+      "określa się przeciętną wysokość oraz wiek osobno dla każdego gatunku;",
+      "sprawdza się przyrost bieżący miąższości każdego gatunku osobno w planie urządzenia lasu;",
+      "odczytuje się ją w opisie taksacyjnym planu urządzenia lasu lub w tablicach zasobności i przyrostu drzewostanów."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-71",
+        "session": "2026-04-22"
+      },
+      {
+        "id": "2023-11-30-70",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "question": "Grubizna drzewostanu obejmuje:",
+    "options": [
+      "miąższość części drzew o grubości w cieńszym końcu mierzonej bez kory równej co najmniej 5 cm;",
+      "miąższość części drzew o grubości w cieńszym końcu mierzonej z korą równej co najmniej 7 cm;",
+      "sumę miąższości surowca drewna wielkowymiarowego i średniowymiarowego."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-72",
+        "session": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Grunt zabudowany budynkiem leśniczówki stanowi:",
+    "options": [
+      "grunt leśny w rozumieniu ustawy o ochronie gruntów rolnych i leśnych;",
+      "grunt związany z gospodarką leśną wg ustawy o lasach;",
+      "grunt oznaczony w ewidencji gruntów symbolem \"Ls-b\"."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-73",
+        "session": "2026-04-22"
+      },
+      {
+        "id": "2024-11-19-69",
+        "session": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Decyzję o wyłączeniu gruntów z produkcji rolnej wydaje:",
+    "options": [
+      "wójt, burmistrz, prezydent miasta;",
+      "starosta;",
+      "wojewoda w przypadku, gdy wyłączana zwarta powierzchnia przekracza 1 ha użytku rolnego IV klasy."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-75",
+        "session": "2026-04-22"
+      },
+      {
+        "id": "2024-06-25-65",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Jakie warunki muszą zostać spełnione dla dokonania scalenia i podziału nieruchomości przeznaczonych na inne cele niż rolne lub leśne ?",
+    "options": [
+      "Musi występować zgodność z ustaleniami miejscowego planu zagospodarowania przestrzennego, a w przypadku jego braku zgodność ze studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy;",
+      "zgodność z ustaleniami miejscowego planu zagospodarowania przestrzennego, a w przypadku jego braku , zgodność z ustaleniami decyzji o warunkach zabudowy i zagospodarowania terenu;",
+      "Niezbędne jest złożenie wniosku o scalenie i podział przez właścicieli lub użytkowników wieczystych posiadających ponad 50% powierzchni gruntów objętych scaleniem i podziałem."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-84",
+        "session": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Przy określaniu wartości plantacji kultury wieloletniej dla celów odszkodowania za wywłaszczenie uwzględnia się utracone pożytki. Utracone pożytki:",
+    "options": [
+      "są tym większe im wywłaszczana plantacja jest starsza;",
+      "są tym większe im wywłaszczana plantacja jest młodsza;",
+      "wiek tu nie ma znaczenia, gdyż są one uwzględniane w pełni."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-21",
+        "session": "2026-03-25"
+      },
+      {
+        "id": "2024-10-22-22",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "question": "Do aktualizacji opłat za użytkowanie wieczyste nieruchomości gruntowej pokrytej drzewostanem leśnym i zabudowanej domem mieszkalnym, wartość nieruchomości określa się:",
+    "options": [
+      "jako wartość prawa własności gruntu bez drzewostanu;",
+      "jako wartość prawa własności gruntu z drzewostanem i budynkiem;",
+      "jako wartość prawa własności gruntu łącznie z drzewostanem(bez wartości budynku)."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-50",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "question": "Fazy rozwojowe w drzewostanie to:",
+    "options": [
+      "uprawa leśna;",
+      "młodnik;",
+      "tyczkowina."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-64",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "question": "Należność za wyłączenie gruntu rolnego z produkcji:",
+    "options": [
+      "zależy od rodzaju użytku;",
+      "zależy od wartości gruntu wyłączanego z produkcji;",
+      "jest płacona jednorazowo."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-66",
+        "session": "2026-03-25"
+      },
+      {
+        "id": "2023-09-14-66",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Na wniosek Krajowego Ośrodka Wsparcia Rolnictwa, właściwy ze względu na miejsce położenia nieruchomości starosta wykonujący zadanie z zakresu administracji rządowej przekazuje nieodpłatnie, w drodze decyzji, Lasom Państwowym wydzielone geodezyjnie grunty wchodzące w skład Zasobu Własności Rolnej Skarbu Państwa:",
+    "options": [
+      "stanowiące według ewidencji gruntów i budynków lasy i grunty leśne;",
+      "przeznaczone do zalesienia w miejscowym planie zagospodarowania przestrzennego;",
+      "przeznaczone do zalesienia w decyzji o warunkach zabudowy i zagospodarowania terenu."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-68",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "question": "Zadrzewienia cząstkowe określa się dla drzewostanów leśnych:",
+    "options": [
+      "wszystkich zmieszanych gatunkowo;",
+      "wszystkich zmieszanych wiekowo;",
+      "zmieszanych gatunkowo bądź wiekowo, które uzyskały miąższość grubizny."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-70",
+        "session": "2026-03-25"
+      },
+      {
+        "id": "2023-11-30-65",
+        "session": "2023-11-30"
+      },
+      {
+        "id": "2023-04-20-74",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Z działki przeznaczonej na cele przemysłowe, oznaczonej w ewidencji gruntów jako las, o powierzchni 10 arów usunięto 50-cioletni drzewostan. Odszkodowanie za jego przedwczesny wyrąb wyniesie (przy następujących parametrach drzewostanu: dane odczytane z właściwych tabel: Wi =200m3; Ws=150m3; Z=1; Cena drewna =200zł/m3):",
+    "options": [
+      "10 000 zł;",
+      "3 000 zł;",
+      "1 000 zł."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-71",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "question": "Plan urządzenia lasu sporządza się na okres:",
+    "options": [
+      "10 lat;",
+      "w przypadkach uzasadnionych stanem lasów, może być sporządzony na okres krótszy niż 10 lat;",
+      "nie ma obligatoryjnie ustalonego okresu jego ustalenia."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-74",
+        "session": "2026-03-25"
+      },
+      {
+        "id": "2024-04-23-70",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "question": "Dokonując wyceny uprawy leśnej techniką szczegółową uzyskuje się wartość:",
+    "options": [
+      "odtworzeniową;",
+      "rynkową;",
+      "kosztową."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-75",
+        "session": "2026-03-25"
+      },
+      {
+        "id": "2024-10-22-77",
+        "session": "2024-10-22"
+      },
+      {
+        "id": "2023-10-26-64",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "Podziału nieruchomości przeznaczonych na inne cele niż rolne lub leśne można dokonać z urzędu jeżeli:",
+    "options": [
+      "podział jest niezbędny dla realizacji celów publicznych;",
+      "nieruchomość stanowi własność gminy i została oddana w użytkowanie wieczyste;",
+      "nieruchomość ma nieuregulowany stan prawny."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-80",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "question": "Wywłaszczony został sad, na którym znajduje się 100 pięcioletnich jabłoni. Wartość bieżąca jednego drzewka wynosi 45 zł, a utracone korzyści za okres do końca plonowania wynoszą 40 zł. od jednego drzewka. Właściciel wywłaszczonego sadu otrzyma odszkodowanie za plantacje kultur wieloletnich w wysokości:",
+    "options": [
+      "4 000 zł;",
+      "4 500 zł;",
+      "8 500 zł."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-81",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "question": "Z mapy ewidencyjnej można uzyskać m.in. następujące informacje przydatne do wyceny nieruchomości rolnej:",
+    "options": [
+      "o kształcie działki gruntowej;",
+      "o położeniu budynków;",
+      "o rodzajach użytków gruntowych."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-21",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Przy wykorzystaniu metody wskaźników szacunkowych gruntów do wyceny gruntów leśnych, cenę drewna przyjmuje się jako:",
+    "options": [
+      "cenę drewna klasy WBO z ostatniego roku;",
+      "cenę drewna sosny tartacznej II klasy z ostatniego roku;",
+      "średnią ważoną z ostatnich trzech lat z uwzględnieniem rodzaju sortymentów sprzedawanego drewna."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-22",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Uprawnienia zawodowe w zakresie szacowania nieruchomości nadaje:",
+    "options": [
+      "minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa;",
+      "Polska Federacja Stowarzyszeń Rzeczoznawców Majątkowych;",
+      "Państwowa Komisja Kwalifikacyjna powołana przez właściwego ministra."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-39",
+        "session": "2025-11-19"
+      },
+      {
+        "id": "2023-03-23-37",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Wyceny gruntów wydzielonych pod drogi publiczne dokonano na podstawie przeznaczenia gruntu przeważającego wśród gruntów przyległych (o przeznaczeniu rolnym) . Wartość 1 m kw tych gruntów została oszacowana na poziomie 10 zł. Powierzchnia wywłaszczanej nieruchomości wynosi 1500 m2. Wartość nieruchomości dla celów ustalenia wysokości odszkodowania za wywłaszczenie wyniesie maksymalnie:",
+    "options": [
+      "15 000 zł;",
+      "22 500 zł;",
+      "30 000 zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-40",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "W przypadku wyłączenia z produkcji gruntów rolnych na inwestora może być nałożony obowiązek zdjęcia oraz wykorzystania na cele poprawy wartości użytkowej gruntów próchnicznej warstwy gleby:",
+    "options": [
+      "z gruntów stanowiących użytki rolne klas I, II, IIIa, IIIb, III, IVa i IV;",
+      "torfowisk;",
+      "z gruntów stanowiących użytki rolne klas IVb, V i VI wytworzonych z gleb pochodzenia mineralnego."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-55",
+        "session": "2025-11-19"
+      },
+      {
+        "id": "2024-04-23-63",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "question": "Przy zmianie przeznaczenia w miejscowym planie zagospodarowania przestrzennego gruntów rolnych klasy IV (także IVa i IVb) potrzebna jest zgoda:",
+    "options": [
+      "wojewody;",
+      "marszałka sejmiku wojewódzkiego;",
+      "nie wymaga się zgody."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-60",
+        "session": "2025-11-19"
+      },
+      {
+        "id": "2022-09-15-54",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Grunty rolne zabudowane (zabudowa zagrodowa), w katastrze nieruchomości oznaczone są symbolem:",
+    "options": [
+      "B;",
+      "Br;",
+      "Bp."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-65",
+        "session": "2025-11-19"
+      },
+      {
+        "id": "2024-06-25-57",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Polska Akademia Nauk oraz jednostki badawcze wnoszą z tytułu użytkowania wieczystego nieruchomościami Zasobu Własności Rolnej Skarbu Państwa opłaty roczne z hektara przeliczeniowego, w wysokości:",
+    "options": [
+      "20 kg żyta;",
+      "50 kg żyta;",
+      "100 kg żyta."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-67",
+        "session": "2025-11-19"
+      },
+      {
+        "id": "2023-09-14-68",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Drzewostan dębu 50-letniego na działce leśnej, do zamiany na inną nieruchomość, należy oszacować według:",
+    "options": [
+      "kosztów wyhodowania;",
+      "wartości drewna na pniu;",
+      "spodziewanych przyszłych korzyści."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-69",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Lasem jest grunt o zwartej powierzchni co najmniej 0,10 ha, pokryty roślinnością leśną:",
+    "options": [
+      "przeznaczony do produkcji leśnej;",
+      "stanowiący rezerwat przyrody lub wchodzący w skład parku narodowego;",
+      "wpisany do rejestru zabytków."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-70",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Przeciętna wysokość drzew w drzewostanie służy do określenia:",
+    "options": [
+      "masy pojedyńczego drzewa;",
+      "klasy bonitacji siedliska;",
+      "przeciętnej pierśnicy drzew."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-71",
+        "session": "2025-11-19"
+      },
+      {
+        "id": "2022-10-27-71",
+        "session": "2022-10-27"
+      },
+      {
+        "id": "2021-05-27-68",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Gospodarka leśna to działalność leśna w zakresie:",
+    "options": [
+      "zagospodarowania lasu;",
+      "pozyskiwania karpiny;",
+      "skupu żywicy."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-72",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Fazy rozwojowe w drzewostanie to:",
+    "options": [
+      "uprawa leśna;",
+      "młodnik;",
+      "drągowina."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-73",
+        "session": "2025-11-19"
+      },
+      {
+        "id": "2025-05-14-67",
+        "session": "2025-05-14"
+      },
+      {
+        "id": "2024-03-19-68",
+        "session": "2024-03-19"
+      },
+      {
+        "id": "2022-10-27-74",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Decyzja o wyłączeniu gruntów rolnych i leśnych z produkcji jest wydawana:",
+    "options": [
+      "przed faktycznym rozpoczęciem budowy;",
+      "przed uzyskaniem pozwolenia na budowę;",
+      "w momencie uprawomocnienia się uchwały rady gminy o uchwaleniu miejscowego planu zagospodarowania przestrzennego."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-75",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Ceny nieruchomości rolnych wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa mogą być ustalone w sposób uproszczony, na podstawie stawek szacunkowych i ceny 100 kg żyta, ustalonej stosownie do przepisów o podatku rolnym:",
+    "options": [
+      "w odniesieniu do gruntów niezabudowanych o powierzchni nieprzekraczającej 1 ha;",
+      "w odniesieniu do gruntów, dla których oblicza się opłatę z tytułu wykonywania trwałego zarządu;",
+      "w odniesieniu do gruntów, dla których oblicza się odpłatność w związku z przyjęciem gruntu na własność Skarbu Państwa w trybie przepisów o ubezpieczeniu społecznym rolników."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-76",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Przy wycenie lasu z zastosowaniem techniki wskaźnikowej konieczna jest znajomość:",
+    "options": [
+      "stopnia zwarcia drzewostanu;",
+      "stopnia zadrzewienia;",
+      "wieku drzewostanu."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-78",
+        "session": "2025-11-19"
+      },
+      {
+        "id": "2022-07-07-77",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "question": "Wartość budynku rolniczego w stanie nowym wynosi 200 000 zł. Jego zużycie wynosi 20%. Suma ubezpieczenia tego budynku może odpowiadać wartości wynoszącej:",
+    "options": [
+      "200 000 zł;",
+      "160 000 zł;",
+      "180 000 zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-80",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Podmiotami uprawnionymi do żądania rekompensaty z tytułu pozbawienia poprzez ustalenia planu miejscowego możliwości korzystania z nieruchomości lub jej części w dotychczasowy sposób są:",
+    "options": [
+      "właściciele;",
+      "posiadacze ograniczonych praw rzeczowych;",
+      "użytkownicy wieczyści."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-51",
+        "session": "2025-10-15"
+      },
+      {
+        "id": "2022-09-15-61",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Pojęcie nieruchomość rolna jest zdefinioweane w przepisach ustawy:",
+    "options": [
+      "kodeks cywilny;",
+      "o kształtowaniu ustroju rolnego;",
+      "o podatku rolnym."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-57",
+        "session": "2025-10-15"
+      },
+      {
+        "id": "2025-03-26-52",
+        "session": "2025-03-26"
+      },
+      {
+        "id": "2022-10-27-87",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Grubizna drzewostanu obejmuje:",
+    "options": [
+      "miąższość części drzew o grubości w cieńszym końcu mierzonej bez kory równej conajmniej 5cm;",
+      "miąższość części drzew o grubości w cieńszym końcu mierzonej z korą równej conajmniej 7cm;",
+      "sumę miąższości surowca drewna wielkowymiarowego i średniowymiarowego."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-63",
+        "session": "2025-10-15"
+      },
+      {
+        "id": "2024-06-25-66",
+        "session": "2024-06-25"
+      },
+      {
+        "id": "2022-06-02-65",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Dla odczytania miąższości grubizny drzewostanu z tablic zasobności i przyrostu drzewostanów rzeczoznawca majątkowy ustala:",
+    "options": [
+      "gatunek drzewostanu;",
+      "wiek drzewostanu;",
+      "klasę bonitacji siedliska."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-66",
+        "session": "2025-10-15"
+      },
+      {
+        "id": "2023-09-14-78",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Ewidencja gruntów i budynków uwzględnia ustalenia planów urządzenia lasu i uproszczonych planów urządzenia lasu dotyczące:",
+    "options": [
+      "stopień zadrzewienia;",
+      "granic lasów;",
+      "powierzchni lasów."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-67",
+        "session": "2025-10-15"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z rozporządzeniem w sprawie wyceny nieruchomości, wskaźniki szacunkowe gruntów leśnych zależne są od:",
+    "options": [
+      "okręgu podatkowego;",
+      "klasy gruntów;",
+      "głównego gatunku lasotwórczego na danym siedlisku."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-68",
+        "session": "2025-10-15"
+      }
+    ]
+  },
+  {
+    "question": "Typy siedliskowe lasów:",
+    "options": [
+      "zależą od żyzności i uwilgotnienia gleb oraz warunków klimatycznych;",
+      "są określane na podstawie katastru nieruchomości;",
+      "są określane na podstawie planów urządzenia lasów."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-69",
+        "session": "2025-10-15"
+      }
+    ]
+  },
+  {
+    "question": "Czynsz dzierżawny za dzierżawę gruntów wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa ustala się w umowie:",
+    "options": [
+      "wyłącznie jako sumę pieniężną;",
+      "wyłącznie jako równoważność pieniężną odpowiedniej ilości pszenicy;",
+      "jako sumę pieniężną albo jako równowartość odpowiedniej ilości pszenicy."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-70",
+        "session": "2025-10-15"
+      },
+      {
+        "id": "2022-04-28-72",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "Drzewostan sosny 40-letniej, na działce przejętej pod drogę publiczną, należy oszacować według:",
+    "options": [
+      "wartości drewna na pniu;",
+      "utraconych przez właściciela przyszłych korzyści;",
+      "wartości drewna i kosztów wyhodowania, przyjmując wynik wyższy."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-72",
+        "session": "2025-10-15"
+      }
+    ]
+  },
+  {
+    "question": "Cena nieruchomości Zasobu Własności Rolnej SP wynosi 10 tys. zł. Nieruchomość ta została przekazana w użytkowanie wieczyste na cele ochrony przeciwpożarowej. Opłata roczna z tego tytułu wyniesie:",
+    "options": [
+      "10 zł;",
+      "100 zł;",
+      "200 zł."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-73",
+        "session": "2025-10-15"
+      }
+    ]
+  },
+  {
+    "question": "Uproszczone plany urządzania lasów wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa zatwierdza:",
+    "options": [
+      "minister właściwy do spraw środowiska;",
+      "starosta właściwy terytorialnie;",
+      "wojewoda właściwy terytorialnie."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-74",
+        "session": "2025-10-15"
+      }
+    ]
+  },
+  {
+    "question": "Cena nieruchomości gruntowej przeznaczonej na cele rolne, ustalona dla potrzeb aktualizacji opłaty rocznej z tytułu użytkowania wieczystego wynosi 100 000 zł. Ile wyniesie opłata roczna z tytułu użytkowania wieczystego tej nieruchomości ?",
+    "options": [
+      "1000 zł;",
+      "3 000 zł;",
+      "100 zł."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-83",
+        "session": "2025-10-15"
+      },
+      {
+        "id": "2024-11-19-84",
+        "session": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Wielkość współczynnika korekcyjnego przy wycenie nieruchomości rolnych z wykorzystaniem metody wskaźników szacunkowych gruntu zależy od:",
+    "options": [
+      "rodzaju użytku rolnego;",
+      "klasy bonitacyjnej gruntu;",
+      "rodzaju rynku."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-23",
+        "session": "2025-09-10"
+      },
+      {
+        "id": "2024-03-19-42",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "Przy stosowaniu metody wskaźników szacunkowych gruntów do wyceny nieruchomości przeznaczonych na cele rolne, źródłem informacji o cenie ziarna żyta jest:",
+    "options": [
+      "rynek lokalny;",
+      "rynek krajowy;",
+      "rynek regionalny."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-29",
+        "session": "2025-09-10"
+      },
+      {
+        "id": "2023-06-22-25",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "Cena nieruchomości gruntowej ustalona dla potrzeb aktualizacji opłat rocznych za użytkowanie wieczyste wynosi 10 000 zł. Opłata roczna tej nieruchomości przekazanej na cele rolne wyniesie:",
+    "options": [
+      "100 zł,",
+      "200 zł;",
+      "300 zł."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-31",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "question": "Plan miejscowy zmienił przeznaczenie działki o pow. 0,5000 ha z rolnego na rekreacyjne. Właściciel podzielił tę działkę na 5 równych i jedną sprzedał w pierwszym roku obowiązywania planu. Zmiana planu spowodowała przyrost wartości o 40 zł na 1 m kwadratowym. Maksymalna wielkość opłaty planistycznej od sprzedanej działki wyniesie:",
+    "options": [
+      "9000 zł;",
+      "12000 zł;",
+      "45000 zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-63",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "question": "Nadleśniczy może dokonać zamiany lasów, gruntów i innych nieruchomości Skarbu Państwa pozostających w zarządzie Lasów Państwowych na lasy, grunty i inne nieruchomości:",
+    "options": [
+      "w przypadkach uzasadnionych potrzebami i celami gospodarki leśnej;",
+      "za zgodą dyrektora Regionalnej Dyrekcji Lasów Państwowych;",
+      "po ich wycenie przez rzeczoznawcę majątkowego."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-66",
+        "session": "2025-09-10"
+      },
+      {
+        "id": "2024-11-19-71",
+        "session": "2024-11-19"
+      },
+      {
+        "id": "2023-10-26-71",
+        "session": "2023-10-26"
+      },
+      {
+        "id": "2023-04-20-66",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Zasobność drzewostanu:",
+    "options": [
+      "podana jest w planie urządzenia lasu w m3/ha;",
+      "stanowi miąższość nadziemnej części drzew bez kory;",
+      "stanowi miąższość nadziemnej części drzew bez kory i bez drobnicy."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-68",
+        "session": "2025-09-10"
+      },
+      {
+        "id": "2024-09-17-71",
+        "session": "2024-09-17"
+      },
+      {
+        "id": "2023-06-22-66",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "Z mapy glebowo-rolniczej można uzyskać informacje o:",
+    "options": [
+      "typie gleby;",
+      "klasie bonitacyjnej gleby;",
+      "kompleksie rolniczej przydatności gleb."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-69",
+        "session": "2025-09-10"
+      },
+      {
+        "id": "2024-06-25-75",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Nadleśniczy może wydzierżawić lasy oraz grunty przeznaczone do produkcji leśnej i grunty związane z gospodarką leśną z zachowaniem celów i zadań gospodarki leśnej:",
+    "options": [
+      "po uzyskaniu zgody dyrektora Regionalnej Dyrekcji Lasów Państwowych;",
+      "po uzyskaniu zgody Dyrektora Generalnego Lasów Państwowych;",
+      "w ramach własnych kompetencji, gdy powierzchnia wydzierżawionych lasów nie przekracza 10ha."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-71",
+        "session": "2025-09-10"
+      },
+      {
+        "id": "2024-03-19-71",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "Szacunek brakarski drzewostanu leśnego:",
+    "options": [
+      "to procedura techniki wskaźnikowej szacowania wartości drewna;",
+      "dotyczy szacowania drzewostanów w wieku bliskorębnym i starszych;",
+      "wymaga podziału masy grubizny netto na sortymenty użytkowe."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-72",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "question": "Według Kodeksu cywilnego, aby grunt rolny stanowił nieruchomość rolną jego powierzchnia:",
+    "options": [
+      "powinna być większa niż 0,1 ha;",
+      "powinna być większa niż 1,0 ha;",
+      "nie ma ograniczeń powierzchniowych."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-76",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "question": "Wartość gruntu leśnego bez drzewostanu można określić wykorzystując podejście:",
+    "options": [
+      "porównawcze;",
+      "inwestycyjne;",
+      "mieszane."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-77",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "question": "Nadzór nad gospodarką leśną sprawują:",
+    "options": [
+      "minister właściwy do spraw środowiska w odniesieniu do lasów stanowiących własność Skarbu Państwa;",
+      "marszałek województwa w odniesieniu do lasów niestanowiących własności Skarbu Państwa;",
+      "starosta w odniesieniu do lasów niestanowiących własności Skarbu Państwa."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-78",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "question": "Masa drewna netto to:",
+    "options": [
+      "ilość drewna bez kory wyrażona w metrach sześciennych lub metrach przestrzennych;",
+      "ilość drewna z korą wyrażona w metrach sześciennych;",
+      "ilość drewna z korą wyrażona w metrach przestrzennych."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-79",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "question": "Przy wykorzystaniu metody wskaźników szacunkowych gruntów do wyceny gruntów rolnych uwzględnia się współczynniki:",
+    "options": [
+      "tylko korygujące;",
+      "tylko korekcyjne;",
+      "korekcyjne i korygujące."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-21",
+        "session": "2025-06-25"
+      },
+      {
+        "id": "2025-05-14-26",
+        "session": "2025-05-14"
+      },
+      {
+        "id": "2024-06-25-24",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Przy wykorzystaniu metody wskaźników szacunkowych gruntów do wyceny gruntów leśnych, cenę drewna przyjmuje się jako:",
+    "options": [
+      "cenę drewna klasy WBO z ostatniego roku;",
+      "cenę drewna sosny tartacznej II klasy z ostatniego roku,;",
+      "średnią ważoną z ostatnich trzech lat z uwzględnieniem rodzaju sortymentów sprzedawanego drewna."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-34",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Współczynniki korekcyjne przy stosowaniu metody wskaźników szacunkowych do wyceny gruntów rolnych zabudowanych ustala się:",
+    "options": [
+      "w zależności od klasy bonitacyjnej gruntu ornego, na którym znajdują się zabudowania;",
+      "jak dla klasy I gruntu ornego;",
+      "jako 50% wartości współczynnika przewidzianego dla klasy I gruntu ornego."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-35",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Dla działki o powierzchni 10 000 m2, na której wybudowany będzie budynek wielorodzinny o powierzchni zabudowy 400 m2, w którym będą 4 lokale o łącznej powierzchni użytkowej 250 m2, obowiązek uiszczenia należności, z tytułu wyłączenia gruntów z produkcji rolnej, nie będzie dotyczył maksymalnie:",
+    "options": [
+      "0,04 ha tej działki;",
+      "0,08 ha tej działki;",
+      "0,10 ha tej działki."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-62",
+        "session": "2025-06-25"
+      },
+      {
+        "id": "2024-03-19-59",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "Dla lasów rozdrobnionych o powierzchni do 10 ha, zadania z zakresu gospodarki leśnej na podstawie inwentaryzacji stanu lasów określa:",
+    "options": [
+      "wójt, burmistrz lub prezydent miasta, na obszarze którego są położone lasy;",
+      "starosta w przypadku lasów niestanowiących własności Skarbu Państwa;",
+      "nadleśniczy w przypadku lasów wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-66",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Współczynnik zadrzewienia wynosi 0,7. Miąższość rzeczywista drzewostanu na 1 ha odczytana z opisu taksacyjnego wynosi 700 m3. Miąższość tabelaryczna dla prawidłowej gospodarki wynosi:",
+    "options": [
+      "490 m3;",
+      "1 000 m3;",
+      "700 m3."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-68",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Czy Krajowy Ośrodek Wsparcia Rolnictwa może ustalić cenę sprzedaży niezabudowanej nieruchomości rolnej o powierzchni mniejszej niż 1 ha bez opinii o jej wartości sporządzonej przez rzeczoznawcę majątkowego?:",
+    "options": [
+      "tak;",
+      "nie;",
+      "tylko w przypadku, gdy dotyczy to gruntów klasy V i VI."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-69",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Należność za wyłączenie gruntów rolnych z produkcji pomniejsza się o wartość gruntów, ustaloną według cen rynkowych, które stanowią:",
+    "options": [
+      "grunty użytkowane rolniczo;",
+      "grunty, których przeznaczenie jest zgodne z faktycznym stanem jaki zaistniał na datę wyłączenia ich z produkcji;",
+      "grunty pod budynkami i urządzeniami wchodzącymi w skład gospodarstw rolnych."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-70",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Plany urządzania lasu zatwierdza i nadzoruje ich wykonanie:",
+    "options": [
+      "minister właściwy do spraw środowiska;",
+      "Generalny Dyrektor Lasów Państwowych;",
+      "Dyrektor Regionalnej Dyrekcji Lasów Państwowych."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-71",
+        "session": "2025-06-25"
+      },
+      {
+        "id": "2023-10-26-69",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "Klasa bonitacji drzewostanu:",
+    "options": [
+      "to klasa bonitacji gruntu leśnego określona w ewidencji gruntów;",
+      "to wskaźnik możliwości produkcyjnej siedliska leśnego i drzewostanu;",
+      "jest ustalana na podstawie wysokości i wieku drzewostanu."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-72",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Cena drewna pozyskanego kosztem nabywcy (samowyrób) to w cenniku sprzedaży cena sprzedaży drewna:",
+    "options": [
+      "bez uwzględnienia VAT;",
+      "pomniejszona o koszty pozyskania i zrywki i bez uwzględnienia VAT;",
+      "powiększona o koszty pozyskania i zrywki i z uwzględnieniem VAT."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-73",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Nadleśniczy może samodzielnie sprzedać grunty leśne i nieleśne będące w zarządzie nadleśnictwa w przypadku stwierdzenia ich nieprzydatności na potrzeby gospodarki leśnej, jeśli:",
+    "options": [
+      "stanowią enklawę wśród gruntów innej własności a ich powierzchnia nie przekracza 1,5 ha;",
+      "stanowią enklawę wśród gruntów innej własności a ich powierzchnia nie przekracza 2 ha;",
+      "stanowią enklawę wśród gruntów innej własności a ich powierzchnia nie przekracza 1 ha."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-74",
+        "session": "2025-06-25"
+      },
+      {
+        "id": "2022-09-15-68",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Dokumentem gospodarki leśnej jest:",
+    "options": [
+      "plan urządzenia lasu;",
+      "uproszczony plan urządzenia lasu;",
+      "wytyczne starosty."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-75",
+        "session": "2025-06-25"
+      },
+      {
+        "id": "2021-10-28-76",
+        "session": "2021-10-28"
+      },
+      {
+        "id": "2021-07-22-67",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Wskaźnik kosztów wyhodowania drzewostanu /WK/ w technice wskaźnikowej stosowanej w wycenie odczytuje się:",
+    "options": [
+      "z tablic wskaźników opracowanych przez Instytut Badawczy Leśnictwa;",
+      "tylko dla drzewostanów I klasy wieku;",
+      "dla drzewostanów I-szej i starszych klas wieku, o ile wskaźnik jest podany."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-76",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Jaka jest miąższość na powierzchni 2 ha drzewostanu jodłowo-bukowego z domieszką świerka, w którym miąższość jodły wynosi 300m3/ha, miąższość buka jest dwa razy mniejsza od jodły, udział miąższości świerka w drzewostanie wynosi 10%?",
+    "options": [
+      "1000 m3;",
+      "450 m3/ha;",
+      "990 m3."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-77",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Wskaźnik szacunkowy gruntu dla nieruchomości leśnej zależy m.in. od:",
+    "options": [
+      "klasy bonitacyjnej drzewostanu;",
+      "wieku rębności;",
+      "typu siedliskowego lasu."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-88",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Zabudowę zagrodową stanowią w rodzinnych gospodarstwach rolnych budynki:",
+    "options": [
+      "mieszkalne;",
+      "obora;",
+      "stodoła."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-2",
+        "session": "2025-05-14"
+      }
+    ]
+  },
+  {
+    "question": "Ceny transakcyjne nieruchomości rolnych, przy zastosowaniu podejścia porównawczego, przeliczane są w odniesieniu do:",
+    "options": [
+      "1 ha fizycznego;",
+      "1 ha przeliczeniowego;",
+      "1 ha ustalonego dla naliczenia podatku rolnego."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-33",
+        "session": "2025-05-14"
+      },
+      {
+        "id": "2024-10-22-21",
+        "session": "2024-10-22"
+      },
+      {
+        "id": "2024-04-23-25",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "question": "Przy użyciu metody inwestycyjnej w celu określenia wartości nieruchomości leśnej:",
+    "options": [
+      "dochód z nieruchomości określa się na podstawie rynkowych stawek czynszów dzierżawnych;",
+      "dochód z nieruchomości przyjnuje się w wysokości dochodu z działalności leśnej prowadzonej na tej nieruchomości;",
+      "dochód z nieruchomości nie jest tożsamy z dochodem z działalności leśnej prowadzonej na tej nieruchomości."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-35",
+        "session": "2025-05-14"
+      },
+      {
+        "id": "2024-03-19-70",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "Dla określenia wartości nieruchomości leśnej w podejściu mieszanym rzeczoznawca majątkowy określa:",
+    "options": [
+      "wartość drzewostanu tylko według wartości drewna;",
+      "wartość drzewostanu tylko według kosztów wyhodowania;",
+      "wartość gruntu metodą wskaźników szacunkowych gruntów."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-40",
+        "session": "2025-05-14"
+      }
+    ]
+  },
+  {
+    "question": "Drzewostan So 60-letniej na gruncie, dla potrzeb sprzedaży, należy oszacować według:",
+    "options": [
+      "kosztów wyhodowania;",
+      "wartości drewna na pniu;",
+      "wyżej wymienionych sposobów, przyjmując wynik wyższy."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-64",
+        "session": "2025-05-14"
+      },
+      {
+        "id": "2022-09-15-70",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Uproszczony plan urządzania lasu sporządza się dla lasów:",
+    "options": [
+      "stanowiących własność Skarbu Państwa, będących w zarządzie Lasów Państwowych;",
+      "niestanowiących własności Skarbu Państwa o powierzchni powyżej 10 ha;",
+      "wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa o powierzchni powyżej 10 ha."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-66",
+        "session": "2025-05-14"
+      }
+    ]
+  },
+  {
+    "question": "Odszkodowanie za przedwczesny wyrąb drzewostanu określa się wg wzoru O=(Wi-Ws)xZxPxC. W wzorze tym Z oznacza:",
+    "options": [
+      "współczynnik zalesienia;",
+      "współczynnik zadrzewienia;",
+      "zmieszanie drzewostanu."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-68",
+        "session": "2025-05-14"
+      }
+    ]
+  },
+  {
+    "question": "Dla celów ustalenia odszkodowania za wywłaszczoną uprawę pszenicy określono wartość spodziewanych plonów w wysokości 5000 zł, a także koszty jakie należy jeszcze ponieść aby te plony pozyskać - w wysokości 1000 zł. Odszkodowanie za wywłaszczoną uprawę wyniesie:",
+    "options": [
+      "6 000 zł;",
+      "4 000 zł;",
+      "5 000 zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-69",
+        "session": "2025-05-14"
+      },
+      {
+        "id": "2023-03-23-72",
+        "session": "2023-03-23"
+      },
+      {
+        "id": "2022-06-02-69",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Przy szacowaniu drzewostanu leśnego techniką wskaźnikową niezbędne są m.in. takie dane jak:",
+    "options": [
+      "skład gatunkowy drzewostanu;",
+      "przeciętna pierśnica drzew;",
+      "bonitacja drzewostanu."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-70",
+        "session": "2025-05-14"
+      },
+      {
+        "id": "2023-10-26-67",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "Przy określaniu wartości drzewostanu leśnego, dla ustalenia wysokości odszkodowania za wywłaszczenie nieruchomości, koszty zalesienia oraz koszty pielęgnacji drzewostanu do dnia wywłaszczenia szacuje się, jeżeli:",
+    "options": [
+      "w drzewostanie nie występuje materiał użytkowy;",
+      "wartość drewna, które może być pozyskane jest niższa od kosztów zalesienia i pielęgnacji drzewostanu;",
+      "w drzewostanie znajdują się materiały użytkowe."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-71",
+        "session": "2025-05-14"
+      },
+      {
+        "id": "2024-06-25-63",
+        "session": "2024-06-25"
+      },
+      {
+        "id": "2023-06-22-67",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "Do aktualizacji opłat za użytkowanie wieczyste gruntu pokrytego drzewostanem leśnym i zabudowanego domem mieszkalnym, wartość nieruchomości określa się:",
+    "options": [
+      "jako wartość prawa własności gruntu bez drzewostanu;",
+      "jako wartość prawa własności gruntu określoną metodą wskaźników szacunkowych gruntów;",
+      "jako wartość prawa własności gruntu łącznie z drzewostanem."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-74",
+        "session": "2025-05-14"
+      },
+      {
+        "id": "2022-06-02-66",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Wartość budynku rolniczego w stanie nowym wynosi 200 000 zł. Jego zużycie wynosi 20 %. Suma ubezpieczenia tego budynku według ustawy o ubezpieczeniach obowiązkowych odpowiada wartości wynoszącej:",
+    "options": [
+      "160 000 zł;",
+      "200 000 zł;",
+      "180 000 zł."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-82",
+        "session": "2025-05-14"
+      }
+    ]
+  },
+  {
+    "question": "Pojęcie \"nieruchomość rolna\" jest zdefiniowana w przepisach ustawy:",
+    "options": [
+      "o kształtowaniu ustroju rolnego;",
+      "kodeks cywilny;",
+      "o podatku rolnym."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-85",
+        "session": "2025-05-14"
+      }
+    ]
+  },
+  {
+    "question": "Określając wartość nieruchomości rolnej metodą inwestycyjną, wysokość dochodów można ustalić na podstawie:",
+    "options": [
+      "analizy rynku dzierżaw gruntów rolnych;",
+      "wyników działalności rolniczej prowadzonej na tej nieruchomości;",
+      "klasyfikacji gleboznawczej gruntów i ich położenia w okręgu podatkowym."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-22",
+        "session": "2025-03-26"
+      },
+      {
+        "id": "2024-03-19-33",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "Odpisy amortyzacyjne przy określaniu wartości plantacji kutury wieloletniej dla celów odszkodowania za wywłaszczenie są liczone:",
+    "options": [
+      "od dnia założenia plantacji do do dnia jej wywłaszczenia;",
+      "od rozpoczęcia okresu plonowania do końca jej plonowania;",
+      "od rozpoczęcia okresu plonowania do dnia jej wywłaszczenia."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-37",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "question": "Wielkość należności za wyłączenie gruntów rolnych z produkcji jest wyrażana w:",
+    "options": [
+      "tonach ziarna żyta;",
+      "decytonach ziarna żyta;",
+      "w złotych."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-51",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "question": "Dla celów ewidencji gruntów, w grupie grunty rolne, w podgrupie użytki rolne, wyróżnia się następujące ich rodzaje oznaczone symbolami:",
+    "options": [
+      "grunty orne (R);",
+      "grunty pod stawami (Wsr);",
+      "nieużytki (N)."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-56",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "question": "Gruntami zadrzewionymi są grunty porośnięte roślinnością leśną, których pole powierzchni jest:",
+    "options": [
+      "mniejsze od 0,10 ha;",
+      "tylko równe 0,10 ha;",
+      "równe lub większe od 0,10 ha w odniesieniu do niektórych gruntów zadrzewionych i zakrzewionych."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-57",
+        "session": "2025-03-26"
+      },
+      {
+        "id": "2022-04-28-68",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "Do gruntów rolnych zalicza się:",
+    "options": [
+      "nieużytki;",
+      "grunty orne;",
+      "grunty pod stawami."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-58",
+        "session": "2025-03-26"
+      },
+      {
+        "id": "2023-03-23-73",
+        "session": "2023-03-23"
+      },
+      {
+        "id": "2022-09-15-65",
+        "session": "2022-09-15"
+      },
+      {
+        "id": "2022-03-24-76",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Wysokość należności za wyłączenie gruntów leśnych z produkcji zależy od:",
+    "options": [
+      "klasy bonitacyjnej;",
+      "typu siedliskowego lasu;",
+      "współczynnika zadrzewienia."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-61",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "question": "Opłata za przedwczesny wyrąb drzewostanu przy drzewostanach:",
+    "options": [
+      "w których są sortymenty użytkowe - jest tym większa im drzewostan jest starszy;",
+      "w których są sortymenty użytkowe - jest tym mniejsza im drzewostan jest starszy;",
+      "w których brak jest sortymentów użytkowych - jest tym większa im drzewostan jest starszy."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-63",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "question": "Dla określenia wartości nieruchomości leśnej w podejściu mieszanym rzeczoznawca majątkowy określa:",
+    "options": [
+      "wartość gruntu metodą wskaźników szacunkowych gruntów;",
+      "wartość drzewostanów według wartości drewna lub kosztów wyhodowania;",
+      "wartość drzewostanów zawsze według kosztów wyhodowania."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-64",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "question": "Decyzję o zmianie lasu na użytek rolny w odniesieniu do lasów niestanowiących własności Skarbu Państwa wydaje:",
+    "options": [
+      "wójt, burmistrz, prezydent miasta;",
+      "starosta;",
+      "wojewoda."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-65",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "question": "Przy wycenie gruntów leśnych, przeznaczonych na cele leśne, stosując metodę wskaźników szacunkowych gruntów, uwzględnia się m.in. cechy:",
+    "options": [
+      "położenie w stosunku do głównych dróg;",
+      "stopień degradacji siedliska leśnego;",
+      "masowe występowanie szkodników."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-66",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "question": "Z działki przeznaczonej na cele przemysłowe, zapisanej w ewidencji gruntów jako las, o powierzchni 10 arów usunięto 50-cioletni drzewostan. Odszkodowanie za jego przedwczesny wyrąb wyniesie (przy następujących parametrach drzewostanu: dane odczytane z właściwych tabel: Wi =200m3; Ws=150m3; Z=1; Cena drewna =200zł/m3):",
+    "options": [
+      "10 000 zł;",
+      "3 000 zł;",
+      "1 000 zł."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-69",
+        "session": "2025-03-26"
+      },
+      {
+        "id": "2022-12-01-65",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "Rzeczoznawca majątkowy odczytał z opisu taksacyjnego, stanowiącego część składową uproszczonego planu urządzania lasu, informację dotyczącą siedliskowego typu lasu zapisaną: Ol z fragm. BMw-Ol/III. Z zapisu tego wynika, że:",
+    "options": [
+      "obszar ten stanowi typ siedliskowy boru mieszanego wilgotnego, pokrytego drzewostanem olszowym;",
+      "obszar ten stanowi typ siedliskowy „ols” z fragmentami boru mieszanego wilgotnego, na którym występuje olsza w III-ciej klasie wieku;",
+      "obszar ten stanowi typ siedliskowy boru mieszanego świeżego i pokryty jest drzewostanem olszowym w III klasie wieku z fragmentarycznie występującymi gatunkami drzewostanów olszowych w innych klasach wieku."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-70",
+        "session": "2025-03-26"
+      },
+      {
+        "id": "2024-06-25-68",
+        "session": "2024-06-25"
+      },
+      {
+        "id": "2022-06-02-64",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Na czyj wniosek można dokonać podziału nieruchomości przeznaczonej na inne cele niż rolne i leśne?",
+    "options": [
+      "właściciela nieruchomości;",
+      "użytkownika wieczystego nieruchomości;",
+      "osoby, która ma w tym interes prawny."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-81",
+        "session": "2025-03-26"
+      },
+      {
+        "id": "2022-03-24-87",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Wywłaszczony został sad, na którym znajduje się 100 pięcioletnich jabłoni. Wartość bieżąca jednego drzewka wynosi 45zł, a utracone korzyści za okres do końca planowania wynoszą 40 zł. Właściciel wywłaszczonego sadu otrzyma odszkodowanie za plantacje kultury wieloletniej w wysokości:",
+    "options": [
+      "4000 zł;",
+      "4500 zł;",
+      "8500 zł."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-83",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "question": "Wycena plantacji kultury wieloletniej dla ustalenia odszkodowania za jej wywłaszczenie obejmuje m.in.:",
+    "options": [
+      "koszty założenia i pielęgnacji do pierwszych zbiorów;",
+      "utracone pożytki za okres od pierwszego roku plonowania do końca plonowania;",
+      "utracone pożytki za okres od dnia wywłaszczenia do dnia zakończenia pełnego plonowania."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-32",
+        "session": "2024-11-19"
+      },
+      {
+        "id": "2023-09-14-15",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "W ewidencji gruntów do użytków rolnych zaliczamy:",
+    "options": [
+      "grunty pod stawami;",
+      "nieużytki;",
+      "grunty pod rowami."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-56",
+        "session": "2024-11-19"
+      },
+      {
+        "id": "2021-10-28-50",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Zbywca prawa użytkowania wieczystego ustanowionego w trybie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa:",
+    "options": [
+      "jest zobowiązany uiścić Krajowemu Ośrodkowi Wsparcia Rolnictwa opłatę w wysokości 25% wartości tej nieruchomości;",
+      "jest zobowiązany uiścić Krajowemu Ośrodkowi Wsparcia Rolnictwa opłatę w wysokości 50% wartości tej nieruchomości;",
+      "nie ma podstaw prawnych do uiszczenia takiej opłaty przez zbywcę."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-70",
+        "session": "2024-11-19"
+      },
+      {
+        "id": "2024-06-25-73",
+        "session": "2024-06-25"
+      },
+      {
+        "id": "2022-07-07-69",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "question": "Ustawowa należność za wyłączeniu 1 ha Ps III wynosi 291 450 zł. Opłata roczna za wyłączenie 0,1000 ha gruntu rolnego wyniesie:",
+    "options": [
+      "2 914,50 zł;",
+      "291,45 zł;",
+      "0 zł."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-72",
+        "session": "2024-11-19"
+      },
+      {
+        "id": "2022-03-24-67",
+        "session": "2022-03-24"
+      },
+      {
+        "id": "2021-05-27-76",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Na cenę drewna średniowymiarowego sprzedawanego przez nadleśnictwa wpływa:",
+    "options": [
+      "grupa surowca;",
+      "podgrupa surowca;",
+      "gatunek."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-73",
+        "session": "2024-11-19"
+      },
+      {
+        "id": "2024-03-19-65",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "Dokumentami dotyczącymi gospodarki leśnej są:",
+    "options": [
+      "inwentaryzacja stanu lasów;",
+      "uproszczony plan urządzenia lasów;",
+      "plan urządzenia lasów."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-74",
+        "session": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Koszty zrywki drewna obejmują:",
+    "options": [
+      "wyrąb drzew;",
+      "trzebież drzewostanu;",
+      "transport z miejsca wyrębu do najbliższej drogi (miejsca odbioru transportem mechanicznym)."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-75",
+        "session": "2024-11-19"
+      },
+      {
+        "id": "2024-04-23-77",
+        "session": "2024-04-23"
+      },
+      {
+        "id": "2023-09-14-60",
+        "session": "2023-09-14"
+      },
+      {
+        "id": "2022-04-28-73",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "W formule „O = (Wi – Ws) * z * P * c” służącej do określenia odszkodowań za przedwczesny wyrąb drzewostanów, „z” oznacza:",
+    "options": [
+      "stopień zmieszania drzewostanu;",
+      "współczynnik zalesienia;",
+      "współczynnik zadrzewienia."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-77",
+        "session": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Gospodarczy typ drzewostanu w opisie taksacyjnym lasu to:",
+    "options": [
+      "rosnący gatunek drzewostanu do wykorzystania gospodarczego;",
+      "pożądany pod względem gospodarczym docelowy skład gatunkowy drzewostanu na danym siedlisku;",
+      "przeważający sortyment użytkowy drewna."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-78",
+        "session": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Wartość współczynnika korekcyjnego gruntu rolnego przy stosowaniu metody wskaźników szacunkowych zależy od:",
+    "options": [
+      "nośności gruntu;",
+      "stopnia kultury rolnej gruntu;",
+      "rodzaju użytku rolnego."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-33",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "question": "Grunty leśne oraz zadrzewione i zakrzewione dzielą się na:",
+    "options": [
+      "lasy, oznaczone symbolem Ls;",
+      "grunty zadrzewione i zakrzewione, oznaczone symbolem Lz;",
+      "grunty pod rowami, oznaczone symbolem W."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-53",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "question": "Wartość gruntu wyłączanego z produkcji rolnej niezbędna do obliczenia należności, jest określana:",
+    "options": [
+      "według cen rynkowych;",
+      "według metody likwidacyjnej;",
+      "na dzień faktycznego wyłączenia tego gruntu z produkcji."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-58",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "question": "Dla odczytania miąższości grubizny drzewostanu z tablic zasobności i przyrostu drzewostanów rzeczoznawca majątkowy ustala:",
+    "options": [
+      "gatunek drzewostanu;",
+      "klasę bonitacji siedliska;",
+      "wiek drzewostanu."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-65",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "question": "Opłata za przedwczesny wyrąb drzewostanu, przy drzewostanach, w których:",
+    "options": [
+      "są sortymenty użytkowe - jest tym większa im wyłączany drzewostan jest starszy;",
+      "są sortymenty użytkowe - jest tym mniejsza im wyłączany drzewostan jest starszy;",
+      "brak jest sortymentów użytkowych - jest tym większa im starszy jest drzewostan."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-66",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "question": "Status lasu ochronnego w formie decyzji nadaje:",
+    "options": [
+      "minister właściwy do spraw środowiska we wszystkich przypadkach;",
+      "minister właściwy do spraw środowiska w odniesieniu do lasów stanowiących własność Skarbu Państwa;",
+      "starosta w odniesieniu do lasów innych niż stanowiące własność Skarbu Państwa."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-68",
+        "session": "2024-10-22"
+      },
+      {
+        "id": "2023-03-23-69",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Za rolnika indywidualnego uważa się osobę fizyczną:",
+    "options": [
+      "będącą właścicielem lub dzierżawcą nieruchomości rolnych o łącznej powierzchni użytków rolnych nieprzekraczających 300 ha;",
+      "posiadającą kwalifikacje rolnicze;",
+      "zamieszkującą co najmniej od 5 lat w gminie, na obszarze której położona jest jedna z nieruchomości rolnych wchodzących w skład tego gospodarstwa i prowadzącą przez ten okres osobiście to gospodarstwo."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-70",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "question": "Państwowe Gospodarstwo Leśne Lasy Państwowe, sprawuje:",
+    "options": [
+      "wieczyste użytkowanie gruntami będącymi własnością Skarbu Państwa;",
+      "nadzór nad gruntami będącymi własnością Skarbu Państwa;",
+      "zarząd nad lasami będącymi własnością Skarbu Państwa."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-72",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "question": "Skład gatunkowy drzewostanu określany jest:",
+    "options": [
+      "udziałem miąższości poszczególnych gatunków drzew w ich całkowitej miąższości;",
+      "liczbą drzew danych gatunków na powierzchniach próbnych;",
+      "na podstawie wysokości drzew i obwodów pni na wysokości 1,3 m."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-73",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "question": "Grunty leśne zajęte pod budynkiem leśniczówki oraz linią energetyczną, według ustawy o lasach, to grunty:",
+    "options": [
+      "zurbanizowane;",
+      "leśne;",
+      "wyłączone z użytkowania leśnego."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-75",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "question": "W jakich przypadkach można dokonać z urzędu podziału nieruchomości przeznaczonych na inne cele niż rolne lub leśne?",
+    "options": [
+      "jeżeli podział jest niezbędny dla realizacji celów publicznych;",
+      "nieruchomość stanowi własność gminy i została oddana w użytkowanie wieczyste;",
+      "w przypadku nieruchomości o nieuregulowanym stanie prawnym."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-86",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "question": "Wyceny gruntów wydzielonych pod drogi publiczne dokonano na podstawie przeznaczenia gruntu przeważającego wśród gruntów przyległych, (o przeznaczeniu rolnym) . Wartość 1 m kw tych gruntów została oszacowana na poziomie 10 zł. Powierzchnia wywłaszczanej nieruchomości wynosi 1500 m2. Wartość nieruchomości dla celów ustalenia wysokości odszkodowania za wywłaszczenie wyniesie maksymalnie:",
+    "options": [
+      "15 000 zł;",
+      "22 500 zł;",
+      "30 000 zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-20",
+        "session": "2024-09-17"
+      }
+    ]
+  },
+  {
+    "question": "Do drzewostanów zalicza się drzewostany:",
+    "options": [
+      "w klasie odnowienia i w klasie do odnowienia;",
+      "w drugiej klasie wieku o zadrzewieniu 0,4 i wyższym;",
+      "w trzeciej i starszych klasach wieku o zadrzewieniu 0,3 i wyższym."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-67",
+        "session": "2024-09-17"
+      },
+      {
+        "id": "2023-11-30-66",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "question": "Wartość upraw i młodników leśnych można oszacować stosując techniki wyceny:",
+    "options": [
+      "wskaźnikową;",
+      "szczegółową;",
+      "szacunku brakarskiego."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-69",
+        "session": "2024-09-17"
+      },
+      {
+        "id": "2022-04-28-66",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "Dla określenia wartości nieruchomości leśnej w podejściu mieszanym rzeczoznawca majątkowy określa:",
+    "options": [
+      "wartość gruntu metodą wskaźników szcunkowych gruntów;",
+      "wartość drzewostanów według wartości drewna;",
+      "wartość drzewostanów zawsze według kosztów wyhodowania."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-70",
+        "session": "2024-09-17"
+      },
+      {
+        "id": "2022-03-24-65",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Wartość działki leśnej z drzewostanem, przeznaczonej na usługi rekreacyjne (ośrodek wypoczynkowy) określa się:",
+    "options": [
+      "stosując podejście porównawcze;",
+      "stosując metodę wskaźników szacunkowych gruntów i dodając wartość drzewostanu według wartości drewna;",
+      "stosując wyłacznie podejście kosztowe."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-73",
+        "session": "2024-09-17"
+      }
+    ]
+  },
+  {
+    "question": "Wskaźnik szacunkowy 1 ha gruntu leśnego zależy od:",
+    "options": [
+      "głównego gatunku lasotwórczego;;",
+      "wieku rębności;",
+      "klasy bonitacyjnej drzewostanu."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-29",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Dla potrzeb naliczenia opłaty z tytułu wykonywania trwałego zarządu nieruchomości Zasobu Własności Rolnej Skarbu Państwa można ustalić cenę:",
+    "options": [
+      "gruntu rolnego z uwzględnieniem stawek szacunkowych;",
+      "na podstawie wartości rynkowej przedmiotu zarządu;",
+      "w oparciu o wartość określoną wyłącznie w podejściu dochodowym."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-37",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Przy wyłączaniu gruntów z produkcji rolnej lub leśnej niezbędna jest znajomość wartości rynkowej wyłączanego gruntu do:",
+    "options": [
+      "obliczenia faktycznie płaconej należności;",
+      "obliczenia wielkości opłat rocznych;",
+      "pomniejszenia należności o wartość wyłączanego gruntu."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-55",
+        "session": "2024-06-25"
+      },
+      {
+        "id": "2023-06-22-56",
+        "session": "2023-06-22"
+      },
+      {
+        "id": "2022-07-07-61",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "question": "Określania wartości gruntów rolnych w podejściu mieszanym dokonuje się metodą:",
+    "options": [
+      "porównywania parami;",
+      "wskaźników szacunkowych gruntu;",
+      "pozostałościową."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-64",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "question": "W procedurach odszkodowawczych za wywłaszczone nieruchomości, wartość drzewostanów leśnych należy określać:",
+    "options": [
+      "według zasad określonych w ustawie o gospodarce nieruchomościami;",
+      "w uzgodnieniu z właścicielem nieruchomości;",
+      "według wartości drewna i według kosztów zalesienia i pielęgnacji, przyjmując wynik wyższy."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-67",
+        "session": "2024-06-25"
+      },
+      {
+        "id": "2021-07-22-11",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Grubizna drewna obejmuje grupy jego grubości:",
+    "options": [
+      "drewno wielkowymiarowe /W/;",
+      "drewno średniowymiarowe /S/;",
+      "drewno małowymiarowe /M/."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-69",
+        "session": "2024-06-25"
+      },
+      {
+        "id": "2022-06-02-68",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Wywłaszczony został sad, na którym znajduje się 100 pięcioletnich jabłoni. Wartość bieżąca jednego drzewka wynosi 45 zł, a utracone korzyści za okres do końca plonowania wynoszą 40 zł. Właściciel wywłaszczonego sadu otrzyma odszkodowanie za plantacje kultury wieloletniej w wysokości:",
+    "options": [
+      "4 000 zł;",
+      "4 500 zł;",
+      "8 500 zł."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-71",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Do obliczenia odszkodowania za przedwczesny wyrąb drzewostanów, w których brak jest sortymentów użytkowych należy zastosować algorytm:",
+    "options": [
+      "O = Wki*z*P*c",
+      "O= Wki*P*c",
+      "O=(Wi-Ws)*z*P*c"
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-72",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Co się dzieje ze służebnością osobistą z chwilą śmierci osoby uprawnionej?",
+    "options": [
+      "prawo to wchodzi do masy spadkowej;",
+      "prawo to wygasa;",
+      "w przypadku służebności osobistej mieszkania, można się umówić, że po śmierci uprawnionego służebność mieszkania przysługiwać będzie np. jego małżonkowi."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-80",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Stosując metodę wskaźników szacunkowych gruntu przy określaniu wartości gruntów rolnych zabudowanych przyjmuje się wartość współczynnika korekcyjnego:",
+    "options": [
+      "jeśli grunty są klasyfikowane - jak dla danej klasy gruntów, jeśli grunty nie są klasyfikowane - jak dla klasy IV gruntu ornego;",
+      "nie można stosować wskaźników szacunkowych do wyceny gruntów rolnych zabudowanych;",
+      "jak dla klasy I gruntu ornego."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-32",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "question": "Zastosowanie metody wskaźników szacunkowych gruntów do wyceny nieruchomości leśnej wymaga pozyskania danych dotyczących:",
+    "options": [
+      "głównego gatunku lasotwórczego;",
+      "wieku rębności;",
+      "klasy bonitacyjnej drzewostanu."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-45",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "question": "Ustawowa należność za wyłączenie 1 ha Ps III wynosi 291 450 zł. Na rynku lokalnym podobne grunty uzyskują cenę 10 zł/m2. Należność ustalona za wyłączenie 0,1000 ha gruntu rolnego wyniesie:",
+    "options": [
+      "29 145 zł;",
+      "19 145 zł;",
+      "39 145 zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-68",
+        "session": "2024-04-23"
+      },
+      {
+        "id": "2023-09-14-63",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Cena nieruchomości Zasobu Własności Rolnej SP wynosi 10 tys. zł. Nieruchomość ta została przekazana w zarząd trwały pod drogę publiczną. Opłata roczna z tego tytułu wyniesie:",
+    "options": [
+      "10 zł;",
+      "0 zł;",
+      "100 zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-71",
+        "session": "2024-04-23"
+      },
+      {
+        "id": "2023-03-23-67",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Wskaźnik szacunkowy 1 ha gruntu leśnego wycenianego w podejściu mieszanym wyraża się w:",
+    "options": [
+      "dt ziarna żyta;",
+      "m3 drewna;",
+      "m3 So tartacznej II klasy jakości."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-72",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "question": "Uproszczone plany urządzania lasu zatwierdza i nadzoruje ich wykonanie:",
+    "options": [
+      "starosta w odniesieniu do lasów niestanowiących własności Skarbu Państwa;",
+      "Minister Środowiska w odniesieniu do lasów wchodzących w skład Zasobu Nieruchomości Rolnych Skarbu Państwa;",
+      "marszałek województwa w odniesieniu do lasów niestanowiących własności Skarbu Państwa."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-74",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "question": "W metodzie wskaźników szacunkowych gruntów, przyjmowane do wyceny gruntów leśnych wkaźniki szacunkowe zależą od:",
+    "options": [
+      "głównego gatunku lasotwórczego;",
+      "klasy bonitacyjnej drzewostanu;",
+      "wieku rębności."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-24",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "Przy wycenie 20-letniego drzewostanu sosnowego, dla celu wywłaszczenia pod drogę publiczną, należy stosować metodę:",
+    "options": [
+      "kosztów odtworzenia;",
+      "kosztów likwidacji;",
+      "szacunku brakarskiego drzew na pniu."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-34",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "Cenę drewna stosowaną w metodzie wskaźników szacunkowych gruntów koryguje się o koszty:",
+    "options": [
+      "jego pozyskania;",
+      "jego przemieszczenia do miejsca odbioru transportem mechanicznym;",
+      "przemieszczenia transportem mechanicznym do odbiorcy."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-35",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "Wskaźnik szacunkowy gruntu rolnego w metodzie wskaźników szacunkowych gruntów:",
+    "options": [
+      "przyjmuje wielkości ustalone w załączniku nr 1 do rozporządzenia w sprawie wyceny nieruchomości;",
+      "uzależniony jest od klasy gruntu oraz położenia w okręgu podatkowym;",
+      "stanowi dziesięciokrotność aktualnego na dzień wyceny średniego plonu ziarna żyta z 1 ha, wyrażobnego w decytonach, podawanego dla kraju przez GUS."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-38",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "Właściciel może żądać zwrotu nieruchomości od władającego nieposiadającego uprawnienia do władania:",
+    "options": [
+      "przed upływem 5 lat;",
+      "przed upływem 10 lat;",
+      "w każdym czasie."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-50",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "Na podstawie jakiego dokumentu zatwierdza się podziały na działki gruntu nieruchomości przeznaczonych na inne cele niż rolne i leśne?",
+    "options": [
+      "zaświadczenia;",
+      "decyzji;",
+      "umowy cywilno – prawnej."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-52",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "Dla celów ewidencji gruntów, grupa grunty rolne dzieli się na:",
+    "options": [
+      "użytki rolne;",
+      "nieużytki;",
+      "grunty zadrzewione i zakrzewione oraz leśne."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-56",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "Przy zmianie przeznaczenia w miejscowym planie zagospodarowania przestrzennego gruntów rolnych klasy IV (także IVa i IVb):",
+    "options": [
+      "wymagana jest zgoda, gdy obszar wynosi co najmniej 1,00 ha;",
+      "nie jest wymagana zgoda na zmianę przeznaczenia;",
+      "zgoda jest wymagana niezależnie od wielkości przeznaczanej powierzchni."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-57",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z ustawą o ochronie gruntów rolnych i leśnych wysokość jednorazowego odszkodowania za przedwczesny wyrąb drzewostanu stanowi:",
+    "options": [
+      "spodziewana wartość drzewostanu w wieku rębności;",
+      "wartość drzewostanu w chwili jego wyrębu;",
+      "różnica między spodziewaną wartością drzewostanu w wieku rębności, a wartością w chwili jego wyrębu."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-63",
+        "session": "2024-03-19"
+      },
+      {
+        "id": "2023-09-14-52",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Przeznaczenie gruntów rolnych klasy I-III (z wyłączeniem wyjątków) na cele nierolnicze, dokonane w miejscowym planie, wymaga uzyskania zgody:",
+    "options": [
+      "zgoda nie jest wymagana;",
+      "Ministra Środowiska;",
+      "ministra właściwego do spraw rozwoju wsi."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-64",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "Wycena drzewostanu na działce leśnej, w procedurze scalenia i wymiany gruntów, jest dokonywana:",
+    "options": [
+      "przez geodetę wykonującego czynności techniczne szacunku gruntów;",
+      "przez rzeczoznawcę majątkowego;",
+      "na zasadach określonych w ustawie o gospodarce nieruchomościami."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-66",
+        "session": "2024-03-19"
+      },
+      {
+        "id": "2022-03-24-66",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z ustawą o kształtowaniu ustroju rolnego jeżeli cena sprzedawanej nieruchomości rażąco odbiega od jej wartości rynkowej, wykonujący prawo pierwokupu, może:",
+    "options": [
+      "zlecić rzeczoznawcy majątkowemu określenie wartości tej nieruchomości;",
+      "wystąpić do sądu o ustalenie ceny tej nieruchomości;",
+      "wystąpić do Dyrektora KOWR o ustalenie tej ceny."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-74",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "Skład gatunkowy 15-letniego drzewostanu w opisie taksacyjnym, zapisany symbolem 7So 3Brz oznacza:",
+    "options": [
+      "sosna stanowi 70% ilości drzew;",
+      "na gruncie rośnie 7 sosen;",
+      "sosna zajmuje 70% powierzchni."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-76",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "Nadleśniczy może nabywać stanowiące własność osób fizycznych lub prawnych lasy oraz grunty przeznaczone do zalesienia za cenę:",
+    "options": [
+      "ustaloną w wyniku negocjacji ze zbywcą (w dowolnej wysokości);",
+      "nie wyższą od wartości określonej przez rzeczoznawcę majątkowego;",
+      "ustaloną przez nadleśniczego na podstawie informacji uzyskanych w agencjach obrotu nieruchomościami, urzędach skarbowych i od pośredników w obrocie nieruchomościami."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-77",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "Utracone korzyści w procesie wywłaszczenia plantacji kultur wieloletnich oblicza się za okres:",
+    "options": [
+      "do czasu wyhodowania plantacji zastępczej;",
+      "od daty wywłaszczenia do końca okresu pełnego plonowania;",
+      "od pierwszego roku plonowania do dnia wywłaszczenia."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-16",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "question": "Przy określaniu wartości plantacji kutury wieloletniej dla celów odszkodowania za wywłaszczenie uwzględnia się utracone pożytki. Utracone pożytki:",
+    "options": [
+      "są tym większe im wywłaszczana plantacja jest starsza;",
+      "są tym większe im wywłaszczana plantacja jest młodsza;",
+      "wiek tu nie ma znaczenia, gdyż są one uwzględniane w pełni."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-36",
+        "session": "2023-11-30"
+      },
+      {
+        "id": "2021-12-02-72",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "Kto może wnioskować o dokonanie podziału na działki gruntu nieruchomości przeznaczonych na inne cele niż rolne i leśne?",
+    "options": [
+      "właściciel nieruchomości;",
+      "użytkownik wieczysty nieruchomości;",
+      "osoba, która ma w tym interes prawny."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-49",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "question": "Do ustalenia odszkodowania za przedwczesny wyrąb drzewostanów rzeczoznawcy majątkowemu są potrzebne m.in. następujące informacje o drzewostanie:",
+    "options": [
+      "typ siedliskowy lasu;",
+      "wiek drzewostanu;",
+      "współczynnik zalesienia w gminie."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-64",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "question": "Mapa glebo-rolnicza gruntów zawiera dane o:",
+    "options": [
+      "typie gleby;",
+      "kompleksach przydatności rolniczej gleb;",
+      "rodzajach i gatunkach gleb."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-67",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "question": "Przeznaczenie gruntów leśnych na cele nieleśne wymaga zgody:",
+    "options": [
+      "Ministra Środowiska we wszystkich przypadkach;",
+      "marszałka województwa w odniesieniu do lasów niestanowiących własności Skarbu Państwa;",
+      "Ministra Środowiska, gdy są to grunty stanowiące własność Skarbu Państwa."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-71",
+        "session": "2023-11-30"
+      },
+      {
+        "id": "2022-06-02-75",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Park narodowy sprzedaje lokal mieszkalny o wartości 100 000 zł osobie uprawnionej. Osoba ta najmuje lokal i jest pracownikiem Parku od 10 lat. Osoba ta za nabycie prawa własności zapłaci kwotę:",
+    "options": [
+      "5 000 zł;",
+      "10 000 zł;",
+      "50 000 zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-82",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "question": "Cena nieruchomości gruntowej ustalona do aktualizacji opłaty rocznej za użytkowanie wieczyste wynosi 10 000 zł. Opłata roczna za użytkowanie wieczyste tej nieruchomosci przekazanej na cele rolne wyniesie:",
+    "options": [
+      "100 zł;",
+      "200 zł;",
+      "300 zł."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-17",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "Przy sporządzaniu operatu szacunkowego w celu określenia wartości gruntu jako podstawy dla ustalenia należności za wyłączenie gruntu z produkcji rolnej lub leśnej należy:",
+    "options": [
+      "uwzględnić drzewa i krzewy znajdujące się na gruncie;",
+      "pominąć drzewa i krzewy znajdujące się na gruncie;",
+      "uwzględnić tylko drzewa pomijając krzewy."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-18",
+        "session": "2023-10-26"
+      },
+      {
+        "id": "2023-03-23-36",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Średni plon ziarna żyta z 1 hektara podany w decytonach dla kraju przez GUS wynosi 30 dt. Wskaźnik szacunkowy gruntu (przy stosowaniu metody wskaźników szacunkowych gruntu) wynosi:",
+    "options": [
+      "150 dt;",
+      "300 dt;",
+      "30 dt."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-28",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "Powierzchnia poszczególnych użytków gruntowych wynosi: RIVb-0,5000ha; PsV-0,4000ha; Lzr-0,2000 ha. Zgodnie z przepisami ustawy o kształtowaniu ustroju rolnego:",
+    "options": [
+      "jest to gospodarstwo rolne, gdyż powierzchnia nieruchomości rolnej przekracza 1 ha;",
+      "nie jest to gospodarstwo rolne, gdyż powierzchnia użytków rolnych (według cytowanej ustawy) nie przekracza 1 ha;",
+      "wielkość powierzchni użytków rolnych nie warunkuje istnienia gospodarstwa rolnego."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-65",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "Ustawowa należność za wyłączenie gruntu leśnego wynosi równowartość 600 m3 drewna. Cena drewna podana przez Prezesa GUS wynosi 200 zł/m3. Na rynku lokalnym podobne grunty uzyskują cenę 10 zł/m2. Należność ustalona za wyłączenie 0,5 ha gruntu leśnego wyniesie:",
+    "options": [
+      "10 000 zł;",
+      "11 0000 zł;",
+      "6 0000 zł."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-70",
+        "session": "2023-10-26"
+      },
+      {
+        "id": "2023-03-23-65",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Dla określenia klasy bonitacyjnej siedliska, rzeczoznawca majątkowy ustala:",
+    "options": [
+      "gatunek drzewostanu;",
+      "wiek drzewostanu;",
+      "przeciętną wysokość drzewostanu."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-72",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "Opis taksacyjny lasu jest to:",
+    "options": [
+      "opis gruntu leśnego i drzewostanu;",
+      "część składowa planu urządzenia lasu;",
+      "informacja zawarta w ewidencji gruntów."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-76",
+        "session": "2023-10-26"
+      },
+      {
+        "id": "2022-06-02-71",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Wskaźnik szacunkowy gruntu dla nieruchomości leśnej zależy m.in. od:",
+    "options": [
+      "typu siedliskowego lasu;",
+      "wieku rębności;",
+      "położenia w okręgu podatkowym."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-89",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "Cena nieruchomości gruntowej ustalona do aktualizacji opłat rocznnych za użytkowanie wieczyste wynosi 10 000 zł. Opłata roczna tej nieruchomości przekazanej na cele rolne wyniesie:",
+    "options": [
+      "100 zł,",
+      "200 zł;",
+      "300 zł."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-20",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Wartość drzewostanu uzależniona jest m.in. od:",
+    "options": [
+      "składu gatunkowego;",
+      "wieku drzew;",
+      "ceny drewna podanej przez Prezesa NBP."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-21",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Tylko rzeczoznawcy majątkowi uprawnieni są określenia wartości nieruchomości:",
+    "options": [
+      "rynkowej;",
+      "odtworzeniowej;",
+      "katastralnej."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-37",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Organem właściwym do wydania decyzji przy wyłączeniu z produkcji gruntów leśnych jest:",
+    "options": [
+      "wójt, burmistrz, prezydent;",
+      "starosta;",
+      "Dyrektor Regionalnej Dyrekcji Lasów Państwowych."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-58",
+        "session": "2023-09-14"
+      },
+      {
+        "id": "2022-12-01-69",
+        "session": "2022-12-01"
+      },
+      {
+        "id": "2022-07-07-76",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "question": "Hektar przeliczeniowy gruntów rolnych ustalony jest w przepisach o:",
+    "options": [
+      "gospodarce nieruchomościami;",
+      "gospodarowaniu nieruchomościami rolnymi Skarbu Państwa;",
+      "podatku rolnym."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-59",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Treść mapy glebowo - rolniczej w skali 1:5000 stanowią:",
+    "options": [
+      "granice działek ewidencyjnych;",
+      "głębokość zalegania warstw profilu glebowego;",
+      "kompleksy rolniczej przydatności gleb."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-65",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Przekazanie w trwały zarząd nieruchomości Zasobu Nieruchomości Rolnych Skarbu Państwa następuje w drodze decyzji:",
+    "options": [
+      "starosty;",
+      "wojewody;",
+      "Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa"
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-67",
+        "session": "2023-09-14"
+      },
+      {
+        "id": "2022-03-24-72",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "W którym momencie powstaje obowiązek wnoszenia należności oraz opłat rocznych z tytułu wyłączenia gruntów rolnych z produkcji rolnej?",
+    "options": [
+      "z dniem faktycznego wyłączenia gruntów rolnych z produkcji rolnej;",
+      "z dniem, w którym decyzja zezwalająca na wyłączenie stała się ostateczna;",
+      "z dniem w którym stała się ostateczna decyzja o pozwoleniu na budowę, skutkująca wyłączeniem gruntów rolnych z produkcji rolnej."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-80",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Działkę gruntu ornego klasy VI, przeznaczonego na cele leśne, można wycenić stosując metody:",
+    "options": [
+      "porównywania parami;",
+      "zysków;",
+      "wskaźników szacunkowych gruntów."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-18",
+        "session": "2023-06-22"
+      },
+      {
+        "id": "2023-04-20-70",
+        "session": "2023-04-20"
+      },
+      {
+        "id": "2022-10-27-24",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Minister właściwy ds. środowiska wydaje zgodę na zmianę przeznaczenia gruntów leśnych na inne cele w przypadku:",
+    "options": [
+      "tylko lasów Skarbu Państwa o powierzchni większej od 0,1 ha;",
+      "lasów Skarbu Państwa, niezależnie od powierzchni;",
+      "lasów prywatnych i gminnych, gdy powierzchnia przekracza 0,5 ha."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-52",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "Zgoda ministra właściwego do spraw rozwoju wsi, przy przeznaczeniu w planie miejscowym gruntów rolnych na cele nierolnicze, położonych na obszarze miast:",
+    "options": [
+      "jest uzależniona od powierzchni zwartego obszaru gruntów przeznaczonych do wyłączenia;",
+      "zgoda nie jest wymagana;",
+      "jest uzależniona od podmiotu, któremu przysługuje własność."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-57",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "Bonitacja w drzewostanie mieszanym określana jest:",
+    "options": [
+      "dla każdego gatunku oddzielnie;",
+      "łącznie dla całego drzewostanu;",
+      "jako średnia z wszystkich drzewostanów w oddziale."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-64",
+        "session": "2023-06-22"
+      },
+      {
+        "id": "2022-12-01-72",
+        "session": "2022-12-01"
+      },
+      {
+        "id": "2021-06-24-73",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "Największy udział procentowy drobnicy w miąższości drzewostanu występuje w:",
+    "options": [
+      "tyczkowinie;",
+      "drzewostanie dojrzewającym;",
+      "drągowinie."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-65",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "W ewidencji gruntów w użytkach rolnych wyodrębnia się:",
+    "options": [
+      "6 rodzajów użytków:",
+      "7 rodzajów użytków:",
+      "8 rodzajów użytków."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-68",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "Z jakiego źródła przyjmuje się cenę drewna przy wycenie nieruchomości w podejściu mieszanym, metodą wskaźników szacunkowych gruntów?",
+    "options": [
+      "z rynku lokalnego;",
+      "z nadleśnictwa właściwego dla miejsca położenia nieruchomości albo z nadleśnictw sąsiednich;",
+      "z publikacji Głównego Urzędu Statystycznego."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-70",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "Nadzór nad gospodarką leśną w lasach niestanowiących własności Skarbu Państwa sprawuje:",
+    "options": [
+      "wójt, burmistrz lub prezydent miasta;",
+      "starosta;",
+      "właściciel, gdyż przepisy tego nie precyzują."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-71",
+        "session": "2023-06-22"
+      },
+      {
+        "id": "2022-03-24-75",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Wskaźnik szacunkowy 1 ha gruntu leśnego zależy od:",
+    "options": [
+      "klasy bonitacyjnej gruntu;",
+      "typu siedliskowego lasu;",
+      "wieku drzewostanu."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-72",
+        "session": "2023-06-22"
+      },
+      {
+        "id": "2021-10-28-13",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Szacowanie gruntów z plantacjami kultur wieloletnich, w postępowaniu prowadzonym w trybie ustawy o scaleniu i wymianie gruntów, przeprowadzą:",
+    "options": [
+      "w zakresie gruntów - geodeta - projektant scalenia;",
+      "w zakresie plantacji kultur wieloletnich - geodeta - projektant scalenia;",
+      "w zakresie plantacji kultur wieloletnich - rzeczoznawca majątkowy."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-73",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "Według kodeksu cywilnego, aby grunt rolny stanowił nieruchomość rolną jego powierzchnia:",
+    "options": [
+      "powinna być > 0,1 ha;",
+      "powinna być > 1,0 ha;",
+      "nie ma ograniczeń powierzchniowych."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-74",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "Plany urządzania lasu sporządza się dla:",
+    "options": [
+      "wszystkich lasów stanowiących własność Skarbu Państwa;",
+      "lasów stanowiących własność Skarbu Państwa będących w zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe;",
+      "lasów nie stanowiących własności Skarbu Państwa."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-75",
+        "session": "2023-06-22"
+      },
+      {
+        "id": "2021-05-27-70",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Podatnikami podatku rolnego są:",
+    "options": [
+      "Skarb Państwa;",
+      "użytkownicy wieczyści gruntów;",
+      "posiadacze samoistni gruntów."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-76",
+        "session": "2023-06-22"
+      },
+      {
+        "id": "2022-10-27-70",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Do aktualizacji opłat za użytkowanie wieczyste nieruchomości gruntowej pokrytej drzewostanem leśnym i zabudowanej domem mieszkalnym, wartość nieruchomości określa się:",
+    "options": [
+      "jako wartość prawa własności gruntu bez drzewostanu;",
+      "jako wartość prawa własności gruntu z drzewostanem i budynkiem;",
+      "jako wartość prawa własności gruntu łącznie z drzewostanem( bez wartości budynku ) ."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-47",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Według przepisów o ochronie gruntów rolnych i leśnych, przeznaczenie na cele nierolne i nieleśne gruntów stanowiących użytki rolne klas I-III na obszarach wiejskich, co do zasady:",
+    "options": [
+      "nie wymaga uzyskania zgody ministra właściwego do spraw rozwoju wsi;",
+      "wymaga uzyskania zgody marszałka województwa;",
+      "wymaga uzyskania zgody ministra właściwego do spraw rozwoju wsi."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-52",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Przy wycenie gruntów leśnych, przeznaczonych na cele leśne, stosując metodę wskaźników szacunkowych gruntów, uwzględnia się m.in. cechy:",
+    "options": [
+      "położenie w stosunku do siedlisk i głównych dróg;",
+      "stopień degradacji siedliska leśnego;",
+      "masowe występowanie szkodników."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-61",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Do gruntów rolnych zaliczamy:",
+    "options": [
+      "grunty orne;",
+      "grunty pod rowami;",
+      "nieużytki."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-62",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Nadleśniczy może samodzielnie sprzedać grunty leśne i nieleśne Skarbu Państwa w zarządzie Lasów Państwowych:",
+    "options": [
+      "o powierzchni do 1 ha, jeżeli stanowią enklawę wśród gruntów innej formy własności;",
+      "o powierzchni do 10 ha, jeżeli stanowią enklawę wśród gruntów innej formy własności;",
+      "nie ma ograniczeń."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-64",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Masa grubizny drewna jest to:",
+    "options": [
+      "masa drewna bez kory o grubości (średnicy) w cieńszym końcu co najmniej 5 cm;",
+      "masa drewna bez kory o grubości w cieńszym końcu co najmniej 7 cm;",
+      "masa drewna z korą o grubości w cieńszym końcu co najmniej 7 cm."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-67",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Nie ma obowiązku uiszczenia należności i opłat rocznych za wyłączenia gruntów z produkcji rolniczej lub leśnej na cele budownictwa mieszkaniowego, gdy powierzchnia wyłączana wynosi:",
+    "options": [
+      "do 0,05 ha w przypadku budynku jednorodzinnego;",
+      "powyżej 0,5 ha w przypadku budynku jednorodzinnego;",
+      "do 0,02 ha na każdy lokal mieszkalny, w przypadku budynku wielorodzinnego."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-68",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Do ustalenia odszkodowania za przedwczesny wyrąb drzewostanów rzeczoznawcy majątkowemu są potrzebne m.in. następujące informacje:",
+    "options": [
+      "klasa bonitacyjna drzewostanu;",
+      "rodzaj drzewostanu;",
+      "cena m3 drewna podawana przez Prezesa GUS."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-69",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Według ustawy o lasach, zmiana lasu na użytek rolny jest dopuszczalna:",
+    "options": [
+      "w przypadkach szczególnie uzasadnionych potrzeb właścicieli lasów;",
+      "w stosunku do lasów niestanowiących własności Skarbu Państwa decyzję w sprawie zmiany wydaje starosta na wniosek właściciela lasu;",
+      "zmiana taka nie jest możliwa."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-71",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Przy określaniu wartości nieruchomości przeznaczonych na cele leśne, typy siedliskowe lasów określa się na podstawie:",
+    "options": [
+      "części opisowej katastru nieruchomości;",
+      "planów urządzania lasów;",
+      "przepisów o podatku rolnym."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-72",
+        "session": "2023-04-20"
+      },
+      {
+        "id": "2021-10-28-72",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Wskaźnik szacunkowy gruntów leśnych zależy od:",
+    "options": [
+      "typu siedliskowego lasu;",
+      "okręgu podatkowego;",
+      "klasy bonitacyjnej gruntu leśnego."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-73",
+        "session": "2023-04-20"
+      },
+      {
+        "id": "2022-09-15-67",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Plan miejscowy zmienił przeznaczenie działki o pow. 0,5000 ha z rolnego na rekreacyjne. Właściciel podzielił tę działkę na 5 równych działek i jedną z nich sprzedał. Wartość działek o przeznaczeniu rolniczym w dacie sprzedaży wynosiła 100 tys. zł za hektar. Zmiana planu spowodowała przyrost wartości o 40 zł na 1 mkw. Maksymalna wielkość opłaty planistycznej od sprzedanej działki wyniesie:",
+    "options": [
+      "9000 zł;",
+      "12000 zł;",
+      "45000 zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-82",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Czy można dokonać z urzędu podziału, na działki gruntu nieruchomości przeznaczonych na inne cele niż rolne i leśne?",
+    "options": [
+      "można w każdym przypadku;",
+      "można jeżeli podział jest niezbędny dla realizacji celów publicznych;",
+      "można jeżeli nieruchomość stanowi własność gminy i nie została oddana w użytkowanie wieczyste."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-47",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Uproszczone plany urządzania lasów wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa zatwierdza:",
+    "options": [
+      "Minister właściwy do spraw środowiska;",
+      "Starosta właściwy terytorialnie;",
+      "Wojewoda właściwy terytorialnie."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-64",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Wskaźniki szacunkowe wyrażone w decytonach ziarna żyta z 1 ha dla gruntów ornych wynoszą: dla kl. I-145; II- 132; IIIa-118; IIIb-100; IVa-80; IVb-60; V-35; VI-15; VIz-8. Wielkość tego wskaźnika dla gruntów rolnych zabudowanych wyniesie:",
+    "options": [
+      "145;",
+      "100;",
+      "13."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-70",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Według przepisów ustawy o podatku rolnym, opodatkowaniu podatkiem rolnym podlegają grunty sklasyfikowane w ewidencji gruntów i budynków jako:",
+    "options": [
+      "grunty orne wykorzystywane na działalność rolniczą;",
+      "grunty zadrzewione i zakrzewione na użytkach rolnych,",
+      "użytki rolne wykorzystywane na działalność gospodarczą inną niż rolniczą."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-74",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Wycena plantacji kultury wieloletniej dla ustalenia odszkodowania za jej wywłaszczenie obejmuje m.in.:",
+    "options": [
+      "koszty założenia i pielęgnacji do pierwszych zbiorów;",
+      "utracone pożytkii za okres od pierwszego roku plonowania do końca plonowania;",
+      "utracone pożytki za okres od dnia wywłaszczenia do dnia zakończenia pełnego plonowania."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-31",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "Wskaźniki szacunkowe dla gruntów rolnych zabudowanych stosowane w podejściu mieszanym wyceny ustala się:",
+    "options": [
+      "w zależności od klasy bonitacyjnej gruntu ornego, na którym znajdują się zabudowania;",
+      "jak dla klasy I gruntu ornego;",
+      "jako 50% wartości wskaźnika przewidzianego dla klasy I gruntu ornego."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-32",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "W rozumieniu ustawy o ochronie gruntów rolnych i leśnych zgody ministra właściwego do spraw rozwoju wsi wymaga przeznaczenie nieruchomości na cele nierolnicze i nieleśne:",
+    "options": [
+      "użytków rolnych klasy I-III leżących w granicach administracyjnych miast;",
+      "użytków rolnych klasy I-III, leżących poza granicami miast, niezależnie od ich powierzchni;",
+      "użytków rolnych klasy I-III, leżących poza granicami miast, jeżeli ich powierzchnia przekracza 0,5 ha."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-53",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "Polska Akademia Nauk, szkoły wyższe oraz jednostki badawcze wnoszą z tytułu użytkowania wieczystego nieruchomościami Zasobu Własności Rolnej Skarbu Państwa opłaty z hektara przeliczeniowego, w rozumieniu przepisów o podatku rolnym, w wysokości:",
+    "options": [
+      "20 kg żyta;",
+      "50 kg żyta;",
+      "100 kg żyta."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-64",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "Odszkodowanie za zniszczone drzewo na gruncie rolnym należy ustalić według:",
+    "options": [
+      "różnicy wartości gruntu z drzewem i gruntu po usunięciu drzewa;",
+      "wartości drewna lub wg kosztów wyhodowania, przyjmując wynik wyższy;",
+      "wartości drewna, o ile właściciel wyrazi chęć zabrania drewna."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-70",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "Przy sprzedaży nieruchomości rolnych Skarbu Państwa pierwszeństwo w nabyciu nieruchomości przysługuje:",
+    "options": [
+      "rolnikowi w rozumieniu przepisów o ubezpieczeniu rolników zamierzającemu powiększyć gospodarstwo rolne;",
+      "pracownikowi zlikwidowanego państwowego gospodarstwa rolnego zamierzającemu utworzyć gospodarstwo rolne;",
+      "dzierżawcy zbywanej nieruchomości, jeżeli dzierżawa trwała faktycznie przez okres co najmniej trzech lat."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-71",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "Wskaźnik kosztów wyhodowania drzewostanu /WK/ w technice wskaźnikowej wyceny odczytuje się:",
+    "options": [
+      "z tablic wskaźników opracowanych przez Instytut Badawczy Leśnictwa;",
+      "tylko dla drzewostanów I klasy wieku;",
+      "dla drzewostanów I-szej i starszych klas wieku, o ile wskaźnik jest podany."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-73",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "Przy stosowaniu metody wskaźników szacunkowych gruntów w odniesieniu do nieruchomości przeznaczonych na cele leśne uwzględnia się następujące cechy:",
+    "options": [
+      "stopień degradacji siedliska leśnego;",
+      "występowanie infrastruktury utrudniąjacej agrotechnikę;",
+      "rodzaje gruntów przyległych."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-20",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Wskaźniki szacunkowe gruntów przyjmowane do wyceny nieruchomości rolnych zależą od:",
+    "options": [
+      "powierzchni działki gruntowej;",
+      "rodzaju użytku gruntowego;",
+      "rodzaju uprawy."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-26",
+        "session": "2022-10-27"
+      },
+      {
+        "id": "2022-06-02-31",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Zastosowanie metody wskaźników szacunkowych gruntów do wyceny nieruchomości przeznaczonej na cele leśne nie wymaga pozyskania danych dotyczących:",
+    "options": [
+      "typu siedliskowego lasu z ewidencji leśnej;",
+      "klasy gruntów z katastru nieruchomości;",
+      "okręgu podatkowego z ustawy o podatku od nieruchomości."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-28",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Wskaźnik szacunkowy dla gruntów ornych w I okręgu podatkowym dla klasy VI wynosi 15 decyton ziarna żyta. Wskaźnik ten dla gruntów stanowiących śródpolne zadrzewienia wyniesie:",
+    "options": [
+      "dla gruntów niesklasyfikowanych - 15 decyton ziarna żyta;",
+      "dla gruntów sklasyfikowanych jako kl VI - 7,5 decyton ziarna żyta;",
+      "dla gruntów sklasyfikowanych jako kl VI - 15 decyton ziarna żyta;"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-30",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Granice oddziałów leśnych przebiegają:",
+    "options": [
+      "południowymi i wschodnimi krawędziami linii podziału powierzchniowego;",
+      "północnymi i zachodnimi krawędziami linii podziału powierzchniowego;",
+      "północnymi i wschodnimi krawędziami linii podziału powierzchniowego."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-67",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Wycena gruntu leśnego bez drzewostanu w podejściu porównawczym wymaga zebrania m.in. danych dotyczących:",
+    "options": [
+      "typu siedliska leśnego;",
+      "dostępności komunikacyjnej;",
+      "przeciętnych cen sprzedaży drewna na rynku lokalnym."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-68",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Przy szacowaniu drzewostanu leśnego techniką wskaźnikową, niezbędne są m.in. takie dane jak:",
+    "options": [
+      "skład gatunkowy drzewostanu;",
+      "przeciętna pierśnica drzew;",
+      "bonitacja drzewostanu."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-72",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Decyzję o wyłączeniu gruntów rolnych z produkcji rolnej wydaje:",
+    "options": [
+      "wójt, burmistrz albo prezydent miasta;",
+      "starosta;",
+      "Minister Rolnictwa i Gospodarki Żywnościowej."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-78",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "W przypadku braku transakcji rynkowych w celu określenia wartości nieruchomości przeznaczonych na cele rolne rzeczoznawca majątkowy:",
+    "options": [
+      "stosuje metodę wskaźników szacunkowych gruntów;",
+      "przyjmuje klasy gruntów z katastru nieruchomości;",
+      "ustala położenie nieruchomości w okręgu podatkowym."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-32",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Przy wycenie upraw i zasiewów, do określenia odszkodowania za ich wywłaszczenie, wartość przewidywanych plonów jest obliczana według cen:",
+    "options": [
+      "wyłącznie podawanych przez GUS;",
+      "wyłącznie skupu przez Krajowy Ośrodek Wsparcia Rolnictwa;",
+      "kształtujących się w obrocie rynkowym."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-42",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Jaka jest wartość 1 ha gruntu leśnego wycenianego dla potrzeb określenia wartości mienia zabużańskiego, jeśli wskaźnik szacunkowy wynosi 20 m3/ha, zaś podstawowe parametry ekonomiczne we właściwym nadleśnictwie wynoszą: średnia cena sprzedaży drewna - 250zł/m3, średnia cena sprzedaży drewna iglastego WB02 - 350zł/m3 a koszty pozyskania i zrywki - 50zł/m3?",
+    "options": [
+      "4000 zł/ha;",
+      "6000 zł/ha;",
+      "5000 zł/ha."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-64",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Fazy rozwojowe w drzewostanie, to:",
+    "options": [
+      "uprawa leśna;",
+      "młodnik;",
+      "drągowina."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-71",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Do użytków rolnych zgodnie z przepisami w sprawie ewidencji gruntów i budynków zalicza się użytki oznaczone następującymi symbolami:",
+    "options": [
+      "R;",
+      "Wsr;",
+      "Lzr."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-72",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Cena nieruchomości Zasobu Własności Rolnej SP wynosi 10 tys. zł. Nieruchomość ta została przekazana w użytkowanie wieczyste na cele rolne. Opłata roczna z tego tytułu wyniesie:",
+    "options": [
+      "10 zł;",
+      "30 zł;",
+      "100 zł."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-75",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Typ siedliskowy lasu jest to jednostka klasyfikacji:",
+    "options": [
+      "gruntu leśnego z uwagi na klasę bonitacyjną gleby;",
+      "gruntu leśnego z uwagi na żyzność i wilgotność gleby;",
+      "gruntu leśnego i drzewostanu ze względu na skład gatunkowy drzewostanu."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-76",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Do ustalenia odszkodowania za grunt leśny przejęty pod drogę publiczną, w przypadku braku transakcji nieruchomościami drogowymi, jego wartość określa się tak, jak gruntu:",
+    "options": [
+      "leśnego, powiększając wynik o 50%;",
+      "leśnego, powiększając wynik do 50%;",
+      "leśnego, powiększając wynik o 100%."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-77",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Co się dzieje ze służebnością osobistą z chwilą śmierci osoby uprawnionej ?",
+    "options": [
+      "prawo to wchodzi do masy spadkowej;",
+      "prawo to wygasa;",
+      "w przypadku służebności osobistej mieszkania , prawo to przechodzi zawsze na dzieci , rodziców lub małżonka osoby uprawnionej."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-85",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Wartość wskaźnika szacunkowego gruntu rolnego zależy od:",
+    "options": [
+      "nośności gruntu;",
+      "stopnia kultury rolnej gruntu;",
+      "rodzaju użytku rolnego."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-07-07-24",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "question": "Przy zmianie przeznaczenia w miejscowym planie zagospodarowania przestrzennego gruntów rolnych klasy IV (także IVa i IVb):",
+    "options": [
+      "wymagana jest zgoda, gdy obszar wynosi co najmniej 1,00 ha;",
+      "nie wymagana jest zgoda na zmianę przeznaczenia;",
+      "zgoda jest wymagana niezależnie od wielkości przeznaczanej powierzchni."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-07-07-59",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "question": "Nadzór nad gospodarką leśną, w lasach niestanowiących własności Skarbu Państwa sprawuje:",
+    "options": [
+      "starosta;",
+      "Dyrektor Regionalny Dyrekcji Lasów Państwowych na mocy porozumienia ze starostą we wszystkich przypadkach;",
+      "Nadleśniczy Lasów Państwowych na mocy porozumienia ze starostą, w odniesieniu do lasów znajdujących się na terenie powiatu."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-07-07-67",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "question": "W odniesieniu do nieruchomości rolnych przejmowanych na rzecz Skarbu Państwa na podstawie przepisów szczególnych, obowiązują przepisy zawarte w:",
+    "options": [
+      "ustawie o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa;",
+      "ustawie o gospodarce nieruchomościami;",
+      "ustawie o kształtowaniu ustroju rolnego."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-07-07-71",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "question": "Powierzchnia lasu 50-cioletniego należącego do osoby fizycznej wynosi 10,0000 ha. Podatek leśny od tych gruntów wyniesie równowartość:",
+    "options": [
+      "0,220 m3 drewna;",
+      "2,20 m3 drewna;",
+      "4,40 m3 drewna."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-07-07-72",
+        "session": "2022-07-07"
+      },
+      {
+        "id": "2021-10-28-66",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Na mapie glebowo-rolniczej znajduje się opis 6 Dz ps : pl. W tym opisie 6 oznacza:",
+    "options": [
+      "numer klasy bonitacyjnej;",
+      "numer typu gleby;",
+      "numer kompleksu przydatności rolniczej."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-07-07-75",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "question": "Wskaźnik szacunkowy wyrażony w decytonach ziarna żyta z 1 ha gruntów ornych klasy VI wynosi 12. Wskaźnik ten dla gruntów oznaczonych w ewidencji gruntów jako Lz VI wyniesie:",
+    "options": [
+      "6;",
+      "12;",
+      "24."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-06-02-21",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Przy szacowaniu gruntów leśnych metodą wskaźników szacunkowych gruntów uwzględnia się m.in.:",
+    "options": [
+      "szkodliwe oddziaływanie przemysłu na drzewostan;",
+      "rodzaje gruntów przyległych;",
+      "zagrożenie erozją."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-06-02-41",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Ile wynosi opłata roczna za oddanie w użytkowanie wieczyste nieruchomości gruntowej stanowiącej własność gminy, przeznaczonej na cele rolne?",
+    "options": [
+      "1 % ceny tej nieruchomości;",
+      "2 % ceny tej nieruchomości;",
+      "3 % ceny tej nieruchomości."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-06-02-51",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Cena nieruchomości Zasobu Własności Rolnej SP wynosi 10 tys. zł. Nieruchomość ta została przekazana w zarząd trwały pod drogę publiczną. Opłata roczna z tego tytułu wyniesie:",
+    "options": [
+      "10 zł;",
+      "0 zł",
+      "100 zł"
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-06-02-72",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Ustawowa należność za wyłączenie 1 ha gruntu leśnego wynosi równowartość 600 m3 drewna. Cena drewna podana przez Prezesa GUS wynosi 200 zł/m3. Na rynku lokalnym podobne grunty uzyskują cenę 10 zł/m2. Należność ustalona za wyłączenie 0,5 ha gruntu leśnego wyniesie:",
+    "options": [
+      "10 000;",
+      "110 000;",
+      "60 000."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-06-02-77",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Do zabudowy zagrodowej należą budynki w rodzinnych gospodarstwach rolnych:",
+    "options": [
+      "budynki mieszkalne;",
+      "budynki rekreacyjne;",
+      "budynki inwentarskie."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-04-28-9",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "Wskaźnik szacunkowy wyrażony w decytonach ziarna żyta z 1 ha gruntów ornych kl. IVa wynosi - 80, a IVb - 60. Wskaźnik ten dla gruntów oznaczonych w ewidencji gruntów jako LzIV wyniesie:",
+    "options": [
+      "30;",
+      "35;",
+      "40."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-04-28-42",
+        "session": "2022-04-28"
+      },
+      {
+        "id": "2021-09-09-69",
+        "session": "2021-09-09"
+      },
+      {
+        "id": "2021-06-24-67",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "Wartość gruntu wyłączanego z produkcji rolnej, ustalona do obliczenia należności, jest określana:",
+    "options": [
+      "według cen rynkowych;",
+      "według metody likwidacyjnej;",
+      "na dzień faktycznego wyłączenia tego gruntu z produkcji."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-04-28-54",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "Nadleśniczy może samodzielnie sprzedać grunty leśne i nieleśne Skarbu Państwa w zarządzie Lasów Państwowych:",
+    "options": [
+      "o powierzchni do 1.00 ha, jeżeli stanowią enklawę wśród gruntów innej formy własności;",
+      "o powierzchni do 10.00 ha, jeżeli stanowią enklawę wśród gruntów innej formy własności;",
+      "nie ma ograniczeń."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-04-28-63",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "Linie podziału przestrzennego lasu stanowią:",
+    "options": [
+      "linie podziału powierzchniowego;",
+      "pasy przeciwpożarowe;",
+      "pasy lub rowy graniczne."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-04-28-70",
+        "session": "2022-04-28"
+      },
+      {
+        "id": "2021-04-22-14",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Wskaźnik szacunkowy 1 ha gruntu leśnego zależy od:",
+    "options": [
+      "klasy bonitacyjnej gruntu;",
+      "typu siedliskowego lasu;",
+      "ceny 1 m3 drewna podanej przez Prezesa GUS."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-04-28-74",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "Dla określenia wartości nieruchomości leśnej w podejściu mieszanym rzeczoznawca majątkowy określa:",
+    "options": [
+      "wartość drzewostanu zawsze według wartości drewna;",
+      "wartość drzewostanu zawsze według kosztów wyhodowania;",
+      "wartość gruntu metodą wskaźników szacunkowych gruntów."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-04-28-90",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "Wskaźniki szacunkowe gruntów wykorzystywane w wycenie gruntów rolnych są podane w:",
+    "options": [
+      "Rozporządzeniu Ministra Rolnictwa wydanego w porozumieniu z Ministrem Finansów;",
+      "Rozporządzeniu Rady Ministrów dotyczącym wyceny nieruchomości;",
+      "Komunikatach Prezesa GUS."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-26",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Czy w przypadku wzrostu wartości nieruchomości spowodowanego wybudowaniem urządzenia infrastruktury technicznej, właściwy organ ma obowiązek ustalenia opłaty adiacenckiej, jeżeli nieruchomość jest przeznaczona na inne cele niż rolne i leśne?",
+    "options": [
+      "jest to obowiązek ustawowy gminy, gdyż opłata stanowi jej dochód;",
+      "jest to możliwość, a nie obowiązek;",
+      "obowiązek ten może nałożyć wojewoda."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-46",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Wywłaszczony został sad, na którym znajduje się 100 pięcioletnich jabłoni. Wartość bieżąca jednego drzewka wynosi 45 zł, a utracone korzyści za okres do końca plonowania wynoszą 40 zł. Właściciel wywłaszczonego sadu otrzyma odszkodowanie za plantacje kultury wieloletniej w wysokości:",
+    "options": [
+      "4 000 zł;",
+      "4 500 zł;",
+      "8 500 zł;"
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-64",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Pojęcie \"gospodarstwo rolne\"jest zdefiniowane w:",
+    "options": [
+      "ustawie o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa;",
+      "ustawie o kształtowaniu ustroju rolnego;",
+      "ustawie o podatku rolnym."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-68",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Uproszczone plany urządzania lasu sporządza się dla:",
+    "options": [
+      "lasów stanowiących własność Skarbu Państwa wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa o powierzchni przekraczającej 10 ha;",
+      "lasów nie stanowiących własności Skarbu Państwa niezależnie od ich powierzchni;",
+      "lasów nie stanowiących własności Skarbu Państwa o powierzchni przekraczającej 10 ha."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-69",
+        "session": "2022-03-24"
+      },
+      {
+        "id": "2021-10-28-74",
+        "session": "2021-10-28"
+      },
+      {
+        "id": "2021-06-24-76",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "Od podatku rolnego zwalnia się użytki gruntowe oznaczone:",
+    "options": [
+      "Lz-RV;",
+      "PsVI;",
+      "B-RIVb."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-71",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Status lasu ochronnego w formie decyzji nadaje:",
+    "options": [
+      "Minister Środowiska we wszystkich przypadkach;",
+      "Minister Środowiska w odniesieniu do lasów stanowiących własność Skarbu Państwa;",
+      "starosta w odniesieniu do lasów innych niż stanowiące własność Skarbu Państwa."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-77",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Jakie warunki muszą zostać spełnione dla dokonania scalenia i podziału nieruchomości przeznaczonych na inne cele niż rolne lub leśne ?",
+    "options": [
+      "zgodność z ustaleniami miejscowego planu zagospodarowania przestrzennego , a w przypadku jego braku zgodność ze studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy;",
+      "zgodność z ustaleniami miejscowego planu zagospodarowania przestrzennego , a w przypadku jego braku , zgodność z ustaleniami decyzji o warunkach zabudowy i zagospodarowania terenu;",
+      "złożenie wniosku o scalenie i podział przez właścicieli lub użytkowników wieczystych posiadających ponad 50 % powierzchni gruntów objętych scaleniem i podziałem."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-82",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "W ewidencji gruntów, grunty leśne dzielą się na:",
+    "options": [
+      "lasy - symbol Ls;",
+      "grunty zadrzewione i zakrzewione - symbol Lz;",
+      "grunty zadrzewione i zakrzewione - symbol Lzr."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-55",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "Mapy glebowo-rolnicze sporządzane są m.in. w skali:",
+    "options": [
+      "1:1 000;",
+      "1:2 000;",
+      "1:5 000."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-64",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "W podejściu mieszanym, przy wycenie gruntów leśnych, cenę drewna stanowi:",
+    "options": [
+      "cena 1 m3 So WBO;",
+      "cena 1m3 jako przeciętna cena drewna w nadleśnictwie;",
+      "cena 1 m3 podawana corocznie przez GUS."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-66",
+        "session": "2021-12-02"
+      },
+      {
+        "id": "2021-04-22-75",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Nieruchomość rolna według kodeksu cywilnego to:",
+    "options": [
+      "tylko grunt o powierzchni > 0,1 ha;",
+      "tylko grunt o powierzchni > 1,0 ha;",
+      "nie ma ograniczeń powierzchniowych."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-69",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "Cena nieruchomości Zasobu Własności Rolnej SP wynosi 10 tys. zł. Nieruchomość ta została przekazana w użytkowanie wieczyste na cele rekreacyjne. Opłata roczna z tego tytułu wyniesie:",
+    "options": [
+      "200 zł;",
+      "300 zł;",
+      "100 zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-76",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "Do użytków rolnych zgodnie z przepisami prawa geodezyjnego zalicza się następujące rodzaje:",
+    "options": [
+      "R;",
+      "Wsr;",
+      "Lzr."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-77",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "Wartość lokalu zbywanego przez KOWR została określona na kwotę 200000 zł. Cena tego lokalu sprzedawanego najemcy z 10 letnim okresem najmu i posiadającym 10 letni staż pracy w państwowym gospodarstwie rolnym wyniesie:",
+    "options": [
+      "20 000 zł;",
+      "80 000 zł;",
+      "60 000 zł."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-80",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "Lasy Państwowe sprzedają lokal o wartości 100 tys. zł. najemcy (nieposiadającemu uprawnień) po 5 latach najmu na podstawie umowy najmu, zawartej na czas nieoznaczony. Cena nabycia lokalu wynosi:",
+    "options": [
+      "100 tys. zł;",
+      "85 tys. zł;",
+      "15 tys. zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-7",
+        "session": "2021-10-28"
+      },
+      {
+        "id": "2021-07-22-10",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Wskaźnik szacunkowy gruntu leśnego, w podejściu mieszanym wyraża się w jednostkach:",
+    "options": [
+      "m3 drewna;",
+      "m przestrzennych drewna;",
+      "dt ziarna żyta."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-31",
+        "session": "2021-10-28"
+      },
+      {
+        "id": "2021-05-27-90",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Współczynnik zadrzewienia wynosi 0,7. Miąższość rzeczywista drzewostanu na 1 ha, odczytana z opisu taksacyjnego wynosi 700 m3. Miąższość tabelaryczna dla prawidłowej gospodarki wynosi:",
+    "options": [
+      "490 m3;",
+      "1000 m3;",
+      "700 m3."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-39",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Przy określaniu wartości plantacji kultury wieloletniej dla celów odszkodowania za wywłaszczenie uwzględnia się odpisy amortyzacyjne. Odpisy amortyzacyjne są liczone:",
+    "options": [
+      "od dnia założenia plantacji do końca jej plonowania;",
+      "od rozpoczęcia okresu plonowania do końca jej plonowania;",
+      "od rozpoczęcia okresu plonowania do dnia jej wywłaszczenia."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-68",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Powierzchnia użytków rolnych wynosi 1,0000 ha. Jest to gospodarstwo rolne w rozumieniu przepisów:",
+    "options": [
+      "Kodeksu cywilnego;",
+      "przepisów o podatku rolnym;",
+      "ustawy o kształtowaniu ustroju rolnego."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-69",
+        "session": "2021-10-28"
+      },
+      {
+        "id": "2021-06-24-65",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "Według ustawa o kształtowaniu ustroju rolnego do użytków rolnych zalicza się:",
+    "options": [
+      "grunty orne;",
+      "grunty zadrzewione i zakrzewione na użytkach rolnych;",
+      "grunty pod rowami."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-70",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Ustawowa należność za wyłączenie 1 ha Ps III wynosi 291 450 zł. Na rynku lokalnym podobne grunty uzyskują cenę 30 zł/m2. Należność ustalona za wyłączenie 0,1000 ha gruntu rolnego wyniesie:",
+    "options": [
+      "30 000 zł;",
+      "29 145 zł;",
+      "0 zł."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-73",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Wskaźniki szacunkowe wyrażone w decytonach ziarna żyta z 1 ha dla łąk i pastwisk wynoszą: dla kl. I-145; II- 118; III-93; IV-67; V-35; VI-13; VIz-5. Wielkość tego wskaźnika dla stawów rybackich nieklasyfikowanych wyniesie:",
+    "options": [
+      "145;",
+      "67;",
+      "13."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-75",
+        "session": "2021-10-28"
+      },
+      {
+        "id": "2021-07-22-65",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Na czyj wniosek może być dokonany podział nieruchomości przeznaczonej na inne cele niż rolne i leśne ?",
+    "options": [
+      "wyłącznie na wniosek właściciela nieruchomości, gdyż podział jest ingerencją w prawo własności i nikt inny niż właściciel nie ma prawa do takiej ingerencji;",
+      "w niektórych przypadkach może być dokonany z urzędu;",
+      "na wniosek osoby, która ma w tym interes prawny."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-85",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Przy określaniu wartości plantacji kultur wieloletnich (sad jabłoniowy -plantacja towarowa), dla potrzeb odszkodowania za wywłaszczenie w okresie inwestycyjnym:",
+    "options": [
+      "odpisy amortyzacyjne będą większe im starszy jest sad;",
+      "odpisy amortyzacyjne będą miejsze im starszy jest sad;",
+      "w okresie inwestycyjnym nie ma odpisów amortyzacyjnych."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-26",
+        "session": "2021-09-09"
+      },
+      {
+        "id": "2021-07-22-41",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Wskaźnik szacunkowy wyrażony w decytonach ziarna żyta z 1 ha gruntów ornych kl. VI wynosi 12. Wskaźnik ten dla gruntów oznaczonych w ewidencji gruntów jako LzVI wyniesie:",
+    "options": [
+      "6;",
+      "12;",
+      "24."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-64",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Przy określaniu wartości plantacji kutury wieloletniej dla celów odszkodowania za wywłaszczenie uwzględnia się odpisy amortyzacyjne. Odpisy amortyzacyjne są liczone:",
+    "options": [
+      "od dnia założenia plantacji do końca jej plonowania;",
+      "od rozpoczęcia okresu plonowania do końca jej plonowania;",
+      "od rozpoczęcia okresu plonowania do dnia jej wywłaszczenia."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-65",
+        "session": "2021-09-09"
+      },
+      {
+        "id": "2021-04-22-76",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Wskaźnik szacunkowy gruntu leśnego w podejściu mieszanym wyraża się w jednostkach:",
+    "options": [
+      "dt ziarna żyta;",
+      "m3 drewna;",
+      "m3 sosny tartacznej II klasy jakości."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-66",
+        "session": "2021-09-09"
+      },
+      {
+        "id": "2021-07-22-64",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Ustawowa należność za wyłączenie 1 ha Ps III wynosi 291 450 zł. Na rynku lokalnym podobne grunty uzyskują cenę 30 zł za m kw. Należność ustalona za wyłączenie 0,1000 ha gruntu rolnego wyniesie:",
+    "options": [
+      "30 000 zł;",
+      "29 145 zł;",
+      "0 zł."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-67",
+        "session": "2021-09-09"
+      },
+      {
+        "id": "2021-06-24-66",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "Rzeczoznawca majątkowy w ramach swoich uprawnień nie może:",
+    "options": [
+      "określać bankowo-hipotecznej wartości nieruchomości;",
+      "sporządzać ekspertyzy technicznej budynku, w rozumieniu przepisów prawa budowlanego;",
+      "sporządzać ekspertyzy efektywności inwestowania w nieruchomości i ich rozwoju."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-68",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "question": "W borach mieszanych występują następujące typy siedliskowe:",
+    "options": [
+      "bór mieszany suchy;",
+      "bór mieszany świeży;",
+      "bór mieszany wilgotny."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-70",
+        "session": "2021-09-09"
+      },
+      {
+        "id": "2021-06-24-74",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "Przy wycenie lasu z zastosowaniem techniki szczegółowej konieczna jest znajomość:",
+    "options": [
+      "stopnia zwarcia drzewostanu;",
+      "stopnia zadrzewienia;",
+      "wieku drzew."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-72",
+        "session": "2021-09-09"
+      },
+      {
+        "id": "2021-07-22-71",
+        "session": "2021-07-22"
+      },
+      {
+        "id": "2021-05-27-74",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Użytki rolne to:",
+    "options": [
+      "grunty orne;",
+      "łąki i pastwiska trwałe;",
+      "grunty pod rowami."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-74",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Wartość wskaźnika szacunkowego gruntów rolnych zależy od:",
+    "options": [
+      "położenia w okręgu spisowym;",
+      "rodzaju użytku rolnego;",
+      "klasy bonitacyjnej gruntu."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-13",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Dokumenty, które należy dołączyć do wniosku o dokonanie podziału nieruchomości przeznaczonych na inne cele niż rolne i leśne, to:",
+    "options": [
+      "dokument potwierdzający tytuł prawny do nieruchomosci;",
+      "wypis z katastru nieruchomości i kopię mapy katastralnej;",
+      "mapę z projektem podziału."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-14",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Który organ administracji publicznej zatwierdza w I instancji podziały na działki gruntu nieruchomości przeznaczonych na inne cele niż rolne i leśne?",
+    "options": [
+      "starosta;",
+      "rada gminy;",
+      "wójt, burmistrz albo prezydent miasta."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-50",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Powierzchnia poszczególnych użytków gruntowych wynosi: RV-0,7000ha; PsV-0,2000ha; Lzr-0,2000 ha. Jest to gospodarstwo rolne, w rozumieniu przepisów:",
+    "options": [
+      "Kodeksu cywilnego;",
+      "Ustawy o kształtowaniu ustroju rolnego;",
+      "Ustawy o podatku rolnym."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-55",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "W rozumieniu ustawy o ochronie gruntów rolnych i leśnych, przeznaczenie nieruchomości na cele nierolnicze i nieleśne wymaga zgody ministra właściwego do spraw rozwoju wsi w przypadku:",
+    "options": [
+      "użytków rolnych klasy I-III leżących w granicach administracyjnych miast;",
+      "wszystkich użytków rolnych klasy I-III o powierzchni powyżej 0,1 ha;",
+      "użytków rolnych klasy I-III, jeżeli ich powierzchnia przekracza 0,5 ha."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-68",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Nieruchomość wywłaszczona może być użyta na cel inny niż określony w decyzji o wywłaszczeniu, jeżeli:",
+    "options": [
+      "przed upływem 7 lat od dnia, w którym decyzja o wywłaszczeniu stała się ostateczna rozpoczęto prace związane z realizacją celu określonego w tej decyzji;",
+      "pomimo upływu 10 lat od dnia, w którym decyzja o wywłaszczeniu stała się ostateczna cel określony w tej decyzji nie został zrealizowany;",
+      "poprzedni właściciel lub jego spadkobierca nie złożył wniosku o zwrot tej nieruchomości."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-77",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Czy można skutecznie dokonać podziału nieruchomości przeznaczonej na inne cele niż rolne i leśne, bez wydawania decyzji zatwierdzającej jej podział?",
+    "options": [
+      "nie można, gdyż wydanie decyzji zatwierdzajacej podział nieruchomości jest warunkiem ustawowym jego dokonania;",
+      "można, ale wyłącznie wtedy, gdy o podziale orzeka sąd;",
+      "można w każdym przypadku."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-81",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Jak ustala się odpłatność za nieruchomości przejmowane na własność Skarbu Państwa od osób uprawnionych do emerytury lub renty z ubezpieczenia społecznego rolników , w przypadku stwierdzenia niemożliwości sprzedaży tych nieruchomości ?",
+    "options": [
+      "ustala się w wysokości 100% kwoty jej oszacowania, obliczonej na dzień wydania decyzji o przejęciu nieruchomości",
+      "ustala się w wysokości 50 % kwoty jej oszacowania , obliczonej na dzień wydania decyzji o przejeciu nieruchomości",
+      "ustala się w wysokości 25% kwoty jej oszacowania, obliczonej na dzień wydania decyzji o przejęciu nieruchomości"
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-84",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Do gruntów rolnych w ewidencji gruntów i budynków zalicza się m.in.:",
+    "options": [
+      "grunty orne;",
+      "nieużytki;",
+      "zadrzewienia położone na użytkach rolnych."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-56",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "Plany urządzania lasu zatwierdza i nadzoruje ich wykonanie:",
+    "options": [
+      "Minister Środowiska;",
+      "Generalny Dyrektor Lasów Państwowych;",
+      "Dyrektor Regionalnej Dyrekcji Lasów Państwowych."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-64",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "Przy określaniu wartości plantacji kultury wieloletniej dla celów odszkodowania za wywłaszczenie uwzględnia się utracone pożytki. Pożytki te uwzględnia się w okresie:",
+    "options": [
+      "od dnia założenia plantacji do końca jej plonowania;",
+      "od dnia założenia plantacji do dnia jej wywłaszczenia;",
+      "od dnia wywłaszczenia do końca jej pełnego plonowania."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-71",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "Do obliczenia odszkodowania za przedwczesny wyrąb drzewostanów, w których brak jest sortymentów użytkowych należy zastosować algorytm:",
+    "options": [
+      "O= Wki*P*c",
+      "O=(Wi-Ws)*z*P*c",
+      "O = Wki*z*P*c"
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-77",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "Co się dzieje ze służebnością osobistą z chwilą śmierci osoby uprawnionej ?",
+    "options": [
+      "prawo to wchodzi do masy spadkowej;",
+      "prawo to wygasa;",
+      "w przypadku służebności osobistej mieszkania , prawo to przechodzi zawsze na dzieci, rodziców lub małżonka osoby uprawnionej."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-81",
+        "session": "2021-06-24"
+      },
+      {
+        "id": "2021-05-27-80",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Dyrektor Regionalnej Dyrekcji Lasów Państwowych może dokonać zamiany lasów, gruntów leśnych i innych nieruchomości pozostających w zarządzie Lasów Państwowych na lasy, grunty leśne i inne nieruchomości w przypadkach uzasadnionych potrzebami i celami gospodarczym",
+    "options": [
+      "po uzyskaniu opinii nadleśniczego;",
+      "za zgodą Dyrektora Generalnego Lasów Państwowych;",
+      "po ich wycenie przez rzeczoznawcę majątkowego."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-05-27-13",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Wskaźniki szacunkowe wyrażony w decytonach ziarna żyta z 1 ha dla gruntów ornych wynoszą: dla kl. I-145; II- 132; IIIa-118; IIIb-100; IVa-80; IVb-60; V-35; VI-15; VIz-8. Wielkość tego wskaźnika dla gruntów rolnych zabudowanych wyniesie:",
+    "options": [
+      "145;",
+      "100;",
+      "13."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-05-27-29",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Uproszczone plany urządzania lasu zatwierdza i nadzoruje ich wykonanie:",
+    "options": [
+      "starosta w odniesieniu do lasów nie stanowiących własności Skarbu Państwa;",
+      "Minister Środowiska w odniesieniu do lasów wchodzących w skład Zasobu Nieruchomości Rolnych Skarbu Państwa;",
+      "marszałek województwa w odniesieniu do lasów nie stanowiących własności Skarbu Państwa."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-05-27-69",
+        "session": "2021-05-27"
+      },
+      {
+        "id": "2021-04-22-74",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "W borach występują następujace typy siedliskowe:",
+    "options": [
+      "bór suchy;",
+      "bór świeży;",
+      "bór bagienny."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-05-27-71",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Wskaźnik szacunkowy 1 ha gruntu leśnego jest zależny od:",
+    "options": [
+      "klasy bonitacyjnej gruntu;",
+      "ceny 1 m3 drewna;",
+      "typu siedliskowego lasu."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-05-27-72",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Wartość gruntu leśnego nieruchomości pozostawionej poza obecnymi granicami Rzeczypospolitej Polskiej na potrzeby wynikające z ustawy z dnia 8 lipca 2005 r. o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami RP określa się:",
+    "options": [
+      "w podejściu dochodowym;",
+      "stosując metodę wskaźników szacunkowych gruntów;",
+      "w podejściu porównawczym, uwzględniając przeciętne ceny transakcyjne uzyskane za nieruchomości podobne."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-05-27-73",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Wskaźnik szacunkowy gruntu rolnego zależy od:",
+    "options": [
+      "okręgu podatkowego;",
+      "klasy bonitacyjnej;",
+      "kompleksu rolniczej przydatności."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-05-27-75",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Koszty pozyskania i zrywki rzeczoznawca majątkowy uwzględnia przy określaniu wartości nieruchomości leśnych, w podejściu mieszanym, metodą wskaźnikową gruntów, w odniesieniu do:",
+    "options": [
+      "nie uwzględnia kosztów pozyskania i zrywki w odniesieniu do drzew i drzewostanów;",
+      "tylko wybranych drzewostanów;",
+      "wartości drzew i drzewostanów występujących na gruncie."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-05-27-89",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Wartość budynku rolniczego w stanie nowym wynosi 200 000 zł. Jego zużycie wynosi 20%. Suma ubezpieczenia tego budynku może odpowiadać wartości wynoszącej:",
+    "options": [
+      "160 000 zł;",
+      "200 000 zł;",
+      "180 000 zł."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-36",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "W którym momencie powstaje obowiązek wnoszenia należności oraz opłat rocznych z tytułu wyłączenia gruntów rolnych z produkcji rolnej?",
+    "options": [
+      "z dniem, w którym decyzja zezwalająca na wyłączenie stała się ostateczna;",
+      "z dniem, w którym stała się ostateczna decyzja o pozwoleniu na budowę, skutkująca wyłączeniem gruntów rolnych z produkcji rolnej;",
+      "z dniem faktycznego wyłączenia gruntów rolnych z produkcji rolnej."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-46",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Ustawowa należność za wyłączenie 1 ha gruntu leśnego wynosi równowartość 600 m3 drewna. Cena drewna podana przez Prezesa GUS wynosi 200 zł/m3. Na rynku lokalnym podobne grunty uzyskują cenę 10 zł/m2. Należność ustalona za wyłączenie 0,5 ha gruntu leśnego wynie",
+    "options": [
+      "10000 zł;",
+      "110000 zł;",
+      "60000 zł."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-64",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "W odniesieniu do nieruchomości rolnych przejmowanych na własność Skarbu Państwa na podstawie decyzji administracyjnych lub z innych tytułów:",
+    "options": [
+      "obowiązują zasady gospodarowania nieruchomościami rolnymi Skarbu Państwa;",
+      "nie obowiązują zasady gospodarowania nieruchomościami rolnymi Skarbu Państwa;",
+      "nie obowiązują zasady gospodarowania nieruchomościami rolnymi Skarbu Państwa, z wyjątkami zależnymi od formalno-prawnej podstawy przejęcia."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-65",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Przy określaniu wartości plantacji kutury wieloletniej dla celów odszkodowania za wywłaszczenie uwzględnia się odpisy amortyzacyjne. Ich wielkość:",
+    "options": [
+      "rośnie z wiekiem plantacji;",
+      "maleje z wiekiem plantacji;",
+      "wiek plantacji nie ma znaczenia."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-66",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Przy określaniu wartości plantacji kutury wieloletniej dla celów odszkodowania za wywłaszczenie uwzglednia się utracone pożytki. Wielkość utraconych pożytków:",
+    "options": [
+      "rośnie wraz z wiekiem plantacji;",
+      "maleje wraz z wiekiem plantacji;",
+      "nie zależą od wieku, tylko od rodzaju plantacji."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-72",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Skarb Państwa odpowiada za szkody wyrządzone w uprawach rolnych przez jakie zwierzeta żyjace na wolności ?",
+    "options": [
+      "niedźwiedzie;",
+      "borsuki;",
+      "żubry."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-83",
+        "session": "2021-04-22"
+      }
+    ]
+  }
+]

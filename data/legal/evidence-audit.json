@@ -1,0 +1,37 @@
+{
+  "uniqueCitations": 985,
+  "textMatched": 983,
+  "visual": [
+    {
+      "citation": {
+        "act": "Rozporządzenie Rady Ministrów z dnia 30 grudnia 1999 r. w sprawie Polskiej Klasyfikacji Obiektów Budowlanych (PKOB)",
+        "provision": "§ 1 oraz załącznik, część I pkt 1 — Wprowadzenie",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/1999/1316/text/I/D19991316.pdf#page=2",
+        "evidence": "Polska Klasyfikacja Obiektów Budowlanych (PKOB) stanowi usystematyzowany wykaz obiektów budowlanych, rozumianych jako produkty finalne działalności budowlanej.",
+        "sourceVerification": "visual-scan",
+        "sourcePage": 2,
+        "note": "Fragment sprawdzony w urzędowym skanie, strona 6927 Dziennika Ustaw."
+      },
+      "ids": [
+        "2026-04-22-4",
+        "2024-06-25-5",
+        "2022-09-15-4"
+      ]
+    },
+    {
+      "citation": {
+        "act": "Rozporządzenie Rady Ministrów z dnia 30 grudnia 1999 r. w sprawie Polskiej Klasyfikacji Obiektów Budowlanych (PKOB)",
+        "provision": "Załącznik, część I pkt 2 — Pojęcia podstawowe",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/1999/1316/text/I/D19991316.pdf#page=4",
+        "evidence": "Budynki to zadaszone obiekty budowlane wraz z wbudowanymi instalacjami i urządzeniami technicznymi, wykorzystywane dla potrzeb stałych. Przystosowane są do przebywania ludzi, zwierząt lub ochrony przedmiotów. Za szczególny rodzaj budynku uważa się wiatę, która stanowi pomieszczenie naziemne, nie obudowane ścianami ze wszystkich stron lub nawet w ogóle ścian pozbawione. […] Budynki obejmują również samodzielne podziemne obiekty budowlane przystosowane do ochrony ludzi, zwierząt lub przedmiotów (np. podziemne: schrony, szpitale, centra handlowe oraz warsztaty i garaże).",
+        "sourceVerification": "visual-scan",
+        "sourcePage": 4,
+        "note": "Fragment sprawdzony w urzędowym skanie, strona 6929 Dziennika Ustaw."
+      },
+      "ids": [
+        "2021-09-09-6"
+      ]
+    }
+  ],
+  "unmatched": []
+}

@@ -1,0 +1,4065 @@
+[
+  {
+    "question": "Danymi ewidencyjnymi dotyczącymi działki ewidencyjnej są:",
+    "options": [
+      "oznaczenie księgi wieczystej lub oznaczenie dokumentów określających własność;",
+      "pole powierzchni działki ewidencyjnej;",
+      "identyfikator działki."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-53",
+        "session": "2026-09-09"
+      },
+      {
+        "id": "2025-10-15-54",
+        "session": "2025-10-15"
+      }
+    ]
+  },
+  {
+    "question": "Na skutek uchwalenia planu miejscowego wartość nieruchomości zmniejszyła się o 30000 zł. Maksymalne odszkodowanie za zmniejszenie jej wartości przy sprzedaży w okresie do 5 lat od daty, gdy plan miejscowy stał się prawem wyniesie:",
+    "options": [
+      "9000 zł;",
+      "15000 zł;",
+      "30000 zł;"
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-54",
+        "session": "2026-09-09"
+      },
+      {
+        "id": "2025-03-26-82",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "question": "Spory w sprawach dotyczących roszczeń o odszkodowanie za zmniejszenie wartości nieruchomości w wyniku zmiany planu miejscowego, rozstrzygają:",
+    "options": [
+      "sądy administracyjne;",
+      "sądy powszechne;",
+      "rada gminy."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-55",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Rozgraniczenia nieruchomości dokonuje:",
+    "options": [
+      "wójt, burmistrz, prezydent miasta;",
+      "sąd;",
+      "starosta."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-56",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Rejestr wydanych decyzji o ustaleniu lokalizacji inwestycji celu publicznego o znaczeniu krajowym i wojewódzkim prowadzi:",
+    "options": [
+      "wojewoda;",
+      "marszałek województwa;",
+      "starosta."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-57",
+        "session": "2026-09-09"
+      },
+      {
+        "id": "2025-09-10-64",
+        "session": "2025-09-10"
+      },
+      {
+        "id": "2024-11-19-90",
+        "session": "2024-11-19"
+      },
+      {
+        "id": "2024-06-25-49",
+        "session": "2024-06-25"
+      },
+      {
+        "id": "2023-09-14-54",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "W razie ograniczenia korzystania z nieruchomości na skutek prac geodezyjnych, właścicielowi lub innej osobie władającej nieruchomością przysługuje wynagrodzenie przy wykonywaniu czynności:",
+    "options": [
+      "umieszczania na gruntach i obiektach budowlanych znaków geodezyjnych, grawimetrycznych i magnetycznych oraz urządzeń zabezpieczających te znaki;",
+      "umieszczania na gruntach i obiektach budowlanych budowli triangulacyjnych;",
+      "nie przysługuje odszkodowanie."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-58",
+        "session": "2026-09-09"
+      },
+      {
+        "id": "2024-11-19-61",
+        "session": "2024-11-19"
+      },
+      {
+        "id": "2022-03-24-62",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "W przypadku braku miejscowego planu zagospodarowania przestrzennego w decyzji o warunkach zabudowy i zagospodarowania terenu następuje:",
+    "options": [
+      "ustalenie lokalizacji inwestycji celu publicznego;",
+      "określenie sposobu zagospodarowania terenu;",
+      "określenie warunków zabudowy terenu."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-59",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Prawo do otrzymania wypisów i wyrysów z miejscowego planu zagospodarowania przestrzennego ma:",
+    "options": [
+      "każda osoba;",
+      "tylko i wyłącznie osoba, która wykaże interes prawny;",
+      "tylko i wyłącznie osoba, która otrzyma pisemną zgodę właściciela nieruchomości na uzyskanie wypisów i wyrysów dotyczących jego nieruchomości."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-60",
+        "session": "2026-09-09"
+      },
+      {
+        "id": "2025-10-15-58",
+        "session": "2025-10-15"
+      },
+      {
+        "id": "2023-11-30-54",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "question": "W ewidencji gruntów i budynków wykazuje się dane dotyczące:",
+    "options": [
+      "osób władających gruntami na zasadach samoistnego posiadania;",
+      "jednostek organizacyjnych sprawujących zarząd lub trwały zarząd nieruchomościami;",
+      "użytkowników gruntów państwowych i samorządowych."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-61",
+        "session": "2026-09-09"
+      },
+      {
+        "id": "2023-10-26-61",
+        "session": "2023-10-26"
+      },
+      {
+        "id": "2022-10-27-54",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Decyzje o warunkach zabudowy oraz decyzje o ustaleniu lokalizacji inwestycji celu publicznego wydaje się:",
+    "options": [
+      "w przypadku potrzeby zmiany ustaleń obowiązującego miejscowego planu zagospodarowania przestrzennego;",
+      "w przypadku braku miejscowego planu zagospodarowania przestrzennego;",
+      "w przypadku potrzeby zmiany planu zagospodarowania przestrzennego województwa."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-62",
+        "session": "2026-09-09"
+      },
+      {
+        "id": "2025-10-15-50",
+        "session": "2025-10-15"
+      },
+      {
+        "id": "2021-04-22-61",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Symbol \"Tp\" w ewidencji gruntów i budynków oznacza:",
+    "options": [
+      "tereny przemysłowe;",
+      "tereny przeznaczone pod budowę dróg lub linii kolejowych;",
+      "inne tereny komunikacyjne takie jak porty lotnicze, urządzenia portowe, przystanie."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-63",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Jeżeli w związku z uchwaleniem planu miejscowego albo jego zmianą, korzystanie z nieruchomości lub jej części w dotychczasowy sposób lub zgodny z dotychczasowym przeznaczeniem stało się niemożliwe bądź istotnie ograniczone, właściciel albo użytkownik wieczysty może:",
+    "options": [
+      "żądać od gminy odszkodowania za poniesioną rzeczywistą szkodę;",
+      "żądać od gminy wykupienia nieruchomości lub jej części;",
+      "zrealizować swoje roszczenie w drodze otrzymania zaoferowanej przez gminę nieruchomości zamiennej."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-64",
+        "session": "2026-09-09"
+      },
+      {
+        "id": "2024-03-19-62",
+        "session": "2024-03-19"
+      },
+      {
+        "id": "2023-03-23-87",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "W planowaniu przestrzennym przez \"dobra kultury współczesnej\" należy rozumieć:",
+    "options": [
+      "obiekty uznane za zabytki;",
+      "niebędące zabytkami pomniki;",
+      "niebędące zabytkami założenia urbanistyczne i krajobrazowe."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-65",
+        "session": "2026-09-09"
+      },
+      {
+        "id": "2023-10-26-58",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "Wójt, burmistrz albo prezydent miasta opiniuje zgodność z ustaleniami miejscowego planu zagospodarowania przestrzennego, projektu podziału nieruchomości na działki gruntu, wnioskowanego przez jej właściciela w drodze?",
+    "options": [
+      "zaświadczenia;",
+      "decyzji;",
+      "postanowienia."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-45",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "question": "W planowaniu i zagospodarowaniu przestrzennym uwzględnia się:",
+    "options": [
+      "prawo własności;",
+      "obciążenie nieruchomości ograniczonymi prawami rzeczowymi;",
+      "potrzeby w zakresie rozwoju sieci szerokopasmowych."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-50",
+        "session": "2026-06-17"
+      },
+      {
+        "id": "2024-10-22-61",
+        "session": "2024-10-22"
+      },
+      {
+        "id": "2022-10-27-64",
+        "session": "2022-10-27"
+      },
+      {
+        "id": "2022-06-02-61",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Decyzję o warunkach zabudowy (z wyłączeniem terenów zamkniętych) wydaje:",
+    "options": [
+      "starosta;",
+      "rada gminy;",
+      "wójt, burmistrz, prezydent miasta."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-51",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "question": "Decyzja o warunkach zabudowy:",
+    "options": [
+      "nie narusza uprawnień osób trzecich;",
+      "nie rodzi praw do terenu i nie narusza prawa własności;",
+      "daje jej posiadaczowi prawo pierwokupu."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-52",
+        "session": "2026-06-17"
+      },
+      {
+        "id": "2024-10-22-60",
+        "session": "2024-10-22"
+      },
+      {
+        "id": "2024-03-19-60",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "Danymi ewidencyjnymi dotyczącymi lokalu stanowiącego odrębny przedmiot własności są:",
+    "options": [
+      "numer ksiegi wieczystej;",
+      "oznaczenie jednostki rejestrowej lokalu;",
+      "liczba izb."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-53",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "question": "Starosta udostępnia informacje zawarte w operacie ewidencyjnym w formie:",
+    "options": [
+      "wypisów z rejestrów i kartotek;",
+      "plików komputerowych sformatowanych zgodnie z obowiązującym standardem wymiany danych ewidencyjnych;",
+      "kopii dokumentów uzasadniających wpisy do bazy danych operatu ewidencyjnego."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-55",
+        "session": "2026-06-17"
+      },
+      {
+        "id": "2023-06-22-55",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "Wejście w życie planu miejscowego:",
+    "options": [
+      "nie powoduje wygaśnięcia decyzji administracyjnych wydanych na podstawie poprzednich planów;",
+      "powoduje wygaśnięcie decyzji administracyjnych wydanych na podstawie poprzednich planów;",
+      "powoduje utratę mocy obowiązującej innych planów zagospodarowania przestrzennego odnoszących się do objętego nim terenu."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-56",
+        "session": "2026-06-17"
+      },
+      {
+        "id": "2026-04-22-60",
+        "session": "2026-04-22"
+      },
+      {
+        "id": "2024-06-25-62",
+        "session": "2024-06-25"
+      },
+      {
+        "id": "2023-06-22-59",
+        "session": "2023-06-22"
+      },
+      {
+        "id": "2022-07-07-65",
+        "session": "2022-07-07"
+      },
+      {
+        "id": "2022-04-28-86",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "Plan ogólny gminy stanowi podstawę prawną przy wydawaniu decyzji o warunkach zabudowy:",
+    "options": [
+      "na obszarze wyznaczonych stref planistycznych;",
+      "na obszarach uzupełnienia zabudowy;",
+      "na obszarach zabudowy śródmiejskiej."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-57",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "question": "Ewidencja gruntów i budynków obejmuje informacje dotyczące:",
+    "options": [
+      "budynków - ich położenia, przeznaczenia, funkcji użytkowych i ogólnych danych technicznych;",
+      "lokali - ich położenia, funkcji użytkowych oraz powierzchni użytkowych;",
+      "służebności gruntowych."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-59",
+        "session": "2026-06-17"
+      },
+      {
+        "id": "2024-04-23-66",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "question": "W przypadku określania wartości dla ustalenia odszkodowania za uniemożliwienie korzystania z nieruchomości w związku z uchwaleniem miejscowego planu zagospodarowania przestrzennego;",
+    "options": [
+      "stan nieruchomości przyjmuje się z dnia wejścia w życie planu miejscowego, a poziom cen z dnia, w którym następuje ustalenie odszkodowania;",
+      "stan nieruchomości przyjmuje się z dnia wejścia w życie planu miejscowego, a poziom cen z dnia z dnia złożenia wniosku roszczeniowego;",
+      "stan nieruchomości przyjmuje się z dnia uchwalenia planu miejscowego, a poziom cen z dnia, w którym następuje ustalenie odszkodowania;"
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-61",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "question": "Roszczenia o odszkodowania z tytułu obniżenia wartości nieruchomości w związku z uchwaleniem bądź zmianą istniejącego miejscowego planu zagospodarowania przestrzennego, w przypadku zbycia nieruchomości, można zgłaszać w terminie:",
+    "options": [
+      "roszczenia z tego tytułu mają charakter bezterminowy;",
+      "3 lat od dnia, w którym plan miejscowy albo jego zmiana stały się obowiązujące;",
+      "5 lat od dnia, w którym plan miejscowy albo jego zmiana stały się obowiązujące."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-63",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "question": "Obligatoryjna treść miejscowego planu zagospodarowania przestrzennego obejmuje:",
+    "options": [
+      "szczegółowe zasady i warunki scalania i podziału nieruchomości objętych planem miejscowym;",
+      "sposób i termin tymczasowego zagospodarowania, urządzania i użytkowania terenów;",
+      "minimalną powierzchnię nowo wydzielonych działek budowlanych."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-58",
+        "session": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Jeżeli w związku z uchwaleniem planu miejscowego korzystanie z nieruchomości w dotychczasowy sposób stało się niemożliwe lub istotnie ograniczone, właściciel:",
+    "options": [
+      "może żądać odszkodowania od gminy;",
+      "może żądać odszkodowania od władającego terenem zamkniętym, jeżeli uchwalenie planu spowodowane było potrzebami obronności;",
+      "może żądać odszkodowania od Skarbu Państwa, jeżeli treść planu powodująca ograniczenia wynika z uwarunkowań hydrologicznych dotyczących powodzi."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-62",
+        "session": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Szkody wyrządzone w związku z wykonywaniem prac geodezyjnych i kartograficznych podlegają naprawieniu na zasadach:",
+    "options": [
+      "opisanych w ustawie Prawo geodezyjne i kartograficzne;",
+      "prawa cywilnego;",
+      "opisanych w ustawie o gospodarce nieruchomościami."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-63",
+        "session": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "question": "W ewidencji gruntów, do sadów zalicza się grunty obsadzone drzewami i krzewami owocowymi o zwartym nasadzeniu o powierzchni co najmniej:",
+    "options": [
+      "0,1000 ha;",
+      "1,0000 ha;",
+      "0,3000 ha."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-69",
+        "session": "2026-04-22"
+      },
+      {
+        "id": "2022-10-27-69",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "W razie niezgodności danych z ewidencji gruntów i budynków z oznaczeniem nieruchomości w księdze wieczystej sąd rejonowy dokonuje sprostowania oznaczenia nieruchomości na podstawie danych z tej ewidencji:",
+    "options": [
+      "na wniosek właściciela lub użytkownika wieczystego nieruchomości;",
+      "z urzędu, na skutek zawiadomienia jednostki prowadzącej ewidencję gruntów i budynków;",
+      "na wniosek jednostki prowadzącej ewidencję gruntów i budynków."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-85",
+        "session": "2026-04-22"
+      },
+      {
+        "id": "2025-10-15-80",
+        "session": "2025-10-15"
+      }
+    ]
+  },
+  {
+    "question": "W przypadku połączenia działek ewidencyjnych nowo powstałą działkę ewidencyjną oznacza się:",
+    "options": [
+      "numerem działki o największym polu powierzchni, spośród działek podlegających połączeniu;",
+      "kolejną liczbą naturalną po najwyższym wykorzystanym numerze działki ewidencyjnej w obrębie ewidencyjnym;",
+      "numerem w postaci ułamka zwykłego q/p, gdzie q to najwyższy numer spośród łączonych działek a p = 1."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-52",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "question": "Działka ewidencyjna to:",
+    "options": [
+      "ciągły obszar gruntu, położony w granicach jednego obrębu ewidencyjnego, jednorodny pod względem prawnym, wydzielony z otoczenia za pomocą granic działek ewidencyjnych;",
+      "niekiedy tożsamy z nieruchomością gruntową;",
+      "zawsze tożsamy z nieruchomością gruntową."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-53",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "question": "Zgodność podziału nieruchomości z ustaleniami planu miejscowego dotyczy:",
+    "options": [
+      "przeznaczenia terenu;",
+      "możliwości zagospodarowania wydzielonych działek gruntu;",
+      "zgodności z przepisami szczególnymi."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-55",
+        "session": "2026-03-25"
+      },
+      {
+        "id": "2024-09-17-59",
+        "session": "2024-09-17"
+      },
+      {
+        "id": "2022-09-15-56",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Rejestr wydanych decyzji o ustaleniu lokalizacji inwestycji celu publicznego o znaczeniu powiatowym i gminnym prowadzi:",
+    "options": [
+      "starosta;",
+      "wojewoda;",
+      "wójt, burmistrz albo prezydent miasta."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-56",
+        "session": "2026-03-25"
+      },
+      {
+        "id": "2023-04-20-60",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Działka ewidencyjna jest wyróżniana przez numer, który może mieć postać:",
+    "options": [
+      "ułamka dziesiętnego;",
+      "ułamka zwykłego;",
+      "liczby naturalnej."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-57",
+        "session": "2026-03-25"
+      },
+      {
+        "id": "2023-06-22-62",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "Treść mapy ewidencyjnej stanowią następujące elementy:",
+    "options": [
+      "rzeźba terenu;",
+      "granice rejonów statystycznych i ich oznaczenia;",
+      "kontury użytków gruntowych."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-58",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "question": "Informacje z ewidencji gruntów i budynków zawierające dane osobowe wydaje się na żądanie:",
+    "options": [
+      "właścicieli oraz osób i jednostek organizacyjnych władających gruntami, budynkami lub lokalami, których dotyczy udostępniany zbiór danych lub wypis;",
+      "innych podmiotów, które mają interes prawny w tym zakresie;",
+      "rzeczoznawców majatkowych."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-60",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "question": "Uwagi do projektu planu miejscowego mogą być wniesione:",
+    "options": [
+      "przez jednostkę organizacyjną nieposiadającą osobowości prawnej;",
+      "tylko przez osoby mające interes prawny na obszarze objętym planem;",
+      "przez każdego, kto kwestionuje ustalenia przyjęte w projekcie planu wyłożonym do publicznego wglądu."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-61",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "question": "Ustawa prawo geodezyjne i kartograficzne reguluje sprawy dotyczące:",
+    "options": [
+      "ewidencji gruntów i budynków;",
+      "rozgraniczania nieruchomości;",
+      "gleboznawczej klasyfikacji gruntów."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-62",
+        "session": "2026-03-25"
+      },
+      {
+        "id": "2022-10-27-66",
+        "session": "2022-10-27"
+      },
+      {
+        "id": "2022-03-24-55",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Na skutek uchwalenia planu miejscowego wartość nieruchomości wzrosła o 30 000 zł. Maksymalna opłata planistyczna przy sprzedaży tej nieruchomości może wynieść:",
+    "options": [
+      "30 000 zł;",
+      "9 000 zł;",
+      "15 000 zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-63",
+        "session": "2026-03-25"
+      },
+      {
+        "id": "2023-06-22-61",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "Rejestr decyzji o warunkach zabudowy i zagospodarowania na terenach zamkniętych prowadzi:",
+    "options": [
+      "marszałek województwa;",
+      "wojewoda;",
+      "takiego rejestru się nie prowadzi."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-83",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "question": "Spory w sprawach dotyczących roszczeń o odszkodowanie za zmniejszenie wartości nieruchomości w wyniku zmiany planu miejscowego, rozstrzygają:",
+    "options": [
+      "sądy administracyjne;",
+      "sądy powszechne;",
+      "rady gminy."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-86",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "question": "Wielkość jednorazowej opłaty z tytułu wzrostu wartości nieruchomości wynikającej z uchwalenia planu miejscowego zależy od:",
+    "options": [
+      "wielkości powierzchni sprzedanej, objętej planem;",
+      "stawki procentowej opłaty planistycznej;",
+      "wzrostu wartości na skutek zmianu planu miejscowego."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-52",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Jednostkami powierzchniowymi podziału kraju dla celów ewidencji gruntów są:",
+    "options": [
+      "jednostka ewidencyjna;",
+      "obręb ewidencyjny;",
+      "działka ewidencyjna."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-53",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z ustawą o planowaniu i zagospodarowaniu przestrzennym, w sprawach ustalenia lokalizacji inwestycji celu publicznego o znaczeniu krajowym i wojewódzkim - decyzje wydaje:",
+    "options": [
+      "wojewoda;",
+      "starosta;",
+      "wójt, burmistrz albo prezydent miasta w uzgodnieniu z marszałkiem województwa."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-54",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Organ, który wydał decyzję o warunkach zabudowy:",
+    "options": [
+      "może z urzędu przenieść tę decyzję na rzecz innej osoby, jeżeli przyjmuje ona warunki tej decyzji;",
+      "jest obowiązany, za zgodą strony, na rzecz której decyzja była wydana, do przeniesienia tej decyzji na rzecz innej osoby, jeżeli przyjmuje ona wszystkie warunki zawarte w tej decyzji;",
+      "nie może przenosić tej decyzji na rzecz innej osoby."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-56",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Określając wartość nieruchomości w celu ustalenia opłaty z tytułu wzrostu wartości nieruchomości w związku z uchwaleniem miejscowego planu zagospodarowania przestrzennego, ceny przyjmuje się na dzień:",
+    "options": [
+      "wejścia w życie planu miejscowego;",
+      "sporządzenia wyceny;",
+      "zbycia nieruchomości."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-57",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z ustawą o planowaniu i zagospodarowaniu przestrzennym przez wartość nieruchomości należy rozumieć:",
+    "options": [
+      "wartość rynkową nieruchomości;",
+      "wartość odtworzeniową nieruchomości;",
+      "wartość godziwą nieruchomości."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-58",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Ewidencja gruntów obejmuje dane podmiotowe dotyczące:",
+    "options": [
+      "użytkowników wieczystych gruntów;",
+      "jednostek organizacyjnych sprawujących trwały zarząd nieruchomościami;",
+      "dzierżawców nieruchomości."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-61",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Zmianę danych objętych ewidencją gruntów i budynków organowi prowadzącemu kataster nieruchomości obowiązane są zgłaszać następujące podmioty (jeżeli w wyniku ich działań zmiany wystąpią):",
+    "options": [
+      "notariusze;",
+      "organy administracji publicznej;",
+      "sądy."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-63",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Wartość nieruchomości na potrzeby ustalenia odszkodowania z tytułu obniżenia jej wartości w związku z uchwaleniem miejscowego planu zagospodarowania przestrzennego, można określić w podejściu:",
+    "options": [
+      "porównawczym;",
+      "inwestycyjnym;",
+      "porównawczym, dochodowym lub kosztowym."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-64",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Danymi niezbędnymi do określenia położenia działki ewidencyjnej są:",
+    "options": [
+      "jednostka ewidencyjna, numer działki, rodzaj użytku;",
+      "jednostka ewidencyjna, obręb ewidencyjny, numer działki;",
+      "obręb ewidencyjny, numer działki, numer jednostki rejestrowej gruntu."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-66",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "W ewidencji gruntów do sadów zalicza się grunty zasadzone drzewami i krzewami owocowymi o zwartym nasadzeniu minimum na 1 ha:",
+    "options": [
+      "1000 drzewek;",
+      "600 drzewek;",
+      "2000 krzewów."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-74",
+        "session": "2025-11-19"
+      },
+      {
+        "id": "2025-03-26-68",
+        "session": "2025-03-26"
+      },
+      {
+        "id": "2023-04-20-65",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Jeżeli na skutek ustaleń miejscowego planu zagospodarowania przestrzennego osoba posiadająca prawo użytkowania do nieruchomości nie może w sposób dotychczasowy korzystać z nieruchomości, może żądać od gminy:",
+    "options": [
+      "odszkodowania;",
+      "zamiany nieruchomości na inną;",
+      "roszczenia mu nie przysługują."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-52",
+        "session": "2025-10-15"
+      }
+    ]
+  },
+  {
+    "question": "Na skutek uchwalenia planu miejscowego wartość nieruchomości wzrosła o 30 000 zł. Właściciel sprzedaje nieruchomość po 6 latach od daty, gdy plan miejscowy stał się prawem. Maksymalna opłata z tytułu wzrostu wartości nieruchomości spowodowanego wejściem w życie planu miejscowego wyniesie:",
+    "options": [
+      "30 000 zł;",
+      "9 000 zł;",
+      "0 zł."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-53",
+        "session": "2025-10-15"
+      },
+      {
+        "id": "2023-09-14-85",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "W ewidencji gruntów i budynków do terenów rekreacyjno - wypoczynkowych zalicza się:",
+    "options": [
+      "tereny o charakterze zabytkowym, takie jak: ruiny zamków, grodziska, kurhany;",
+      "plaże;",
+      "grunty porośnięte wikliną w stanie naturalnym oraz krzewiastymi formami wierzb w dolinach rzek i obniżeniach terenu."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-56",
+        "session": "2025-10-15"
+      }
+    ]
+  },
+  {
+    "question": "Wydanie decyzji o warunkach zabudowy jest możliwe jedynie w przypadku łącznego spełnienia między innymi następujących warunków:",
+    "options": [
+      "teren ma dostęp do drogi publicznej;",
+      "w sąsiedztwie brak jest działek zabudowanych;",
+      "istniejące lub projektowane uzbrojenie terenu jest wystarczające dla zamierzenia budowlanego."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-59",
+        "session": "2025-10-15"
+      },
+      {
+        "id": "2024-10-22-62",
+        "session": "2024-10-22"
+      },
+      {
+        "id": "2023-10-26-62",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "Decyzję o ustaleniu lokalizacji inwestycji celu publicznego o znaczeniu krajowym i wojewódzkim wydaje (poza terenem zamkniętym):",
+    "options": [
+      "marszałek województwa;",
+      "wojewoda;",
+      "wójt, burmistrz albo prezydent miasta w uzgodnieniu z marszałkiem województwa."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-53",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z ustawą o planowaniu i zagospodarowaniu przestrzennym, poprzez „wartość nieruchomości” należy rozumieć:",
+    "options": [
+      "wyłącznie wartość rynkową nieruchomości;",
+      "wartość rynkową lub odtworzeniową nieruchomości;",
+      "każdy rodzaj wartości wskazany w ustawie o gospodarce nieruchomościami.."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-58",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "question": "W sprawach ustalenia lokalizacji inwestycji celu publicznego decyzje wydają:",
+    "options": [
+      "dla inwestycji celu publicznego o znaczeniu krajowym i wojewódzkim - marszałek województwa;",
+      "dla inwestycji celu publicznego o znaczeniu powiatowym i gminnym - starosta;",
+      "dla inwestycji celu publicznego na terenach zamkniętych - wojewoda."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-59",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "question": "Danymi ewidencyjnymi dotyczącymi budynku są:",
+    "options": [
+      "łączne pole powierzchni użytkowej lokali niewyodrębnionych;",
+      "rodzaj budynku według Klasyfikacji Środków Trwałych;",
+      "informacja o materiale, z którego zbudowane są zewnętrzne ściany budynku."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-61",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "question": "Ewidencja gruntów i budynków obejmuje dane dotyczące:",
+    "options": [
+      "działek ewidencyjnych;",
+      "właścicieli oraz przysługujących im wielkości udziałów;",
+      "lokali."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-62",
+        "session": "2025-09-10"
+      },
+      {
+        "id": "2023-10-26-55",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "Głównymi parametrami działki gruntu, by była działką budowlaną według ustawy o planowaniu i zagospodarowaniu przestrzennym są:",
+    "options": [
+      "wielkość;",
+      "wyposażenie w urządzenia infrastruktury technicznej;",
+      "cechy geometryczne."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-65",
+        "session": "2025-09-10"
+      },
+      {
+        "id": "2022-04-28-57",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "Ewidencję miejscowości, ulic i adresów prowadzi:",
+    "options": [
+      "organ prowadzący ewidencję gruntów i budynków;",
+      "organ wykonawczy gminy;",
+      "Główny Urząd Statystyczny."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-53",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Roszczenia o odszkodowania z tytułu obniżenia wartości nieruchomości w związku z uchwaleniem bądź zmianą istniejącego planu miejscowego zagospodarowania przestrzennego, w przypadku zbycia nieruchomości, można zgłaszać w terminie:",
+    "options": [
+      "roszczenia z tego tytułu nie ulegają przedawnieniu;",
+      "3 lat od dnia, w którym plan miejscowy albo jego zmiana stały się obowiązujące;",
+      "5 lat od dnia, w którym plan miejscowy albo jego zmiana stały się obowiązujące."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-55",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z ustawą o planowaniu i zagospodarowaniu przestrzennym umowa urbanistyczna jest zawierana między:",
+    "options": [
+      "inwestorem i urbanistą;",
+      "inwestorem i gminą;",
+      "inwestorem i starostą."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-56",
+        "session": "2025-06-25"
+      },
+      {
+        "id": "2023-03-23-56",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Uchwała rady gminy w sprawie uchwalenia planu miejscowego obowiązuje od dnia wejścia w życie w niej określonego:",
+    "options": [
+      "jednak nie wcześniej niż po upływie 21 dni od dnia ogłoszenia w dzienniku urzędowym województwa;",
+      "jednak nie wcześniej niż po upływie 30 dni od dnia ogłoszenia w dzienniku urzędowym województwa;",
+      "jednak nie wcześniej niż po upływie 14 dni od dnia ogłoszenia w dzienniku urzędowym województwa."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-57",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Organami administracji geodezyjnej i kartograficznej są:",
+    "options": [
+      "wojewoda;",
+      "marszałek województwa;",
+      "starosta."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-58",
+        "session": "2025-06-25"
+      },
+      {
+        "id": "2024-09-17-58",
+        "session": "2024-09-17"
+      }
+    ]
+  },
+  {
+    "question": "W sprawach ustalenia lokalizacji inwestycji celu publicznego na terenach zamkniętych - decyzje wydaje:",
+    "options": [
+      "wojewoda;",
+      "starosta;",
+      "wójt, burmistrz albo prezydent miasta w uzgodnieniu z właściwym resortem."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-60",
+        "session": "2025-06-25"
+      },
+      {
+        "id": "2022-10-27-58",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Wójt, burmistrz albo prezydent miasta uzgadnia projekt planu miejscowego w zakresie odpowiednich zadań rządowych i samorządowych z:",
+    "options": [
+      "wojewodą;",
+      "zarządem województwa;",
+      "zarządem powiatu."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-64",
+        "session": "2025-06-25"
+      },
+      {
+        "id": "2024-11-19-58",
+        "session": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Danymi ewidencyjnymi dotyczącymi lokalu stanowiącego odrębną nieruchomość są:",
+    "options": [
+      "wartość katastralna lokalu - jeżeli została ustalona;",
+      "numer księgi wieczystej, o ile lokal stanowi odrębny przedmiot własności;",
+      "liczba izb wchodzących w skład lokalu."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-65",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Obowiązek zalesienia gruntów przeznaczonych w miejscowym planie zagospodarowania przestrzennego do zalesienia, wg ustawy o lasach:",
+    "options": [
+      "ciąży na właścicielu, zarządcy lub użytkowniku wieczystym;",
+      "termin zalesienia wynosi 5 lat;",
+      "przepis nie określa terminu zalesienia."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-67",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Dokonując wyceny nieruchomości w celu ustalenia wysokości odszkodowania z tytułu szkody (uniemożliwienie korzystania w sposób dotychczasowy), w związku ze zmianą planu miejscowego, rzeczoznawca majątkowy powinien:",
+    "options": [
+      "uwzględnić stan z dnia przyznania odszkodowania;",
+      "określić wartość nieruchomości według stanu z dnia wejścia w życie planu miejscowego;",
+      "uwzględnić stan nieruchomości i poziom cen z dnia złożenia wniosku roszczeniowego."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-44",
+        "session": "2025-05-14"
+      }
+    ]
+  },
+  {
+    "question": "Studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy:",
+    "options": [
+      "jest opracowaniem obowiązkowym;",
+      "obejmuje obszar całej gminy;",
+      "jest sporządzane na mapie ewidencyjnej w skali 1:1000"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-55",
+        "session": "2025-05-14"
+      }
+    ]
+  },
+  {
+    "question": "Wniosek o ustalenie lokalizacji inwestycji celu publicznego powinien zawierać:",
+    "options": [
+      "określenie granic terenu objętego wnioskiem na kopii mapy zasadniczej lub w przypadku jej braku na kopii mapy ewidencyjnej;",
+      "charakterystykę inwestycji;",
+      "zgodę na zmianę przeznaczenia gruntów rolnych i leśnych na cele nierolne i nieleśne."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-56",
+        "session": "2025-05-14"
+      }
+    ]
+  },
+  {
+    "question": "W sprawach ustalenia lokalizacji inwestycji celu publicznego o znaczeniu krajowym i wojewódzkim - decyzje wydaje:",
+    "options": [
+      "wojewoda;",
+      "starosta;",
+      "wójt, burmistrz albo prezydent miasta w uzgodnieniu z marszałkiem województwa."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-60",
+        "session": "2025-05-14"
+      },
+      {
+        "id": "2023-03-23-58",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Danymi ewidencyjnymi dotyczącymi budynku stanowiącego część składową gruntu są m.in.:",
+    "options": [
+      "pole powierzchni zabudowy;",
+      "liczba kondygnacji nadziemnych i podziemnych;",
+      "łączne pole powierzchni użytkowej lokali niewyodrębnionych."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-62",
+        "session": "2025-05-14"
+      }
+    ]
+  },
+  {
+    "question": "Opłatę planistyczną (z tytułu wzrostu wartości na skutek ustaleń planu miejscowego) pobiera:",
+    "options": [
+      "marszałek;",
+      "starosta;",
+      "wójt, burmistrz, prezydent miasta."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-63",
+        "session": "2025-05-14"
+      },
+      {
+        "id": "2024-04-23-59",
+        "session": "2024-04-23"
+      },
+      {
+        "id": "2023-10-26-53",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "W ewidencji gruntów i budynków wykazuje się następujące materiały budowlane, z jakich wykonane są budynki:",
+    "options": [
+      "mur;",
+      "drewno;",
+      "nie wykazuje się materiałów budowlanych, z których został wykonany budynek."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-90",
+        "session": "2025-05-14"
+      }
+    ]
+  },
+  {
+    "question": "Danymi ewidencyjnymi dotyczącymi budynku są:",
+    "options": [
+      "numeryczny opis konturu budynku określony zgodnie z zasadami przewidzianymi dla wyznaczenia powierzchni zabudowy budynku;",
+      "łączne pole powierzchni użytkowej pomieszczeń przynależnych do lokali;",
+      "data zakończenia budowy."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-50",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "question": "Decyzję o ustaleniu lokalizacji inwestycji celu publicznego o znaczniu krajowym i wojewódzkim wydaje (poza terenem zamkniętym):",
+    "options": [
+      "marszałek województwa;",
+      "wojewoda;",
+      "wójt, burmistrz albo prezydent miasta w uzgodnieniu z marszałkiem województwa."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-53",
+        "session": "2025-03-26"
+      },
+      {
+        "id": "2022-03-24-57",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Prawo wglądu do planu miejscowego oraz otrzymania z niego wypisów i wyrysów ma:",
+    "options": [
+      "tylko ten, kto ma w tym interes prawny;",
+      "tylko właściciel lub użytkownik wieczysty nieruchomości objętych planem;",
+      "każdy."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-55",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "question": "Przy określaniu wartości nieruchomości dla potrzeb ustalenia jednorazowej opłaty z tytułu wzrostu wartości nieruchomości spowodowanego uchwaleniem lub zmianą planu miejscowego rzeczoznawca majątkowy uwzględnia:",
+    "options": [
+      "stan nieruchomości z daty oględzin nieruchomości;",
+      "poziom cen z daty zbycia nieruchomości;",
+      "stan nieruchomości i poziom cen z daty zbycia nieruchomości."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-40",
+        "session": "2024-11-19"
+      },
+      {
+        "id": "2022-09-15-39",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Szkody wyrządzone w związku z wykonywaniem prac geodezyjnych i kartograficznych podlegają naprawieniu na zasadach:",
+    "options": [
+      "opisanych w ustawie prawo geodezyjne i kartograficzne;",
+      "prawa cywilnego;",
+      "opisanych w ustawie o gospodarce nieruchomościami."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-59",
+        "session": "2024-11-19"
+      },
+      {
+        "id": "2022-06-02-54",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Linie rozgraniczające ulice i drogi publiczne są treścią:",
+    "options": [
+      "studium uwarunkowań i kierunków przestrzennego zagospodarowania gminy;",
+      "decyzji o ustaleniu lokalizacji inwestycji celu publicznego;",
+      "miejscowego planu zagospodarowania przestrzennego."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-62",
+        "session": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Na obszarach wiejskich obręb ewidencyjny:",
+    "options": [
+      "musi obejmowac całą wieś;",
+      "może obejmować całą wieś wraz z przyległymi do niej obiektami fizjograficznymi;",
+      "może obejmować wydzieloną część wsi."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-63",
+        "session": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Danymi ewidencyjnymi dotyczącymi użytków gruntowych i klas bonitacyjnych są:",
+    "options": [
+      "numeryczne opisy konturów klas bonitacyjnych;",
+      "oznaczenie oraz numer konturu klas bonitacyjnych;",
+      "oznaczenie i numer kompleksów rolniczej przydatności gleb."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-54",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "question": "Ustawa prawo geodezyjne i kartograficzne reguluje sprawy dotyczące:",
+    "options": [
+      "uprawnień zawodowych w dziedzinie geodezji i kartografii;",
+      "uprawnień do wykonywania prac planistycznych;",
+      "geodezyjnej ewidencji sieci uzbrojenia terenu."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-59",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "question": "W ewidencji gruntów i budynków wykazuje się:",
+    "options": [
+      "właścicieli nieruchomości;",
+      "podmioty, które władają gruntami na zasadach samoistnego posiadania;",
+      "informacje o wpisaniu do rejestru zabytków."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-63",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "question": "Wysypiska kamieni i gruzowiska porośnięte drzewami i krzewami w ewidencji gruntów to:",
+    "options": [
+      "grunty zadrzewione i zakrzewione;",
+      "nieużytki;",
+      "tereny różne."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-64",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "question": "Do gruntów ornych w ewidencji gruntów i budynkow zalicza się m.in. grunty:",
+    "options": [
+      "poddane stałej uprawie mechanicznej mającej na celu produkcję rolniczą lub ogrodniczą;",
+      "na których urządzone zostały rodzinne ogrody działkowe;",
+      "utrzymywane w postaci ugoru lub odłogowane."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-71",
+        "session": "2024-10-22"
+      },
+      {
+        "id": "2021-12-02-50",
+        "session": "2021-12-02"
+      },
+      {
+        "id": "2021-07-22-47",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Granica obszaru analizowanego, w związku z potrzebą wydania decyzji o warunkach zabudowy, nie powinna być mniejsza niż:",
+    "options": [
+      "trzykrotna szerokość frontu działki objętej wnioskiem o ustaleniu warunków zabudowy, lecz nie mniej niż 30 m;",
+      "trzykrotna szerokość frontu działki objętej wnioskiem o ustaleniu warunków zabudowy, lecz nie mniej niż 50 m;",
+      "trzykrotna szerokość frontu działki objętej wnioskiem o ustaleniu warunków zabudowy, lecz nie mniej niż 100 m."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-87",
+        "session": "2024-10-22"
+      },
+      {
+        "id": "2024-06-25-52",
+        "session": "2024-06-25"
+      },
+      {
+        "id": "2023-06-22-51",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "Uchwała rady gminy w sprawie uchwalenia planu miejscowego obowiązuje:",
+    "options": [
+      "od dnia wejścia w życie w niej określonego, jednak nie wcześniej niż po upływie 14 dni od dnia ogłoszenia w dzienniku urzędowym województwa;",
+      "nie wcześniej niż po upływie 30 dni od dnia ogłoszenia w dzienniku urzędowym województwa;",
+      "od dnia podjęcia uchwały przez radę gminy."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-54",
+        "session": "2024-09-17"
+      },
+      {
+        "id": "2022-04-28-58",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "Każdy, kto kwestionuje ustalenia przyjęte w projekcie planu miejscowego wyłożonego do publicznego wglądu, może wnieść do projektu tego planu:",
+    "options": [
+      "uwagi;",
+      "protest;",
+      "zarzut."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-55",
+        "session": "2024-09-17"
+      }
+    ]
+  },
+  {
+    "question": "Zgodność proponowanego podziału nieruchomości z ustaleniami planu miejscowego opiniuje wójt, burmistrz lub prezydent miasta w formie:",
+    "options": [
+      "decyzji;",
+      "zaświadczenia;",
+      "postanowienia."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-56",
+        "session": "2024-09-17"
+      }
+    ]
+  },
+  {
+    "question": "Plan ogólny gminy stanowi podstawę prawną przy wydawaniu decyzji o warunkach zabudowy:",
+    "options": [
+      "na obszarze wyznaczonych stref planistycznych;",
+      "na obszarach uzupełnienia zabudowy;",
+      "rna obszarze zabudowy śródmiejskiej."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-60",
+        "session": "2024-09-17"
+      }
+    ]
+  },
+  {
+    "question": "Tereny torfowisk, pokrytych częściowo kępami krzewów i drzew karłowatych, wg ewidencji gruntów, są zaliczane do:",
+    "options": [
+      "nieużytków;",
+      "gruntów zadrzewionych i zakrzewionych;",
+      "użytków rolnych wymagających rekultywacji."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-65",
+        "session": "2024-09-17"
+      },
+      {
+        "id": "2023-11-30-63",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "question": "Zmianę danych objętych ewidencją gruntów i budynków organowi prowadzącemu kataster obowiązane są zgłaszać podmioty (jeżeli w wyniku ich działań zmiany wystąpią):",
+    "options": [
+      "notariusze;",
+      "organy administracji publicznej;",
+      "sądy."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-48",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Ustawa prawo geodezyjne i kartograficzne reguluje sprawy dotyczące:",
+    "options": [
+      "powszechnej taksacji nieruchomości;",
+      "ewidencji sieci uzbrojenia terenu oraz koordynacji sytuowania tych sieci;",
+      "krajowego systemu informacji o terenie."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-50",
+        "session": "2024-06-25"
+      },
+      {
+        "id": "2022-07-07-55",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "question": "Linie rozgraniczające ulice i drogi publiczne są treścią:",
+    "options": [
+      "studium uwarunkowań i kierunków przestrzennego zagospodarowania gminy,",
+      "decyzji o ustaleniu lokalizacji inwestycji celu publicznego;",
+      "miejscowego planu zagospodarowania przestrzennego."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-51",
+        "session": "2024-06-25"
+      },
+      {
+        "id": "2022-12-01-56",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "Które oznaczenie pola powierzchni jest zgodne z przepisami rozporządzenia w sprawie ewidencji gruntów i budynków?",
+    "options": [
+      "1,25 ha w odniesieniu do pola powierzchni działki;",
+      "0,4836 ha w odniesieniu do pola powierzchni działki;",
+      "72,30 m2 w odniesieniu do pola powierzchni użytkowej lokalu."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-54",
+        "session": "2024-06-25"
+      },
+      {
+        "id": "2023-11-30-61",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "question": "Centralnym organem administracji rządowej właściwym w sprawach geodezji i kartografii jest:",
+    "options": [
+      "minister właściwy do spraw architektury i budownictwa;",
+      "Główny Geodeta Kraju;",
+      "minister właściwy do spraw wewnętrznych."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-56",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Miejscowe plany zagospodarowania przestrzennego uchwalone przed dniem 1 stycznia 1995 r. zachowały swoją moc do czasu uchwalenia nowych planów, jednak nie dłużej niż do dnia:",
+    "options": [
+      "31 grudnia 2003 roku;",
+      "31 grudnia 2004 roku;",
+      "31 grudnia 2002 roku."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-59",
+        "session": "2024-06-25"
+      },
+      {
+        "id": "2023-04-20-83",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "W wyniku zmiany miejscowego planu zagospodarowania przestrzennego zmieniło się przeznaczenie gruntu. Grunt ten może być wykorzystywany:",
+    "options": [
+      "w sposób dotychczasowy,",
+      "w sposób zgodny z przeznaczeniem w planie,",
+      "tylko w sposób zgodny z przeznaczeniem w planie."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-60",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Na skutek uchwalenia planu miejscowego wartość nieruchomości zmniejszyła się o 30000 zł. . Odszkodowanie za zmniejszenie wartości przy sprzedaży tej nieruchomości w okresie 5 lat od daty, gdy plan miejscowy stał się prawem, wyniesie:",
+    "options": [
+      "9 000 zł;",
+      "30 000 zł;",
+      "15 000 zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-61",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Ustawa prawo geodezyjne i kartograficzne reguluje sprawy dotyczące:",
+    "options": [
+      "ewidencji miejscowości, ulic i adresów;",
+      "gleboznawczej klasyfikacji gruntów;",
+      "scalania i wymiany gruntów."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-56",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "question": "W planowaniu i zagospodarowaniu przestrzennym uwzględnia się zwłaszcza:",
+    "options": [
+      "walory ekonomiczne przestrzeni;",
+      "potrzeby interesu publicznego;",
+      "prawo własności."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-61",
+        "session": "2024-03-19"
+      },
+      {
+        "id": "2023-09-14-56",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Przy określaniu wartości nieruchomości dla celów ustalenia odszkodowania za brak możliwości korzystania z nieruchomości zgodnie z dotychczasowym przeznaczeniem w związku z uchwaleniem nowego planu miejscowego:",
+    "options": [
+      "stan nieruchomości przyjmuje się z dnia wejścia w życie planu miejscowego;",
+      "poziom cen przyjmuje z dnia, w którym następuje ustalenie odszkodowania;",
+      "poziom cen przyjmuje z dnia, w którym został złożony wniosek o odszkodwanie."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-20",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "question": "Jeżeli na skutek ustaleń miejscowego planu zagospodarowania przestrzennego osoba posiadająca nieruchomość w użytkowaniu, nie może w sposób dotychczasowy korzystać z nieruchomości, to może żądać od gminy:",
+    "options": [
+      "odszkodowania za poniesioną szkodę rzeczywistą;",
+      "przyznania nieruchomości zamiennej;",
+      "roszczenia nie przysługują."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-52",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "question": "Symbolem Lzr w ewidencji gruntów oznacza się:",
+    "options": [
+      "grunty zadrzewione i zakrzewione na użytkach rolnych;",
+      "skupiska drzew i krzewów położone na gruntach leśnych;",
+      "takie oznaczenie użytków gruntowych nie występuje."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-53",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "question": "Sporządzenie projektu decyzji o ustaleniu lokalizacji inwestycji celu publicznego powierza się osobie, która posiada dyplom ukończenia studiów wyższych w zakresie:",
+    "options": [
+      "architektury;",
+      "budownictwa;",
+      "gospodarki przestrzennej."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-56",
+        "session": "2023-11-30"
+      },
+      {
+        "id": "2022-07-07-54",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "question": "Tereny, których przeznaczenie zmienia miejscowy plan zagospodarowania przestrzennego:",
+    "options": [
+      "mogą być wykorzystywane w sposób dotychczasowy w okresie do 5 lat od dnia wejścia w życie planu;",
+      "mogą być wykorzystywane w sposób dotychczasowy do czasu ich zagospodarowania zgodnie z ustaleniami planu;",
+      "nie mogą już być wykorzystywane w sposób dotychczasowy, jeżeli w planie ustalono inny sposób ich tymczasowego zagospodarowania."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-58",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "question": "Spory w sprawach dotyczących roszczeń o odszkodowanie za zmniejszenie wartości nieruchomości w wyniku zmiany planu miejscowego rozstrzygają:",
+    "options": [
+      "rada gminy;",
+      "sądy administracyjne;",
+      "sądy powszechne."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-74",
+        "session": "2023-11-30"
+      },
+      {
+        "id": "2023-09-14-53",
+        "session": "2023-09-14"
+      },
+      {
+        "id": "2021-10-28-57",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Danymi ewidencyjnymi dotyczącymi działki ewidencyjnej są:",
+    "options": [
+      "rodzaj i zakres służebności drogi koniecznej;",
+      "numeryczny opis granic działki ewidencyjnej;",
+      "identyfikator działki ewidencyjnej."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-52",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "Przez dostęp do drogi publicznej (zgodnie z ustawą o planowaniu i zagospodarowaniu przestrzennym) należy rozumieć:",
+    "options": [
+      "dostęp bezpośrdeni;",
+      "dostęp przez drogę wewnętrzną;",
+      "dostęp przez służebność drogową."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-56",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "Na skutek ustaleń planu miejscowego wartość nieruchomości uległa obniżeniu o 30 tys. zł. Stawka procentowa opłaty z tytułu wzrostu wartości ustalona w planie miejscowym wynosi 20%. Odszkodowanie za zmniejszenie wartości w przypadku zbycia tej nieruchomości przed upływem 5 lat wyniesie:",
+    "options": [
+      "6 000 zł;",
+      "30 000 zł;",
+      "0 zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-57",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "Decyzje o warunkach zabudowy wydaje:",
+    "options": [
+      "wójt, burmistrz, prezydent miasta dla inwestycji gminnych;",
+      "starosta dla inwestycji ponadlokalnych;",
+      "wojewoda dla inwestycji realizowanych na terenach zamkniętych."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-85",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "Dokonując wyceny nieruchomości w celu ustalenia wysokości odszkodowania z tytułu szkody (uniemożliwienie korzystania w sposób dotychczasowy), w związku ze zmianą planu miejscowego, rzeczoznawca majątkowy powinien:",
+    "options": [
+      "uwzględnić stan z dnia przyznania odszkodowania;",
+      "określić wartość nieruchomości według stanu z daty wejścia w życie planu miejscowego;",
+      "uwzględnić stan nieruchomości i poziom cen z daty złożenia wniosku roszczeniowego."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-31",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Miejscowe plany zagospodarowania przestrzennego, uchwalone przed dniem 1 stycznia 1995 r. zachowały swoją moc do czasu uchwalenia nowych planów, jednak nie dłużej niż do dnia:",
+    "options": [
+      "31 grudnia 2003 roku;",
+      "31 grudnia 2004 roku;",
+      "31 grudnia 2002 roku."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-49",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Treść mapy ewidencyjnej stanowią:",
+    "options": [
+      "kontury klasyfikacyjne i ich oznaczenia;",
+      "punkty graniczne;",
+      "kompleksy rolniczej przydatności gleb."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-50",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Danymi ewidencyjnymi dotyczącymi działki ewidencyjnej są:",
+    "options": [
+      "oznaczenie księgi wieczystej lub oznaczenie dokumentów określających własność;",
+      "pole powierzchni działki ewidencyjnej;",
+      "numer działki."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-51",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Podziału na obręby ewidencyjne dokonuje:",
+    "options": [
+      "starosta;",
+      "starosta w uzgodnieniu z Głównym Geodetą Kraju;",
+      "starosta w uzgodnieniu z Głównym Geodetą Kraju, po zasięgnięciu opinii właściwej miejscowo jednostki statystyki publicznej."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-57",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Czy w przypadku podziału nieruchomości dokonanego niezależnie od ustaleń miejscowego planu zagospodarowania przestrzennego ( na podstawie art. 95 ustawy o gospodarce nieruchomościami ) , gmina może ustalić właścicielowi dzielonej nieruchomości opłatę adiacencką ?",
+    "options": [
+      "może, gdyż wystarczającym warunkiem jest wzrost wartości nieruchomości;",
+      "może, jeżeli rada gminy tak postanowi;",
+      "nie może w żadnym wypadku."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-48",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "W ewidencji gruntów i budynków do gruntów zabudowanych i zurbanizowanych zaliczają się :",
+    "options": [
+      "tereny rekreacyjno-wypoczynkowe oznaczone symbolem Bz;",
+      "grunty rolne zabudowane oznaczone symbolem Br;",
+      "użytki kopalne oznaczone symbolem K."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-60",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "Spory w sprawach dotyczących roszczeń o odszkodowanie za zmniejszenie wartości nieruchomości w wyniku zmiany planu miejscowego, rozstrzygają:",
+    "options": [
+      "rada gminy;",
+      "sądy administracyjne;",
+      "sądy powszechne."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-89",
+        "session": "2023-06-22"
+      },
+      {
+        "id": "2021-09-09-58",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Danymi ewidencyjnymi dotyczącymi lokalu są:",
+    "options": [
+      "liczba izb wchodzących w skład lokalu;",
+      "numer kondygnacji, na której znajduje się główne wejście do lokalu;",
+      "rodzaj lokalu, z rozróżnieniem na lokale mieszkalne i niemieszkalne."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-51",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Jeżeli na skutek ustaleń miejscowego planu zagospodarowania przestrzennego osoba posiadająca prawo użytkowania do nieruchomości, nie może w sposób dotychczasowy korzystać z nieruchomości, to może żądać od gminy:",
+    "options": [
+      "odszkodowania;",
+      "zamiany nieruchomości na inną;",
+      "roszczenia mu nie przysługują."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-53",
+        "session": "2023-04-20"
+      },
+      {
+        "id": "2022-06-02-63",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Jeżeli w związku ze zmianą miejscowego planu zagospodarowania przestrzennego watość nieruchomości obniżyła się, a właściciel nieruchomości ją zbył, to może:",
+    "options": [
+      "żądać od gminy odszkodowania za rzeczywistą szkodę;",
+      "żądać przywrócenia poprzedniego zapisu planu;",
+      "żądać odszkodowania w wysokości odpowiadającej obniżeniu się wartości nieruchomości w przypadku jej zbycia przed upływem 5 lat od daty zmiany planu."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-54",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Pole powierzchni ewidencyjnej działki:",
+    "options": [
+      "wykazuje się w hektarach z precyzją zapisu do 0,0001 ha;",
+      "w szczególnych przypadkach dopuszcza się wykazywanie powierzchni z precyzją zapisu do 0,01 ha;",
+      "dla działek wykorzystywanych na cele rolne i leśne dopuszcza się wykazywanie powierzchni z precyzją zapisu do 0,1 ha."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-55",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Ewidencja gruntów i budynków obejmuje dane dotyczace:",
+    "options": [
+      "działek ewidencyjnych,",
+      "właścicieli oraz przysługujących im wielkości udziałów;",
+      "lokali."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-58",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Uchwałę o przystąpieniu do sporządzenia miejscowego planu zagospodarowania przestrzennego podejmuje:",
+    "options": [
+      "rada gminy na wniosek właścicieli i użytkowników wieczystych (jeżeli ich nieruchomości stanowią ponad 50% obszaru przewidywanego do objęcia planem miejscowym);",
+      "rada gminy z własnej inicjatywy;",
+      "rada gminy na wniosek wójta, burmistrza albo prezydenta miasta."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-59",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Wskaźnik szacunkowy gruntów oznaczonych w ewidencji gruntów i budynków jako LzIV wynosi:",
+    "options": [
+      "50% klasy IVb gruntu ornego;",
+      "50% klasy IVa gruntu ornego;",
+      "50% średniego wskaźnika z klasy IVa i IV b."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-30",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Symbol Tp w ewidencji gruntów i budynków oznacza:",
+    "options": [
+      "tereny przemysłowe;",
+      "tereny przeznaczone pod budowę dróg lub linii kolejowych;",
+      "inne tereny komunikacyjne takie jak porty lotnicze, urządzenia portowe, przystanie."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-53",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Koszty sporządzenia planu miejscowego obciążają:",
+    "options": [
+      "w każdym przypadku tylko budżet gminy;",
+      "budżet powiatu - jeżeli plan jest w całości lub w części bezpośrednią konsekwencją zamiaru realizacji inwestycji celu publicznego o znaczeniu powiatowym;",
+      "inwestora realizującego inwestycję celu publicznego - w części w jakiej plan jest bezpośrednią konsekwencją zamiaru realizacji tej inwestycji."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-54",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Działka ewidencyjna to:",
+    "options": [
+      "ciągły obszar gruntu, położony w granicach jednego obrębu, jednorodny pod względem prawnym, wydzielony z otoczenia za pomocą linii granicznych;",
+      "niekiedy tożsamy z nieruchomością gruntową;",
+      "zawsze tożsamy z nieruchomością gruntową."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-57",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Które oznaczenie pola powierzchni jest zgodne z przepisami rozporządzenia w ewidencji gruntów i budynków?",
+    "options": [
+      "1,25 ha w odniesieniu do pola powierzchni działki;",
+      "0,4836 ha w odniesieniu do pola powierzchni działki;",
+      "72,30 m2 w odniesieniu do pola powierzchni użytkowej lokalu."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-59",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Jeżeli na skutek ustaleń miejscowego planu zagospodarowania przestrzennego osoba posiadająca nieruchomość w użytkowaniu, nie może w sposób dotychczasowy korzystać z nieruchomości, to może żądać od gminy:",
+    "options": [
+      "odszkodowania za poniesioną szkodę rzeczywistą;",
+      "przyznania nieruchomości zamiennej;",
+      "roszczenia mu nie przysługują."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-60",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Miejscowy plan zagospodarowania przestrzennego:",
+    "options": [
+      "może być sporządzony dla terenów zamkniętych ustalonych przez ministra właściwego do spraw transportu;",
+      "jest aktem prawa miejscowego;",
+      "jest opracowaniem uchwalanym zawsze obowiązkowo dla obszaru całej gminy w jej granicach administracyjnych."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-62",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "W jakiej formie rzeczoznawca majątkowy przedstawi wyniki zlecenia na wykonanie oceny skutków finansowych uchwalenia lub zmiany miejscowego planu zagospodarowania przestrzennego?",
+    "options": [
+      "w formie operatu szacunkowego;",
+      "w formie opracowania lub ekspertyzy;",
+      "rzeczoznawca majątkowy nie może dokonywać takiej oceny."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-77",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Dokonując wyceny nieruchomości w celu ustalenia wysokości odszkodowania z tytułu szkody (obniżenie wartości nieruchomości), w związku ze zmianą planu miejscowego, rzeczoznawca majątkowy powinien:",
+    "options": [
+      "uwzględnić poziom cen z daty złożenia wniosku roszczeniowego;",
+      "określić wartość nieruchomości według stanu z daty wejścia w życie planu miejscowego;",
+      "uwzględnić stan nieruchomości i poziom cen z daty złożenia wniosku roszczeniowego."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-26",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "Podstawową skalą mapy dla opracowania planu miejscowego jest skala:",
+    "options": [
+      "1:1000;",
+      "1:10000;",
+      "1:25000."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-52",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "Zmianę danych objętych ewidencją gruntów i budynków obowiązani są zgłaszać:",
+    "options": [
+      "właściciele nieruchomości;",
+      "użytkownicy wieczyści nieruchomości;",
+      "organy wydające decyzje powodujące zmiany danych ewidencji gruntów i budynków, ale wyłącznie za zgodą właściciela lub użytkownika wieczystego nieruchomości, których zmiany te dotyczą ."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-54",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "Danymi ewidencyjnymi, dotyczącymi budynku stanowiącego część składową gruntu są:",
+    "options": [
+      "pole powierzchni zabudowy;",
+      "liczba kondygnacji nadziemnych i podziemnych;",
+      "powierzchnia użytkowa."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-57",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "Decyzja o ustaleniu lokalizacji inwestycji celu publicznego określa:",
+    "options": [
+      "zasady ustalania odszkodowania za szkody powstałe w wyniku realizacji inwestycji celu publicznego;",
+      "warunki i szczegółowe zasady zagospodarowania terenu oraz jego zabudowy;",
+      "linie rozgraniczające teren inwestycji, wyznaczone na mapie w odpowiedniej skali."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-59",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "Informacje z ewidencji gruntów i budynków zawierające dane osobowe wydaje się na żądanie:",
+    "options": [
+      "właścicieli oraz osób i jednostek organizacyjnych władających gruntami, budynkami lub lokalami, których dotyczy udostępniany zbiór danych lub wypis;",
+      "innych podmiotów, które mają interes prawny w tym zakresie;",
+      "operatorów systemu przesyłowego, w rozumieniu ustawy z dnia 10 kwietnia 1997 r.Prawo energetyczne."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-62",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "Czy rada gminy ma obowiązek uchwalenia miejscowego planu zagospodarowania przestrzennego ?",
+    "options": [
+      "nie ma takiego obowązku w żadnym przypadku;",
+      "tak, ale tylko jeżeli wymagają tego przepisy odrębne ;",
+      "tak , dla terenów wyznaczonych na ten cel w studium gminnym."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-83",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "Na skutek uchwalenia planu miejscowego wartość nieruchomości zmniejszyła się o 30 000 zł. Maksymalne odszkodowanie za zmniejszenie jej wartości przy sprzedaży w okresie 5 lat od daty, gdy plan miejscowy stał się prawem wyniesie:",
+    "options": [
+      "9 000 zł;",
+      "15 000 zł;",
+      "30 000 zł."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-53",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Obowiązek zalesiania gruntów, przeznaczonych do zalesienia w miejscowym planie zagospodarowania przestrzennego lub decyzji o warunkach zabudowy i zagospodarowania terenu, ciąży na:",
+    "options": [
+      "nadleśniczych w odniesieniu do gruntów w zarządzie Lasów Państwowych;",
+      "właścicielach gruntów niepozostających w zarządzie Lasów Państwowych;",
+      "użytkownikach wieczystych gruntów niepozostajacych w zarządzie Lasów Państwowych."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-76",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Wykonanie roszczeń wynikających z ograniczeń praw do nieruchomości wskutek ustaleń planu miejscowego powinno nastąpić w terminie:",
+    "options": [
+      "1 roku od dnia złożenia wniosku;",
+      "6 miesięcy od dnia złożenia wniosku;",
+      "3 miesięcy od dnia złożenia wniosku."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-60",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Treść mapy ewidencyjnej stanowią:",
+    "options": [
+      "punkty graniczne;",
+      "naziemne elementy uzbrojenia terenu;",
+      "występujące w obszarze mapy granice jednostek zasadniczego trójstopniowego podziału terytorialnego państwa."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-63",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Rejestr wydanych decyzji o ustaleniu lokalizacji inwestycji celu publicznego o znaczeniu powiatowym prowadzi:",
+    "options": [
+      "wojewoda;",
+      "starosta;",
+      "wójt, burmistrz albo prezydent miasta."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-07-07-56",
+        "session": "2022-07-07"
+      },
+      {
+        "id": "2021-10-28-59",
+        "session": "2021-10-28"
+      },
+      {
+        "id": "2021-05-27-57",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Zasady sporządzania oceny oddziaływania na środowisko ustaleń planów zagospodarowania przestrzennego wynikają z:",
+    "options": [
+      "Ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym;",
+      "Ustawy z dnia 21 sierpnia1997 r. o gospodarce nieruchomościami;",
+      "Ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-07-07-58",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "question": "Na skutek ustaleń planu miejscowego wartość nieruchomości uległa zmniejszeniu o 30 tys. zł. Stawka procentowa opłaty z tytułu wzrostu wartości ustalona w planie miejscowym wynosi 20%. Odszkodowanie za zmniejszenie wartości w przypadku zbycia tej nieruchomości przed upływem 5 lat wyniesie:",
+    "options": [
+      "6 000 zł;",
+      "30 000 zł;",
+      "0 zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-06-02-55",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "W planowaniu przestrzennym przez \"obszar przestrzeni publicznej\" należy rozumieć:",
+    "options": [
+      "obszar o szczególnym znaczeniu dla zaspokojenia potrzeb mieszkańców;",
+      "teren przeznaczony pod drogi krajowe;",
+      "teren przeznaczony pod drogi gminne."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-06-02-58",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Termin składania wniosków do planu miejscowego nie może być:",
+    "options": [
+      "krótszy niż 14 dni od dnia ogłoszenia;",
+      "krótszy niż 21 dni od dnia ogłoszenia;",
+      "krótszy niż 30 dni od dnia ogłoszenia."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-06-02-62",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Wysypiska kamieni i gruzowiska porośnięte drzewami i krzewami, w ewidencji gruntów, to:",
+    "options": [
+      "grunty zadrzewione i zakrzewione;",
+      "nieużytki;",
+      "tereny różne."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-06-02-70",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Ład przestrzenny zgodnie z ustawą o planowaniu i zagospodarowaniu przestrzennym, to harmonijna całość w obszarze (min.):",
+    "options": [
+      "funkcjonalnym;",
+      "kompozycyjno-estetycznym;",
+      "publicznym."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-04-28-56",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "Jednostkę ewidencyjną stanowi obszar gruntów położonych w granicach administracyjnych:",
+    "options": [
+      "powiatu;",
+      "gminy;",
+      "w miastach, w których utworzone zostały dzielnice może być obszar dzielnicy."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-58",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Danymi ewidencyjnymi dotyczącymi lokalu stanowiącego odrębny przedmiot własności są:",
+    "options": [
+      "numer ksiegi wieczystej;",
+      "oznaczenie jednostki rejestrowej lokalu;",
+      "ilość izb."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-59",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Mapy ewidencji gruntów sporządzane są w skali:",
+    "options": [
+      "1:500;",
+      "1:2000;",
+      "1:5000."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-61",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Treść mapy ewidencyjnej stanowią m.in. następujące elementy:",
+    "options": [
+      "rzędne charakterystycznych punktów terenu;",
+      "kontury klasyfikacyjne i ich oznaczenia;",
+      "granice rejonów statystycznych i ich oznaczenia."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-63",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Ustawa prawo geodezyjne i kartograficzne reguluje sprawy dotyczące:",
+    "options": [
+      "rozgraniczania nieruchomości;",
+      "ewidencji miejscowości, ulic i adresów;",
+      "scalania i podziału nieruchomości."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-36",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "Decyzje o warunkach zabudowy wydaje:",
+    "options": [
+      "wójt, burmistrz, prezydent miasta dla inwestycji gminnych;",
+      "starosta dla inwestycji ponadloklanych;",
+      "wojewoda dla inwestycji realizowanych na terenach zamkniętych."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-56",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "Symbol Tp w ewidencji gruntów i budynków oznacza:",
+    "options": [
+      "tereny przemyslowe;",
+      "tereny przeznaczone pod budowę dróg lub lini kolejowych;",
+      "tereny produkcyjne."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-57",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "Kształtowanie i prowadzenie polityki przestrzennej w województwie, w tym uchwalanie planu zagospodarowania przestrzennego województwa, należy do zadań:",
+    "options": [
+      "wojewody;",
+      "samorządu województwa;",
+      "Rady Ministrów."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-59",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "W ewidencji gruntów i budynków wykazuje się:",
+    "options": [
+      "numery działek ewidencyjnych;",
+      "urządzenia infrastruktury technicznej;",
+      "granice działek ewidencyjnych."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-61",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "Dane zawarte w ewidencji gruntów i budynków można zmienić na podstawie:",
+    "options": [
+      "wniosku właściciela nieruchomości z dołączonymi dokumentami;",
+      "prawomocnego orzeczenia sądu o zniesieniu współwłasności;",
+      "decyzji administracyjnej o podziale nieruchomości."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-62",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "Grunty zadrzewione i zakrzewione w ewidencji gruntów i budynków mogą być zaliczone do grupy:",
+    "options": [
+      "gruntów rolnych;",
+      "gruntów leśnych;",
+      "nieużytków."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-65",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "Treść mapy ewidencyjnej stanowią następujące elementy:",
+    "options": [
+      "granice i numery działek ewidencyjnych;",
+      "granice rejonów statystycznych i ich oznaczenia;",
+      "nazwy ulic i placów oraz związane z nimi numery porządkowe."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-51",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Plan zagospodarowania przestrzennego województwa sporządza:",
+    "options": [
+      "wojewoda;",
+      "organy wykonawcze samorządu województwa;",
+      "wojewódzka komisja urbanistyczno-architektoniczna."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-52",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Prowadzenie ewidencji numeracji porządkowej nieruchomości należy do zadań:",
+    "options": [
+      "starosty;",
+      "organu wykonawczego gminy;",
+      "organu prowadzacego kataster nieruchomości."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-53",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "W razie ograniczenia korzystania z nieruchomości na skutek prac geodezyjnych, właścicielowi lub innej osobie władającej nieruchomością przysługuje wynagrodzenie za wykonywanie czynności:",
+    "options": [
+      "nieodpłatnego umieszczania na gruntach i obiektach budowlanych znaków geodezyjnych, grawimetrycznych i magnetycznych oraz urządzeń zabezpieczających te znaki;",
+      "umieszczania na gruntach i obiektach budowlanych budowli triangulacyjnych;",
+      "nie przysługuje odszkodowanie."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-55",
+        "session": "2021-10-28"
+      },
+      {
+        "id": "2021-05-27-62",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "W ewidencji gruntów i budynków wykazuje się następujące materiały budowlane z jakich wykonane są budynki:",
+    "options": [
+      "mur;",
+      "drewno;",
+      "nie wykazuje się materiału budowlanego, z jakiego został wykonany budynek."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-56",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Tereny, których przeznaczenie zmienia miejscowy plan zagospodarowania przestrzennego:",
+    "options": [
+      "mogą być wykorzystywane w sposób dotychczasowy w okresie jednego roku;",
+      "mogą być wykorzystywane w sposób dotychczasowy do czasu ich zagospodarowania zgodnie z ustaleniami planu;",
+      "nie mogą już być wykorzystywane w sposób dotychczasowy."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-60",
+        "session": "2021-10-28"
+      },
+      {
+        "id": "2021-09-09-61",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "question": "W ewidencji gruntów i budynków, w zakresie danych dotyczących lokalu wykazuje się:",
+    "options": [
+      "numer kondygnacji, na której znajduje się wejście główne do lokalu;",
+      "rodzaj lokalu;",
+      "oznaczenie księgi wieczystej lokalu stanowiącego odrębną nieruchomość."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-61",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Decyzję o ustaleniu lokalizacji inwestycji celu publicznego o znaczniu krajowym lub wojewódzkim wydaje:",
+    "options": [
+      "marszałek województwa;",
+      "wojewoda;",
+      "wójt, burmistrz albo prezydent miasta w uzgodnieniu z marszałkiem województwa."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-62",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Danymi ewidencyjnymi dotyczącymi działki ewidencyjnej są:",
+    "options": [
+      "pole powierzchni działki ewidencyjnej;",
+      "numeryczny opis granic działki ewidencyjnej;",
+      "identyfikator działki ewidencyjnej."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-64",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Na skutek uchwalenia planu miejscowego wartość nieruchomości spadła o 30 000 zł. Maksymalne odszkodowanie za zmniejszenie jej wartości przy sprzedaży w okresie 5 lat od daty, gdy plan miejscowy stał się prawem może wynieść:",
+    "options": [
+      "9 000 zł;",
+      "15 000 zł;",
+      "30 000 zł."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-87",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Uznanie istniejącego lub projektowanego uzbrojenia terenu za spełniające warunek do wydania decyzji o warunkach zabudowy następuje, jeżeli wykonanie uzbrojenia terenu zostanie zagwarantowane:",
+    "options": [
+      "w umowie inwestora z wykonawcą;",
+      "w studium gminnym;",
+      "w decyzji o ustaleniu lokalizacji celu publicznego."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-54",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Treść mapy ewidencyjnej stanowią m.in. następujące elementy:",
+    "options": [
+      "posadowienie słupów energetycznych;",
+      "kontury budynków;",
+      "kontury użytków gruntowych."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-55",
+        "session": "2021-09-09"
+      },
+      {
+        "id": "2021-05-27-59",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Symbol Tp w ewidencji gruntów i budynków oznacza:",
+    "options": [
+      "tereny przemysłowe;",
+      "grunty przeznaczone pod budowę dróg lub linii kolejowych;",
+      "zurbanizowane tereny w trakcie zabudowy."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-56",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Danymi ewidencyjnymi dotyczącymi działki ewidencyjnej są:",
+    "options": [
+      "numeryczny opis granic działki ewidencyjnej;",
+      "oznaczenie dokumentu określającego prawo do nieruchomości;",
+      "obciążenia działki na rzecz podmiotów publicznych."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-57",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "question": "W przypadku braku planu miejscowego, przeznaczenie nieruchomości dla potrzeb wyceny, ustala się na podstawie:",
+    "options": [
+      "rejestru gruntów;",
+      "studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy;",
+      "faktycznego sposobu użytkowania nieruchomości, w przypadku braku dokumentów planistycznych;"
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-60",
+        "session": "2021-09-09"
+      },
+      {
+        "id": "2021-04-22-58",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Roszczenia o odszkodowania z tytułu obniżenia wartości nieruchomości w związku z uchwaleniem bądź zmianą istniejącego planu miejscowego zagospodarowania przestrzennego ,w przypadku zbycia nieruchomości, można zgłaszać w terminie:",
+    "options": [
+      "2 lat od dnia, w którym plan miejscowy albo jego zmiana stały się obowiązujące;",
+      "3 lat od dnia, w którym plan miejscowy albo jego zmiana stały się obowiązujące;",
+      "5 lat od dnia, w którym plan miejscowy albo jego zmiana stały się obowiązujące."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-62",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Ustawa Prawo geodezyjne i kartograficzne reguluje sprawy dotyczące:",
+    "options": [
+      "ewidencji gruntów i budynków;",
+      "podziałów nieruchomości;",
+      "rozgraniczania nieruchomości."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-89",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Wskazać przypadki, w których teren może być uznany w ewidencji gruntów i budynków za sad:",
+    "options": [
+      "powierzchnia wynosi 0,1000 ha i jest posadzonych 100 drzew owocowych;",
+      "powierzchnia wynosi 1,0000 ha i jest posadzonych 1500 drzew owocowych;",
+      "powierzchnia wynosi 0,5000 ha i jest posadzonych 1200 krzewów owocowych."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-45",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "W ewidencji gruntów i budynków do gruntów pod wodami zalicza się:",
+    "options": [
+      "grunty pod morskimi wodami wewnętrznymi, oznaczone symbolem – Wm;",
+      "grunty pod stawami, oznaczone symbolem – Wsr;",
+      "grunty pod wodami powierzchniowymi stojącymi, oznaczone symbolem – Ws."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-53",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Działka ewidencyjna jest wyróżniana przez numer, który ma postać:",
+    "options": [
+      "ułamka dziesiętnego;",
+      "ułamka zwykłego;",
+      "liczby naturalnej."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-54",
+        "session": "2021-07-22"
+      },
+      {
+        "id": "2021-04-22-59",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Jeżeli w związku z uchwaleniem planu miejscowego korzystanie z nieruchomości w dotychczasowy sposób stało się niemożliwe właściciel albo użytkownik wieczysty nieruchomości może żądać od gminy:",
+    "options": [
+      "zamiany nieruchomości lecz bez uwzględnienia różnic w ich wartości;",
+      "wykupienia nieruchomości;",
+      "odszkodowania za poniesioną rzeczywistą szkodę."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-56",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Jednorazową opłatę planistyczną (z tytułu wzrostu wartości nieruchomości na skutek ustaleń planu miejscowego) pobiera:",
+    "options": [
+      "marszałek;",
+      "starosta, prezydent miasta;",
+      "wójt, burmistrz, prezydent miasta."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-57",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Decyzja o ustaleniu lokalizacji inwestycji celu publicznego określa:",
+    "options": [
+      "rodzaj inwestycji;",
+      "warunki i szczegółowe zasady zagospodarowania terenu oraz jego zabudowy;",
+      "linie rozgraniczające teren inwestycji, wyznaczone na mapie w odpowiedniej skali."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-58",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Mapy ewidencji gruntów sporządzane są w skali:",
+    "options": [
+      "1:1000;",
+      "1:2000;",
+      "1:5000."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-59",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Danymi ewidencyjnymi dotyczącymi budynku są:",
+    "options": [
+      "główna funkcja budynku oraz inne funkcje budynku;",
+      "numer porządkowy, jeżeli został nadany budynkowi;",
+      "pole powierzchni zabudowy budynku."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-60",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "W planowaniu przestrzennym przez \"obszar przestrzeni publicznej\" należy rozumieć:",
+    "options": [
+      "obszar o szczególnym znaczeniu dla zaspokojenia potrzeb mieszkańców;",
+      "teren przeznaczony pod ponadlokalne inwestycje celu publicznego;",
+      "teren przeznaczony pod drogi gminne."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-19",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "Organ prowadzący kataster nieruchomości po dokonaniu zmian danych ewidencyjnych zawiadamia:",
+    "options": [
+      "właściciela nieruchomości tylko gdy ma urządzoną księgę wieczystą;",
+      "użytkownika wieczystego, gdy zmiana została dokonana na jego wniosek;",
+      "organ podatkowy właściwy do miejsca położenia nieruchomości."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-52",
+        "session": "2021-06-24"
+      },
+      {
+        "id": "2021-05-27-53",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Geodezyjną ewidencję sieci uzbrojenia terenu prowadzi:",
+    "options": [
+      "wójt, burmistrz, prezydent miasta;",
+      "starosta;",
+      "marszałek województwa."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-54",
+        "session": "2021-06-24"
+      },
+      {
+        "id": "2021-05-27-88",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Ewidencja gruntów i budynków obejmuje:",
+    "options": [
+      "dane dotyczące właścicieli nieruchomości oraz przysługujących im wielkości udziałów w prawie własności;",
+      "dane osób i jednostek organizacyjnych, które gruntami władają na zasadach samoistnego posiadania, w przypadku gruntów o nieustalonym wlaścicielu;",
+      "dane dotyczące jednostek organizacyjnych sprawujących trwały zarząd nieruchomościami."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-57",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "Obligatoryjną treść miejscowego planu zagospodarowania przestrzennego stanowią:",
+    "options": [
+      "zasady kształtowania krajobrazu;",
+      "sposób i termin tymczasowego zagospodarowania, urządzania i użytkowania terenów;",
+      "stawki procentowe opłaty planistycznej."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-59",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "Od kiedy obowiązują ustalenia miejscowego planu zagospodarowania przestrzennego?",
+    "options": [
+      "od dnia ustalonego uznaniowo przez radę gminy w uchwale w sprawie miejscowego planu zagospodarowania przestrzennego;",
+      "zawsze po upływie 14 dni licząc od dnia ogłoszenia uchwały rady gminy w sprawie miejscowego planu zagospodarowania przestrzennego w dzienniku urzędowym województwa;",
+      "od dnia określonego w uchwale rady gminy w sprawie miejscowego planu zagospodarowania przestrzennego, który jednak nie może nastąpić wcześniej niż po upływie 14 dni licząc od dnia ogłoszenia uchwały w dzienniku urzędowym województwa."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-60",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "Starosta udostępnia informacje zawarte w operacie ewidencyjnym w formie:",
+    "options": [
+      "wypisów z rejestrów, kartotek i wykazów tego operatu;",
+      "wyrysów z mapy ewidencyjnej;",
+      "kopii dokumentów uzasadniających wpisy do bazy danych operatu ewidencyjnego."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-63",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "W ewidencji gruntów i budynków do terenów przemysłowych zalicza się:",
+    "options": [
+      "grunty zajęte pod budynki przemysłowe i magazynowe;",
+      "grunty zajęte przez czynne odkrywkowe kopalnie, w których odbywa się wydobycie kopalin;",
+      "grunty zajęte pod hałdy i wysypiska śmieci."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-05-27-54",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Ustawa prawo geodezyjne i kartograficzne reguluje sprawy dotyczące:",
+    "options": [
+      "powszechnej taksacji nieruchomości;",
+      "ewidencji sieci uzbrojenia terenu;",
+      "ewidencji gruntów i budynków."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-05-27-55",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Podstawową skalą mapy dla opracowania planu miejscowego jest skala:",
+    "options": [
+      "1:1000;",
+      "1:100;",
+      "1:2500."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-05-27-56",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "W studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy określa się:",
+    "options": [
+      "obszary wymagające przeprowadzenia scaleń i podziałów nieruchomości;",
+      "obszary pomników zagłady i ich stref ochronnych;",
+      "stawki procentowe, na podstawie których ustala się \"opłatę planistyczną\"."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-05-27-58",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Decyzje o warunkach zabudowy oraz decyzje o ustaleniu lokalizacji inwestycji celu publicznego można wydać:",
+    "options": [
+      "w przypadku potrzeby zmiany ustaleń obowiązującego miejscowego planu zagospodarowania przestrzennego;",
+      "w przypadku braku miejscowego planu zagospodarowania przestrzennego;",
+      "w przypadku potrzeby zmiany planu zagospodarowania przestrzennego województwa."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-05-27-61",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Symbol Tp w ewidencji gruntów i budynkow oznacza:",
+    "options": [
+      "tereny przemysłowe;",
+      "grunty przeznaczone pod budowę dróg lub linii kolejowych;",
+      "zurbanizowane tereny w trakcie zabudowy."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-52",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Uwagi do projektu planu miejscowego mogą być wniesione:",
+    "options": [
+      "tylko przez właścicieli lub użytkowników wieczystych nieruchomości objętych planem;",
+      "tylko przez osoby mające interes prawny na obszarze objętym planem;",
+      "przez każdego, kto kwestionuje ustalenia przyjęte w projekcie planu wyłożonym do publicznego wglądu."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-54",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Danymi ewidencyjnymi dotyczącymi lokalu są:",
+    "options": [
+      "numer porządkowy lokalu w budynku;",
+      "liczba izb wchodzących w skład lokalu;",
+      "pole powierzchni pomieszczeń przynależnych do lokalu."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-55",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Dane zawarte w ewidencji gruntów i budynków stanowią podstawę:",
+    "options": [
+      "planowania gospodarczego i przestrzennego;",
+      "statystyki publicznej;",
+      "oznaczania nieruchomości w księgach wieczystych."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-56",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "W ewidencji gruntów i budynków do gruntów zabudowanych i zurbanizowanych zaliczają się :",
+    "options": [
+      "tereny rekreacyjno wypoczynkowe symbol Bz",
+      "grunty rolne zabudowane symbol Br",
+      "drogi, symbol dr"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-57",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Wydanie decyzji o warunkach zabudowy jest możliwe jedynie w przypadku łącznego spełnienia min. następujących warunków:",
+    "options": [
+      "teren ma dostęp do drogi publicznej;",
+      "teren nie wymaga uzyskania zgody na zmianę przeznaczenia gruntów rolnych i leśnych na cele nierolnicze i nieleśne;",
+      "decyzja jest zgodna z przepisami odrębnymi."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-60",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Na skutek uchwalenia planu miejscowego wartość nieruchomości spadła o 30 000 zł. Maksymalne odszkodowanie za zmniejszenie jej wartości przy sprzedaży w okresie 5 lat od daty, gdy plan miejscowy stał się prawem, wyniesie:",
+    "options": [
+      "9 000 zł;",
+      "15 000 zł;",
+      "30 000 zł."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-62",
+        "session": "2021-04-22"
+      }
+    ]
+  }
+]

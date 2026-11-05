@@ -1,0 +1,4884 @@
+[
+  {
+    "question": "W teorii finansów przedsiębiorstw wyróżnia się wskaźniki płynności:",
+    "options": [
+      "bieżącej, szybkiej i natychmiastowej;",
+      "gotówki, czeków i weksli;",
+      "wolnej i przyspieszonej."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-10",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "W rozumieniu przepisów o rachunkowości elementem ceny nabycia składnika aktywów są:",
+    "options": [
+      "cena zakupu składnika zawsze zawierająca podatek VAT;",
+      "cena zakupu składnika podlegającego odliczeniu podatku VAT;",
+      "koszty pośrednie związane z zakupem i przystosowaniem składnika aktywów do stanu zdatnego do używania."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-11",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "W ekonomii optymalna struktura kapitału:",
+    "options": [
+      "jest sumą kapitału pozyskanego z emisji akcji i obligacji korporacyjnych;",
+      "przedstawia proporcje kapitału własnego i obcego, przy którym koszt kapitału jest najniższy;",
+      "jest strukturą, przy której wartość przedsiębiorstwa jest maksymalna."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-12",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Listy zastawne to papiery wartościowe emitowane przez:",
+    "options": [
+      "Bank Centralny;",
+      "wszystkie banki, które udzielają kredytów zabezpieczonych hipotekami na nieruchomościach;",
+      "banki hipoteczne."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-13",
+        "session": "2026-09-09"
+      },
+      {
+        "id": "2023-04-20-18",
+        "session": "2023-04-20"
+      },
+      {
+        "id": "2022-07-07-16",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "question": "Rynek doskonale konkurencyjny cechuje się:",
+    "options": [
+      "dużą liczbą kupujących i sprzedających;",
+      "jednorodnością towarów;",
+      "tym, że uczestnicy transakcji decyzje swoje podejmują wyłącznie na podstawie cen produktów ;"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-14",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Potencjalny dochód brutto z nieruchomości wynosi 10 000 zł. Straty z tytułu pustostanów wynoszą 10% PDB. Wydatki operacyjne stanowią 10% EDB. W tym przypadku DON (dochód operacyjny netto) wynosi:",
+    "options": [
+      "9 000 zł;",
+      "8 100 zł;",
+      "10 000 zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-15",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z ustawą o rachunkowości do wartości niematerialnych i prawnych zalicza się m.in.:",
+    "options": [
+      "autorskie prawa majatkowe;",
+      "prawa do patentów;",
+      "koszty zakończonych prac rozwojowych."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-16",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Ryzyko w działalności inwestycyjnej oznacza:",
+    "options": [
+      "możliwość poniesienia szkody lub straty;",
+      "brak pewności co do kształtowania się przychodów i kosztów związanych z realizacją projektu inwestycyjnego;",
+      "możliwość wystąpienia efektów innych niż oczekiwane."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-17",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Średnią inflację za kilka lat określa się jako:",
+    "options": [
+      "średnią geometryczną;",
+      "średnią arytmetyczną;",
+      "medianę."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-18",
+        "session": "2026-09-09"
+      },
+      {
+        "id": "2025-09-10-11",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "question": "Koszt kapitału obcego (długu) jest najczęściej niższy od kosztu kapitału własnego, gdyż:",
+    "options": [
+      "koszt długu (odsetki) pomniejsza podstawę opodatkowania podatkiem dochodowym;",
+      "wierzyciele nie wymagają premii za ryzyko inwestowania;",
+      "większe ryzyko inwestowania ponosi inwestor."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-10",
+        "session": "2026-06-17"
+      },
+      {
+        "id": "2023-10-26-16",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "W metodzie inwestycyjnej można przyjąć efektywny dochód brutto za podstawę do określania stóp kapitalizacji z rynku gdy:",
+    "options": [
+      "nieruchomości mają podobną lokalizację;",
+      "poziom wydatków jest identyczny;",
+      "udział wydatków operacyjnych ponoszonych przez właściciela nieruchomości jest podobny jak na nieruchomościach podobnych."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-11",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "question": "Przy badaniu dynamiki zmian cen m2 mieszkania wyznaczono indeks o podstawie stałej, uzyskując wartość 80,5%. Oznacza to, że w badanym okresie cena m2:",
+    "options": [
+      "wzrosła o 80,5%;",
+      "spadła o 19,5%;",
+      "wzrosła o 19,5%."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-12",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "question": "Inwestycja w nieruchomości w stosunku do inwestycji w papiery wartościowe:",
+    "options": [
+      "jest bardziej płynna;",
+      "wymaga zaangażowania większego kapitału;",
+      "jest postrzegana jako inwestycja krótkoterminowa."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-13",
+        "session": "2026-06-17"
+      },
+      {
+        "id": "2023-10-26-12",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "Do cech ekonomicznych nieruchomości zalicza się:",
+    "options": [
+      "deficytowość;",
+      "różnorodność;",
+      "współzależność."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-14",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "question": "Czynsz efektywny różni się od czynszu rynkowego tym, że:",
+    "options": [
+      "jest wyższy od czynszu rynkowego;",
+      "uwzględnia przewidywaną inflację;",
+      "jest niższy od czynszu rynkowego o wynegocjowane kwoty ulg i zniżek finansowych w umowie najmu konkretnej nieruchomości."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-15",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "question": "W rachunkowości elementem ceny sprzedaży netto składnika aktywów jest:",
+    "options": [
+      "cena sprzedaży powiększona o podatek VAT wtedy, gdy podatek ten nie może być odliczony przez kupującego;",
+      "cena sprzedaży bez podatku VAT;",
+      "cena sprzedaży pomniejszona o koszty związane z przygotowaniem składnika do sprzedaży."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-16",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "question": "Bilans przedsiębiorstwa, sporządzony zgodnie z ustawą o rachunkowości, to:",
+    "options": [
+      "informacja o stanie płynności finansowej przedsiębiorstwa na koniec okresu sprawozdawczego;",
+      "informacja roczna o działalności przedsiębiorstwa;",
+      "zestawienie aktywów i pasywów na koniec okresu sprawozdawczego."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-17",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "question": "W podejściu dochodowym wyceny nieruchomości wyróżnia się techniki:",
+    "options": [
+      "dyskontowania strumieni dochodów;",
+      "kapitalizacji prostej;",
+      "inwestycyjną."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-18",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "question": "W dokumentach księgowych firmy prawo użytkowania wieczystego gruntu jest ujmowane:",
+    "options": [
+      "w środkach trwałych;",
+      "w wartościach niematerialnych i prawnych;",
+      "na kontach pozabilansowych."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-10",
+        "session": "2026-04-22"
+      },
+      {
+        "id": "2024-03-19-13",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "Cena rynkowa danego dobra:",
+    "options": [
+      "zależy tylko od jego wartości użytkowej;",
+      "jest kształtowana przez mechanizm podażowo-popytowy;",
+      "stanowi pieniężne wyrażenie wartości wymiennej dobra."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-11",
+        "session": "2026-04-22"
+      },
+      {
+        "id": "2024-09-17-17",
+        "session": "2024-09-17"
+      }
+    ]
+  },
+  {
+    "question": "Pośrednie formy inwestowania na rynku nieruchomości polegają na lokowaniu kapitału m.in. w:",
+    "options": [
+      "instrumenty finansowe związane z rynkiem nieruchomości;",
+      "zakup nieruchomości bezpośrednio na rynku pierwotnym lub wtórnym;",
+      "jednostki uczestnictwa funduszy inwestycyjnych."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-12",
+        "session": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Poziom zmiany ryzyka inwestowania w nieruchomość wpływa w następujacy sposób na stopę kapitalizacji:",
+    "options": [
+      "wzrost ryzyka prowadzi do zmniejszania stóp kapitalizacji;",
+      "wzrost ryzyka prowadzi do zwiększania stóp kapitalizacji;",
+      "zmiana poziomu ryzyka nie ma wpływu na wysokość stóp kapitalizacji."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-13",
+        "session": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Sprawozdanie finansowe, według ustawy o rachunkowości, sporządza się na dzień:",
+    "options": [
+      "otwarcia ksiąg rachunkowych;",
+      "zamknięcia ksiąg rachunkowych;",
+      "bilansowy."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-14",
+        "session": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "question": "W fazie cyklu koniunkturalnego, określanej jako depresja, obserwuje się na rynku dóbr inwestycyjnych:",
+    "options": [
+      "wzrost aktywności kredytowej banków;",
+      "spadek aktywności kredytowej banków;",
+      "brak wpływu na aktywność kredytową banków."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-15",
+        "session": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Częścią obowiązkową w każdym sprawozdaniu finansowym jednostki jest informacja dodatkowa zawierająca:",
+    "options": [
+      "przyjęte zasady (politykę) rachunkowości, w tym metody wyceny, co do których ustawa pozostawia jednostce swobodę;",
+      "dodatkowe informacje i objaśnienia odnoszące się do pozostałych części sprawozdania finansowego;",
+      "materiały reklamujące jednostkę."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-16",
+        "session": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Deflacja charakteryzuje się:",
+    "options": [
+      "zwiększeniem dopływu pieniądza na rynek;",
+      "nadwyżką popytu nad podażą;",
+      "zmniejszeniem skłonności do inwestowania."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-17",
+        "session": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Technikę wskaźnikową w podejściu kosztowym wyceny nieruchomości można stosować tylko wtedy, gdy:",
+    "options": [
+      "obiekty, których wartość określa się, są porównywalne z obiektami, dla których znane są ceny wskaźnikowe;",
+      "nie można zastosować techniki szczegółowej;",
+      "znana jest ilość oraz ceny scalonych elementów robót budowlanych."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-18",
+        "session": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Do podstawowych zalet inwestowania w fundusze inwestycyjne zalicza się:",
+    "options": [
+      "możliwość dywersyfikacji ryzyka;",
+      "możliwość lokowania niedużych środków;",
+      "gwarancję uzyskania określonego zysku."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-10",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "question": "Dla określania dynamicznych kryteriów inwestowania stosuje się następujące wskaźniki:",
+    "options": [
+      "wartości bieżącej netto;",
+      "stopy kapitalizacji;",
+      "wewnętrznej stopy zwrotu."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-11",
+        "session": "2026-03-25"
+      },
+      {
+        "id": "2024-04-23-16",
+        "session": "2024-04-23"
+      },
+      {
+        "id": "2023-04-20-16",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "W rozumieniu ustawy o rachunkowości, elementem ceny nabycia składnika aktywów są:",
+    "options": [
+      "cena zakupu składnika zawsze zawierająca podatek VAT;",
+      "cena zakupu składnika bez podatku VAT podlegającemu odliczeniu;",
+      "koszty bezpośrednio związane z zakupem i przystosowaniem składnika aktywów do stanu zdatnego do używania."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-12",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "question": "Jeżeli jednostka prowadząca działalność gospodarczą zaprzestaje swojej działalności (likwidacja), aktywa jednostki wycenia się według:",
+    "options": [
+      "wartości godziwej;",
+      "wyłącznie cen sprzedaży netto;",
+      "cen sprzedaży netto nie wyższych od cen ich nabycia albo kosztów wytworzenia, pomniejszonych o umorzenia."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-13",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "question": "Próg rentowności wyznacza:",
+    "options": [
+      "progową (minimalną) wielkość produkcji (sprzedaży), powyżej której produkcja przynosi zysk;",
+      "progową (minimalną) wielkość produkcji (sprzedaży), przy której przychody ze sprzedaży zrównają się z kosztami całkowitymi poniesionymi na produkcję;",
+      "progową wielkość sprzedaży, przy której przychody ze sprzedaży umożliwiają pokrycie kosztów stałych."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-14",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "question": "Projekt inwestycyjny może być przyjęty do realizacji gdy:",
+    "options": [
+      "stopa dyskontowa jest wyższa niż IRR;",
+      "IRR jest wyższa niż stopa dyskontowa;",
+      "stopa dyskontowa jest równa IRR."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-15",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "question": "Czynsz regulowany:",
+    "options": [
+      "jest kształtowany z uwzględnieniem mechanizmu podażowo - popytowego;",
+      "służy realizacji celów polityki społecznej;",
+      "musi uwzględniać poziom kosztów ponoszonych przez wynajmującego."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-16",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "question": "Na wybór techniki wyceny w podejściu dochodowym ma wpływ:",
+    "options": [
+      "zmiana stawek czynszu w związku z przewidywaną inflacją;",
+      "stałość strumieni dochodów generowanych przez nieruchomość;",
+      "zmienność dochodów wynikająca z zawartych umów na czas oznaczony."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-17",
+        "session": "2026-03-25"
+      },
+      {
+        "id": "2025-05-14-18",
+        "session": "2025-05-14"
+      }
+    ]
+  },
+  {
+    "question": "Sprawozdaniem księgowym, w którym wykazuje się wynik finansowy przedsiębiorstwa i jego strukturę, jest:",
+    "options": [
+      "rachunek przepływów pieniężnych;",
+      "bilans;",
+      "rachunek zysków i strat."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-18",
+        "session": "2026-03-25"
+      },
+      {
+        "id": "2023-10-26-14",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "Stopa zwrotu z kapitału własnego:",
+    "options": [
+      "jest najniższa, gdy inwestycja finansowana jest w całości kapitałem własnym;",
+      "jest najwyższa, gdy inwestycja finansowana jest w całości kapitałem własnym;",
+      "stopa nie zależy od sposobu finansowania inwestycji."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-10",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Stopa kapitalizacji:",
+    "options": [
+      "określa dochód inwestora na kapitale zaangażowanym w nieruchomość oraz zwrot wyłożonego kapitału;",
+      "odzwierciedla jedynie zwrot na kapitale;",
+      "w teorii wyceny nieruchomości oznacza relację rocznego dochodu z nieruchomości do ceny jej zakupu."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-11",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Przy badaniu współzależności między średnią ceną m2 mieszkania a liczbą sprzedanych mieszkań wyznaczono współczynnik korelacji Pearsona równy (-0,70). Oznacza to, że:",
+    "options": [
+      "między badanymi zjawiskami występuje istotna korelacja dodatnia;",
+      "między badanymi zjawiskami występuje silna korelacja ujemna;",
+      "wzrost ceny m2 o 1 tys. zł spowoduje spadek liczby sprzedanych mieszkań o 70%."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-12",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Do wzrostu dochodu narodowego, niewywołującego przy tym wzrostu inflacji, przyczyni się wzrost:",
+    "options": [
+      "inwestycji w sektorach produkcji i usług;",
+      "wydatków konsumpcyjnych;",
+      "wydajności pracy."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-13",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Banki hipoteczne mogą:",
+    "options": [
+      "emitować listy zastawne;",
+      "emitować obligacje;",
+      "zaciągać kredyty i pożyczki."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-14",
+        "session": "2025-11-19"
+      },
+      {
+        "id": "2025-06-25-17",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Aktywa netto jednostki to:",
+    "options": [
+      "aktywa minus pasywa;",
+      "aktywa minus zobowiązania;",
+      "aktywa niezawierające podatku VAT podlegajacego odliczeniu."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-15",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Rachunek zysków i strat to:",
+    "options": [
+      "podstawowy element biznesplanu przedsiewzięcia inwestycyjnego;",
+      "jedna z części sprawozdania finansowego wykonywanego zgodnie z ustawą o rachunkowości;",
+      "procedura stosowana w wycenie nieruchomości w podejściu dochodowym."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-16",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Przy stopie kapitalizacji 20%, współczynnik kapitalizacji wynosi:",
+    "options": [
+      "0,20;",
+      "5;",
+      "5%."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-17",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Dochód operacyjny netto w ostatnim roku prognozy wynosi 10 000 zł. Stopa kapitalizacji wynosi 8%. Wartość rezydualna wynosi:",
+    "options": [
+      "125 000 zł;",
+      "85 000 zł;",
+      "100 000 zł."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-18",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Akcja uprzywilejowana upoważnia do:",
+    "options": [
+      "większej liczby głosów przypadających na akcję;",
+      "większego udziału w podziale majątku spółki przy jej likwidacji;",
+      "specjalnego prawa do zasiadania w organach spółki."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-10",
+        "session": "2025-10-15"
+      },
+      {
+        "id": "2025-09-10-12",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z ustawą o podatku dochodowym od osób prawnych amortyzacji nie podlegają:",
+    "options": [
+      "budynki mieszkalne;",
+      "spółdzielcze własnościowe prawo do lokalu mieszkalnego;",
+      "lokale mieszkalne stanowiące odrębną nieruchomość."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-11",
+        "session": "2025-10-15"
+      }
+    ]
+  },
+  {
+    "question": "Wartość, która w zbiorze występuje najczęściej, to:",
+    "options": [
+      "dominanta;",
+      "wartość modalna;",
+      "wartość maksymalna."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-12",
+        "session": "2025-10-15"
+      },
+      {
+        "id": "2022-07-07-17",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "question": "DON wynosi 150 tys. zł. Ile wynosi PDB, jeżeli straty w dochodzie stanowią 10%, a wydatki operacyjne wynoszą 30 tys. zł.",
+    "options": [
+      "180 tys. zł;",
+      "200 tys. zł;",
+      "220 tys. zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-13",
+        "session": "2025-10-15"
+      },
+      {
+        "id": "2024-10-22-17",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "question": "Przychody i zyski wg ustawy o rachunkowości, to korzyści powstałe w okresie sprawozdawczym z tytułu:",
+    "options": [
+      "zwiększenia wartości aktywów;",
+      "zmniejszenia wartości zobowiązań;",
+      "wniesienia do firmy środków przez udziałowców lub właścicieli."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-14",
+        "session": "2025-10-15"
+      }
+    ]
+  },
+  {
+    "question": "Kosztem kapitału określa się:",
+    "options": [
+      "koszt zakupu aktywów przedsiębiorstwa;",
+      "historyczną stopę zwrotu z inwestycji w akcje danej spółki;",
+      "oczekiwaną stopę zwrotu wymaganą przez uczestników rynku w zamian za udostępnienie kapitału finansowego."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-15",
+        "session": "2025-10-15"
+      },
+      {
+        "id": "2021-07-22-15",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Aktywa netto jednostki to:",
+    "options": [
+      "aktywa minus pasywa;",
+      "aktywa minus zobowiązania;",
+      "aktywa niezawierające podatku VAT podlegającego odliczeniu."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-16",
+        "session": "2025-10-15"
+      }
+    ]
+  },
+  {
+    "question": "Termin \"amortyzacja\" najogólniej oznacza:",
+    "options": [
+      "wielkość nakładów niezbędną na remonty i konserwacje;",
+      "finansowy wyraz zużycia majątku trwałego;",
+      "wielkość odpisu aktualizacyjnego z tytułu trwałej utraty wartości aktywów rzeczowych."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-17",
+        "session": "2025-10-15"
+      },
+      {
+        "id": "2023-11-30-14",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "question": "Przy określaniu wartości nieruchomości wywłaszczonej podlegającej zwrotowi, w przypadku zmniejszenia albo zwiększenia wartości nieruchomości wskutek działań podjętych bezpośrednio na nieruchomości po jej wywłaszczeniu, uwzględnia się:",
+    "options": [
+      "stan nieruchomości z dnia wywłaszczenia;",
+      "skutki zmiany wartości wynikające ze zmiany przeznaczenia w planie miejscowym;",
+      "stan nieruchomości z dnia zwrotu."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-18",
+        "session": "2025-10-15"
+      }
+    ]
+  },
+  {
+    "question": "W bilansie jednostki, spółdzielcze własnościowe prawo do lokalu jest ujmowane:",
+    "options": [
+      "w wartościach niematerialnych i prawnych;",
+      "na kontach pozabilansowych;",
+      "w środkach trwałych."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-10",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "question": "Przy stopie kapitalizacji równej 5% - współczynnik kapitalizacji wyniesie:",
+    "options": [
+      "20;",
+      "0,2;",
+      "5."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-13",
+        "session": "2025-09-10"
+      },
+      {
+        "id": "2022-12-01-12",
+        "session": "2022-12-01"
+      },
+      {
+        "id": "2022-03-24-17",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Przy obliczaniu wartości początkowej środków trwałych, według przepisów o rachunkowości, można brać pod uwagę m.in. następujące elementy:",
+    "options": [
+      "cenę nabycia lub koszt wytworzenia;",
+      "tylko cenę zakupu lub koszt wytworzenia;",
+      "koszt ulepszenia, gdy wartość użytkowa po ulepszeniu przewyższa wartość użytkową z chwili przyjęcia środka."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-14",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "question": "Do spółek osobowych zalicza się:",
+    "options": [
+      "spółkę z ograniczoną odpowiedzialnością, spółkę akcyjną;",
+      "tylko spółkę jawną i spółkę partnerską;",
+      "spółkę jawną, spółkę partnerską, spółkę komandytową i spółkę komandytowo-akcyjną."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-15",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "question": "Amortyzacji środków trwałych dokonuje się do końca tego miesiąca, w którym:",
+    "options": [
+      "następuje zrównanie sumy odpisów amortyzacyjnych z ich wartością początkową;",
+      "postawiono je w stan likwidacji;",
+      "zbyto je lub stwierdzono ich niedobór."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-16",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "question": "Rozkład lewoskośny częstości w zbiorze danych oznacza, że:",
+    "options": [
+      "średnia znajduje się na prawo od mediany;",
+      "mediana leży na prawo od średniej;",
+      "średnia znajduje się na prawo od dominanty."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-17",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "question": "Przy określaniu wartości nieruchomości zabudowanej w celu ustalenia ceny nieruchomości dla potrzeb aktualizacji opłat rocznych z tytułu trwałego zarządu:",
+    "options": [
+      "rzeczoznawca określa jej wartość jako przedmiotu prawa własności;",
+      "rzeczoznawca majątkowy uwzględnia budynki i inne urządzenia trwale związane z gruntem bez uwzględnienia nakładów poniesionych przez jednostkę;",
+      "rodzaje budynków i urządzeń, na które nakłady poniosła jednostka organizacyjna określa w zleceniu zamawiający wykonanie wyceny."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-18",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "question": "Poziom stopy zwrotu z kapitału własnego:",
+    "options": [
+      "jest najniższy w przypadku finansowania inwestycji w całości kapitalem własnym;",
+      "jest najwyższy w przypadku finansowania inwestycji w całości kapitalem własnym;",
+      "nie zależy od sposobu finansowania inwestycji."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-10",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Ilościowy próg rentowności wynosi w firmie 250 szt. wyrobu, po cenie jednostkowej 20 zł. Z analizy zawartych umów sprzedaży wynika, że przedsiębiorstwo sprzeda 400 szt. wyrobu. Zatem nadwyżka finansowa ze sprzedaży zamówionych wyrobów wyniesie:",
+    "options": [
+      "8000 zł;",
+      "3000 zł;",
+      "5000 zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-11",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Rynek nieruchomości cechuje między innymi:",
+    "options": [
+      "mała elastyczność popytu i podaży;",
+      "duża elastyczność popytu i podaży;",
+      "niedoskonałość."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-12",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Budynki zaliczone w ustawie o rachunkowości do inwestycji długoterminowych:",
+    "options": [
+      "zaliczane są w ustawach podatkowych do wartości niematerialnych i prawnych;",
+      "zaliczane są w ustawach podatkowych do środków trwałych;",
+      "nie są uwzględniane w przepisach dotyczących amortyzacji podatkowej."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-13",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Podwyższenie stopy redyskontowej weksli przez NBP spowoduje:",
+    "options": [
+      "rozszerzenie akcji kredytowej;",
+      "ograniczenie akcji kredytowej;",
+      "spadek inwestycji i wzrostu konsumpcji."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-14",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Wyboru metody amortyzacji środka trwałego przedsiębiorca dokonuje co do zasady:",
+    "options": [
+      "w momencie przyjęcia środka do ewidencji;",
+      "przed rozpoczęciem jego amortyzacji;",
+      "począwszy od pierwszego miesiąca następującego po miesiącu, w którym ten środek przyjęto do używania."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-15",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Która z opisanych poniżej sytuacji zapewnia najwyższą efektywną roczną stopę procentową?",
+    "options": [
+      "nominalna stopa procentowa 8 % , kapitalizacja roczna;",
+      "nominalna stopa procentowa 8 % , kapitalizacja 2 razy do roku;",
+      "nominalna stopa procentowa 8 % , kapitalizacja co kwartał."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-16",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Przy określaniu wartości poniesionych szkód powstałych w związku z czasowym zajęciem nieruchomości (siła wyższa lub nagła potrzeba zapobieżenia powstaniu znacznej szkody) uwzględnia się w szczególności:",
+    "options": [
+      "stan zagospodarowania nieruchomości na dzień wydania decyzji o zewoleniu na czasowe zajęcie nieruchomości;",
+      "stan zagospodarowania nieruchomości na dzień zakończenia działań podjętych na podstawie tej decyzji:",
+      "utratę pożytków w okresie od dnia wydania decyzji do dnia rozpoczęcia działań podjętych na podstawie tej decyzji.i."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-18",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Przy ubieganiu się o pozwolenie na budowę, projekt zagospodarowania działki lub terenu jest opracowaniem, które:",
+    "options": [
+      "nie jest obowiązkowe;",
+      "jest obowiązkowe;",
+      "wraz z projektem architektoniczno-budowlanym jest zatwierdzany w decyzji o pozwoleniu na budowę."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-10",
+        "session": "2025-05-14"
+      }
+    ]
+  },
+  {
+    "question": "Średnia arytmetyczna jest odpowiednią miarą w sytuacjach, gdy:",
+    "options": [
+      "rozkład jest symetryczny;",
+      "występuje bardzo silna asymetria;",
+      "nie występują wartości skrajne, znacznie różniące się od pozostałych."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-11",
+        "session": "2025-05-14"
+      }
+    ]
+  },
+  {
+    "question": "Rentowność obligacji o oprocentowaniu stałym:",
+    "options": [
+      "zakłada reinwestycję odsetek po stopie wolnej od ryzyka;",
+      "jest to stopa wyznaczona formułą wewnętrznej stopy zwrotu (IRR);",
+      "jest to iloraz oprocentowania obligacji oraz jej ceny rynkowej."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-12",
+        "session": "2025-05-14"
+      },
+      {
+        "id": "2022-12-01-11",
+        "session": "2022-12-01"
+      },
+      {
+        "id": "2022-07-07-15",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "question": "Potencjalny dochód brutto, pomniejszony o straty wynikające z pustostanów i zaległości czynszowych, to:",
+    "options": [
+      "efektywny dochód brytto;",
+      "dochód operacyjny netto powiększony o wydatki operacyjne;",
+      "dochód netto z nieruchomości przed odliczeniem podatku."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-13",
+        "session": "2025-05-14"
+      },
+      {
+        "id": "2024-03-19-17",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "W rachunkowści elementem ceny sprzedaży netto składnika aktywów jest:",
+    "options": [
+      "cena sprzedaży powiększona o podatek VAT wtedy, gdy podatek ten nie może być odliczony przez kupującego;",
+      "cena sprzedaży bez podatku VAT;",
+      "cena sprzedaży pomniejszona o koszty związane z przygotowaniem składnika do sprzedaży."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-14",
+        "session": "2025-05-14"
+      }
+    ]
+  },
+  {
+    "question": "Majątek jednostki określany jest jako jej:",
+    "options": [
+      "aktywa i pasywa łącznie;",
+      "aktywa;",
+      "pasywa."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-15",
+        "session": "2025-05-14"
+      }
+    ]
+  },
+  {
+    "question": "Rynek nieruchomości charakteryzuje się:",
+    "options": [
+      "dużą elastycznością podaży;",
+      "małą elastycznością popytu;",
+      "niedoskonałością."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-16",
+        "session": "2025-05-14"
+      }
+    ]
+  },
+  {
+    "question": "W zbiorze liczb 2, 3, 4, 5, 5, 5 mediana:",
+    "options": [
+      "jest równa wartości modalnej;",
+      "jest mniejsza od wartości modalnej;",
+      "jest większa od wartości modalnej."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-17",
+        "session": "2025-05-14"
+      },
+      {
+        "id": "2022-04-28-17",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "Rynek finansowy obejmuje między innymi takie instrumenty finansowe jak:",
+    "options": [
+      "instrumenty finansowe o terminie zapadalności nie przekraczającym jednego roku;",
+      "długoterminowe instrumenty finansowe o terminie realizacji praw dłuższym niż rok;",
+      "rynek pochodnych instrumentów finansowych."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-10",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "question": "Roczny dochód operacyjny netto z nieruchomości wynosi 10 000 zł. Stopa kapitalizacji wynosi 8%. To wartość tej nieruchomości wynosi:",
+    "options": [
+      "80 000 zł;",
+      "125 000 zł;",
+      "100 000 zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-11",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "question": "Wskaźnikiem pozwalającym ocenić fazę cyklu rynku najmu jest:",
+    "options": [
+      "stawka czynszu;",
+      "poziom wynajętych powierzchni;",
+      "stopa kapitalizacji."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-12",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "question": "DON z nieruchomości wynosi 72 000 zł . Wydatki operacyjne stanowią 20% EDB. Łączne straty w dochodzie wynoszą 10% EDB . W powyższym przypadku PDB wyniesie:",
+    "options": [
+      "80 000 zł",
+      "99 000 zł;",
+      "100 000 zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-13",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "question": "Pieniądz pełni następujące funkcje:",
+    "options": [
+      "transakcyjną, płatniczą, obrachunkową (miernik wartości) i tezauracyjną;",
+      "jest prawnym środkiem płatniczym;",
+      "jest tylko środkiem tezauryzacji wartości."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-14",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "question": "Który element sprawozdania finansowego zawiera amortyzację?",
+    "options": [
+      "bilans;",
+      "rachunek zysków i strat;",
+      "nie jest ujmowana w sprawozdaniu finansowym, gdyż nie jest kosztem."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-15",
+        "session": "2025-03-26"
+      },
+      {
+        "id": "2023-09-14-13",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Wycena środków trwałych na dzień bilansowy jest dokonywana według:",
+    "options": [
+      "cen nabycia lub zakupu jeśli koszty zakupu nie są istotne;",
+      "cen nabycia pomniejszonych o dotychczasowe umorzenie i odpisy z tytułu trwałej utraty wartości;",
+      "kosztów wytworzenia pomniejszonych o dotychczasowe umorzenie i odpisy z tytułu trwałej utraty wartości."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-16",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "question": "Rachunek zysków i strat informuje o:",
+    "options": [
+      "sytuacji płatniczej przedsiębiorstwa;",
+      "elementach kształtujących wynik finansowy;",
+      "przychodach przyszłych okresów."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-17",
+        "session": "2025-03-26"
+      },
+      {
+        "id": "2023-10-26-10",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "Rozporządzenie w sprawie wyceny nieruchomości określa:",
+    "options": [
+      "sposoby określania wartości nieruchomości dla różnych celów;",
+      "treść operatu szacunkowego;",
+      "definicję nieruchomości podobnej."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-18",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "question": "Przez prawo do dysponowania nieruchomością na cele budowlane należy rozumieć tytuł prawny wynikający z:",
+    "options": [
+      "użytkowania wieczystego;",
+      "zarządu;",
+      "własności."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-10",
+        "session": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Inflacja w gospodarce może charakteryzować się:",
+    "options": [
+      "spadkiem wartości pieniądza;",
+      "stanem nierównowagi, w którym popyt przewyższa podaż;",
+      "stanem nierównowagi, w którym podaż przewyższa popyt."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-11",
+        "session": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Dochód operacyjny netto w ostatnim roku prognozy wynosi 10 000 zł, stopa kapitalizacji wynosi 8%. Wartość rezydualna wynosi:",
+    "options": [
+      "80 000 zł;",
+      "125 000 zł;",
+      "12 500 zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-12",
+        "session": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Poziom zmiany ryzyka inwestowania w nieruchomość wpływa w następujący sposób na stopę kapitalizacji:",
+    "options": [
+      "wzrost ryzyka prowadzi do zmniejszania stóp kapitalizacji;",
+      "wzrost ryzyka prowadzi do zwiększania stóp kapitalizacji;",
+      "zmiana poziomu ryzyka nie ma wpływu na wysokość stóp kapitalizacji."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-13",
+        "session": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Stopa kapitalizacji wynosi 12,5%. Współczynnik kapitalizacji wynosi:",
+    "options": [
+      "8;",
+      "10;",
+      "12,5."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-14",
+        "session": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Stopa kapitalizacji podana we współczynniku korygującym (Wk) przy wycenie nieruchomości jako prawa użytkowania wieczystego sposobem parametrycznym nie może być przyjęta na niższym poziomie niż:",
+    "options": [
+      "8%;",
+      "9%;",
+      "7%."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-15",
+        "session": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Udziały w funduszach inwestycyjnych działających na rynku nieruchomości zalicza się do papierów wartościowych:",
+    "options": [
+      "potwierdzających prawo współwłasności;",
+      "potwierdzających udzielenie pożyczki funduszowi inwestycyjnemu;",
+      "mogących być przedmiotem obrotu na rynku kapitałowym."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-16",
+        "session": "2024-11-19"
+      },
+      {
+        "id": "2023-04-20-10",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "W księgowości dewelopera nieruchomości przeznaczone do sprzedaży są ujmowane w:",
+    "options": [
+      "środkach trwałych;",
+      "nieruchomościach inwestycyjnych;",
+      "rzeczowych aktywach obrotowych."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-17",
+        "session": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Elastyczność dochodowa popytu:",
+    "options": [
+      "jest zawsze większa od 0;",
+      "jest zawsze większa od 1;",
+      "może być mniejsza od 0."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-18",
+        "session": "2024-11-19"
+      },
+      {
+        "id": "2023-06-22-15",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "Stopa zwrotu nakładów inwestycyjnych to:",
+    "options": [
+      "stosunek rocznego zysku z projektu inwestycyjnego do nakładów poniesionych na jego realizację;",
+      "wewnętrzna stopa zwrotu z projektu inwestycyjnego;",
+      "stosunek różnicy rocznego zysku z inwestycji do zdyskontowanych nakładów."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-11",
+        "session": "2024-10-22"
+      },
+      {
+        "id": "2022-09-15-17",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Przewidywany przez inwestora zwrot z zaangażowania kapitału w nieruchomości obejmuje:",
+    "options": [
+      "wyłącznie całkowite odzyskanie zainwestowanego kapitału (zwrot kapitału);",
+      "przede wszystkim uzyskanie wynagrodzenia za zaangażowany kapitał (zwrot na kapitale);",
+      "zarówno zwrot kapitału jak i zwrot na kapitale."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-12",
+        "session": "2024-10-22"
+      },
+      {
+        "id": "2023-03-23-11",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z ustawą o rachunkowości, środkami trwałymi są:",
+    "options": [
+      "prawo własności nieruchomości;",
+      "prawo użytkowania wieczystego gruntu;",
+      "spółdzielcze prawo do lokalu użytkowego."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-13",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "question": "Obniżka wartości pieniądza jest określona jako jego:",
+    "options": [
+      "denominacja;",
+      "aprecjajcja;",
+      "deprecjacja."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-14",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "question": "Jeżeli jednostka prowadząca działalność gospodarczą zaprzestaje swojej działalności (likwidacja), aktywa jednostki wycenia się wg:",
+    "options": [
+      "wartości godziwej;",
+      "wyłącznie cen sprzedaży netto;",
+      "cen sprzedaży netto nie wyższych od cen ich nabycia albo kosztów wytworzenia, pomniejszonych o umorzenia."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-15",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "question": "Strumień dochodu netto w ostatnim roku prognozowania (w techniced DCF) ma wartość 20 000 zł. Współczynnik kapitalizacji wynosi 9, a stopa dyskontowa wynosi 10%. Wartość rezydualna (RV) wynosi:",
+    "options": [
+      "100 000 zł;",
+      "200 000 zł;",
+      "180 000 zł."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-16",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "question": "Przy badaniu współzależności między średnią ceną m2 mieszkania a liczbą sprzedanych mieszkań wyznaczono współczynnik korelacji Pearsona równy -0,70. Oznacza to, że:",
+    "options": [
+      "między badanymi zjawiskami występuje istotna korelacja dodatnia;",
+      "między badanymi zjawiskami występuje silna korelacja ujemna;",
+      "wzrost ceny m2 o 1 tys. zł spowoduje spadek liczby sprzedanych mieszkań o 70%."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-18",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "question": "Które z przytoczonych stwierdzeń dotyczących akcji jest prawdziwe:",
+    "options": [
+      "akcje muszą być wprowadzone na giełdę;",
+      "akcja jest to papier wartościowy wystawiony na czas ograniczony;",
+      "akcja jest dokumentem potwierdzającym udział w kapitale spółki."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-10",
+        "session": "2024-09-17"
+      }
+    ]
+  },
+  {
+    "question": "Hipoteczny list zastawny to:",
+    "options": [
+      "papier wartościowy emitowany przez właścicieli nieruchomości;",
+      "papier wartościowy emitowany przez bank hipoteczny, zabezpieczony przyjętą hipoteką;",
+      "papier wartościowy emitowany przez banki komercyjne."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-11",
+        "session": "2024-09-17"
+      },
+      {
+        "id": "2022-07-07-12",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "question": "W fazie cyklu koniunkturalnego, określanej jako depresja, obserwuje się na rynku dóbr inwestycyjnych:",
+    "options": [
+      "wzrost aktywności kredytowej banków;",
+      "spadek aktywności kredytowej banków;",
+      "głębsze załamanie niż na rynku dóbr konsumpcyjnych."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-12",
+        "session": "2024-09-17"
+      }
+    ]
+  },
+  {
+    "question": "Wzrost inflacji oznacza:",
+    "options": [
+      "spadek wartości pieniądza;",
+      "spadek popytu na pieniądz;",
+      "wzrost popytu na kredyt."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-13",
+        "session": "2024-09-17"
+      }
+    ]
+  },
+  {
+    "question": "Na tle innych instrumentów finansowych inwestowanie w nieruchomości jest instrumentem:",
+    "options": [
+      "bardziej ryzykownym niż inwestowanie w akcje;",
+      "mniej ryzykownym niż inwestowanie w akcje;",
+      "zaliczanym do instrumentów o umiarkowanym poziomie ryzyka."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-14",
+        "session": "2024-09-17"
+      },
+      {
+        "id": "2023-06-22-10",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "Zaznacz wariant, który jest najmniej wrażliwy na zmianę czynników rynkowych wiedząc, że różnica pomiędzy wewnętrzną stopą zwrotu ( IRR ) a kosztem kapitału ( r )przedstawia się jak niżej:",
+    "options": [
+      "wariant A -różnica wynosi 1 %;",
+      "wariant B - różnica wynosi 5 %;",
+      "wariant C - różnica wynosi 15 %."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-15",
+        "session": "2024-09-17"
+      }
+    ]
+  },
+  {
+    "question": "Poziom stopy zwrotu na rynku akcji zależy od:",
+    "options": [
+      "kursu akcji i dywidendy;",
+      "dywidendy oraz różnicy między ceną sprzedaży a ceną zakupu akcji w rozpatrywanym okresie;",
+      "wskaźnika cena/zysk."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-16",
+        "session": "2024-09-17"
+      }
+    ]
+  },
+  {
+    "question": "Jaka jest roczna rata amortyzacyjna od kapitału 10 000 zł, gdy roczny współczynnik amortyzacyjny określony dla okresu amortyzacji z uwzględnieniem stopy zwrotu wynosi 0,10 ?",
+    "options": [
+      "1 000 zł;",
+      "100 zł;",
+      "10 zł."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-18",
+        "session": "2024-09-17"
+      }
+    ]
+  },
+  {
+    "question": "Wartość bieżąca obligacji:",
+    "options": [
+      "jest ceną, za którą można w danym czasie obligacje kupić lub sprzedać;",
+      "może się różnić od jej wartości nominalnej;",
+      "jest zawsze równa wartości nominalnej."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-10",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Modalna (dominanta) to w zbiorowości:",
+    "options": [
+      "wartość wyrazu środkowego;",
+      "wartość występująca najczęściej;",
+      "zmienna o największej wartości."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-11",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Przeprowadzając wycenę nieruchomości dla celów zabezpieczenia wierzytelności rzeczoznawca majątkowy, na podstawie dostępnych źródeł, ma obowiązek m.in.:",
+    "options": [
+      "uwzględnić obszary ryzyka związanego z wycenianą nieruchomością;",
+      "uwzględnić przewidywane zmiany rynkowe dla właściwego segmentu rynku nieruchomości;",
+      "oszacować ryzyko kredytowe dotyczące danej wierzytelności."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-12",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Dekapitalizacja majątku trwałego oznacza spadek jego wartości na skutek:",
+    "options": [
+      "zmian kursów walutowych;",
+      "zmniejszania się rynkowych stóp kapitalizacji;",
+      "niepodejmowania bieżących działań likwidujących jego zużywanie się."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-13",
+        "session": "2024-06-25"
+      },
+      {
+        "id": "2023-04-20-11",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Stopa dyskontowa:",
+    "options": [
+      "odzwierciedla zwrot kapitału i zwrot na kapitale;",
+      "odzwierciedla jedynie zwrot na kapitale (dochód z wyłożonego kapitału);",
+      "może być wyznaczona jako suma stopy bezpiecznej i wynagrodzenia za ponoszone ryzyko."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-14",
+        "session": "2024-06-25"
+      },
+      {
+        "id": "2022-10-27-11",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Przy określeniu wartości nieruchomości położonych na udokumentowanych złożach kopalin objętych prawem własności nieruchomości gruntowej, po zakończeniu eksploatacji złoża, kosztów rekultywacji wyrobiska:",
+    "options": [
+      "nie uwzględnia się;",
+      "uwzględnia się;",
+      "uwzględnia się, gdy eksploatacje złoża przeprowadzono w 50%."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-15",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Potwierdzenia aktualności operatu szacunkowego:",
+    "options": [
+      "może dokonać wyłącznie rzeczoznawca majątkowy, który sporządził dany operat szacunkowy;",
+      "może dokonać tylko raz;",
+      "można dokonać kilka razy."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-16",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Wycenie może podlegać prawo:",
+    "options": [
+      "własności nieruchomośći;",
+      "użytkowania wieczystego nieruchomości gruntowych;",
+      "służebności gruntowej."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-17",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Dla potrzeb ustalenia odszkodowania za wywłaszczoną nieruchomość, jej wartość określa się:",
+    "options": [
+      "według stanu nieruchomości na dzień wszczęcia postępowania wywłaszczeniowego;",
+      "według stanu nieruchomości na dzień wydania decyzji o wywłaszczeniu;",
+      "według poziomu cen na dzień wydania decyzji o wywłaszczeniu."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-18",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Jakie dane można uzyskać z Katalogów Nakładów Rzeczowych (KNR)?",
+    "options": [
+      "zasady przedmiarowania robót;",
+      "jednostkowe nakłady rzeczowe;",
+      "stawki kosztów pośrednich."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-10",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "question": "Współczynnik kapitalizacji jest synonimem:",
+    "options": [
+      "stopy kapitalizacji;",
+      "okresu zwrotu zaangażowanych środków na inwestycję;",
+      "jest liczbą mianowaną i jest to mnożnik dochodu, wyrażający relację między ceną a dochodem."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-11",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "question": "Podejmując decyzję o przyjęciu lub odrzuceniu danego przedsięwzięcia inwestycyjnego należy porównać jego okres zwrotu (n) z granicznym okresem zwrotu (ng). Przedsięwzięcie jest opłacalne wtedy, gdy:",
+    "options": [
+      "n> ng;",
+      "n < ng;",
+      "n = ng."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-12",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "question": "Analiza rynku nieruchomości obejmuje:",
+    "options": [
+      "określenie przestrzennego zasięgu rynku;",
+      "analizę struktury socjologicznej i demograficznej społeczności lokalnej;",
+      "analizę bazy ekonomicznej na obszarze przestrzennym rynku."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-13",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "question": "Co to jest wskaźnik nasycenia obliczany przy analizie rynkowej w przypadku nieruchomości handlowych?",
+    "options": [
+      "to całkowita podaż powierzchni handlowej, w tym m.in. powierzchnia centrów handlowych, supermarketów, lokali użytkowych;",
+      "to współczynnik wskazujący na potencjał rynku lokalnego;",
+      "wskaźnik obliczany jako ilość m2 powierzchni wybudowanej na 1000 mieszkańców."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-14",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "question": "Przesunięcie krzywej popytu w lewo może być spowodowane:",
+    "options": [
+      "wzrostem ceny dobra komplementarnego w stosunku do dobra X;",
+      "wzrostem dochodów;",
+      "wzrostem liczby ludności."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-15",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "question": "Stopa dyskontowa jest synonimem:",
+    "options": [
+      "współczynnika kapitalizacji;",
+      "stopy zwrotu;",
+      "oprocentowana kapitału."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-17",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "question": "Do spółek kapitałowych zalicza się:",
+    "options": [
+      "spółkę akcyjną;",
+      "spółkę z ograniczoną odpowiedzialnością;",
+      "spółkę komandytowo-akcyjną."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-18",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "question": "Zawiadomienie o zakończeniu budowy budynku mieszkalnego jednorodzinnego, o powierzchni zabudowy powyżej 100 m2, należy złożyć do:",
+    "options": [
+      "organu nadzoru budowlanego;",
+      "organu administracji architektoniczno-budowlanej;",
+      "zawiadomienie nie jest wymagane."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-10",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "W skład sprawozdania finansowego każdej jednostki, stosującej ustawę o rachunkowości wchodzą:",
+    "options": [
+      "rachunek zysków i strat;",
+      "rachunek przepływów pieniężnych;",
+      "bilans."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-11",
+        "session": "2024-03-19"
+      },
+      {
+        "id": "2022-09-15-13",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Inflacja w gospodarce może charakteryzować się:",
+    "options": [
+      "spadkiem wartości pieniądza;",
+      "stanem nierównowagi, w którym popyt przewyższa podaż;",
+      "spadkiem stóp procentowych."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-12",
+        "session": "2024-03-19"
+      },
+      {
+        "id": "2022-04-28-10",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "Kiedy w metodzie inwestycyjnej można przyjąć efektywny dochód brutto za podstawę do określania stop kapitalizacji z rynku?:",
+    "options": [
+      "wtedy gdy nieruchomości mają podobną lokalizację;",
+      "wtedy gdy poziom wydatków jest identyczny;",
+      "wtedy gdy udział wydatków operacyjnych ponoszonych przez właściciela nieruchomości jest podobny jak na nieruchomościach podobnych."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-14",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "PDB wynosi 100 000 zł. Wydatki operacyjne wynoszą 15 000 zł. Jeżeli pustostany i straty w dochodzie stanowią 5%, to DON wynosi:",
+    "options": [
+      "85 000 zł;",
+      "80 000 zł;",
+      "82 750 zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-15",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "Wartość rynkowa akcji:",
+    "options": [
+      "to rzeczywista wartość akcji, określana jako jej kurs;",
+      "stanowi podstawę określania jednego z podstawowych wskaźników rynku kapitalowego - wskaźnika P/E;",
+      "jest zawsze równa wartości księgowej akcji."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-16",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "Rynek nieruchomości cechuje między innymi:",
+    "options": [
+      "doskonałość;",
+      "mała elastyczność popytu i podaży;",
+      "duża elastyczność popytu i podaży."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-18",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "Realny poziom stopy procentowej, przy określonej inflacji, jest:",
+    "options": [
+      "równa różnicy między poziomem stopy procentowej w ujęciu nominalnym oraz stopy inflacji;",
+      "większy od różnicy stopy procentowej w ujęciu nominalnym oraz stopy inflacji;",
+      "mniejszy od różnicy stopy procentowej w ujęciu nominalnym oraz stopy inflacji."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-10",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "question": "Okres zwrotu nakładów inwestycyjnych należy do metod statycznych wykorzystywanych w ocenie opłacalności inwestycji rzeczowych i oznacza:",
+    "options": [
+      "liczbę miesięcy, w ciągu których zwrócą się nakłady poniesione na inwestycję dzięki korzyściom generowanym przez tą inwestycję;",
+      "liczbę lat, w ciągu których nakłady poniesione na realizację danej inwestycji w pełni zostaną pokryte korzyściami generowanymi przez to przedsięwzięcie inwestycyjne;",
+      "okres przygotowania i realizacji inwestycji."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-11",
+        "session": "2023-11-30"
+      },
+      {
+        "id": "2022-06-02-15",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z ustawą o rachunkowości do wartości niematerialnych i prawnych zalicza się:",
+    "options": [
+      "licencje;",
+      "prawa do znaków towarowych;",
+      "prawo dzierżawy."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-12",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "question": "Poziom elastyczności cenowej popytu dla nieruchomości:",
+    "options": [
+      "jest względem poziomu elastyczności cenowej podaży wyższy;",
+      "oznacza relację krańcowej zmiany popytu do krańcowej zmiany cen nieruchomości;",
+      "kształtuje się co do zasady powyżej jedności."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-13",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "question": "Wskaż powierzchnię zabudowy wg normy PN ISO 9836 z 2015 r. dla następujacych danych: wymiary budynku w rzucie poziomym wynoszą 20,00 m x10,00 m; do budynku dobudowany jest ganek o wymiarach 2,00 m x 3,00 m oraz pochylnia zjazdowa (do garażu ustuowanego w podpiwniczeniu budynku) o wymiarach 3,00 m x 5,00 m:",
+    "options": [
+      "200,00 m kw;",
+      "206,00 m kw;",
+      "221,00 m kw."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-15",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "question": "Przy określeniu wartości nieruchomości, po zakończeniu eksploatacji złoża, kosztów rekultywacji wyrobiska:",
+    "options": [
+      "nie uwzględnia się;",
+      "uwzględnia się;",
+      "uwzględnia się, gdy eksploatacje złoża przeprowadzono w 50%."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-17",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "question": "Przy określaniu wartości nieruchomości przed wybudowaniem urządzeń infrastruktury technicznej i po ich wybudowaniu dla ustalenia opłat adiacenckich, uwzględnia się:",
+    "options": [
+      "wartość części składowych nieruchomości;",
+      "odległość nieruchomości od urządzeń infrastruktury technicznej;",
+      "warunki podłączenia nieruchomości do urządzeń infrastruktury technicznej."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-18",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "question": "Cena równowagi na rynku nieruchomości:",
+    "options": [
+      "jest wynikiem wielkości popytu na dany rodzaj nieruchomości;",
+      "jest zobrazowana w punkcie przecięcia się krzywych podaży i popytu;",
+      "odpowiada poziomowi, przy którym ilość nieruchomości oferowanych do sprzedaży jest równa realnemu popytowi."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-11",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "W zbiorze liczb: (10, 20, 30, 40, 60) mediana wynosi:",
+    "options": [
+      "32;",
+      "30;",
+      "35."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-13",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "Do metod ograniczania ryzyka kredytowego związanego z finansowaniem nieruchomości zalicza się m.in.:",
+    "options": [
+      "badanie zdolności kredytowej;",
+      "metody scoringowe;",
+      "odchylenie standardowe."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-15",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "Stosowanymi przez inwestorów wskaźnikami efektywności inwestycji są:",
+    "options": [
+      "kurs złotego w stosunku do podstawowych walut;",
+      "wewnętrzna stopa zwrotu (IRR);",
+      "wartość bieżąca netto (NPV)."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-10",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Przychody i zyski według przepisów o rachunkowości, to korzyści powstałe w okresie sprawozdawczym z tytułu:",
+    "options": [
+      "zwiększenia wartości aktywów;",
+      "zmniejszenia wartości zobowiązań;",
+      "wniesienia środków przez udziałowców lub właścicieli."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-11",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Obniżka wartości pieniądza jest określana jako jego:",
+    "options": [
+      "aprecjacja;",
+      "deprecjacja;",
+      "denominacja."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-12",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Nakłady poniesione na remont budynku wynoszą 20 000 zł. Koszty odtworzenia budynku według stanu przed dokonaniem nakładów wynoszą 100 000 zł, a według stanu po dokonaniu nakładów 200 000 zł. Wskaźnik przeliczeniowy dokonanych nakładów do określenia ich wartości wynosi:",
+    "options": [
+      "0,2;",
+      "0,1;",
+      "0,3."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-14",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Określając wysokość odszkodowania za szkody powstałe wskutek budowy na nieruchomości urządzeń zapobiegających niebezpieczeństwu, rzeczoznawca majątkowy bierze pod uwagę:",
+    "options": [
+      "koszty związane z budową urządzeń zapobiegających niebezpieczeństwu;",
+      "wartość poniesionych szkód;",
+      "ewentualne zmniejszenie się wartości nieruchomości."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-16",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Podstawą do określenia wartości rynkowej nieruchomości nie mogą stanowić ceny uzyskane:",
+    "options": [
+      "w transakcji pomiędzy spółkami powiązanymi;",
+      "w transakcji sprzedaży nieruchomości lokalowej z zasobu komunalnego na rzecz dotychczasowego najemcy;",
+      "w transakcji sprzedaży przez komornika."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-17",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Aby dany zbiór transakcji nieruchomościami mógł być wykorzystany do wyceny metodą korygowania ceny średniej musi spełniać on następujące warunki:",
+    "options": [
+      "co najmniej kilkanaście nieruchomości jest podobnych do nieruchomości szacowanej;",
+      "znane są cechy przynajmniej nieruchomości o cenie najwyższej i o cenie najniższej;",
+      "istnieje możliwość wiarygodnego skorygowania cen uzyskanych w szczególnych okolicznościach."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-18",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Przez \"wartości niematerialne i prawne\" , zgodnie z ustawą o rachunkowości, rozumie się m.in:",
+    "options": [
+      "autorskie prawa majątkowe;",
+      "licencje i koncesje;",
+      "prawa do wynalazków i patentów."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-11",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z ustawą o rachunkowości przez rzeczowe aktywa obrotowe rozumie się:",
+    "options": [
+      "materiały nabyte w celu zużycia na własne potrzeby;",
+      "półprodukty;",
+      "towary nabyte w celu odsprzedaży w stanie nieprzetworzonym."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-12",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "Wysokość dochodu operacyjnego netto, ustalanego w procesie wyceny nieruchomości, jest uzależniona od:",
+    "options": [
+      "opłat rocznych za użytkowanie wieczyste gruntu;",
+      "podatku od nieruchomości;",
+      "kosztów ubezpieczenia nieruchomości."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-13",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z ustawą o rachunkowości do środków trwałych firmy zalicza się:",
+    "options": [
+      "prawo wieczystego użytkowania gruntów;",
+      "równowartość nakładów poniesionych na ulepszenie obcych budynków i budowli wykorzystywanych przez firmę dłużej niż jeden rok;",
+      "spółdzielcze prawo do lokalu użytkowego wykorzystywanego na potrzeby firmy."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-14",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "Do pozycji księgowej \"środki trwałe w budowie\", zgodnie z ustawą o rachunkowości, zalicza między innymi:",
+    "options": [
+      "nieruchomości w trakcie budowy;",
+      "nieruchomości istniejące, będące w trakcie ulepszania;",
+      "nieruchomości gotowe wybudowane w celu ich sprzedaży."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-16",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "Aby zaktualizować ceny nieruchomości podobnych na datę wyceny należy przeprowadzić:",
+    "options": [
+      "analizę cen nieruchomości możliwych do uzyskania w najbliższym czasie;",
+      "obliczenia wielkości współczynnika zmiany cen nieruchomości podobnych;",
+      "przeliczenia cen transakcyjnych nieruchomości podobnych na jednostkę odniesienia."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-17",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "Wartość zaktualizowana netto (NPV) jest:",
+    "options": [
+      "sumą zdyskontowanych przychodów brutto z poszczególnych lat okresu życia projektu;",
+      "sumą zdyskontowanych przepływów pieniężnych netto z poszczególnych lat okresu życia projektu;",
+      "sumą zdyskontowanych zysków z poszczególnych lat okresu życia projektu."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-12",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Dochód Operacyjny Netto w ostatnim roku prognozy wynosi 10 000 zł. Stopa kapitalizacji wynosi 8%. Wartość rezydualna wynosi:",
+    "options": [
+      "125 000 zł;",
+      "85 000 zł;",
+      "100 000 zł."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-13",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Popyt jest nieelastyczny, jeśli jego elastyczność cenowa jest :",
+    "options": [
+      "z przedziału od 0 do 1;",
+      "mniejsza od -1;",
+      "z przedziału od -1 do 0."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-14",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Wartość nieruchomości określona techniką kapitalizacji prostej wynosi 500 000 zł. Dochód roczny wynosi 40 000 zł. W takim przypadku stopa kapitalizacji wynosi:",
+    "options": [
+      "12. 5%;",
+      "8%;",
+      "10%."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-15",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Podstawą udzielenia kredytu hipotecznego przez bank hipoteczny jest:",
+    "options": [
+      "wartość rynkowa nieruchomości dla aktualnego stanu użytkowania;",
+      "wartość rynkowa nieruchomości dla optymalnego stanu użytkowania;",
+      "wartośc bankowo-hipoteczna nieruchomości."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-17",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Próba losowa to wybrana z populacji próba tak, aby:",
+    "options": [
+      "każda możliwa miała taką samą szansę, że zostanie wybrana;",
+      "zadośćuczyniła wymogom liczebności próby;",
+      "na jej podstawie można było przeprowadzić wnioskowanie dla całej populacji."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-10",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Wielkość podaży zależy od:",
+    "options": [
+      "ceny, jeśli pozostałe czynniki decydujące o produkcji pozostają stałe;",
+      "tylko od ceny;",
+      "wyłącznie od potencjalnych możliwosci aparatu wytwórczego."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-12",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z ustawą o podatku dochodowym od osób prawnych, amortyzacji podatkowej nie podlegają:",
+    "options": [
+      "prawo użytkowania wieczystego gruntów;",
+      "lokale zaliczane do spółdzielczych zasobów mieszkaniowych;",
+      "licencje."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-13",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z ustawą o rachunkowości, przez rzeczowe aktywa obrotowe rozumie się:",
+    "options": [
+      "materiały nabyte w celu zużycia na własne potrzeby;",
+      "wytworzone przez jednostkę produkty gotowe, zdatne do sprzedaży;",
+      "towary nabyte w celu odsprzedaży w stanie nieprzetworzonym."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-14",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Elastyczność cenowa podaży jest większa:",
+    "options": [
+      "w krótkim okresie;",
+      "w długim okresie;",
+      "nie ma to znaczenia."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-15",
+        "session": "2023-03-23"
+      },
+      {
+        "id": "2022-03-24-14",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Rzeczoznawca majątkowy określa wartość odtworzeniową nieruchomości:",
+    "options": [
+      "dla nieruchomości, które ze względu na rodzaj, obecne użytkowanie lub przeznaczenie nie są lub nie mogą być przedmiotem obrotu rynkowego;",
+      "jeżeli określenia wartości odtworzeniowej wymagają przepisy szczególne;",
+      "dla potrzeb związanych z opłatą za wyłączenie gruntów rolnych z produkcji."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-16",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Wartość rynkowa nieruchomości powinna odzwierciedlać:",
+    "options": [
+      "typowe zachowania uczestników rynku;",
+      "poziom cen z daty wyceny;",
+      "stan nieruchomości z daty wyceny."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-17",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Wartość nieruchomości równa kosztowi nabycia gruntu, powiększonemu o koszt odtworzenia części składowych tego gruntu pomniejszonych o wartość zużycia tych części składowych, jest wartością:",
+    "options": [
+      "rynkową;",
+      "odtworzeniową;",
+      "likwidacyjną."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-18",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Podstawę do sporządzania kosztorysu inwestorskiego stanowią:",
+    "options": [
+      "ceny jednostkowe robót podstawowych;",
+      "specyfikacja techniczna wykonania i odbioru robót budowlanych;",
+      "założenia wyjściowe do kosztorysowania."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-10",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "Ryzyko inwestowania w nieruchomości obejmuje między innymi ryzyko:",
+    "options": [
+      "lokalizacyjne;",
+      "rynku;",
+      "płyności."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-13",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "Wzrost oszczędności gospodarstw domowych i przedsiębiorstw przy stałym popycie na kredyt powoduje:",
+    "options": [
+      "wzrost rynkowej stopy procentowej;",
+      "spadek rynkowej stopy procentowej;",
+      "nie ma wpływu na stopy procentowe."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-14",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z ustawą o rachunkowości elementami składowymi ksiąg rachunkowych są m.in.:",
+    "options": [
+      "księga główna;",
+      "dziennik;",
+      "wykaz składników aktywów i pasywów (inwentarz)."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-15",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "Do pozostałych przychodów i kosztów operacyjnych jednostki zalicza się m.in. przychody i koszty:",
+    "options": [
+      "zbycia wszystkich posiadanych składników nieruchomości;",
+      "utrzymania wszystkich posiadanych składników nieruchomości;",
+      "związane z aktualizacją wartości nieruchomości zaliczonych do inwestycji, jeżeli do wyceny inwestycji przyjęto cenę rynkową bądź inaczej określoną wartość godziwą."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-16",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "Czynsz regulowany:",
+    "options": [
+      "jest kształtowany z uwzglednieniem mechanizmu podażowo - popytowego;",
+      "służy realizacji celów polityki społecznej;",
+      "musi uwzględniać poziom kosztów ponoszonych przez wynajmujacego."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-17",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "Przez \"inwestycje\" w ustawie o rachunkowości rozumie się:",
+    "options": [
+      "aktywa posiadane przez jednostkę w celu osiągnięcia z nich korzyści ekonomicznych;",
+      "środki trwałe w okresie ich budowy, montażu lub ulepszenia już istniejącego środka trwałego;",
+      "wartości niematerialne."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-18",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "Kapitał obrotowy netto to:",
+    "options": [
+      "część kapitałów stałych finansująca aktywa obrotowe;",
+      "różnica aktywów obrotowych i zapasów;",
+      "przeciętny poziom środków pieniężnych będących w obrocie."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-10",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Portfel inwestycyjny, czyli gromadzenie przez inwestora inwestycji różnego typu, ma na celu:",
+    "options": [
+      "zminimalizowanie ryzyka inwestycyjnego;",
+      "zmniejszenie tzw. ryzyka specyficznego, związanego z konkretnym rodzajem inwestycji ;",
+      "zmniejszenie tzw. ryzyka systematycznego, związanego ze zmianami rynkowymi."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-12",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Rozkład zbiorowości asymetryczny lewostronnie to rozkład, w którym większość elementów zbiorowości ma:",
+    "options": [
+      "wartości mniejsze od średniej;",
+      "wartości większe od średniej;",
+      "wartość równą średniej arytmetycznej."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-13",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Lokata kapitałowa to operacja finansowa polegająca na:",
+    "options": [
+      "lokowaniu nadwyżki finansowej firmy w dziedzinach, w których firma nie prowadzi działalności statutowej;",
+      "zakupie nowych środków trwałych w zakresie prowadzonej działalności statutowej;",
+      "dowolnym, opłacalnym ulokowaniu nadwyżki finansowej."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-14",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Do zadań Narodowego Banku Polskiego należy:",
+    "options": [
+      "emisja akcji;",
+      "prowadzenie działalności dewizowej w granicach określonych ustawami;",
+      "prowadzenie bankowej obsługi budżetu państwa."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-15",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z ustawą o rachunkowości elementami kosztu wytworzenia produktu są:",
+    "options": [
+      "wszystkie koszty bezpośrednie wytworzenia;",
+      "koszty bezpośrednie, które nie są konsekwencją niewykorzystania zdolności produkcyjnej i strat produkcyjnych;",
+      "uzasadniona część kosztów pośrednich, uwzględniona odpowiednio do okresu wytwarzania produktu."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-16",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Wyceniana jest nieruchomość zadrzewiona leżąca w strefie zainwestowania miejskiego i brak jest transakcji rynkowych tego rodzaju nieruchomościami. Grunty przyległe o przeznaczeniu przeważającym uzyskują wartość 50 zł za m kw. Wartość 1 m2 gruntów wycenianych wynosi:",
+    "options": [
+      "50 zł;",
+      "25 zł;",
+      "10 zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-17",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Ustalenia zakresu wartości współczynników korygujących w metodzie korygowania ceny średniej dokonuje się w oparciu o:",
+    "options": [
+      "wartości obliczone metodą porównywania parami;",
+      "tylko ceny maksymalną i minimalną;",
+      "ceny transakcyjne - maksymalną, minimalną i średnią - z analizowanego zbioru."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-18",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Do wniosku o pozwolenie na budowę dołącza się m.in. projekt architektoniczno-budowlany, w:",
+    "options": [
+      "formie papierowej w trzech egzemplarzach;",
+      "formie papierowej w czterech egzemplarzach;",
+      "formie papierowej w dwóch egzemplarzach plus w formie elektronicznej;"
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-10",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Banki Hipoteczne mogą:",
+    "options": [
+      "emitować listy zastawne;",
+      "emitować obligacje;",
+      "zaciągać kredyty i pożyczki."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-11",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "W dokumentach księgowych firmy spółdzielcze własnościowe prawo do lokalu jest ujmowane:",
+    "options": [
+      "w wartościach niematerialnych i prawnych;",
+      "na kontach pozabilansowych;",
+      "w środkach trwałych."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-12",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Jaka jest roczna rata amortyzacyjna od kapitału 10 000zł, gdy roczny współczynnik amortyzacyjny określony dla okresu amortyzacji z uwzględnieniem stopy zwrotu wynosi 0,10 ?",
+    "options": [
+      "1 000zł;",
+      "100zł;",
+      "10zł."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-14",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Jeżeli wzrośnie podaż pieniądza, to relatywnie:",
+    "options": [
+      "stopy procentowe wzrosną;",
+      "stopy procentowe spadną;",
+      "tempo inflacji będzie wyższe."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-15",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Współczynnik kapitalizacji jest synonimem:",
+    "options": [
+      "stopy kapitalizacji;",
+      "okresu zwrotu zaangażowanych środków na inwestycję;",
+      "jest liczbą mianowaną i jest to mnożnik dochodu ,wyrażający relację między ceną a dochodem."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-16",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Próg rentowności w działalności jednostki gospodarczej to taki stan, w którym w analizowanym okresie:",
+    "options": [
+      "nie występuje ani zysk ani strata;",
+      "przychody ze sprzedaży pokrywają całość kosztów stałych i zmiennych prowadzonej działalności;",
+      "nie występuje zagrożenie płynności finansowej."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-18",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów prawa budowlanego do budowli nie zalicza się:",
+    "options": [
+      "ogrodzeń;",
+      "sieci gazowych;",
+      "sieci wodociągowych."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-07-07-10",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "question": "Stopa kapitalizacji podana we współczynniku korygującym (Wk) przy wycenie nieruchomości jako prawa użytkowania wieczystego sposobem parametrycznym nie może być mniejsza niż:",
+    "options": [
+      "8%;",
+      "9%;",
+      "7%."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-07-07-11",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "question": "Które z przytoczonych stwierdzeń dotyczących akcji jest prawdziwe:",
+    "options": [
+      "akcje muszą być wprowadzone na giełdę;",
+      "akcja jest to papier wartościowy, wystawiony na czas ograniczony;",
+      "akcja jest dokumentem potwierdzającym udział w kapitale spółki."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-07-07-13",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "question": "Cechą specyficzną rynku nieruchomości jest:",
+    "options": [
+      "mała elastyczność podaży;",
+      "globalizacja;",
+      "efektywność."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-07-07-14",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "question": "W każdym sprawozdaniu finansowym jednostki organizacyjnej zamieszcza się obowiązkowo informację dodatkową zawierającą:",
+    "options": [
+      "opis przyjętych zasad (politykę) rachunkowości, w tym metody wyceny, co do których ustawa pozostawia swobodę jednostce organizacyjnej;",
+      "informacje i objaśnienia odnoszące się do poszczególnych części sprawozdania finansowego;",
+      "materiały reklamujące jednostkę organizacyjną ."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-07-07-18",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "question": "Klasycznymi miarami tendencji centralnej są:",
+    "options": [
+      "średnia arytmetyczna;",
+      "mediana;",
+      "średnia geometryczna."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-06-02-11",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Wartość godziwa w rozumieniu przepisów o rachunkowości, to wartość wymienna gdy:",
+    "options": [
+      "transakcja odbywa się w warunkach rynkowych;",
+      "strony transakcji są nią zainteresowane, dobrze poinformowane i nie powiązane ze sobą;",
+      "cena transakcyjna została uznana w potocznym rozumieniu jako godziwa przez jedną ze stron transakcji."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-06-02-12",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Akcje uprzywilejowane mogą dotyczyć:",
+    "options": [
+      "wypłaty wyższej dywidendy;",
+      "ilości głosów na jedną akcję;",
+      "udziału w podziale majątku w przypadku likwidacji spółki."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-06-02-13",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Przez pojęcie rynku rozumie się:",
+    "options": [
+      "ogół transakcji wymiennych oraz warunków tych transakcji;",
+      "wzajemne interakcje między popytem, podażą i ceną;",
+      "ustalanie przez państwo cen minimalnych i pułapów cenowych."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-06-02-14",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Przychody i zyski wg ustawy o rachunkowości, to korzyści powstałe w okresie sprawozdawczym z tytułu:",
+    "options": [
+      "zwiększenia wartości aktywów;",
+      "zmniejszenia wartości zobowiązań;",
+      "wniesienia środków przez udziałowców lub właścicieli."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-06-02-16",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Dobra substytucyjne to dobra:",
+    "options": [
+      "umożliwiające zaspokajanie takich samych potrzeb;",
+      "posiadające zawsze charakter dóbr wolnych;",
+      "wzajemnie zastępowalne."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-06-02-17",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z ustawą o podatku dochodowym od osób prawnych, amortyzacji podatkowej podlegają :",
+    "options": [
+      "każde spółdzielcze własnościowe prawo do lokalu;",
+      "spółdzielcze prawo do lokalu użytkowego, nabyte jako nadające się do gospodarczego wykorzystania;",
+      "budynki służące działalności społeczno - wychowawczej prowadzonej przez spółdzielnie mieszkaniowe."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-06-02-18",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Do prostych metod opłacalności inwestycji produkcyjnych zalicza się:",
+    "options": [
+      "okres zwrotu;",
+      "księgową stopę zwrotu;",
+      "zdyskontowany okres zwrotu."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-04-28-11",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "Krzywa podaży oznacza:",
+    "options": [
+      "zależność między wielkością podaży a wysokością podatków;",
+      "zależność między wielkością podaży a wielkością popytu na dane dobro;",
+      "zależność między wielkością podaży a ceną danego dobra przy założeniu ceteris paribus."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-04-28-12",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "Według kryterium rodzaju instrumentów finansowych można wyodrębnić rynek:",
+    "options": [
+      "pierwotny i wtórny;",
+      "pieniężny, kapitałowy, walutowy, instrumentów pochodnych;",
+      "publiczny i prywatny."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-04-28-13",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "Towary w bilansie zalicza się do:",
+    "options": [
+      "aktywów trwałych;",
+      "aktywów obrotowych;",
+      "rezerw."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-04-28-14",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "Stopa kapitalizacji przyjęta w wycenie konkretnej nieruchomości jest :",
+    "options": [
+      "wymaganą stopą zwrotu ;",
+      "rynkową stopą zwrotu ;",
+      "średnią arytmetyczną stóp zwrotu uzyskanych w danym segmencie rynku , z którego pochodzi wyceniana nieruchomość ;"
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-04-28-15",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "Rzadkość zasobów w ekonomii oznacza:",
+    "options": [
+      "brak określonego towaru na rynku lokalnym;",
+      "niedostatek towaru z powodu ograniczeń importowych i wysokich barier celnych;",
+      "przewagę potencjalnego zapotrzebowania społeczeństwa na dobra i usługi nad możliwościami ich wytworzenia z dostępnych zasobów."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-04-28-16",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "Stopa kapitalizacji netto jest:",
+    "options": [
+      "jest zdecydowanie częściej wykorzystywana w procesie szacowania wartości nieruchomości;",
+      "im wyższa stopa kapitalizacji netto ,tym przy stałym dochodzie netto ,mniejsza wartość nieruchomości;",
+      "stopa kapitalizacji netto jest odwrotnością współczynnika kapitalizacji brutto."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-04-28-18",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "Powierzchnie użytkową budynku, dla potrzeb ustalenia podatku od nieruchomości, oblicza się :",
+    "options": [
+      "zgodnie z normą PN- ISO 9836; (w świetle otynkowanych ścian)",
+      "zgodnie z normą PN- 70/B-02367;",
+      "zgodnie z ustawą o podatkach i opłatach lokalnych."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-10",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Miarą inflacji jest:",
+    "options": [
+      "indeks cen konsumpcyjnych (CPI);",
+      "kurs walutowy PLN do USD;",
+      "średnia stopa oprocentowania depozytów w bankach komercyjnych."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-11",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Wskażnik P/E , stosowany powszechnie w analizie finansowej, określa:",
+    "options": [
+      "stosunek ceny rynkowej do wartości księgowej,",
+      "ile inwestorzy zapłacą za akcję dla uzyskania 1 zł dochodu,",
+      "stosunek ceny jednej akcji do zysku z jednej akcji."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-12",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Bilans przedsiębiorstwa, sporzadzony zgodnie z ustawą o rachunkowości, to :",
+    "options": [
+      "informacja o stanie płynności finansowej przedsiębiorstwa na koniec okresu sprawozdawczego;",
+      "informacja roczna o działalności przedsiębiorstwa;",
+      "zestawienie na koniec okresu sprawozdawczego majątku przedsiębiorstwa i źródeł jego finansowania."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-13",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Krzywa popytu obrazuje:",
+    "options": [
+      "zależność między liczbą sprzedających i kupujących dany towar;",
+      "zależność między ceną a nabywaną na rynku ilością danego dobra ,przy założeniu ceters paribus;",
+      "możliwość substytucji między poszczególnymi dobrami."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-15",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Do środków trwałych w ustawie o rachunkowości zalicza się:",
+    "options": [
+      "grunt jako prawo własności;",
+      "grunt jako przedmiot prawa użytkowania wieczystego;",
+      "lokale nie stanowiące przedmiotu odrębnej własności."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-16",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Do pozycji księgowej \"środki trwałe w budowie\" zalicza między innymi:",
+    "options": [
+      "nieruchomości w trakcie budowy;",
+      "nieruchomości istniejące , będące w trakcie ulepszania;",
+      "nieruchomości gotowe wybudowane w celu ich sprzedaży."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-18",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Ilość energii określanej przy sporządzaniu charakterystyki energetycznej budynku określa się w:",
+    "options": [
+      "kJ/m2/rok;",
+      "kWh/m2/rok;",
+      "kW/m3/rok."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-10",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "Zwrot wywłaszczonej nieruchomości następuje na:",
+    "options": [
+      "wniosek spadkobiercy byłego właściciela nieruchomości;",
+      "wniosek byłego właściciela nieruchomości;",
+      "z urzędu, jeżeli nieruchomość stała się zbędna dla podmiotu, na rzecz którego dokonano wywłaszczenia nieruchomości."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-11",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "Podstawową formą sprzedaży nieruchomości stanowiących własność Skarbu Państwa są:",
+    "options": [
+      "rokowania z zachowaniem konkurencji;",
+      "przetarg;",
+      "decyzja Wojewody."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-12",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "Mur pruski to rodzaj ściany, w której konstrukcję nośną stanowią:",
+    "options": [
+      "bele drewniane, tzw. dyle pruskie;",
+      "szkielet z łat drewnianych obity obustronnie deskami;",
+      "szkielet drewniany z krawędziaków wypełniony cegłą."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-13",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "Czy osoba, która posiada własnościowe spółdzielcze prawo do lokalu, może skutecznie żądać przekształcenia tego prawa we własność lokalu?:",
+    "options": [
+      "może wnosić o przekształcenie, ale nie może żądać;",
+      "może żądać przekształcenia niezależnie od okoliczności;",
+      "może żądać jeżeli spełnia warunki ustawowe."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-15",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "Przepisy rozporządzenia w sprawie wyceny nieruchomości i sporządzania operatu szacunkowego zawierają sposoby określania wartości nakładów:",
+    "options": [
+      "które w dacie wyceny tych nakładów zostały już na nieruchomości dokonane;",
+      "które zostaną poniesione w przyszłości, przy czym ich zakres nie został ustalony;",
+      "wyłącznie nakładów, które zostały już dokonane, o ile określeniu podlega wartość tych nakładów według zasad rynkowych."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-16",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "Wartość rynkową nieruchomości można określić stosując technikę:",
+    "options": [
+      "kapitalizacji prostej;",
+      "korygowania ceny średniej;",
+      "zysku."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-17",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "Czym różni się pojęcie wycena nieruchomości od pojęcia szacowanie nieruchomości?",
+    "options": [
+      "niczym, obydwa pojęcia oznaczają to samo;",
+      "różni się tym, że wycena nieruchomości oznacza ustalenie jej ceny, a pojęcie szacowanie nieruchomości oznacza określenie jej wartości;",
+      "różni się tym, że wycena oznacza postępowanie, a szacowanie oznacza czynności."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-18",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "Potwierdzenia aktualności operatu szacunkowego może dokonać:",
+    "options": [
+      "autor operatu;",
+      "dowolny rzeczoznawca majątkowy;",
+      "Komisja Odpowiedzialności Zawodowej."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-10",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Przy wycenie nieruchomości, w celu ustalenia opłat z tytułu trwałego zarządu, w przypadku gdy jednostka organizacyjna dokonała zabudowy z własnych środków, fakt ten powoduje, że:",
+    "options": [
+      "wartości zabudowy nie uwzględnia się przy wycenie;",
+      "wartość zabudowy należy uwzględnić, dodając 50% wartości poniesionych kosztów;",
+      "wartość zabudowy należy uwzględnić, odejmując 30% wartości poniesionych nakładów na przebudowę."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-12",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Symbol \"K\" użytku gruntowego oznacza:",
+    "options": [
+      "tereny kolejowe;",
+      "inne tereny komunikacyjne;",
+      "użytki kopalne."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-14",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Stan nieruchomości dla potrzeb określenia jej wartości w związku z ustaleniem odszkodowania za nieruchomości przejęte z mocy prawa na podstawie przepisów ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych ustala się na dzień:",
+    "options": [
+      "wydania decyzji o zezwoleniu na realizację inwestycji drogowej;",
+      "na datę, na którą decyzja o zezwoleniu na realizację inwestycji drogowej stała się ostateczna;",
+      "na datę ustalenia odszkodowania."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-16",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Dla potrzeb egzekucji z nieruchomości sumę oszacowania nieruchomości ustala się według:",
+    "options": [
+      "cen uzyskiwanych w obrocie;",
+      "przeciętnych cen sprzedaży podobnych nieruchomości w tej samej okolicy, z uwzględnieniem stanu nieruchomości w dniu oszacowania nieruchomości;",
+      "rynkowych cen uzyskiwanych w obrocie nieruchomości według stanu z daty postanowienia o wszczęciu egzekucji."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-17",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Na potrzeby wyceny nieruchomości w celu ustalenia odszkodowania za nieruchomości przejęte z mocy prawa na podstawie przepisów ustawy o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych, w przypadku gdy na lokalnym rynku nieruchomości nie zanotowano transakcji nieruchomościami podobnymi, rzeczoznawca majątkowy:",
+    "options": [
+      "powinien rozszerzyć obszar badania rynku na rynek regionalny;",
+      "powinien rozszerzyć zkres badania na inne nieruchomości przeznaczone na cele transportowe;",
+      "nie może rozszerzać obszaru badania rynku i powinien określić wartość odtworzeniową nieruchomości."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-18",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Wartość rynkową nieruchomości oddanej w użytkowanie wieczyste, zabudowanej budynkiem gospodarczym, w celu sprzedaży określa się jako:",
+    "options": [
+      "wartość całej nieruchomości będącej przedmiotem prawa użytkowania wieczystego, gdyż nadrzędnym jest prawo do gruntu;",
+      "wartość całej nieruchomości, w tym budynku jako przedmiotu prawa własności i gruntu jako przedmiotu prawa użytkowania wieczystego;",
+      "sumę odrębnie określonej wartości budynku jako przedmiotu prawa własności i odrębnie wartości gruntu jako przedmiotu prawa użytkowania wieczystego, gdyż są to różne prawa."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-10",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Dochód roczny w ostatnim roku prognozy wynosi 45 tys. zł. Stopa dyskontowa wynosi 9%, a współczynnik kapitalizacji wynosi 10. Warość rezydualna w tym przypadku wynosi:",
+    "options": [
+      "500 000 zł;",
+      "450 000 zł;",
+      "405 000 zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-11",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Cena nieruchomości gruntowej, na której położone są garaże niewykorzystywane do działalności gospodarczej, ustalona do aktualizacji opłaty rocznej za użytkowanie wieczyste wynosi 10 000 zł. Opłata roczna z tej nieruchomości wyniesie:",
+    "options": [
+      "100 zł;",
+      "200 zł;",
+      "300 zł."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-12",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Miarami rozproszenia, czyli statystyki opisowej, obrazującej jak bardzo uzyskane wyniki rozrzucone są wokół centralnego punktu rozkładu są:",
+    "options": [
+      "mediana;",
+      "odchylenie standardowe;",
+      "wariancja."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-13",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Przewidywany wzrost strumieni dochodu z wycenianej nieruchomości może być uwzględniony przy określaniu jej wartości w podejściu dochodowym poprzez:",
+    "options": [
+      "przyjęcie do obliczeń wyższych dochodów i rynkowej stopy dyskontowej;",
+      "przyjęcie aktualnych dochodów i obniżenie rynkowej stopy dyskontowej;",
+      "przyjęcie aktualnych dochodów i podwyższenie stopy dyskontowej."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-14",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Cena nieruchomości oddanej w trwały zarząd wynosi 100 000 zł. Opłata pierwsza z tego tyłułu przekazanej na cele mieszkaniowe wynosi:",
+    "options": [
+      "15000 zł;",
+      "1000 zł;",
+      "0 zł."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-15",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Wszczęcie postępowania w sprawie ustalenia opłaty adiacenckiej (z tytułu podziału nieruchomości) może nastąpić w terminie:",
+    "options": [
+      "do trzech lat od dnia w którym orzeczenie o podziale stało się prawomocne;",
+      "do trzech lat od dnia w którym decyzja zawierdzająca podział nieruchomości stała się ostateczna;",
+      "do trzech lat od dnia w którym decyzja zawierdzająca podział nieruchomości została wydana."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-16",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Cecha ma 5 stanów (5 - stan najlepszy). Stan wycenianej wynosi 2, a porównywanej wynosi 3. Poprawka dla cechy wynosi 40 zł. Jaka będzie poprawka dla nieruchomości wycenianej?",
+    "options": [
+      "+ 10 zł;",
+      "- 10 zł;",
+      "+ 40 zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-17",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "question": "DON dla nieruchomości - dla której PDB = 10000 zł, straty w dochodzie wynoszą 10%, wydatki operacyjne stanowią 40% EDB - wynosi :",
+    "options": [
+      "9000 zł;",
+      "5400 zł;",
+      "3600 zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-18",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Czy użytkownik wieczysty, który wniósł opłaty roczne za cały okres użytkowania wieczystego, obowiązany jest wnieść opłatę adiacencką z tytułu podziału nieruchomości?",
+    "options": [
+      "tak, gdy podział oparty został o ustalenia planu miejscowego i dokonany na jego wniosek;",
+      "nie;",
+      "tak, gdy podział oparty był o ustalenia decyzji o warunkach zabudowy i dokonany na jego wniosek."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-12",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Rzadkość zasobów w ekonomii oznacza:",
+    "options": [
+      "brak określonego towaru na rynku lokalnym;",
+      "przewagę potencjalnego zapotrzebowania społeczeństwa na dobra i usługi nad możliwościami ich wytworzenia z dostępnych zasobów;",
+      "niedostatek towaru z powodu ograniczeń importowych i wysokich barier celnych."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-16",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Cena emisyjna obligacji może być:",
+    "options": [
+      "wyższa od wartości nominalnej;",
+      "niższa od wartości nominalnej;",
+      "równa wartości nominalnej."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-17",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Dochód w ostatnim roku prognozy wynosi 10 tys. zł. Stopa kapitalizacji R=10%; stopa dyskontowa wynosi r=12,5%. Wartość rezydualna wynosi:",
+    "options": [
+      "80 tys. zł;",
+      "100 tys. zł;",
+      "125 tys zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-18",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "W architekturze współczesnej - atrium, to:",
+    "options": [
+      "budynki w zabudowie atrialnej;",
+      "dziedziniec wewnętrzny mieszczący się w obrysie rzutu budynku;",
+      "plac otoczony budynkami."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-10",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "Dochód operacyjny netto w ostatnim roku prognozy wynosi DON= 20 tys. zł, stopa kapitalizacji wynosi R= 8% a stopa dyskontowa r=10%. Wartość rezydualna wyniesie :",
+    "options": [
+      "200 tys. zł;",
+      "250 tys. zł;",
+      "25 tys. zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-11",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "Nieruchomością budynkową jest:",
+    "options": [
+      "budynek wybudowany na gruncie będącym w użytkowaniu wieczystym właściciela budynku;",
+      "budynek wzniesiony przez posiadacza samoistnego,",
+      "budynek wybudowany na gruncie będącym własnością właściciela budynku;"
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-12",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "Definicja działki budowlanej jest podana w przepisach dotyczących:",
+    "options": [
+      "gospodarki nieruchomościami;",
+      "planowania przestrzennego;",
+      "prawa budowlanego."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-13",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "Sporządzenie przez innego rzeczoznawcę majątkowego wyceny tej samej nieruchomości w formie operatu szacunkowego:",
+    "options": [
+      "może stanowić podstawę oceny prawidłowości sporządzenia operatu szacunkowego;",
+      "nie może stanowić podstawy oceny prawidłowości sporządzenia operatu szacunkowego;",
+      "wykonanie takiej wyceny w szczególnych przypadkach jest dopuszczalne."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-14",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "Czynnikami wpływającymi na stopień zużycia technicznego elementu budynku są:",
+    "options": [
+      "okres eksploatacji danego elementu;",
+      "trwałość danego elementu;",
+      "okresowe kontrole budynku."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-15",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "Do prostych metod opłacalności inwestycji produkcyjnych zalicza się:",
+    "options": [
+      "okres zwrotu;",
+      "księgowa stopa zwrotu;",
+      "zdyskontowany okres zwrotu."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-16",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "Który organ administracji publicznej ma obowiązek złożenia wniosku o ujawnienie w księdze wieczystej praw wynikających z ostatecznej decyzji o wywłaszczeniu nieruchomości na rzecz gminy?",
+    "options": [
+      "zawsze starosta, gdyż to on prowadzi postępowanie wywłaszczeniowe;",
+      "zawsze wojewoda, gdyż to on nadzoruje postępowanie wywłaszczeniowe;",
+      "wójt, burmistrz albo prezydent miasta."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-17",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "Ustalając wysokość dochodów z nieruchomości, w procedurze wyceny techniką dyskontowania strumieni dochodów, uwzględnia się m.in.:",
+    "options": [
+      "warunki wynikające z zawartych umów najmu;",
+      "operatywność najemcy;",
+      "podatek od nieruchomości."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-18",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "Do pozycji księgowej \"środki trwałe w budowie\" zalicza między innymi:",
+    "options": [
+      "nieruchomości w trakcie budowy;",
+      "nieruchomości istniejace, będące w trakcie ulepszania;",
+      "nieruchomości gotowe wybudowane w celu ich sprzedaży."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-05-27-10",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "KOWR przysługuje prawo pierwokupu na rzecz Skarbu Państwa przy sprzedaży nieruchomości przez nabywcę w okresie:",
+    "options": [
+      "pięciu lat od nabycia tej nieruchomości od KOWR;",
+      "tylko do jednego roku od nabycia tej nieruchomości od KOWR;",
+      "tylko do trzech lat od nabycia tej nieruchomości od KOWR."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-05-27-11",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Jaki obowiązek ciąży na notariuszu spisującym umowę przeniesienia na osobę trzecią prawa własności nieruchomości, które powstało na skutek przekształcenia z prawa użytkowania wieczystego tej nieruchomości, dokonanego przed upływem 5 lat licząc od dnia przekształcenia?",
+    "options": [
+      "nie ciążą na notariuszu żadne dodatkowe obowiązki;",
+      "ma obowiązek przekazania odpisu umowy notarialnej organowi, który dokonał przekształcenia prawa użytkowania wieczystego nieruchomości gruntowej w prawo własności tej nieruchomości;",
+      "ma obowiązek pouczenia stron umowy o konieczności zgłoszenia się do organu, który dokonał przekształcenia prawa użytkowania wieczystego nieruchomości gruntowej w prawo własności tej nieruchomości, w celu okazania zawartej umowy notarialnej."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-05-27-12",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Do budynków użyteczności publicznej, zalicza się:",
+    "options": [
+      "budynek przeznaczony dla oświaty;",
+      "dom dziecka;",
+      "budynek opieki zdrowotnej."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-05-27-14",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Wspólnota mieszkaniowa to:",
+    "options": [
+      "ogół właścicieli, których lokale wchodzą w skład danej nieruchomości;",
+      "ogół najemców i właścicieli lokali wyodrębnionych, których lokale wchodzą w skład danej nieruchomości;",
+      "ogół najemców lokali wyodrębnionych, wchodzących w skład danej nieruchomości."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-05-27-15",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Informację o tym czy gleba jest pochodzenia organicznego czy mineralnego można uzyskać:",
+    "options": [
+      "z mapy ewidencji gruntów;",
+      "z mapy glebowo-rolniczej;",
+      "z mapy siedlisk leśnych."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-05-27-16",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Określając wartość wynajętej nieruchomości dla celów zabezpieczenia wierzytelności, rzeczoznawca majątkowy:",
+    "options": [
+      "może stosować wyłącznie podejście dochodowe;",
+      "może stosować wyłącznie podejście porównawcze;",
+      "może stosowac podejście porównawcze albo podejście dochodowe."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-05-27-17",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Dla określenia wartości nieruchomości zabudowanej dla potrzeb aktualizacji opłat z tytułu użytkowania wieczystego przyjmuje się ceny transakcyjne:",
+    "options": [
+      "nieruchomości podobnych zabudowanych;",
+      "nieruchomości niezabudowanych jako przedmiotu prawa własności;",
+      "nieruchomości niezabudowanych jako przedmiotu prawa użytkowania wieczystego."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-05-27-18",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Właściciel gruntu, na którym bez jego zgody wybudowano budynki lub inne urządzenia o wartości przekraczającej znacznie wartość zajętej na ten cel części działki, może:",
+    "options": [
+      "żądać, aby ten, kto wzniósł budynki lub inne urządzenia rozebrał je bez odszkodowania lub wynagrodzenia;",
+      "żądać, aby ten, kto wzniósł budynki lub inne urządzenia nabył od niego własność zajętej części działki, za odpowiednim wynagrodzeniem;",
+      "żądać przeniesienia na jego rzecz własności dokonanych nakładów za wynagrodzeniem odpowiadającym wartości tych nakładów."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-10",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Współczynnik kapitalizacji wynosi 12,5. Stopa kapitalizacji wynosi:",
+    "options": [
+      "8%;",
+      "12,5%;",
+      "10%."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-11",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z Kodeksem cywilnym do rozporządzania rzeczą wspólną oraz do innych czynności przekraczających zakres zwykłego zarządu, odpowiednio:",
+    "options": [
+      "potrzebna jest zgoda wszystkich współwłaścicieli,",
+      "wystarczająca jest zgoda współwłaścicieli posiadających co najmniej połowę udziałów,",
+      "potrzebny jest wyrok sadu cywilnego, w przypadku braku zgody wszystkich współwłaścicieli."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-12",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Koszty związane z wyłączeniem lasów z produkcji to:",
+    "options": [
+      "należności;",
+      "opłaty roczne;",
+      "opłaty za zezwolenie na wycięcie drzew."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-13",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Przy określaniu wartości nieruchomości dla celu aktualizacji opłat rocznych z tytułu użytkowania wieczystego, rzeczoznawca majątkowy:",
+    "options": [
+      "określa wartość nieruchomości jako przedmiotu prawa własności;",
+      "określa wartość nieruchomości jako przedmiotu prawa użytkowania wieczystego;",
+      "uwzględnia okres niewykorzystanego prawa użytkowania wieczystego."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-15",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "W podejściu dochodowym mają zastosowanie następujące techniki wyceny nieruchomości:",
+    "options": [
+      "skapitalizowanego dochodu netto;",
+      "dyskontowania strumieni dochodów;",
+      "kapitalizacji prostej."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-16",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Metodę kosztów zastąpienia stosuje się przy użyciu techniki:",
+    "options": [
+      "kapitalizacji prostej;",
+      "elementów scalonych;",
+      "wskaźnikowej."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-17",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z ustawą o gospodarce nieruchomościami wartość rynkowa nieruchomości to:",
+    "options": [
+      "wartość katastralna;",
+      "szacunkowa kwota, jaką w dniu wyceny można uzyskać za nieruchomość w transakcji sprzedaży, zawieranej na warunkach rynkowych;",
+      "najbardziej prawdopodobna cena możliwa do uzyskania za nieruchomość wycenianą na rynku."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-18",
+        "session": "2021-04-22"
+      }
+    ]
+  }
+]

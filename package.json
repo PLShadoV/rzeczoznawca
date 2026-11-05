@@ -1,0 +1,15 @@
+{
+  "name": "pracownia-rzeczoznawcy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Statyczna aplikacja do nauki na egzamin na rzeczoznawcę majątkowego",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "test": "node checks/logic.cjs && python3 checks/legal.py && npm run test:release",
+    "test:release": "node -e \"const fs=require('node:fs');if(fs.existsSync('checks/release.cjs'))require('./checks/release.cjs')\""
+  }
+}

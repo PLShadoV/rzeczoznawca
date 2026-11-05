@@ -1,0 +1,5470 @@
+[
+  {
+    "index": 0,
+    "question": "Jeśli przedmiotem zbycia jest nieruchomość z zasobu gminy lub Skarbu Państwa, zbywana na potrzeby poprawy warunków zagospodarowania nieruchomości przyległej, to cenę ustala się jako:",
+    "options": [
+      "wartość rynkową nieruchomości, która ma być nabyta;",
+      "różnicę wartości nieruchomości przyległej wraz z nieruchomością, która ma być nabyta i wartości nieruchomości przyległej przed nabyciem, bez uwzględnienia częsci składowych nieruchomości przyleglej;",
+      "różnicę wartości nieruchomości przyległej wraz z nieruchomością, która ma być nabyta i wartości nieruchomości przyległej przed nabyciem, z uwzględnieniem części składowych nieruchomości przyległej."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-19",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "question": "Koszty likwidacji części składowych gruntu ustala się przy użyciu techniki:",
+    "options": [
+      "wskaźnikowej;",
+      "elementów scalonych;",
+      "szczegółowej."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-43",
+        "session": "2026-09-09"
+      },
+      {
+        "id": "2025-11-19-37",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "question": "Decyzje o wyłączeniu gruntów z produkcji lesnej wydaje:",
+    "options": [
+      "dyrektor regionalnej dyrekcji Lasów Państwowych,",
+      "Minister Środowiska;",
+      "dyrektor parku narodowego w przypadku lasów leżących na terenie parku narodowego"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-73",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "question": "Lasem, w świetle ustawy o lasach, jest grunt, który m.in.:",
+    "options": [
+      "ma powierzchnię zwartą co najmniej 0,10 ha;",
+      "nie musi być związany z gospodarką leśną;",
+      "może być przejściowo pozbawiony roślinności leśnej."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-74",
+        "session": "2026-09-09"
+      },
+      {
+        "id": "2023-11-30-69",
+        "session": "2023-11-30"
+      },
+      {
+        "id": "2022-07-07-73",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "index": 11,
+    "question": "Koszty związane z wyłączeniem lasów z produkcji to:",
+    "options": [
+      "należności;",
+      "opłaty roczne;",
+      "opłaty za zezwolenie na wycięcie drzew."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-75",
+        "session": "2026-09-09"
+      },
+      {
+        "id": "2024-11-19-66",
+        "session": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "index": 19,
+    "question": "Dla potrzeb ustalenia odszkodowania za działki gruntu wydzielone pod poszerzenie dróg publicznych, przy podziałach nieruchomości dokonywanych na wniosek właściciela, rzeczoznawca majątkowy przyjmuje stan nieruchomości z dnia:",
+    "options": [
+      "w którym decyzja zatwierdzająca podział nieruchomości stała się ostateczna;",
+      "wydania decyzji zatwierdzającej podział nieruchomości;",
+      "ustalenia odszkodowania."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-23",
+        "session": "2026-06-17"
+      },
+      {
+        "id": "2023-06-22-27",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "index": 21,
+    "question": "Cena uzyskana w sprzedaży z odroczonym terminem wydania nieruchomości nabywcy:",
+    "options": [
+      "może być przyjmowana do wyceny, gdyż odzwierciedla ona wartość rynkową;",
+      "nie może być przyjmowana do wyceny, gdyż zaistniały szczególne warunki transakcji;",
+      "może być przyjmowana do wyceny, jeżeli nie odbiega w sposób rażący od przeciętnych cen uzyskiwanych za nieruchomości podobne."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-40",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "index": 26,
+    "question": "Samoistny posiadacz nieruchomości może żądać ustanowienia służebności:",
+    "options": [
+      "gruntowej;",
+      "osobistej;",
+      "przesyłu."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-47",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "index": 29,
+    "question": "Strefa przemysłowa jest tworzona na wniosek:",
+    "options": [
+      "władającego powierzchnią ziemi, na terenach, które mają być objęte strefą przemysłową;",
+      "zakładu prowadzącego działalność produkcyjną;",
+      "państwowego wojewódzkiego inspektora sanitarnego."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-54",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "index": 30,
+    "question": "Odszkodowanie za szkody powstałe w wyniku ograniczenia sposobu korzystania z nieruchomości w związku z poddaniem ochronie obszaru na podstawie przepisów ustawy o ochronie przyrody, ustala:",
+    "options": [
+      "starosta w drodze decyzji;",
+      "dyrektor regionalnego zarządu gospodarki wodnej;",
+      "wójt, burmistrz, prezydent miasta."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-62",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "index": 32,
+    "question": "Inwentaryzację stanu lasów sporządza się dla lasów:",
+    "options": [
+      "niestanowiących własności Skarbu Państwa, o powierzchni do 10 ha;",
+      "wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa, o powierzchni do 10 ha;",
+      "wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa, niezależnie od ich powierzchni."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-70",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "index": 38,
+    "question": "Posiadacz samoistny nieruchomości oddaje drugiemu nieruchomość w posiadanie zależne i w związku z tym:",
+    "options": [
+      "posiadacz zależny staje się posiadaczem samoistnym;",
+      "posiadacz samoistny traci posiadanie nieruchomości;",
+      "posiadacz samoistny nie traci posiadania nieruchomości."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-81",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "index": 46,
+    "question": "Metodę inwestycyjną i metodę zysków stosuje się przy użyciu techniki:",
+    "options": [
+      "szczegółowej;",
+      "dyskontowania strumieni dochodów;",
+      "kapitalizacji prostej."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-22",
+        "session": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "index": 47,
+    "question": "Jednostkę taksacyjną w powszechnej taksacji nieruchomości w odniesieniu do części składowych gruntu, stanowi:",
+    "options": [
+      "tylko budynek mieszkalny;",
+      "każdy budynek zlokalizowany na działce;",
+      "lokal w budynku wielolokalowym."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-30",
+        "session": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "index": 48,
+    "question": "W przypadku braku wystarczającej liczby danych z rynku lokalnego, wagi cech rynkowych można określić na podstawie:",
+    "options": [
+      "badań preferencji potencjalnych nabywców nieruchomości;",
+      "analizy preferencji potencjalnych inwestorów na rynku finansowym;",
+      "danych pochodzących z rozszerzonego rynku nieruchomości (np. regionalnego)."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-33",
+        "session": "2026-04-22"
+      },
+      {
+        "id": "2025-06-25-37",
+        "session": "2025-06-25"
+      },
+      {
+        "id": "2024-06-25-23",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "index": 51,
+    "question": "Dla gruntów stanowiących zadrzewienia śródpolne, współczynnik korekcyjny dla klasy IV ustala się:",
+    "options": [
+      "w wysokości 50% klasy IVa grunu ornego;",
+      "w wysokości 50% klasy IVb grunu ornego;",
+      "w wysokości 50% klasy IV gruntu leśnego."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-41",
+        "session": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "index": 56,
+    "question": "Przyłącze wodociągowe to odcinek przewodu łączącego sieć wodociągową z wewnętrzną instalacją wodociągową w nieruchomości odbiorcy usług:",
+    "options": [
+      "do zaworu za wodomierzem głównym;",
+      "wraz z zaworem za wodomierzem głównym;",
+      "do zaworu przed wodomierzem głównym;"
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-50",
+        "session": "2026-04-22"
+      },
+      {
+        "id": "2023-11-30-44",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "index": 57,
+    "question": "W przypadku wzajemnego przecinania się gruntów zajętych pod linie kolejowe, drogi publiczne lub kanały:",
+    "options": [
+      "linie kolejowe wybudowane na powierzchni gruntu dzielą drogi publiczne wybudowane na powierzchni gruntu na odrębne działki ewidencyjne;",
+      "drogi i linie kolejowe wybudowane na powierzchni gruntu dzielą drogi i linie kolejowe wybudowane w tunelach i na wiaduktach na odrębne działki ewidencyjne;",
+      "kryte kanały dzielą drogi publiczne na odrębne działki ewidencyjne."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-53",
+        "session": "2026-04-22"
+      },
+      {
+        "id": "2025-06-25-54",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "index": 58,
+    "question": "Kształtowanie i prowadzenie polityki przestrzennej w województwie należy do zadań:",
+    "options": [
+      "wojewódzkiego biura planowania przestrzennego;",
+      "wojewody;",
+      "samorządu województwa."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-54",
+        "session": "2026-04-22"
+      },
+      {
+        "id": "2024-04-23-90",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "index": 59,
+    "question": "Wysokość opłaty planistycznej ustala:",
+    "options": [
+      "rada gminy w uchwale w sprawie miejscowego planu zagospodarowania przestrzennego;",
+      "wójt, burmistrz albo prezydent miasta w decyzji administracyjnej;",
+      "wojewoda."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-57",
+        "session": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "index": 61,
+    "question": "Czynności związane z gleboznawczą klasyfikacją gruntów (przeprowadzenie czynności klasyfikacyjnych w terenie oraz sporządzenie projektu ustalenia klasyfikacji) wykonuje:",
+    "options": [
+      "klasyfikator upoważniony przez wojewodę;",
+      "klasyfikator upoważniony przez zarząd powiatu;",
+      "klasyfikator upoważniony przez starostę."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-74",
+        "session": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "index": 65,
+    "question": "Czy za przekształcenie prawa użytkowania wieczystego nieruchomości gruntowej w prawo własności tej nieruchomości , na mocy ustawy z 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości, pobiera się opłaty?",
+    "options": [
+      "Nie pobiera się, gdyż przekształcenie jest nieodpłatne;",
+      "Pobiera się z wyjątkiem niektórych przypadków;",
+      "Pobiera się bez wyjątku."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-81",
+        "session": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "index": 69,
+    "question": "Określając koszt obiektu budowlanego metodą kosztów zastąpienia:",
+    "options": [
+      "uwzględnia się zużycie techniczne;",
+      "uwzględnia się tylko zużycie funkcjonalne;",
+      "nie uwzględnia się zużycia."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-26",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "index": 75,
+    "question": "Ile wynosi postąpienie w przetargu ustnym na zbycie nieruchomości stanowiącej własność gminy?",
+    "options": [
+      "min. 1% ceny wywoławczej;",
+      "min. 2% ceny wywoławczej;",
+      "nie mniej niż 1% ceny wywoławczej i nie więcej niż 2% tej ceny."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-48",
+        "session": "2026-03-25"
+      },
+      {
+        "id": "2023-10-26-46",
+        "session": "2023-10-26"
+      },
+      {
+        "id": "2023-03-23-43",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "index": 77,
+    "question": "Zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków:",
+    "options": [
+      "należy do zadań ustawowych przedsiębiorstwa wodno–kanalizacyjnego;",
+      "należy do zadań własnych gminy;",
+      "należy do zadań powierzonych gminie."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-51",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "index": 78,
+    "question": "Określenie sposobów zagospodarowania i warunków zabudowy terenu następuje w:",
+    "options": [
+      "miejscowym planie zagospodarowania przestrzennego;",
+      "decyzji o lokalizacji inwestycji celu publicznego;",
+      "decyzji o warunkach zabudowy."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-54",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "index": 79,
+    "question": "Rozmieszczenie inwestycji celu publicznego:",
+    "options": [
+      "następuje w miejscowym planie zagospodarowania przestrzennego;",
+      "ustala się w decyzji o lokalizacji inwestycji celu publicznego;",
+      "następuje w decyzji o warunkach zabudowy."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-59",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "index": 80,
+    "question": "Młodnik dębowy 15-letni, zniszczony przy realizacji linii wysokiego napięcia, należy szacować:",
+    "options": [
+      "wg kosztów wyhodowania;",
+      "wg wartości drewna;",
+      "wykorzystując metodę zysków."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-69",
+        "session": "2026-03-25"
+      },
+      {
+        "id": "2025-09-10-67",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "index": 83,
+    "question": "W jakim terminie, licząc od dnia złożenia wniosku przez zarządcę drogi, organ I instancji wydaje decyzję o zezwoleniu na realizację inwestycji drogowej?",
+    "options": [
+      "30 dni;",
+      "60 dni;",
+      "90 dni."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-77",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "index": 85,
+    "question": "Przy oddawaniu w użytkowanie wieczyste nieruchomości gruntowej zabudowanej rzeczoznawca majątkowy określa:",
+    "options": [
+      "wartość prawa własności samego gruntu;",
+      "wartość prawa własności całej nieruchomości i pomniejsza ją o wartość części składowych tej nieruchomości;",
+      "wartość prawa własności całej nieruchomości i wyodrębnia z niej wartość gruntu, budynków i innych urządzeń."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-24",
+        "session": "2025-11-19"
+      },
+      {
+        "id": "2021-09-09-34",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "index": 87,
+    "question": "Określając poziom wydatków operacyjnych nieruchomości zlokalizowanej na gruncie oddanym w użytkowanie wieczyste należy:",
+    "options": [
+      "do wydatków doliczyć pierwszą opłatę z tytułu użytkowania wieczystego;",
+      "do wydatków doliczyć roczną opłatę z tytułu użytkowania wieczystego;",
+      "nie uwzględniać żadnych opłat z tytułu użytkowania wieczystego."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-31",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "index": 98,
+    "question": "Koszty sporządzenia lub zmiany studium uwarunkowań i kierunków przestrzennego zagospodarowania gminy wynikające z rozmieszczenia inwestycji celu publicznego:",
+    "options": [
+      "o znaczeniu wojewódzkim obciążają budżet państwa;",
+      "o znaczeniu wojewódzkim obciążają budżet województwa;",
+      "o znaczeniu lokalnym obciążają budżet powiatu."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-62",
+        "session": "2025-11-19"
+      },
+      {
+        "id": "2023-03-23-61",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "index": 99,
+    "question": "Dyrektor Generalny Lasów Państwowych może przekazać jednostce organizacyjnej w użytkowanie lasy, grunty oraz inne nieruchomości, bez zmiany ich dotychczasowego przeznaczenia na wniosek:",
+    "options": [
+      "ministra;",
+      "zarządu województwa;",
+      "wójta."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-68",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "index": 103,
+    "question": "Opis stanu technicznego budynku, stanowiącego część składową nieruchomości, powinien być dokonany:",
+    "options": [
+      "zawsze, niezależnie od wybranego podejścia;",
+      "tylko przy stosowaniu podejścia kosztowego;",
+      "tylko przy stosowaniu podejścia porównawczego."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-82",
+        "session": "2025-11-19"
+      },
+      {
+        "id": "2024-11-19-60",
+        "session": "2024-11-19"
+      },
+      {
+        "id": "2024-06-25-89",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "index": 120,
+    "question": "Plan miejscowy uchwala rada gminy po stwierdzeniu, że:",
+    "options": [
+      "nie narusza on ustaleń studium;",
+      "plan uwzględnia wcześniej wydane decyzje o warunkach zabudowy;",
+      "wszytkie uwagi do projektu planu zostały uwzględnione."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-55",
+        "session": "2025-10-15"
+      },
+      {
+        "id": "2022-10-27-57",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "index": 121,
+    "question": "Wysokość opłaty planistycznej ustala:",
+    "options": [
+      "rada gminy, uchwalając miejscowy plan zagospodarowania przestrzennego;",
+      "rzeczoznawca majątkowy w opinii o wartości;",
+      "wójt, burmistrz albo prezydent miasta w drodze decyzji."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-60",
+        "session": "2025-10-15"
+      }
+    ]
+  },
+  {
+    "index": 122,
+    "question": "Zezwolenie na usunięcie drzew i krzewów z nieruchomości wydaje:",
+    "options": [
+      "starosta w odniesieniu do nieruchomości stanowiących własność gminy;",
+      "wójt, burmistrz lub prezydent miasta w odniesieniu do nieruchomości stanowiących własność osób fizycznych;",
+      "wojewódzki konserwator zabytków w przypadku gdy zezwolenie dotyczy usunięcia drzewa lub krzewu z terenu nieruchomości wpisanej do rejestru zabytków."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-61",
+        "session": "2025-10-15"
+      },
+      {
+        "id": "2022-12-01-55",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "index": 123,
+    "question": "Obszar ograniczonego użytkowania może być utworzony dla:",
+    "options": [
+      "oczyszczalni ścieków;",
+      "składowiska odpadów komunalnych;",
+      "kompostowni."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-62",
+        "session": "2025-10-15"
+      },
+      {
+        "id": "2022-06-02-56",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "index": 124,
+    "question": "Wyniki gleboznawczej klasyfikacji gruntów ustala się w drodze:",
+    "options": [
+      "postanowienia starosty wykonującego zadania z zakresu administracji rządowej;",
+      "decyzji administracyjnej starosty wykonującego zadania z zakresu administracji rządowej;",
+      "uchwały rady gminy właściwej miejscowo dla położenia nieruchomości."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-64",
+        "session": "2025-10-15"
+      }
+    ]
+  },
+  {
+    "index": 125,
+    "question": "Lasy Państwowe mogą sprzedawać nieruchomości zabudowane budynkami mieszkalnymi i samodzielne lokale mieszkalne, gdy są nieprzydatne Lasom Państwowym:",
+    "options": [
+      "pracownikom mającym co najmniej trzyletni okres zatrudnienia w Lasach Państwowych, z zastosowaniem bonifikat określonych w ustawie o lasach;",
+      "najemcom z uwzględnieniem bonifikat wynikajacych z odrębnych przepisów;",
+      "po cenach ustalonych na zasadach określonych w przepisach o gospodarce nieruchomościami."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-65",
+        "session": "2025-10-15"
+      }
+    ]
+  },
+  {
+    "index": 128,
+    "question": "Czy opłaty roczne za nabycie prawa własności na mocy ustawy z 2018 r. o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów mogą podlegać waloryzacji ?",
+    "options": [
+      "mogą, na podstawie operatów szacunkowych sporządzonych przez rzeczoznawców majątkowych potwierdzających zmianę wartości gruntów na rynku;",
+      "nie mogą, jeżeli zostały wniesione jednorazowo za cały okres obowiązywania;",
+      "mogą na zasadach określonych w art. 5 ustawy o gospodarce nieruchomościami, jeżeli są wnoszone w okresach rocznych ."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-77",
+        "session": "2025-10-15"
+      }
+    ]
+  },
+  {
+    "index": 129,
+    "question": "Sprostowanie oczywistych omyłek pisarskich w operacie szacunkowym:",
+    "options": [
+      "w każdym przypadku wymaga sporządzenia nowego operatu szacunkowego;",
+      "następuje poprzez aneksowanie operatu szacunkowego;",
+      "następuje poprzez dołączenie do operatu szacunkowego wykazu tych omyłek ze wskazaniem daty jego sporządzenia o ile omyłki te nie mają wpływu na wynik wyceny."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-79",
+        "session": "2025-10-15"
+      }
+    ]
+  },
+  {
+    "index": 138,
+    "question": "Jeżeli w związku z ochroną środowiska, na podstawie ustawy Prawo ochrony środowiska, nastąpiło ograniczenie sposobu korzystania z nieruchomości, to odszkodowania z tego tytułu może żądać:",
+    "options": [
+      "tylko właściciel nieruchomości;",
+      "tylko właściciel lub użytkownik wieczysty nieruchomości;",
+      "właściciel lub użytkownik wieczysty nieruchomości, a także osoba, której przysługuje prawo rzeczowe do nieruchomości."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-37",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "index": 144,
+    "question": "Ustawa o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego określa prawa i obowiązki:",
+    "options": [
+      "wyłącznie najemców lokali mieszkalnych;",
+      "najemców lokali oraz osób używających lokale na podstawie innego tytułu niż prawo własności;",
+      "wyłącznie najemców lokali mieszkalnych, którzy weszli w stosunek najmu na mocy decyzji administracyjnych."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-48",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "index": 145,
+    "question": "Umowa najmu nieruchomości zgodnie z przepisami Kodeksu cywilnego powinna być zawarta na piśmie, gdy czas jej trwania wynosi co najmniej:",
+    "options": [
+      "jeden rok;",
+      "trzy lata;",
+      "pół roku."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-50",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "index": 147,
+    "question": "Symbol \"K\" użytku gruntowego oznacza:",
+    "options": [
+      "tereny kolejowe;",
+      "inne tereny komunikacyjne;",
+      "użytki kopalne."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-54",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "index": 148,
+    "question": "Jednostkę rejestrową lokali tworzy:",
+    "options": [
+      "lokal dla którego właściwy organ wydał zaświadczenie o spełnieniu warunków samodzielności lokalu;",
+      "każdy lokal stanowiący odrębną nieruchomość;",
+      "tylko lokal mieszkalny."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-57",
+        "session": "2025-09-10"
+      },
+      {
+        "id": "2022-09-15-62",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "index": 149,
+    "question": "Plan miejscowy sporządza się obowiązkowo:",
+    "options": [
+      "dla obszarów, na których mają być realizowane cele publiczne ponadlokalne i regionalne;",
+      "dla obszarów, na których przewiduje się realizację lokalnych celów publicznych;",
+      "dla obszarów, na których przewiduje się budowę obiektów handlowych o powierzchni sprzedaży powyżej 2000 m2."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-60",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "index": 150,
+    "question": "Do zalesienia mogą być między innymi przeznaczone:",
+    "options": [
+      "nieużytki;",
+      "grunty rolne nieprzydatne do produkcji rolnej;",
+      "hałdy i tereny po wyeksploatowanym piasku, żwirze, torfie i glinie."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-70",
+        "session": "2025-09-10"
+      },
+      {
+        "id": "2024-03-19-75",
+        "session": "2024-03-19"
+      },
+      {
+        "id": "2022-03-24-74",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "index": 151,
+    "question": "Zgodę na wycięcie drzew na działce gruntu wydaje:",
+    "options": [
+      "wyłącznie starosta;",
+      "wójt, burmistrz albo prezydent miasta,",
+      "w niektórych przypadkach starosta."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-73",
+        "session": "2025-09-10"
+      },
+      {
+        "id": "2022-09-15-74",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "index": 153,
+    "question": "Właściciel nieruchomości przyległej do publicznych śródlądowych wód powierzchniowych jest obowiązany umożliwić dostęp do wód na potrzeby wykonywania robót związanych z utrzymywaniem wód oraz dla ustawiania znaków żeglugowych:",
+    "options": [
+      "za odszkodowaniem od właściciela wód albo właściciela hydrologiczno-meteorologicznych urządzeń pomiarowych;",
+      "za odszkodowaniem z budżetu gminy;",
+      "za odszkodowaniem z budżetu wojewody;"
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-75",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "index": 155,
+    "question": "Odszkodowanie za wygaśnięcie hipoteki w związku z wydaniem decyzji o zezwoleniu na realizację inwestycji drogowej ustala się w wysokości:",
+    "options": [
+      "uzgodnionej z wierzycielem;",
+      "świadczenia głównego wierzytelności wraz z odsetkami;",
+      "równej wartości rynkowej ograniczonego prawa rzeczowego, którym jest hipoteka."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-81",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "index": 156,
+    "question": "Prawo do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej przysługuje właścicielowi, który:",
+    "options": [
+      "był w dniu 1 września 1939 r. obywatelem polskim;",
+      "zamieszkiwał w dniu 1 września 1939 r. na byłym terytorium Rzeczypospolitej Polskiej;",
+      "opuścił nieruchomość w związku z wojną rozpoczętą w 1939 roku."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-84",
+        "session": "2025-09-10"
+      },
+      {
+        "id": "2022-03-24-88",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "index": 158,
+    "question": "Opłaty za przekształcenie na mocy ustawy z 2018 r. o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów:",
+    "options": [
+      "mogą być wniesione jednorazowo, ale wyłącznie w pierwszym roku trwania obowiązku płatności;",
+      "mogą być wniesione jednorazowo, w każdym czasie trwania obowiązku płatności;",
+      "mogą być wniesione jednorazowo, ale wyłącznie wtedy, gdy właściwy organ wyrazi zgodę."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-87",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "index": 159,
+    "question": "Obligatoryjną częścią planu ogólnego gminy są:",
+    "options": [
+      "gminne standardy urbanistyczne;",
+      "obszary uzupełnienia zabudowy;",
+      "obszary zabudowy śródmiejskiej."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-90",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "index": 160,
+    "question": "Za dochód z nieruchomości nie może być uważany:",
+    "options": [
+      "całkowity dochód uzyskiwany z działalności gospodarczej prowadzonej na nieruchomości;",
+      "dochód obliczony na podstawie analizy rynku kapitałowego;",
+      "strumień pieniężny, uzyskiwany z czynszów oraz dochodów pozaczynszowych, generowanych przez nieruchomość."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-22",
+        "session": "2025-06-25"
+      },
+      {
+        "id": "2023-11-30-21",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "index": 162,
+    "question": "Potencjalny dochód brutto z nieruchomości pomniejszony o straty wynikające z pustostanów i zaległości czynszowych to:",
+    "options": [
+      "efektywny dochód brutto;",
+      "dochód netto z nieruchomości przed odliczeniem podatku;",
+      "uzasadniona rynkowo przewidywana kwota przychodów z wynajęcia nieruchomości."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-28",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "index": 163,
+    "question": "Określając koszt odtworzenia przy użyciu techniki elementów scalonych, obmiaru zakresu rzeczowego elementów scalonych dokonuje się:",
+    "options": [
+      "według zasad zamieszczonych w specjalistycznych wydawnictwach - katalogach cen robót i obiektów budowlanych;",
+      "według Katalogów Nakładów Rzeczowych; tzw. KNR;",
+      "według uznania rzeczoznawcy majątkowego."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-41",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "index": 165,
+    "question": "Przedmiotem zabezpieczenia hipotecznego może być:",
+    "options": [
+      "użytkowanie wieczyste;",
+      "spółdzielcze lokatorskie prawo do lokali;",
+      "hipoteka zabezpieczająca inną wierzytelność."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-44",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "index": 171,
+    "question": "Formami ochrony zabytków są:",
+    "options": [
+      "uznanie za pomnik historii;",
+      "utworzenie parku kulturowego;",
+      "ustalenia ochrony w miejscowym planie zagospodarowania przestrzennego."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-59",
+        "session": "2025-06-25"
+      },
+      {
+        "id": "2021-12-02-58",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "index": 172,
+    "question": "Projekt scalenia i wymiany gruntów:",
+    "options": [
+      "powinien uwzględniać ustalenia miejscowego planu zagospodarowania przestrzennego;",
+      "nie musi uwzględniać ustaleń miejscowego planu zagospodarowania przestrzennego;",
+      "o uwzględnieniu ustaleń miejscowego planu zagospodarowania przestrzennego decyduje rada uczestników scalenia."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-63",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "index": 174,
+    "question": "Amortyzacji podatkowej podlegają:",
+    "options": [
+      "każde spółdzielcze własnościowe prawo do lokalu;",
+      "tylko spółdzielcze własnościowe prawo do lokalu, nabyte jako nadające się do gospodarczego wykorzystania;",
+      "budynki służące działalności społeczno - wychowawczej, prowadzonej przez spółdzielnie mieszkaniowe."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-79",
+        "session": "2025-06-25"
+      },
+      {
+        "id": "2023-04-20-79",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "index": 176,
+    "question": "Pozytywna ocena dowodów, które świadczą o pozostawieniu nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej następuje w drodze:",
+    "options": [
+      "decyzji;",
+      "postanowienia;",
+      "zaświadczenia."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-81",
+        "session": "2025-06-25"
+      },
+      {
+        "id": "2024-10-22-85",
+        "session": "2024-10-22"
+      },
+      {
+        "id": "2023-10-26-82",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "index": 181,
+    "question": "Przy metodzie kosztów likwidacji do oszacowania części składowych gruntu można zastosować technikę:",
+    "options": [
+      "wskaźnikową;",
+      "szczegółową;",
+      "kosztową."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-22",
+        "session": "2025-05-14"
+      },
+      {
+        "id": "2024-04-23-38",
+        "session": "2024-04-23"
+      },
+      {
+        "id": "2023-04-20-90",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "index": 182,
+    "question": "Współczynnik korekcyjny dla gruntów ornych w I okręgu podatkowym dla klasy VI wynosi 0,29. Współczynnik ten dla gruntów stanowiących śródpolne zadrzewienia wyniesie:",
+    "options": [
+      "dla gruntów niesklasyfikowanych - 0,29;",
+      "dla gruntów sklasyfikowanych jako kl VI - 0,145;",
+      "dla gruntów sklasyfikowanych jako kl VI - 0,29."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-24",
+        "session": "2025-05-14"
+      }
+    ]
+  },
+  {
+    "index": 186,
+    "question": "Rodzaj rynku, jego obszar:",
+    "options": [
+      "wpływa na wynik wyceny;",
+      "jest uzależniony od przedmiotu wyceny;",
+      "określa rzeczoznawca majątkowy."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-43",
+        "session": "2025-05-14"
+      },
+      {
+        "id": "2022-12-01-39",
+        "session": "2022-12-01"
+      },
+      {
+        "id": "2022-04-28-43",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "index": 195,
+    "question": "Projekt decyzji o ustaleniu warunków zabudowy może sporządzać:",
+    "options": [
+      "osoba wpisana na listę izby samorządu zawodowego architektów posiadająca uprawnienia budowlane do projektowania bez ograniczeń w specjalności architektonicznej albo uprawnienia budowlane do projektowania i kierowania robotami budowlanymi bez ograniczeń w specjalności architektonicznej;",
+      "osoba, kta posiadają dyplom ukończenia studiów wyższych w zakresie architektury, urbanistyki lub gospodarki przestrzennej;",
+      "osoba, która posiada dyplom ukończenia studiów wyższych (inny niż w zakresie urbanistyki, architektury lub gospodarki przestrzennej) ale ukończyły studia podyplomowe w zakresie planowania przestrzennego, urbanistyki lub gospodarki przestrzennej."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-57",
+        "session": "2025-05-14"
+      }
+    ]
+  },
+  {
+    "index": 196,
+    "question": "Obszar ograniczonego użytkowania może być utworzony dla:",
+    "options": [
+      "obszaru chronionego;",
+      "trasy komunikacyjnej;",
+      "linii i stacji elektroenergetycznej."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-58",
+        "session": "2025-05-14"
+      },
+      {
+        "id": "2023-11-30-51",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "index": 197,
+    "question": "Kształtowanie i prowadzenie polityki przestrzennej państwa należy do zadań:",
+    "options": [
+      "ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa;",
+      "Rady Ministrów;",
+      "Sejmu Rzeczypospolitej Polskiej."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-59",
+        "session": "2025-05-14"
+      },
+      {
+        "id": "2024-09-17-62",
+        "session": "2024-09-17"
+      },
+      {
+        "id": "2023-04-20-56",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "index": 198,
+    "question": "Plan miejscowy sporządza się:",
+    "options": [
+      "w skali 1:1000, z wykorzystaniem urzędowych kopii map zasadniczych;",
+      "w szczególnie uzasadnionych przypadkach w skali 1:10000;",
+      "w przypadku planów miejscowych sporządzonych wyłącznie w celu przeznaczenia gruntów do zalesienia dopuszcza się stosowanie map w skali 1:5000."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-61",
+        "session": "2025-05-14"
+      }
+    ]
+  },
+  {
+    "index": 209,
+    "question": "Czy nabywanie nieruchomości na cele budownictwa mieszkaniowego zalicza się do celów publicznych?",
+    "options": [
+      "nie zalicza się;",
+      "tak, ale tylko w przypadku budownictwa socjalnego;",
+      "tak, gdyż problem budownictwa mieszkaniowego jest problemem ogólnospołecznym."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-88",
+        "session": "2025-05-14"
+      }
+    ]
+  },
+  {
+    "index": 211,
+    "question": "Ceny uzyskane przy sprzedaży w drodze przetargu mogą być źródłem informacji o cenach transakcyjnych, jeżeli:",
+    "options": [
+      "nie odbiegają od przeciętnych cen uzyskiwanych na rynku za nieruchomości podobne o więcej niż 20%;",
+      "ich charakter rynkowy nie budzi wątpliwości;",
+      "przetarg był ogłoszony wyłącznie jako ograniczony."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-29",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "index": 212,
+    "question": "Dla potrzeb aktualizacji opłaty rocznej z tytułu trwałego zarządu nieruchomości zabudowanej określa się:",
+    "options": [
+      "wyłącznie wartość gruntu;",
+      "wartość gruntu oraz wartość wszystkich budynków i urządzeń położonych na nieruchomości oddanej w trwały zarząd;",
+      "wartość gruntu z pominięciem budynków i innych urządzeń trwale związanych z gruntem, jeżeli jednostka organizacyjna poniosła nakłady na wybudowanie tych budynków i urządzeń położonych na nieruchomości oddanej w trwały zarząd."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-33",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "index": 213,
+    "question": "Rzeczoznawca majątkowy w związku z wykonywaniem czynności zawodowych podlega:",
+    "options": [
+      "odpowiedzialności zawodowej określonej w ustawie o gospodarce nieruchomościami;",
+      "odpowiedzialności cywilnej określonej w Kodeksie cywilnym;",
+      "odpowiedzialności karnej określonej w Kodeksie karnym."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-39",
+        "session": "2025-03-26"
+      },
+      {
+        "id": "2023-04-20-24",
+        "session": "2023-04-20"
+      },
+      {
+        "id": "2021-07-22-38",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "index": 219,
+    "question": "Sprzedaż nieruchomości Skarbu Państwa znajdujących się w zarządzie Lasów Państwowych może nastąpić w przypadkach:",
+    "options": [
+      "stwierdzenia przez nadleśniczego nieprzydatności nieruchomości na potrzeby gospodarki leśnej;",
+      "zmiany przeznaczenia na cele nieleśne i nierolnicze;",
+      "sprzedaż taka nie jest możliwa."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-59",
+        "session": "2025-03-26"
+      },
+      {
+        "id": "2022-10-27-73",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "index": 224,
+    "question": "Kto jest najwyższym organem spółdzielni?",
+    "options": [
+      "rada nadzorcza;",
+      "zarząd;",
+      "walne zgromadzenie."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-73",
+        "session": "2025-03-26"
+      },
+      {
+        "id": "2023-11-30-81",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "index": 226,
+    "question": "W jakiej wysokości ustala się odszkodowanie na wygaśnięcie hipoteki w związku z wydaniem decyzji o zezwoleniu na realizację inwestycji drogowej?",
+    "options": [
+      "w wysokości uzgodnionej z wierzycielem;",
+      "w wysokości świadczenia głównego wierzytelności wraz z odsetkami;",
+      "w wysokości równej wartości rynkowej ograniczonego prawa rzeczowego, którym jest hipoteka."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-76",
+        "session": "2025-03-26"
+      },
+      {
+        "id": "2023-09-14-83",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "index": 235,
+    "question": "Nieruchomość podobna w rozumieniu ustawy o gospodarce nieruchomościami:",
+    "options": [
+      "musi być położona wyłącznie w gminie, w której znajduje się nieruchomość wyceniana;",
+      "musi być położona wyłącznie w powiecie, w którym znajduje się nieruchomość wyceniana;",
+      "powinna być położona na obszarze właściwego rynku, odpowiedniego dla przedmiotu wyceny."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-23",
+        "session": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "index": 237,
+    "question": "Metodę kosztów zastąpienia stosuje się przy użyciu techniki:",
+    "options": [
+      "kapitalizacji prostej;",
+      "elementów scalonych;",
+      "wskaźnikowej."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-27",
+        "session": "2024-11-19"
+      },
+      {
+        "id": "2024-04-23-26",
+        "session": "2024-04-23"
+      },
+      {
+        "id": "2021-12-02-31",
+        "session": "2021-12-02"
+      },
+      {
+        "id": "2021-07-22-23",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "index": 238,
+    "question": "Współczynnik korekcyjny dla gruntu zadrzewionego zależy od:",
+    "options": [
+      "okręgu podatkowego;",
+      "klasy bonitacyjnej;",
+      "przeznaczenia w planie miejscowym."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-31",
+        "session": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "index": 239,
+    "question": "Ustalając wydatki operacyjne dla nieruchomości zabytkowej w stosunku do nieruchomości niezabytkowej, dodatkowo należy uwzględnić:",
+    "options": [
+      "wzrost kosztów bieżących związanych z pracami konserwatorskimi;",
+      "podatek od nieruchomości;",
+      "ograniczenia w sposobie wykorzystania obiektu wynikające z ustaleń służb konserwatorskich."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-33",
+        "session": "2024-11-19"
+      },
+      {
+        "id": "2022-06-02-24",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "index": 242,
+    "question": "Czy zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków należy do zadań ustawowych?",
+    "options": [
+      "tak, należy do zadań ustawowych przedsiębiorstwa wodno–kanalizacyjnego;",
+      "tak, należy do zadań własnych gminy;",
+      "tak, należy do zadań powierzonych gminie."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-45",
+        "session": "2024-11-19"
+      },
+      {
+        "id": "2023-03-23-44",
+        "session": "2023-03-23"
+      },
+      {
+        "id": "2021-07-22-51",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "index": 244,
+    "question": "Jakie prawa może uzyskać stowarzyszenie ogrodowe do nieruchomości stanowiących własność Skarbu Państwa lub własność jednostek samorządu terytorialnego, przeznaczonych na zakładanie i prowadzenie rodzinnych ogrodów działkowych?",
+    "options": [
+      "wyłącznie prawo użytkowania jako ograniczone prawo rzeczowe, gdyż przepisy nie dopuszczają w interesie działkowców, przyznawania stowarzyszeniom ogrodowym praw zbywalnych do nieruchomości przeznaczonych pod rodzinne ogrody działkowe;",
+      "wyłącznie prawo własności lub prawo użytkowania wieczystego, gdyż stowarzyszenia ogrodowe nie posiadając praw zbywalnych do nieruchomości nie mogły by racjonalnie prowadzić rodzinnych ogrodów działkowych;",
+      "zarówno prawo własności, prawo użytkowania wieczystego jak i prawo użytkowania ale pod warunkiem, że nabyte nieruchomości przeznaczy na założenie, a następnie prowadzenie rodzinnego ogrodu działkowego."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-47",
+        "session": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "index": 245,
+    "question": "Czy nabywanie nieruchomości na cele budownictwa mieszkaniowego zalicza się do celów publicznych?",
+    "options": [
+      "tak, gdyż problem budownictwa mieszkaniowego jest problemem ogólnospołecznym;",
+      "tak, ale tylko w przypadku budownictwa socjalnego;",
+      "nie zalicza się."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-48",
+        "session": "2024-11-19"
+      },
+      {
+        "id": "2023-04-20-50",
+        "session": "2023-04-20"
+      },
+      {
+        "id": "2022-04-28-46",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "index": 249,
+    "question": "Na jaki okres można udzielić zezwolenia na czasowe zajęcie nieruchomości w celu wybudowania na tych nieruchomościach urządzeń infrastruktury technicznej?",
+    "options": [
+      "na 3 lata;",
+      "na 18 miesięcy;",
+      "na okres ustalony uznaniowo przez organ udzielający zezwolenia."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-53",
+        "session": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "index": 250,
+    "question": "Aktem prawa miejscowego jest:",
+    "options": [
+      "plan miejscowy;",
+      "studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy;",
+      "decyzja o warunkach zabudowy."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-55",
+        "session": "2024-11-19"
+      },
+      {
+        "id": "2021-10-28-40",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "index": 251,
+    "question": "Pole powierzchni użytkowej lokalu wyraża się:",
+    "options": [
+      "w metrach kwadratowych z precyzją zapisu do 0,01 m2;",
+      "w metrach kwadratowych z precyzją zapisu do 0,1 m2;",
+      "w metrach kwadratowych z precyzją zapisu do 1 m2."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-57",
+        "session": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "index": 252,
+    "question": "W planie miejscowym określa się obowiązkowo:",
+    "options": [
+      "granice obszarów wymagających przeprowadzenia scaleń i podziałów nieruchomości;",
+      "szczegółowe zasady i warunki scalania i podziału nieruchomości objętych planem miejscowym;",
+      "minimalną powierzchnię nowo wydzielonych działek budowlanych."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-64",
+        "session": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "index": 253,
+    "question": "Decyzja o wyłączeniu z produkcji lasów leżących na terenie parków narodowych jest wydawana przez:",
+    "options": [
+      "Ministra Środowiska;",
+      "Dyrektora Regionalnej Dyrekcji Lasów Państwowych;",
+      "Dyrektora Parku Narodowego."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-67",
+        "session": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "index": 257,
+    "question": "Z dniem, w którym decyzja o zezwoleniu na realizację inwestycji drogowej stała się ostateczna wygasają:",
+    "options": [
+      "ustanowione na nieruchomości lub prawie użytkowania wieczystego ograniczone prawa rzeczowe;",
+      "prawo użytkowania wieczystego ustanowione na nieruchomości przeznaczonej na pasy drogowe;",
+      "trwały zarząd ustanowiony na nieruchomości przeznaczonej na pas drogowy."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-82",
+        "session": "2024-11-19"
+      },
+      {
+        "id": "2024-03-19-89",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "index": 260,
+    "question": "W księdze wieczystej, prowadzonej dla nieruchomości lokalowej, udział właściciela lokalu w nieruchomości wspólnej ujawnia się w:",
+    "options": [
+      "dziale I - Sp księgi wieczystej;",
+      "dziale II księgi wieczystej;",
+      "dziale III księgi wieczystej."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-87",
+        "session": "2024-11-19"
+      },
+      {
+        "id": "2023-09-14-73",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "index": 261,
+    "question": "Nieruchomości stanowiące własność Skarbu Państwa bądź jednostek samorządu terytorialnego, objęte wnioskiem o wydanie decyzji o zezwoleniu na realizację inwestycji drogowej, nie mogą być przedmiotem obrotu z dniem:",
+    "options": [
+      "zawiadomienia o wszczęciu postępowania w sprawie wydania decyzji o zezwoleniu na realizację inwestycji drogowej;",
+      "wydania decyzji o zezwoleniu na realizację inwestycji drogowej;",
+      "w którym decyzja o zezwoleniu na realizację inwestycji drogowej stała się ostateczna."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-88",
+        "session": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "index": 263,
+    "question": "Opis stanu technicznego budynku stanowiącego część składową nieruchomości powinien być dokonany:",
+    "options": [
+      "tylko przy stosowaniu podejścia kosztowego;",
+      "tylko przy stosowaniu podejścia porównawczego;",
+      "zawsze, niezależnie od wybranego podejścia."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-23",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "index": 264,
+    "question": "Strefa taksacyjna w powszechnej taksacji nieruchomości, to wyodrębniony obszar gruntu ze względu na:",
+    "options": [
+      "rodzaj podmiotów władających gruntami;",
+      "przeznaczenie nieruchomości w miejscowym planie;",
+      "podobieństwo cech nieruchomości wpływających na jej wartość."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-26",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "index": 265,
+    "question": "Potencjalny dochód brutto z nieruchomości pomniejszony o straty wynikające z pustostanów i zaległości czynszowych, to:",
+    "options": [
+      "efektywny dochód brutto;",
+      "dochód netto z nieruchomości przed odliczeniem podatku;",
+      "uzasadniona rynkowo przewidywana kwota przychodów z wynajęcia nieruchomości."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-38",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "index": 273,
+    "question": "Grunty oznaczone symbolem N (nieużytki) są zaliczone do grupy użytków gruntowych:",
+    "options": [
+      "grunty rolne;",
+      "tereny różne;",
+      "użytki rolne."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-55",
+        "session": "2024-10-22"
+      },
+      {
+        "id": "2023-09-14-47",
+        "session": "2023-09-14"
+      },
+      {
+        "id": "2022-07-07-63",
+        "session": "2022-07-07"
+      },
+      {
+        "id": "2021-12-02-60",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "index": 274,
+    "question": "Aktem prawa miejscowego ustalającym przeznaczenie nieruchomości jest:",
+    "options": [
+      "miejscowy plan zagospodarowania przestrzennego;",
+      "decyzja o warunkach zabudowy;",
+      "studium uwarunkowań i kierunków zagospodarowania przestrzennego."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-56",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "index": 275,
+    "question": "Plan miejscowy sporządza się obowiązkowo, jeżeli są to obszary:",
+    "options": [
+      "wymagające przeprowadzenia scaleń i podziału nieruchomości;",
+      "lokalizacji obiektów handlowych o powierzchni sprzedaży powyżej 2 000 m2;",
+      "tereny rolne o klasach bonitacyjnych I - III."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-57",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "index": 276,
+    "question": "Lasy stanowiące własność Skarbu Państwa mogą być:",
+    "options": [
+      "w zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe;",
+      "w trwałym zarządzie parków narodowych;",
+      "w Zasobie Własności Rolnej Skarbu Państwa."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-67",
+        "session": "2024-10-22"
+      },
+      {
+        "id": "2022-07-07-70",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "index": 280,
+    "question": "Ustawa o gospodarce nieruchomościami:",
+    "options": [
+      "określa standardy zawodowe jako zbiór aktów prawnych regulujących postępowanie rzeczoznawców majątkowych;",
+      "definiuje standardy zawodowe jako reguły postępowania przy wykonywaniu zawodu rzeczoznawcy majątkowego;",
+      "nie definiuje pojęcia standardy zawodowe."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-80",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "index": 281,
+    "question": "W jakiej wysokości ustala się odszkodowanie za wygaśnięcie hipoteki w związku z wydaniem decyzji o zezwoleniu na realizację inwestycji drogowej?",
+    "options": [
+      "w wysokości świadczenia głównego wierzytelności wraz z odsetkami;",
+      "w wysokości równej wartości rynkowej ograniczonego prawa rzeczowego, którym jest hipoteka;",
+      "w wysokości uzgodnionej z wierzycielem."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-81",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "index": 282,
+    "question": "Zgodnie z ustawą Kodeks spółek handlowych, do spółek osobowych zalicza się m.in.:",
+    "options": [
+      "spółkę jawną;",
+      "spółkę partnerską;",
+      "spółkę komandytową."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-82",
+        "session": "2024-10-22"
+      },
+      {
+        "id": "2024-04-23-80",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "index": 287,
+    "question": "Określając koszt obiektu budowlanego według metody kosztów zastąpienia:",
+    "options": [
+      "uwzględnia się zużycie techniczne;",
+      "uwzględnia się tylko zużycie funkcjonalne;",
+      "nie uwzględnia się zużycia."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-38",
+        "session": "2024-09-17"
+      },
+      {
+        "id": "2021-09-09-22",
+        "session": "2021-09-09"
+      },
+      {
+        "id": "2021-07-22-37",
+        "session": "2021-07-22"
+      },
+      {
+        "id": "2021-04-22-30",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "index": 288,
+    "question": "Odszkodowanie za nieruchomości niezabudowane przejęte z mocy prawa w trybie \"specustawy drogowej\", w przypadku gdy nieruchomość zostanie wydana w terminie 30 dni od dnia, w którym decyzja zrid stała się ostateczna, powiększa się:",
+    "options": [
+      "o 5% dla dotychczasowego właściciela;",
+      "o 10% dla dotychczasowego użytkownika wieczystego;",
+      "o 10 000 zł dla dotychczasowego właściciela lub użytkownika wieczystego."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-41",
+        "session": "2024-09-17"
+      },
+      {
+        "id": "2022-04-28-23",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "index": 289,
+    "question": "Współczynnik korekcyjny gruntu pod stawami rybackimi ustala się – w razie braku klasyfikacji jak dla:",
+    "options": [
+      "użytku zielonego klasy IV;",
+      "łąk i pastwisk trwałych klasy I;",
+      "gruntu ornego klasy IV."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-44",
+        "session": "2024-09-17"
+      }
+    ]
+  },
+  {
+    "index": 297,
+    "question": "Zasoby kopalin:",
+    "options": [
+      "mogą być objęte własnością górniczą;",
+      "są własnością publiczną;",
+      "mogą być objęte prawem własności nieruchomości gruntowej."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-53",
+        "session": "2024-09-17"
+      },
+      {
+        "id": "2023-11-30-50",
+        "session": "2023-11-30"
+      },
+      {
+        "id": "2021-07-22-74",
+        "session": "2021-07-22"
+      },
+      {
+        "id": "2021-05-27-63",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "index": 298,
+    "question": "Rejestr cen nieruchomości zawiera informacje dotyczące:",
+    "options": [
+      "strony sprzedającej i strony kupującej;",
+      "ceny transakcji brutto;",
+      "rodzaju transakcji."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-57",
+        "session": "2024-09-17"
+      },
+      {
+        "id": "2022-10-27-63",
+        "session": "2022-10-27"
+      },
+      {
+        "id": "2022-03-24-56",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "index": 299,
+    "question": "Ustalenie przeznaczenia terenu następuje w:",
+    "options": [
+      "decyzji o warunkach zabudowy;",
+      "miejscowym planie zagospodarowania przestrzennego;",
+      "studium uwarunkowań i kierunków przestrzennego zagospodarowania gminy."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-61",
+        "session": "2024-09-17"
+      },
+      {
+        "id": "2023-03-23-55",
+        "session": "2023-03-23"
+      },
+      {
+        "id": "2022-07-07-57",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "index": 300,
+    "question": "Plan miejscowy sporządza się obowiązkowo jeżeli są to:",
+    "options": [
+      "obszary wymagające przeprowadzenia scaleń i podziału nieruchomości;",
+      "obszary rozmieszczenia obiektów handlowych o powierzchni sprzedaży powyżej 2.000 m2 ;",
+      "obszary przestrzeni publicznej."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-63",
+        "session": "2024-09-17"
+      }
+    ]
+  },
+  {
+    "index": 301,
+    "question": "Co oznacza symbol \"Br\" użytku gruntowego:",
+    "options": [
+      "budynek w ruinie;",
+      "grunty rolne zabudowane;",
+      "tereny różne, zabudowane."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-64",
+        "session": "2024-09-17"
+      }
+    ]
+  },
+  {
+    "index": 302,
+    "question": "Organami właściwymi w sprawach gospodarowania wodami są:",
+    "options": [
+      "dyrektor regionalnego zarządu gospodarki wodnej Wód Polskich;",
+      "wojewoda;",
+      "marszałek województwa."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-66",
+        "session": "2024-09-17"
+      },
+      {
+        "id": "2022-03-24-78",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "index": 303,
+    "question": "Grunty pokryte wodami stanowiące własność Skarbu Państwa, niezbędne do prowadzenia przedsięwzięć związanych z wydobywaniem kamienia, żwiru, piasku oraz innych materiałów lub wycinaniem roślin z wody oddaje się w:",
+    "options": [
+      "trwały zarząd;",
+      "użytkowanie;",
+      "korzystanie przez ustanowienie służebności gruntowej."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-68",
+        "session": "2024-09-17"
+      },
+      {
+        "id": "2022-06-02-67",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "index": 304,
+    "question": "Jak powinien postąpić właściwy organ przy ustalaniu odszkodowania za nieruchomość lub jej część nabytą z mocy prawa na rzecz Skarbu Państwa lub na rzecz jednostki samorządu terytorialnego w związku z wydaniem decyzji o zezwoleniu na realizację inwestycji drogowej, jeżeli jest ona zabudowana budynkiem mieszkalnym , a właściciel nieruchomości zamieszkuje w tym budynku ?",
+    "options": [
+      "nie ma to żadnego wpływu na ustalenie odszkodowania;",
+      "powinien powiększyć ustalone odszkodowanie o kwotę 5 000 zł;",
+      "powinien powiększyć ustalone odszkodowanie o kwotę 10 000 zł."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-75",
+        "session": "2024-09-17"
+      }
+    ]
+  },
+  {
+    "index": 305,
+    "question": "Za nieruchomości objęte decyzją o zezwoleniu na realizację inwestycji drogowej odszkodowanie przysługuje:",
+    "options": [
+      "dotychczasowym właścicielom nieruchomości;",
+      "użytkownikom wieczystym nieruchomości;",
+      "osobom, którym przysługuje do nieruchomości ograniczone prawo rzeczowe."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-76",
+        "session": "2024-09-17"
+      }
+    ]
+  },
+  {
+    "index": 310,
+    "question": "W jakim trybie następuje nabycie na rzecz Skarbu Państwa lub na rzecz jednostki samorządu terytorialnego własności nieruchomości lub ich części znajdujących się w pasie drogowym, jeżeli decyzja o zezwoleniu na realizację inwestycji drogowej stanie się ostateczna ?",
+    "options": [
+      "z mocy prawa;",
+      "poprzez zawarcie stosownej umowy cywilno prawnej w formie aktu notarialnego;",
+      "poprzez wydanie przez starostę odrębnej decyzji o wywłaszczeniu nieruchomości."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-82",
+        "session": "2024-09-17"
+      },
+      {
+        "id": "2023-11-30-77",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "index": 316,
+    "question": "Wskaż, które oznaczenie księgi wieczystej prowadzonej w systemie informatycznym jest poprawne:",
+    "options": [
+      "LD1M/2532/0;",
+      "LD1M/00002532/8;",
+      "LD/00002532/1."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-40",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "index": 320,
+    "question": "Ustanowienie użytku ekologicznego następuje:",
+    "options": [
+      "w drodze uchwały rady gminy;",
+      "w drodze decyzji wójta gminy na obszarze której znajduje się użytek ekologiczny;",
+      "w drodze decyzji starosty, jako organu prowadzącego ewidencję gruntów i budynków."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-53",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "index": 321,
+    "question": "Usunięcie drzewa lub krzewu z terenu nieruchomości może nastąpić po uzyskaniu zezwolenia wydanego na wniosek:",
+    "options": [
+      "tylko właściciela lub użytkownika wieczystego nieruchomości;",
+      "posiadacza nieruchomości - za zgodą właściciela tej nieruchomości;",
+      "zarządcy nieruchomości będącej własnością Skarbu Państwa."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-58",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "index": 322,
+    "question": "Lasy stanowiące własność Skarbu Państwa znajdują się:",
+    "options": [
+      "w zarządzie PGL Lasy Państwowe;",
+      "w użytkowaniu wiecystym Parków Narodowych;",
+      "w zasobie Własności Rolnej Skarbu Państwa."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-70",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "index": 327,
+    "question": "Rzeczoznawca mąjątkowy w związku z wykonywaniem czynności zawodowych podlega:",
+    "options": [
+      "odpowiedzialności cywilnej;",
+      "odpowiedzialności karnej;",
+      "odpowiedzialności dyscyplinarnej ( zawodowej ) ."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-81",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "index": 329,
+    "question": "Na mocy jakiego dokumentu następuje przekształcenie prawa użytkowania wieczystego nieruchomości gruntowej w prawo własności nieruchomości, na podstawie ustawy z 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości ?",
+    "options": [
+      "umową cywilnoprawną zawartą w formie aktu notarialnego;",
+      "zarządzeniem wojewody;",
+      "decyzją administracyjną."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-85",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "index": 331,
+    "question": "Posiadacz samoistny nieruchomości oddaje drugiemu nieruchomość w posiadanie zależne i w związku z tym:",
+    "options": [
+      "posiadacz zależny staje się posiadaczem samoistnym;",
+      "traci posiadanie nieruchomości;",
+      "nie traci posiadania nieruchomości."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-90",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "index": 334,
+    "question": "Gdy szacowana jest nieruchomość zabudowana budynkiem przeznaczonym do rozbiórki, to należy:",
+    "options": [
+      "określić zużycie funkcjonalne budynku;",
+      "oszacować wartość materiałów pozostałych po rozbiórce pomniejszoną o koszty rozbiórki;",
+      "oszacować wartość rynkową gruntu niezabudowanego."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-43",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "index": 342,
+    "question": "Rozmieszczenie inwestycji celu publicznego:",
+    "options": [
+      "następuje w miejscowym planie zagospodarowania przestrzennego;",
+      "ustala się w decyzji o lokalizacji inwestycji celu publicznego;",
+      "określa się w studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy poprzez wskazanie obszarów na których będą rozmieszczone te inwestycje (w gminach, w których nie ma planu ogólnego)."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-60",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "index": 343,
+    "question": "Numery porządkowe nadaje się budynkom:",
+    "options": [
+      "wybudowanym;",
+      "w trakcie budowy;",
+      "prognozowanym do wybudowania."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-61",
+        "session": "2024-04-23"
+      },
+      {
+        "id": "2023-06-22-53",
+        "session": "2023-06-22"
+      },
+      {
+        "id": "2022-04-28-59",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "index": 344,
+    "question": "Prowadzenie numeracji porządkowej nieruchomości należy do:",
+    "options": [
+      "starosty wykonującego zadania z zakresu administracji rządowej;",
+      "gminy;",
+      "jednostki zarządzającej nieruchomościami."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-62",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "index": 345,
+    "question": "Wysokość opłaty planistycznej zależy od:",
+    "options": [
+      "wielkości stawki procentowej;",
+      "wartości nieruchomości po wejściu w życie nowego planu miejscowego;",
+      "wartości nieruchomości przed uchwaleniem planu miejscowego."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-64",
+        "session": "2024-04-23"
+      },
+      {
+        "id": "2022-10-27-56",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "index": 346,
+    "question": "W sprawach spornych, dotyczących wysokości odszkodowania w związku z ustanowieniem obszaru ograniczonego użytkowania, właściwymi są:",
+    "options": [
+      "samorządowe kolegia odwoławcze;",
+      "sądy powszechne;",
+      "sądy administracyjne."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-65",
+        "session": "2024-04-23"
+      },
+      {
+        "id": "2022-12-01-63",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "index": 347,
+    "question": "Podana formuła O = (Wi – Ws) * z * P * c dotyczy:",
+    "options": [
+      "określenia odszkodowania za wyłączenie lasu z produkcji;",
+      "określenia wartości drzewostanu do ustalenia odszkodowania za wywłaszczenie;",
+      "określenia odszkodowania za przedwczesny wyrąb drzewostanów na gruntach leśnych wyłączanych z produkcji."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-67",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "index": 351,
+    "question": "Części nieruchomości umożliwiające dostęp do wody objętej powszechnym korzystaniem wyznacza w drodze decyzji:",
+    "options": [
+      "starosta;",
+      "wójt, burmistrz, prezydent miasta;",
+      "dyrektor regionalnego zarządu gospodarki wodnej."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-79",
+        "session": "2024-04-23"
+      },
+      {
+        "id": "2023-03-23-71",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "index": 353,
+    "question": "Jeżeli cel określony w decyzji o wywłaszczeniu został zrealizowany tylko na części wywłaszczonej nieruchomości, zwrotowi podlega:",
+    "options": [
+      "bezwarunkowo pozostała część;",
+      "pozostała część, jeżeli istnieje możliwość jej zagospodarowania zgodnie z planem miejscowym;",
+      "pozostała część, jeżeli istnieje możliwość jej zagospodarowania zgodnie z decyzją o warunkach zabudowy i zagospodarowaniu terenu."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-82",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "index": 354,
+    "question": "Sprostowanie oczywistych omyłek pisarskich w operacie szacunkowym następuje poprzez:",
+    "options": [
+      "zawsze trzeba sporządzić nowy operat szacunkowy;",
+      "aneksowanie operatu szacunkowego;",
+      "dołączenie do operatu szacunkowego wykazu tych omyłek ze wskazaniem daty jego sporządzenia."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-84",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "index": 359,
+    "question": "W każdym sprawozdaniu finansowym jednostki organizacyjnej zamieszcza się obowiązkowo informację dodatkową zawierającą:",
+    "options": [
+      "opis przyjętych zasad (politykę) rachunkowości, w tym metody wyceny, co do których ustawa pozostawia swobodę jednostce organizacyjnej;",
+      "informacje i objaśnienia odnoszące się do poszczególnych części sprawozdania finansowego;",
+      "materiały reklamujące jednostkę organizacyjną."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-19",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "index": 361,
+    "question": "Dochód operacyjny netto (DON) jest obliczany jako:",
+    "options": [
+      "różnica między potencjalnym dochodem brutto i wydatkami operacyjnymi;",
+      "różnica między potencjalnym dochodem brutto i efektywnym dochodem brutto;",
+      "różnica między efektywnym dochodem brutto i wydatkami operacyjnymi."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-31",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "index": 369,
+    "question": "Tereny, których przeznaczenie zmienił plan miejscowy mogą być wykorzystywane:",
+    "options": [
+      "tylko w sposób zgodny z przeznaczeniem w planie;",
+      "w sposób dotychczasowy do czasu ich zagospodarowania zgodnie z tym planem;",
+      "w sposób zgodny z przeznaczeniem w planie."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-58",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "index": 370,
+    "question": "KOWR przysługuje prawo pierwokupu na rzecz Skarbu Państwa przy odsprzedaży nieruchomości przez nabywcę w okresie:",
+    "options": [
+      "pięciu lat od nabycia tej nieruchomości od KOWR;",
+      "tylko do jednego roku od nabycia tej nieruchomości od KOWR;",
+      "tylko do trzech lat od nabycia tej nieruchomości od KOWR."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-69",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "index": 371,
+    "question": "Właściciele nieruchomości przylegających do powierzchniowych wód publicznych nie mogą grodzić nieruchomości w odległości od linii brzegu, nie mniejszej niż:",
+    "options": [
+      "2,0 m;",
+      "1,5 m;",
+      "1,0 m."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-78",
+        "session": "2024-03-19"
+      },
+      {
+        "id": "2022-04-28-65",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "index": 372,
+    "question": "Inwentaryzację stanu lasów sporządza się dla lasów rozdrobnionych o powierzchni do 10 ha:",
+    "options": [
+      "niestanowących własności Skarbu Państwa;",
+      "wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa;",
+      "stanowiących własność Skarbu Państwa przy drzewostanach będących uprawami leśnymi."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-79",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "index": 373,
+    "question": "Które z niżej wymienionych spraw rozstrzyga decyzja o zezwoleniu na realizację inwestycji drogowej?",
+    "options": [
+      "ustalenie lokalizacji szczegółowej pasa drogowego;",
+      "zatwierdzenie podziałów nieruchomości, które tylko w części znajdują się w pasie drogowym;",
+      "regulację stanów prawnych nieruchomości (lub ich części), które znajdują się w pasie drogowym."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-80",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "index": 375,
+    "question": "Budynki zaliczone zgodnie z ustawą o rachunkowości do inwestycji długoterminowych:",
+    "options": [
+      "zaliczane są w ustawach podatkowych do wartości niematerialnych i prawnych;",
+      "zaliczane są w ustawach podatkowych do środków trwałych;",
+      "nie są uwzględniane w przepisach dotyczących amortyzacji podatkowej."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-83",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "index": 380,
+    "question": "Kiedy ustalenia studium gminnego stają się prawem miejscowym?",
+    "options": [
+      "zawsze stanowią akt prawa miejscowego;",
+      "z chwilą ich wprowadzenia do miejscowego planu zagospodarowania przestrzennego;",
+      "nigdy się nie staną, gdyż miejscowy plan zagospodarowania przestrzennego nie uwzględnia ustaleń studium gminnego."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-88",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "index": 381,
+    "question": "Organem administracji architektoniczno-budowlanej wyższego stopnia w stosunku do starosty jest:",
+    "options": [
+      "wojewódzki inspektor nadzoru budowlanego;",
+      "wojewoda;",
+      "Główny Inspektor Nadzoru Budowlanego."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-90",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "index": 382,
+    "question": "Przy stosowaniu metody wskaźników szacunkowych gruntów uwzględnia się:",
+    "options": [
+      "strukturę przestrzenną użytków gruntowych - w odniesieniu do nieruchomości rolnych;",
+      "masowe występowanie szkodników - w odniesieniu do nieruchomości leśnych;",
+      "rodzaje gruntów przyległych - w odniesieniu do nieruchomości rolnych."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-23",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "index": 383,
+    "question": "W przypadku braku wystarczającej liczby danych z rynku lokalnego, wagi cech rynkowych można określić na podstawie:",
+    "options": [
+      "badań preferencji potencjalnych nabywców nieruchomości;",
+      "analizy preferencji potencjalnych inwestorów na rynku finansowym;",
+      "danych pochodzących z rynków podobnych obszarowo i rodzajowo."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-29",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "index": 390,
+    "question": "Rejestr cen nieruchomości zawiera:",
+    "options": [
+      "dane identyfikujące notariusza;",
+      "wartość rynkową nieruchomości;",
+      "rodzaj rynku."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-59",
+        "session": "2023-11-30"
+      },
+      {
+        "id": "2023-06-22-50",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "index": 391,
+    "question": "Gleboznawcza klasyfikacja gruntów obejmuje:",
+    "options": [
+      "grunty oznaczone symbolem Lzr;",
+      "grunty oznaczone symbolem Br;",
+      "tereny oznaczone symbolem Bz."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-60",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "index": 392,
+    "question": "Jednostkę rejestrową gruntów stanowią:",
+    "options": [
+      "działki położone w granicach jednego obrębu ewidencyjnego i będące przedmiotem identycznych praw;",
+      "nieruchomości stanowiące własność jednego podmiotu, położone w jednej jednostce ewidencyjnej;",
+      "działki gruntu należące do tego samego użytkownika wieczystego, leżące w tym samym obrębie ewidencyjnym, stanowiące własność gminy i Skarbu Państwa."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-62",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "index": 393,
+    "question": "Gleboznawczą klasyfikację gruntów przeprowadza:",
+    "options": [
+      "wójt, burmistrz lub prezydent miasta;",
+      "starosta;",
+      "wojewodowie."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-68",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "index": 394,
+    "question": "Czy właścicielowi gruntów zalanych wodą podczas powodzi przysługuje od właściciela wody odszkodowanie z tego tytułu?",
+    "options": [
+      "przysługuje, jeżeli szkody z tego tytułu powstały na skutek zaniedbań właściciela wody;",
+      "nie przysługuje w żadnym przypadku, gdyż powódź jest zdarzeniem losowym niespowodowanym przez właściciela wody;",
+      "przysługuje, ale tylko w odniesieniu do gruntów leżących w granicach polderu przeciwpowodziowego."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-72",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "index": 395,
+    "question": "Dyrektor Generalny Lasów Państwowych może przekazać w użytkowanie jednostce organizacyjnej lasy, grunty oraz inne nieruchomości, bez zmiany ich dotychczasowego przeznaczenia na wniosek:",
+    "options": [
+      "ministra;",
+      "zarządu województwa;",
+      "wójta."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-73",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "index": 398,
+    "question": "Rzeczoznawca majątkowy może sprostować oczywistą omyłkę pisarską:",
+    "options": [
+      "w formie wykazu tych omyłek, jeżeli nie mają one wpływu na wynik wyceny;",
+      "w formie wykazu tych omyłek w każdym przypadku;",
+      "przepisy nie przewidują takiej możliwości."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-87",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "index": 401,
+    "question": "Nieruchomość podobna w rozumieniu ustawy o gospodarce nieruchomościami:",
+    "options": [
+      "musi być położona w gminie, w której znajduje się nieruchomość wyceniana;",
+      "musi być położona w powiecie, w którym znajduje się nieruchomość wyceniana;",
+      "powinna być położona na obszarze właściwego rynku, odpowiedniego dla przedmiotu wyceny."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-35",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "index": 405,
+    "question": "Czyje obowiązki i ochronę praw określa ustawa o ochronie praw lokatorów?",
+    "options": [
+      "wyłącznie najemców lokali mieszkalnych;",
+      "najemców lokali oraz osób używających lokale na podstawie innego tytułu niż prawo własności;",
+      "wyłącznie najemców lokali mieszkalnych, którzy weszli w stosunek najmu na mocy decyzji administracyjnych."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-48",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "index": 406,
+    "question": "Przez umowę poręczenia:",
+    "options": [
+      "poręczyciel udziela gwarancji wierzycielowi, że dłużnik wykona zobowiązanie;",
+      "poręczyciel zobowiązuje się względem wierzyciela wykonać zobowiązanie na wypadek gdyby dłużnik zobowiązania nie wykonał;",
+      "w niektórych przypadkach (określonych w KC) poręczyciel przejmuje dług od dłużnika i jego odpowiedzialność wobec wierzyciela."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-49",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "index": 407,
+    "question": "Gleboznawcza klasyfikacja gruntów to:",
+    "options": [
+      "podział gruntów na kompleksy rolniczej przydatności gleb;",
+      "podział gleb na klasy bonitacyjne ze względu na ich jakość produkcyjną, ustaloną na podstawie cech genetycznych gleb;",
+      "podział gleb z uwzględnieniem ich przeznaczenia w planie miejscowym."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-51",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "index": 408,
+    "question": "Zezwolenie na usunięcie drzewa na gruntach stanowiących własność gminy wiejskiej (z wyłączeniem przypadków szczególnych) wydaje:",
+    "options": [
+      "wójt;",
+      "starosta;",
+      "wojewoda."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-59",
+        "session": "2023-10-26"
+      },
+      {
+        "id": "2022-04-28-64",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "index": 409,
+    "question": "Mapa zasadnicza zawiera informacje:",
+    "options": [
+      "o sieciach uzbrojenia terenu: nadziemnych, naziemnych i podziemnych;",
+      "o przestrzennym usytuowaniu obiektów topograficznych;",
+      "opisowe dotyczące obiektów topograficznych."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-60",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "index": 410,
+    "question": "Grupa drzew rosnących na działce budowlanej:",
+    "options": [
+      "podnosi wartość gruntu o sumę wartości drzew liczonych według wartości drewna na pniu;",
+      "obniża wartość gruntu o koszty związane z usunięciem drzew;",
+      "ewentualna korekta wartości gruntu z tytułu występowania drzew jest określana na podstawie wyników analizy rynku lub badania preferencji nabywców."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-63",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "index": 415,
+    "question": "Czy nabycie prawa własności na mocy ustawy z 2018 r. o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów musi być potwierdzone przez właściwy organ ?",
+    "options": [
+      "nie musi, gdyż przekształcenie nastąpiło z mocy prawa;",
+      "musi, zaświadczeniem właściwego organu;",
+      "musi, decyzją właściwego organu."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-81",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "index": 416,
+    "question": "Obowiązkowe ubezpieczenie odpowiedzialności cywilnej przedsiębiorcy prowadzącego działalność w zakresie szacowania nieruchomości powstaje:",
+    "options": [
+      "z dniem rozpoczęcia działalności przez przedsiębiorcę;",
+      "nie później niż w dniu poprzedzającym dzień rozpoczęcia wykonywania umowy przez przedsiębiorcę, której przedmiotem są czynności rzeczoznawstwa majątkowego;",
+      "przedsiębiorca nie podlega obowiązkowi posiadania takiego ubezpieczenia."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-83",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "index": 418,
+    "question": "Obowiązek dokonywania oględzin nieruchomości wynika z:",
+    "options": [
+      "ustawy o gospodarce nieruchomościami;",
+      "rozporządzenia w sprawie wyceny nieruchomości;",
+      "nie ma takiego obowiązku."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-87",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "index": 419,
+    "question": "W operacie szacunkowym dla celu zabezpieczenia wierzytelności należy zawrzeć obowiązkowo:",
+    "options": [
+      "oświadczenie rzeczoznawcy majątkowego o spełnieniu wymogu niezależności;",
+      "ocenę ryzyka związanego z wycenianą nieruchomością;",
+      "ocenę ryzyka związanego z udzielanym kredytem."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-29",
+        "session": "2023-09-14"
+      },
+      {
+        "id": "2022-09-15-40",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "index": 425,
+    "question": "Wysokość opłaty planistycznej ustala:",
+    "options": [
+      "rada gminy w uchwale o mpzp;",
+      "wójt, burmistrz albo prezydent miasta w decyzji administracyjnej;",
+      "wojewoda."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-48",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "index": 426,
+    "question": "Plan miejscowy sporządza się:",
+    "options": [
+      "w skali 1:1000, z wykorzystaniem urzędowych kopii map zasadniczych;",
+      "w szczególnie uzasadnionych przypadkach w skali 1:10000;",
+      "w przypadku planów miejscowych sporządzonych dla terenów przeznaczonych do zalesienia dopuszcza się stosowanie map w skali 1:5000."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-55",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "index": 427,
+    "question": "Klasyfikacja bonitacyjna gleb występuje na:",
+    "options": [
+      "użytkach rolnych;",
+      "wszystkich gruntach;",
+      "wszystkich gruntach pod wodozbiorami (wodami zamkniętymi)."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-62",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "index": 430,
+    "question": "Ile czasu, licząc od dnia złożenia wniosku przez zarządcę drogi, przepisy ustawowe wyznaczyły organowi wydającemu w I instancji decyzję o zezwoleniu na realizację inwestycji drogowej, na jej wydanie?",
+    "options": [
+      "30 dni;",
+      "60 dni;",
+      "90 dni."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-70",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "index": 436,
+    "question": "Rzeczoznawca majątkowy, analizując zgromadzone dane o dokonanych transakcjach powinien:",
+    "options": [
+      "odrzucić te, które dokonane zostały w szczególnych warunkach;",
+      "przyjąć te, które dotyczą różnego rodzaju nieruchomości ale odzwierciedlają zachowania typowego nabywcy;",
+      "przyjąć te, które dotyczą nieruchomości podobnych."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-39",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "index": 438,
+    "question": "Ile wynosi wadium, które muszą wpłacić osoby ubiegające się o dopuszczenie do przetargu na zbycie nieruchomości stanowiącej własność gminy?",
+    "options": [
+      "w dowolnej wysokości ustalonej w ogłoszeniu o przetargu;",
+      "w wysokości ustalonej w ogłoszeniu o przetargu, nie większej niż 10% ceny wywoławczej;",
+      "w wysokości ustalonej w ogłoszeniu o przetargu, nie mniejszej niż 5% ceny wywoławczej i nie większej niż 20% tej ceny."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-41",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "index": 444,
+    "question": "Podstawową skalą map zasadniczych albo w przypadku ich braku map katastralnych przy sporządzaniu planów miejscowych jest skala:",
+    "options": [
+      "1:500;",
+      "1:1000;",
+      "1:2000."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-54",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "index": 445,
+    "question": "Jednostkę rejestrową tworzą:",
+    "options": [
+      "działki ewidencyjne położone w granicach jednego obrębu ewidencyjnego i będące przedmiotem identycznych praw;",
+      "budynki stanowiące odrębny od gruntu przedmiot własności, położone na działkach ewidencyjnych wchodzących w skład jednej jednostki rejestrowej gruntów, będące przedmiotem tych samych praw;;",
+      "każdy lokal stanowiący odrębną nieruchomość."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-58",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "index": 448,
+    "question": "Który organ ustala odszkodowanie za nieruchomości lub ich części nabyte z mocy prawa na rzecz Skarbu Państwa lub na rzecz jednostki samorządu terytorialnego, w związku z wydaniem decyzji o zezwoleniu na realizację inwestycji drogowej?",
+    "options": [
+      "organ, który wydał w I instancji decyzję o zezwoleniu na realizację inwestycji drogowej;",
+      "sejmik województwa;",
+      "minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-82",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "index": 454,
+    "question": "Zastosowanie techniki wskaźnikowej do określania kosztu odtworzenia części składowych gruntu, przy znanej cenie wskaźnikowej wybranego do porównania obiektu wymaga:",
+    "options": [
+      "zgodności rodzajowej wg Klasyfikacji Rodzajowej Środków Trwałych;",
+      "podobieństwa pod względem rozwiązań konstrukcyjnych;",
+      "podobieństwa pod względem parametrów technicznych."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-22",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "index": 455,
+    "question": "Przy stosowaniu metody wskaźników szacunkowych gruntów uwzględnia się:",
+    "options": [
+      "rodzaje użytków gruntowych - w odniesieniu do nieruchomości przeznaczonych na cele rolne;",
+      "masowe występowanie szkodników - w odniesieniu do nieruchomości przeznaczonych na cele leśne;",
+      "rodzaje gruntów przyległych - w odniesieniu do nieruchomości przeznaczonych na cele rolne."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-40",
+        "session": "2023-04-20"
+      },
+      {
+        "id": "2021-09-09-40",
+        "session": "2021-09-09"
+      },
+      {
+        "id": "2021-07-22-36",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "index": 459,
+    "question": "Jeżeli nie został uchwalony plan miejscowy dla obszarów objętych obowiązkiem sporządzenia takiego planu, postępowanie w sprawie ustalenia warunków zabudowy zawiesza się:",
+    "options": [
+      "do czasu uchwalenia tego planu, jednak nie dłużej niż na okres 12 miesięcy;",
+      "do czasu uchwalenia tego planu jednak nie dłużej niż okres 6 miesięcy;",
+      "do czasu uchwalenia tego planu."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-57",
+        "session": "2023-04-20"
+      },
+      {
+        "id": "2022-06-02-60",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "index": 462,
+    "question": "Wg ustawy o ochronie prawa lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu Cywilnego, do powierzchni użytkowej lokalu mieszkalnego nie zalicza się powierzchni:",
+    "options": [
+      "piwnic;",
+      "loggii;",
+      "szaf i schowków w ścianach."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-76",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "index": 464,
+    "question": "W decyzji stwierdzającej uwłaszczenie państwowej osoby prawnej ustala się cenę nieruchomości gruntowej wg:",
+    "options": [
+      "stanu i wartości na dzień 5 grudnia 1990 r.;",
+      "stanu na dzień 5 grudnia 1990 r. i według wartości na dzień wydania decyzji;",
+      "stanu i wartości na dzień wydania decyzji."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-80",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "index": 466,
+    "question": "Rzeczoznawca majątkowy jest zobowiązany do:",
+    "options": [
+      "stałego doskonalenia kwalifikacji zawodowych;",
+      "przestrzegania zasad wynikających z przepisów prawa;",
+      "wykonywania czynności zawodowych zgodnie ze standardami zawodowymi."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-86",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "index": 467,
+    "question": "Niezabudowaną nieruchomość o powierzchni 1000 m2 oddano w użytkowanie wieczyste. Nieruchomość sprzedano użytkownikowi wieczystemu przed upływem terminu. Na rynku lokalnym średnia cena nieruchomości jako przedmiotu prawa własności wynosi 100 zł/m2, a średnia cena nieruchomości jako przedmiotu prawa użytkowania wieczystego wynosi 80 zł/m2. Współczynnik Wk ustalono w wysokości 0,10. Użytkownik wieczysty zapłaci cenę w wysokości:",
+    "options": [
+      "100 000 zł;",
+      "80 000 zł;",
+      "90 000 zł."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-23",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "index": 471,
+    "question": "Nie stwierdza się nieważności decyzji o ustaleniu lokalizacji celu publicznego, jeżeli od dnia jej doręczenia lub ogłoszenia upłynęło:",
+    "options": [
+      "3 miesiące;",
+      "6 miesięcy;",
+      "12 miesięcy."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-63",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "index": 472,
+    "question": "Decyzja o wyłączeniu lasów leżących na terenie parków narodowych jest wydawana przez:",
+    "options": [
+      "Ministra Środowiska;",
+      "Dyrektora Regionalnej Dyrekcji Lasów Państwowych;",
+      "Dyrektora Parku Narodowego."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-68",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "index": 478,
+    "question": "W przypadku, w którym dotychczasowy właściciel lub użytkownik wieczysty nieruchomości objętej decyzją o zezwoleniu na realizację inwestycji drogowej wyda nieruchomość niezwłocznie - wysokość odszkodowania powiększa się:",
+    "options": [
+      "o 5% wartości nieruchomości lub wartości prawa użytkowania wieczystego;",
+      "o 10% wartości nieruchomości lub wartości prawa użytkowania wieczystego;",
+      "o 15% wartości nieruchomości lub wartości prawa użytkowania wieczystego."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-86",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "index": 479,
+    "question": "Potencjalny dochód brutto, pomniejszony o straty wynikające z pustostanów i zaległości czynszowych, to:",
+    "options": [
+      "efektywny dochód brytto;",
+      "dochód operacyjny netto powiększony o wydatki operacyjne;",
+      "dochód netto z nieruchomości przed odliczeniem podatku."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-88",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "index": 481,
+    "question": "Czy nieruchomość gruntowa może składać się z kilku działek gruntu?",
+    "options": [
+      "może, jeżeli działki te są jednorodne pod względem prawnym;",
+      "nie może, gdyż nieruchomościami są wyłącznie ciągłe części powierzchni ziemskiej;",
+      "może ale wyłącznie wtedy, gdy działki te przylegają do siebie, gdyż nieruchomościami są ciągłe części powierzchni ziemskiej."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-42",
+        "session": "2022-12-01"
+      },
+      {
+        "id": "2022-06-02-49",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "index": 488,
+    "question": "Polityka przestrzenna gminy jest zawarta w:",
+    "options": [
+      "strategii rozwoju przestrzennego gminy;",
+      "studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy;",
+      "miejscowym planie zagospodarowania przestrzennego gminy."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-58",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "index": 489,
+    "question": "Wysokość jednorazowej opłaty z tytułu wzrostu warości nieruchomości, w związku z uchwaleniem miejscowego planu zagospodarowania, ustala:",
+    "options": [
+      "rada gminy w uchwale przyjmującej plan miejscowy;",
+      "wójt, burmistrz, prezydent miasta w drodze decyzji;",
+      "rzeczoznawca majątkowy w opinii o wartości."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-60",
+        "session": "2022-12-01"
+      },
+      {
+        "id": "2022-07-07-62",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "index": 490,
+    "question": "Jednostkę rejestrową gruntów tworzą:",
+    "options": [
+      "działki położone w granicach jednego obrębu, wchodzące w skład jednej nieruchomości;",
+      "działki położone w granicach jednego obrębu, wchodzące w skład kilku nieruchomości;",
+      "działki położone w granicach kilku obrębów należące do jednego władającego."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-61",
+        "session": "2022-12-01"
+      },
+      {
+        "id": "2022-04-28-61",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "index": 491,
+    "question": "Wynagrodzenie za ustanowienie służebności przesyłu na nieruchomości pozostającej w zarządzie Lasów Państwowych na rzecz przedsiębiorstwa energetycznego zajmującego się przesyłaniem lub dystrybucją energii elektrycznej ustala się w wysokości:",
+    "options": [
+      "równej wartości służebności ustalonej przez rzeczoznawcę majątkowego;",
+      "równej wartości części nieruchomości, z której korzystanie jest ograniczone w związku z obciążeniem służebnością;",
+      "odpowiadajacej wartości podatków i opłat ponoszonych przez Lasy Państwowe od części nieruchomości, z której korzystanie jest ograniczone w związku z obciążeniem służebnością."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-66",
+        "session": "2022-12-01"
+      },
+      {
+        "id": "2022-04-28-71",
+        "session": "2022-04-28"
+      },
+      {
+        "id": "2021-06-24-75",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "index": 492,
+    "question": "Wody stojące oraz wody w rowach znajdujące się w granicach nieruchomości gruntowej stanowią:",
+    "options": [
+      "własność właściciela tej nieruchomości;",
+      "własność gminy na obszarze, której się znajdują;",
+      "własność regionalnego zarządu gospodarki wodnej."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-68",
+        "session": "2022-12-01"
+      },
+      {
+        "id": "2022-04-28-62",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "index": 493,
+    "question": "Grunty pokryte wodami, stanowiące własność Skarbu Państwa, niezbędne do prowadzenia przedsięwzięć określonych w ustawie „Prawo wodne” mogą być:",
+    "options": [
+      "oddane w użytkowanie;",
+      "sprzedane;",
+      "oddane w użytkowanie wieczyste."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-74",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "index": 494,
+    "question": "W regulacjach podatkowych amortyzacji dla celów podatkowych nie podlegają grunty:",
+    "options": [
+      "jako przedmiot prawa użytkowania wieczystego;",
+      "nie służące wydobyciu kopalin metodą odkrywkową;",
+      "użytkowane rolniczo."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-77",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "index": 495,
+    "question": "W jaki sposób ustala się wynagrodzenie dla użytkownika wieczystego nieruchomości gruntowej niezabudowanej, w przypadku wygaśnięcia tego prawa przed okresem do którego było ustanowione?",
+    "options": [
+      "wynagrodzenie nie należy się, jeżeli użytkownik wieczysty nie wniósł opłaty rocznej z tytułu użytkowania wieczystego za rok, w którym nastąpiło rozwiązanie tego prawa;",
+      "wynagrodzenie ustala się w wysokości równej kwocie zwaloryzowanych opłat rocznych za niewykorzystany okres użytkowania wieczystego;",
+      "wynagrodzenie ustala się w wysokości równej zwaloryzowanej kwocie opłaty pierwszej z tytułu użytkowania wieczystego."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-79",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "index": 496,
+    "question": "Czyją własność stanowią złoża soli kamiennej ?",
+    "options": [
+      "właściciela nieruchomości pod powierzchnią której zalega złoże;",
+      "Skarbu Państwa;",
+      "gminy na terenie której złoże jest położone."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-81",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "index": 501,
+    "question": "Dla gruntów stanowiących sady wskaźnik szacunkowy ustala się jak:",
+    "options": [
+      "dla klasy I gruntu ornego;",
+      "dla klasy gruntu, na którym został założony sad;",
+      "dla klasy IV gruntu ornego."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-22",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "index": 502,
+    "question": "Cena uzyskana w sprzedaży z odroczonym terminem wydania nieruchomości nabywcy:",
+    "options": [
+      "może być przyjmowana do wyceny, gdyż odzwierciedla ona wartość rynkową;",
+      "nie może być przyjmowana do wyceny, gdyż zaistniały szczególne warunki transakcji;",
+      "może być przyjmowana do wyceny, jeżeli nie różni się więcej niż 20% od cen przeciętnych."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-35",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "index": 511,
+    "question": "Postępowanie administracyjne w sprawie ustalenia warunków zabudowy w szczególnych przypadkach można zawiesić, jednak na czas nie dłuższy niż:",
+    "options": [
+      "3 miesiące od dnia złożenia wniosku o ustalenie warunków zabudowy;",
+      "9 miesięcy od dnia złożenia wniosku o ustalenie warunków zabudowy;",
+      "12 miesięcy od dnia złożenia wniosku o ustalenie warunków zabudowy."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-55",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "index": 512,
+    "question": "Treścią mapy zasadniczej są:",
+    "options": [
+      "obiekty topograficzne;",
+      "kontury klasyfikacji gleboznawczej;",
+      "sieci uzbrojenia terenu."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-60",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "index": 513,
+    "question": "Ustanowienie użytkowania górniczego w związku z wydobywaniem kopaliny stanowiącej własność Skarbu Państwa następuje w drodze:",
+    "options": [
+      "decyzji administracyjnej;",
+      "umowy;",
+      "koncesji."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-61",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "index": 514,
+    "question": "Dostęp do drogi publicznej może być:",
+    "options": [
+      "bezpośredni;",
+      "poprzez drogę wewnętrzną;",
+      "poprzez ustanowienie służebności gruntowej."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-62",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "index": 515,
+    "question": "Wysokość opłaty planistycznej ustala:",
+    "options": [
+      "Rada Gminy w uchwale o mpzp;",
+      "rzeczoznawca majątkowy w opinii o wartości;",
+      "wójt, burmistrz albo prezydent miasta w drodze decyzji."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-65",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "index": 523,
+    "question": "Wskaźnik szacunkowy gruntu pod stawami rybackim ustala się – w razie braku klasyfikacji jak dla:",
+    "options": [
+      "użytku zielonego klasy IV;",
+      "łąk i pastwisk trwałych klasy I ;",
+      "gruntu ornego klasy IV."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-27",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "index": 524,
+    "question": "Wskaźnik szacunkowy dla gruntów pod stawami rybackimi (grunty są klasyfikowane) ustala się:",
+    "options": [
+      "jak dla klasy IV łąk i pastwisk trwałych;",
+      "jak dla klasy I gruntów ornych;",
+      "jak dla danej klasy gruntu."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-31",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "index": 528,
+    "question": "Roszczenie o odszkodowanie za poniesioną szkodę wynikającą z ograniczenia sposobu korzystania z nieruchomości w związku z ochroną środowiska przysługuje:",
+    "options": [
+      "osobie, która posiada ograniczone prawo rzeczowe do nieruchomości;",
+      "użytkownikowi wieczystemu;",
+      "właścicielowi."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-55",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "index": 530,
+    "question": "Tereny, których przeznaczenie plan miejscowy zmienił mogą być wykorzystywane:",
+    "options": [
+      "tylko w sposób zgodny z przeznaczeniem w planie;",
+      "w sposób dotychczasowy do czasu ich zagospodarowania zgodnie z tym planem;",
+      "w sposób zgodny z przeznaczeniem w planie."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-58",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "index": 531,
+    "question": "Starosta, wykonujący zadania z zakresu administracji rządowej, prowadzi:",
+    "options": [
+      "rejestr cen nieruchomości;",
+      "rejestr cen i wartości nieruchomości;",
+      "rejestr wartości nieruchomości."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-59",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "index": 532,
+    "question": "Lasy stanowiące własność Skarbu Państwa mogą być:",
+    "options": [
+      "w zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe;",
+      "w trwałym zarządzie parków narodowych;",
+      "w wieczystym użytkowaniu na mocy odrębnych przepisów."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-66",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "index": 535,
+    "question": "Które z niżej wymienionych przedmiotów stanowią części składowe nieruchomości gruntowej?",
+    "options": [
+      "wody podziemne;",
+      "kopaliny : żwir , piasek , glina;",
+      "urządzenia przesyłowe infrastruktury technicznej."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-82",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "index": 536,
+    "question": "Zgodnie z prawem podatkowym, podatnik może od środków trwałych dokonywać odpisów amortyzacyjnych:",
+    "options": [
+      "w równych ratach co miesiąc;",
+      "w równych ratach co kwartał;",
+      "jednorazowo na koniec roku podatkowego."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-83",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "index": 541,
+    "question": "Dla gruntów stanowiących zadrzewienia śródpolne, wskaźnik szacunkowy dla klasy IV ustala się:",
+    "options": [
+      "w wysokości 50% klasy IVa grunu ornego;",
+      "w wysokości 50% klasy IVb grunu ornego;",
+      "w wysokości 50% klasy IV gruntu leśnego."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-07-07-31",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "index": 551,
+    "question": "Dla budynków wchodzących w skład nieruchomości budynkowych w rejestrze cen nieruchomości przechowuje się, możliwe do ustalenia na podstawie aktu notarialnego, następujące informacje:",
+    "options": [
+      "pole powierzchni użytkowej;",
+      "cenę budynku brutto;",
+      "kwotę podatku VAT."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-07-07-60",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "index": 552,
+    "question": "Wypis z rejestru gruntów zawiera:",
+    "options": [
+      "numer jednostki rejestrowej gruntów;",
+      "informacje o znajdujących się na poszczególnych działkach ewidencyjnych budynkach niestanowiących odrębnego od gruntu przedmiotu własności;",
+      "informację o przeznaczeniu poszczególnych działek."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-07-07-64",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "index": 553,
+    "question": "Które organy są obowiązane do udostępniania do wglądu, ministrowi właściwemu do dokonywania okresowych badań rynku nieruchomości, posiadanych informacji dotyczących tego rynku?",
+    "options": [
+      "organy właściwe w sprawach katastru nieruchomości;",
+      "organizacje zawodowe pośredników w obrocie nieruchomościami;",
+      "organy statystyki publicznej."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-07-07-80",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "index": 555,
+    "question": "Lokal będący przedmiotem odrębnej własności oznacza się w księdze wieczystej na podstawie:",
+    "options": [
+      "aktu notarialnego;",
+      "orzeczenia sądu;",
+      "wypisu z rejestru gruntów, wypisu z rejestru lokali lub wypisu z kartoteki lokali."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-07-07-87",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "index": 562,
+    "question": "Wskaż, które oznaczenie księgi wieczystej prowadzonej w systemie informatycznym jest poprawne :",
+    "options": [
+      "LD1M/2532/0;",
+      "LD1M/00002532/8;",
+      "LD/00002532/1."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-06-02-48",
+        "session": "2022-06-02"
+      },
+      {
+        "id": "2021-04-22-44",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "index": 564,
+    "question": "Jeżeli w związku z ochroną środowiska wystąpiło ograniczenie sposobu korzystania z nieruchomości, to właściciel może żądać:",
+    "options": [
+      "wykupienia nieruchomości lub jej części;",
+      "roszczenia mu nie przysługują, gdyż ochrona środowiska jest działaniem ogólnonarodowym;",
+      "odszkodowania za poniesioną szkodę."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-06-02-57",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "index": 565,
+    "question": "Obszar cichy w aglomeracji to obszar, na którym:",
+    "options": [
+      "utworzono strefę ciszy;",
+      "poziom hałasu nie przekracza dopuszczalnej normy o 5%;",
+      "nie występują przekroczenia dopuszczalnych poziomów hałasu."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-06-02-59",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "index": 566,
+    "question": "Nieruchomości wchodzące w skład zasobu Skarbu Państwa można przekazać w trwały zarząd:",
+    "options": [
+      "państwowym jednostkom organizacyjnym nieposiadającym osobowości prawnej;",
+      "państwowym osobom prawnym;",
+      "jednostkom organizacyjnym samorządu województwa, realizujących zadania związane z melioracjami wodnymi, jako zadania z zakresu administracji rządowej."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-06-02-74",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "index": 567,
+    "question": "W świetle przepisów ustawy z dnia 12.01.1991 r. o podatkach i opłatach lokalnych, opodatkowaniu podatkiem od nieruchomości podlegają między innymi:",
+    "options": [
+      "budynki;",
+      "grunty sklasyfikowane w ewidencji gruntów jako użytki rolne;",
+      "budowle dróg publicznych."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-06-02-78",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "index": 570,
+    "question": "Jakie podstawowe odszkodowanie obowiązany jest zapłacić działkowcom podmiot likwidujący rodzinny ogród działkowy?",
+    "options": [
+      "odszkodowanie za składniki majątkowe znajdujące się na działkach, stanowiące ich własność;",
+      "odszkodowanie za utratę praw do działki w rodzinnym ogrodzie działkowym;",
+      "odszkodowanie za utratę pożytków w okresie pomiędzy likwidacją ogrodu, a uruchomieniem nowego ogrodu."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-06-02-81",
+        "session": "2022-06-02"
+      },
+      {
+        "id": "2021-04-22-82",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "index": 579,
+    "question": "Przyłącze wodociągowe - to odcinek przewodu łączącego sieć wodociągową z wewnętrzną instalacją wodociągową w nieruchomości odbiorcy usług:",
+    "options": [
+      "do zaworu za wodomierzem głównym;",
+      "wraz z zaworem za wodomierzem głównym;",
+      "do zaworu przed wodomierzem głównym;"
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-04-28-44",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "index": 584,
+    "question": "Jakie prawa mogą być przedmiotem zabezpieczenia hipotecznego?",
+    "options": [
+      "użytkowanie wieczyste;",
+      "spółdzielcze lokatorskie prawa do lokali;",
+      "hipoteka zabezpieczająca inną wierzytelność."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-04-28-50",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "index": 587,
+    "question": "Plan miejscowy sporządza się:",
+    "options": [
+      "w skali 1:1000, z wykorzystaniem urzędowych kopii map zasadniczych;",
+      "w szczególnie uzasadnionych przypadkach w skali 1:10000;",
+      "w skali 1:5000 w przypadku planów miejscowych sporządzonych w celu zakazu zabudowy."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-04-28-55",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "index": 591,
+    "question": "Który organ ustala odszkodowanie za nieruchomości lub ich części nabyte z mocy prawa na rzecz Skarbu Państwa lub na rzecz jednostki samorządu terytorialnego, w związku z wydaniem decyzji o zezwoleniu na realizację inwestycji drogowej?",
+    "options": [
+      "organ, który wydał w I instancji decyzję o zezwoleniu na realizację inwestycji drogowej;",
+      "sejmik województwa;",
+      "resortowy minister."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-04-28-76",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "index": 592,
+    "question": "Kiedy ustalenia studium gminnego stają się prawem miejscowym ?",
+    "options": [
+      "zawsze stanowią akt prawa miejscowego;",
+      "z chwilą ich wprowadzenia do miejscowego planu zagospodarowania przestrzennego;",
+      "nigdy się nie staną , gdyż miejscowy plan zagospodarowania przestrzennego nie uwzględnia ustaleń studium gminnego."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-04-28-77",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "index": 597,
+    "question": "Trwały zarząd gruntami pod drogę publiczną służy:",
+    "options": [
+      "jednostkom samorządu terytorialnego;",
+      "jednostkom organizacyjnym nieposiadajacym osobowości prawnej powołanym przez zarządców dróg;",
+      "osobom prawnym, którym jednostki samorządu terytorialnego powierzyły utrzymanie i eksploatację drogi w ich imieniu."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-04-28-84",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "index": 599,
+    "question": "W skład sprawozdania finansowego każdej jednostki, stosujacej ustawę o rachunkowosci wchodzą:",
+    "options": [
+      "rachunek zysków i strat;",
+      "rachunek przepływów pieniężnych;",
+      "bilans."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-20",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "index": 604,
+    "question": "Sieć uzbrojenia terenu stanowi treść mapy:",
+    "options": [
+      "ewidencyjnej;",
+      "zasadniczej;",
+      "topograficznej."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-54",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "index": 605,
+    "question": "Grunty pokryte wodami, stanowiące własność Skarbu Państwa niezbędne na prowadzenie przedsięwzięcia z zakresu rekreacji i sportów wodnych oddaje się w :",
+    "options": [
+      "dzierżawę;",
+      "użytkowanie wieczyste;",
+      "użytkowanie."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-70",
+        "session": "2022-03-24"
+      },
+      {
+        "id": "2021-09-09-48",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "index": 606,
+    "question": "Prawo do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej:",
+    "options": [
+      "może być przedmiotem obrotu rynkowego;",
+      "w przypadku śmierci właściciela przysługuje spadkobiercom;",
+      "może być przeniesione w drodze umowy na rzecz osób trzecich."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-79",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "index": 613,
+    "question": "Opis stanu techniczno-użytkowego budynku stanowiącego część składową nieruchomości powinien być dokonywany:",
+    "options": [
+      "zawsze, niezależnie od wybranego podejścia;",
+      "tylko przy zastosowaniu podejścia kosztowego;",
+      "tylko przy zastosowaniu podejścia porównawczego."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-22",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "index": 614,
+    "question": "Wykorzystanie cen wskaźnikowych obiektów, publikowanych w specjalistycznych wydawnictwach,dla określenia kosztu obiektu według techniki wskaźnikowej dopuszczalne jest pod warunkiem:",
+    "options": [
+      "tylko pełnej zgodności rozwiązań materiałowo-konstrukcyjnych z obiektem, dla którego znana jest cena wskaźnikowa;",
+      "że jest zgodność przeznaczenia (sposobu użytkowania);",
+      "że obiekt wyceniany jest porównywalny pod względem rozwiązań techniczno-materiałowych i wielkości z obiektem, dla którego znana jest cena wskaźnikowa."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-30",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "index": 623,
+    "question": "Plan miejscowy uchwala rada gminy po stwierdzeniu, że:",
+    "options": [
+      "nie narusza on ustaleń studium;",
+      "uwględnia wcześniej wydane decyzje o warunkach zabudowy;",
+      "wszytkie wnioski zostały uwzględnione."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-63",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "index": 625,
+    "question": "Linię brzegu dla cieków naturalnych może stanowić:",
+    "options": [
+      "krawędź brzegu;",
+      "linia stałego porostu traw;",
+      "linia, którą ustala się według średniego stanu wody z okresu co najmniej ostatnich 10 lat."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-70",
+        "session": "2021-12-02"
+      },
+      {
+        "id": "2021-06-24-69",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "index": 627,
+    "question": "W gruntach ornych wyodrębnia się następujace klasy bonitacyjne:",
+    "options": [
+      "I, IIa, IIb, IIIa, IIIb, IV, V, VI i VIz;",
+      "I, II, IIIa, IIIb, IVa, IVb, V, VI i VIz;",
+      "I, II, IIIa, IIIb, IVa, IVb, Va, Vb i VI."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-73",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "index": 628,
+    "question": "Lasy, grunty przeznaczone do zalesienia oraz inne nieruchomości mogą być nabywane przez Lasy Państwowe za cenę:",
+    "options": [
+      "ustaloną w wyniku negocjacji nadleśniczego z właścicielem nieruchomości;",
+      "odpowiadającą cenom rynkowym za nieruchomości zadrzewione;",
+      "nie wyższą od wartości ustalonej przez rzeczoznawcę majątkowego."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-74",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "index": 629,
+    "question": "W łąkach i pastwiskach występują następujące klasy bonitacyjne:",
+    "options": [
+      "I, II, IIIa, IIIb, IVa, IVb, V, VI, VIz;",
+      "I, II, IIIa, IIIb, IVa, IVb, V, VI;",
+      "I, II, III, IV, V, VI."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-75",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "index": 634,
+    "question": "Kto może być członkiem spółdzielni mieszkaniowej?",
+    "options": [
+      "osoba fizyczna i osoba prawna z ograniczeniami wynikajacymi ze statutu spółdzielni;",
+      "wyłącznie osoba fizyczna o pełnej zdolności do czynności prawnych;",
+      "osoba fizyczna, osoba prawna i jednostka organizacyjna nie posiadająca osobowości prawnej."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-86",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "index": 643,
+    "question": "Rejestr cen nieruchomości określonych w aktach notarialnych prowadzi:",
+    "options": [
+      "wójt, burmistrz;",
+      "prezydent miasta na prawach powiatu;",
+      "starosta."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-54",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "index": 644,
+    "question": "W rejestrze cen nieruchomości rejestracji podlegają m.in.:",
+    "options": [
+      "cena nieruchomości brutto;",
+      "pole powierzchni ewidencyjnej nieruchomości gruntowej;",
+      "rodzaj prawa będącego przedmiotem transakcji."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-63",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "index": 645,
+    "question": "Linię brzegu dla cieków naturalnych, jezior oraz innych naturalnych zbiorników wodnych stanowi:",
+    "options": [
+      "krawędź brzegu;",
+      "linia stałego porostu traw;",
+      "linia, którą ustala się według średniego stanu wody z okresu co najmniej ostatnich 10 lat."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-67",
+        "session": "2021-10-28"
+      },
+      {
+        "id": "2021-07-22-69",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "index": 646,
+    "question": "W łąkach występują następujace klasy bonitacyjne:",
+    "options": [
+      "I, II, III, IV, V, VI, VIz;",
+      "I, II, III, IV, V, VI;",
+      "I, II, IIIa, IIIb, IV, V, VI."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-71",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "index": 647,
+    "question": "Lasy stanowiące własność Skarbu Państwa znajdują się:",
+    "options": [
+      "w zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe;",
+      "w trwałym zarządzie Parków Narodowych;",
+      "w Zasobie Własności Rolnej Skarbu Państwa."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-78",
+        "session": "2021-10-28"
+      },
+      {
+        "id": "2021-07-22-62",
+        "session": "2021-07-22"
+      },
+      {
+        "id": "2021-04-22-71",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "index": 660,
+    "question": "Odszkodowanie za nieruchomości niezabudowane przejęte z mocy prawa w trybie \"specustawy drogowej\", w przypadku gdy nieruchomość zostanie wydana w terminie 30 dni od dnia w którym decyzja zrid stała się ostateczna, powiększa się:",
+    "options": [
+      "o 5% dla dotychczasowego właściciela;",
+      "o 10% dla dotychczasowego użytkownika wieczystego;",
+      "o 10 000 zł dla dotychczasowego właściciela lub użytkownika wieczystego."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-41",
+        "session": "2021-09-09"
+      },
+      {
+        "id": "2021-04-22-20",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "index": 661,
+    "question": "Wpis konstytutywny (mający moc prawotwórczą) w księdze wieczystej dotyczy:",
+    "options": [
+      "ustanowienia i przeniesienia prawa użytkowania wieczystego;",
+      "ustanowienia odrębnej własności lokalu;",
+      "ustanowienia hipoteki na nieruchomości ( z wyjatkiem ustawowej)."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-43",
+        "session": "2021-09-09"
+      },
+      {
+        "id": "2021-06-24-49",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "index": 664,
+    "question": "Pozwolenie wodno prawne wymagane jest na :",
+    "options": [
+      "wykonywanie urządzeń wodnych;",
+      "pobór wód podziemnych w ilości większej niż 5m3 na dobę;",
+      "zwykłe korzystanie z wód."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-49",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "index": 666,
+    "question": "W jakim czasie właściwy organ może wydać decyzję o ustaleniu opłaty adiacenckiej z tytułu podziału nieruchomości ?",
+    "options": [
+      "w ciągu 3 lat licząc od dnia w którym decyzja zatwierdzająca podział nieruchomości stała się ostateczna;",
+      "ustawodawca nie określił terminu wydania decyzji o opłacie adiacenckiej;",
+      "w ciągu 3 lat licząc od dnia doręczenia stronom decyzji zatwierdzającej podział nieruchomości."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-52",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "index": 667,
+    "question": "Wody w rowach znajdujące się w granicach nieruchomości stanowią własność:",
+    "options": [
+      "właściciela nieruchomości;",
+      "Skarbu Państwa;",
+      "jednostek samorządu terytorialnego."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-53",
+        "session": "2021-09-09"
+      },
+      {
+        "id": "2021-05-27-60",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "index": 668,
+    "question": "Przy usuwaniu drzew zgodnie z przepisami ustawy o ochronie przyrody, jeżeli drzewo rozwidla się na wysokości 130 cm:",
+    "options": [
+      "każdy pień traktuje się jako odrębne drzewo i nalicza się opłaty od każdego z pni;",
+      "za obwód pnia drzewa przyjmuje się sumę obwodu pnia o największym obwodzie oraz połowy obwodów pozostałych pni;",
+      "opłata nie jest naliczana jak od drzew a jak od krzewów"
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-59",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "index": 669,
+    "question": "W gruntach ornych występują następujace klasy bonitacyjne:",
+    "options": [
+      "I, II, III, IV, V, VI i VIz;",
+      "I, II, IIIa, IIIb, IVa, IVb, V, VI i VIz;",
+      "I, IIa, IIb, III, IVa, IVb, V, VI."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-63",
+        "session": "2021-09-09"
+      },
+      {
+        "id": "2021-07-22-70",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "index": 670,
+    "question": "Zadrzewienia to:",
+    "options": [
+      "drzewa i krzewy poza lasami, zajmujące obszar poniżej 0,1 ha;",
+      "drzewa i krzewy wzdłuż szlaków komunikacyjnych;",
+      "wysypiska kamieni i gruzowiska porośniete drzewami i krzewami."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-71",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "index": 671,
+    "question": "Opis taksacyjny obejmuje:",
+    "options": [
+      "cechy morfologiczne drzew;",
+      "cechy siedliska leśnego;",
+      "określenie wyprodukowanej masy drzewnej."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-73",
+        "session": "2021-09-09"
+      },
+      {
+        "id": "2021-06-24-70",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "index": 674,
+    "question": "Prawo pierwokupu nieruchomości nie przysługuje gminie, jeżeli sprzedaż :",
+    "options": [
+      "dotyczy prawa użytkowania wieczystego na rzecz osoby bliskiej dla sprzedawcy;",
+      "dokonuje osoba, która uzyskała nieruchomość jako odszkodowanie lub rekompensatę za utratę własności nieruchomości;",
+      "dotyczy nieruchomości wpisanej do rejestru zabytków (gdy prawo pierwokupu nie zostało ujawnione w księdze wieczystej )."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-79",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "index": 681,
+    "question": "Rodzaj rynku, jego obszar i okres badania określa rzeczoznawca majątkowy, uwzględniając w szczególności:",
+    "options": [
+      "dostępność danych oraz podobieństwo rynków;",
+      "przedmiot wyceny;",
+      "sposób wyceny."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-39",
+        "session": "2021-07-22"
+      },
+      {
+        "id": "2021-05-27-20",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "index": 685,
+    "question": "Jakiego rodzaju lokale mieszkalne powierzone Agencji Mienia Wojskowego nie mogą być zbywane?",
+    "options": [
+      "stanowiące kwatery;",
+      "zajmowane na podstawie umów najmu zawartych na czas nieoznaczony;",
+      "stanowiące kwatery internatowe."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-46",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "index": 687,
+    "question": "Kogo uważa się za cudzoziemca przy realizacji przepisów ustawy o nabywaniu nieruchomości przez cudzoziemców?",
+    "options": [
+      "obywateli polskich zaliczonych do mniejszości narodowych;",
+      "osobę fizyczną nie posiadającą obywatelstwa polskiego, ale posiadającą prawo stałego pobytu w Polsce;",
+      "osobę prawną posiadającą stałą siedzibę w Polsce, ale wykonującą prace poza granicami Polski."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-52",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "index": 688,
+    "question": "Plan miejscowy sporządza się obowiązkowo:",
+    "options": [
+      "dla terenów wyciągów narciarskich;",
+      "dla terenów, dla których taki obowiązek wprowadziły przepisy odrębne;",
+      "dla terenów mieszkaniowych."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-61",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "index": 691,
+    "question": "Drogi wewnętrzne, to drogi:",
+    "options": [
+      "nie zaliczane do żadnej kategorii dróg publicznych;",
+      "zaliczane do kategorii dróg gminnych z przeznaczeniem do korzystania wyłącznie przez pracowników urzędu gminy i jego interesantów;",
+      "linie oddziałowe w Lasach Państwowych."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-76",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "index": 698,
+    "question": "Źródłem informacji o cenach transakcyjnych nieruchomości nie mogą być:",
+    "options": [
+      "ceny uzyskane przy sprzedaży w drodze przetargu odbiegające o więcej niż 20% od przeciętnych cen uzyskiwanych na rynku za nieruchomości podobne;",
+      "ceny uzyskane przy sprzedaży z odroczonym terminem zapłaty;",
+      "ceny uzyskane przy sprzedaży z odroczonym terminem wydania nieruchomości nabywcy."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-26",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "index": 709,
+    "question": "Działki gruntu położone odrębnie mogą tworzyć jedną nieruchomość, gdy :",
+    "options": [
+      "położone są w różnych obrębach ewidencyjnych tej samej jednostki ewidencyjnej;",
+      "położone są w tym samym obrębie ewidencyjnym;",
+      "jedna stanowi własność a druga jest w użytkowaniu wieczystym."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-53",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "index": 710,
+    "question": "Numery porządkowe nadaje się nieruchomościom :",
+    "options": [
+      "z urzędu;",
+      "wyłącznie nieruchomościom zabudowanym;",
+      "na wniosek właściciela lub władającego."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-55",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "index": 711,
+    "question": "Minimalną powierzchnię nowowydzielanych działek określa:",
+    "options": [
+      "miejscowy plan zagospodarowania przestrzennego;",
+      "Prawo budowlane;",
+      "Prawo geodezyjne i kartograficzne."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-58",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "index": 713,
+    "question": "Nie pobiera się opłat za usunięcie krzewów:",
+    "options": [
+      "jeżeli powierzchnia skupiska krzewów nie przekracza 25 m2;",
+      "jeżeli powierzchnia skupiska krzewów nie przekracza 50 m2, usuwanych w celu przywrócenia gruntów nieużytkowanych do użytkowania rolniczego;",
+      "za każdą powierzchnię pobiera się opłaty."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-62",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "index": 714,
+    "question": "Decyzję o wyłączeniu gruntów z produkcji może wydać:",
+    "options": [
+      "starosta;",
+      "Dyrektor Regionalnej Dyrekcji lasów Państwowych;",
+      "Dyrektor Parku Narodowego."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-79",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "index": 715,
+    "question": "Czy informację o ryzykach należy zamieszczać w operacie szacunkowym wykonanym dla celu zabezpieczenia wierzytelności ?",
+    "options": [
+      "należy zamieszczać w treści operatu szacunkowego;",
+      "należy zamieszczać w załącznikach do operatu szacunkowego;",
+      "nie ma wymogu zawierania tej informacji."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-82",
+        "session": "2021-06-24"
+      },
+      {
+        "id": "2021-05-27-79",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "index": 720,
+    "question": "Jednostkę taksacyjną w powszechnej taksacji nieruchomości w odniesieniu do gruntu stanowi:",
+    "options": [
+      "nieruchomość gruntowa składająca się z dwóch działek;",
+      "działka gruntu jednorodna pod względem przeznaczenia;",
+      "części działki o przeznaczeniu odmiennym od działek sąsiednich lub pozostałej części działki."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-05-27-34",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "index": 729,
+    "question": "Do sadów zalicza się grunty zasadzone drzewami i krzewami owocowymi o zwartym nasadzeniu minimum na 1 ha:",
+    "options": [
+      "1000 drzewek;",
+      "600 drzewek;",
+      "2000 krzewów."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-05-27-65",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "index": 743,
+    "question": "Czy lokatorskie spółdzielcze prawo do lokalu mieszkalnego może być obecnie przekształcone we własnościowe spółdzielcze prawo do lokalu ?",
+    "options": [
+      "może, przepisy przewidują bowiem stopniowanie przy przekształcaniu w sytuacji gdy dana spółdzielnia mieszkaniowa nie ma uregulowanych praw do nieruchomości gruntowej, na której jest wzniesiony budynek, w którym znajduje się przedmiotowy lokal;",
+      "nie może, przepisy nie przewidują bowiem mnożenia nowych własnościowych spółdzielczych praw do lokali;",
+      "może, ale tylko za zgodą walnego zebrania członków spółdzielni wyrażoną w formie stosownej uchwały."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-50",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "index": 745,
+    "question": "Rejestr gruntów zawiera informacje określające:",
+    "options": [
+      "władających na zasadach samoistnego posiadania gruntami o nieustalonym właścicielu;",
+      "organy, które gospodarują zasobem nieruchomości Skarbu Państwa oraz ich udziały w tym gospodarowaniu;",
+      "nazwy spółek wspólnot gruntowych."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-53",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "index": 747,
+    "question": "Wody stojące oraz wody w rowach znajdujące się w granicach nieruchomości gruntowej stanowią:",
+    "options": [
+      "własność właściciela tej nieruchomości;",
+      "wyłącznie własność gminy na obszarze, której się znajdują;",
+      "własność regionalnego zarządu gospodarki wodnej."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-67",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "index": 749,
+    "question": "Do sadów zalicza się grunty obsadzone drzewami i krzewami owocowymi o zwartym nasadzeniu o powierzchni co najmniej:",
+    "options": [
+      "0,1000 ha;",
+      "1,0000 ha;",
+      "0,3000 ha."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-70",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "index": 754,
+    "question": "Obowiązek ubezpieczenia odpowiedzialności cywilnej przedsiębiorcy prowadzącego działalność w zakresie szacowania nieruchomości powstaje:",
+    "options": [
+      "z dniem rozpoczęcia działalności przez przedsiębiorcę;",
+      "nie później niż w dniu poprzedzającym dzień rozpoczęcia wykonywania umowy przez przedsiębiorcę, której przedmiotem są czynności rzeczoznawstwa majątkowego;",
+      "przedsiębiorca nie podlega obowiązkowi takiego ubezpieczenia."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-81",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "index": 757,
+    "question": "Źródłem informacji o cenach transakcyjnych mogą być transakcje:",
+    "options": [
+      "sprzedaży z bonifikatą;",
+      "zawarte w drodze przetargu, jeżeli ceny z takiej transakcji nie odbiegają o więcej niż 20 % od przeciętynych cen uzyskiwanych na rynku za nieruchomości podobne;",
+      "dokonane pomiędzy podmiotami powiązanymi."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-86",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "index": 759,
+    "question": "Opis stanu techniczno-użytkowego budynku stanowiącego część składową nieruchomości powinien być dokonywany:",
+    "options": [
+      "tylko przy zastosowaniu podejścia porównawczego;",
+      "tylko przy zastosowaniu podejścia kosztowego;",
+      "zawsze, niezależnie od wybranego podejścia."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-88",
+        "session": "2021-04-22"
+      }
+    ]
+  }
+]

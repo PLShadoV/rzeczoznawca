@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="pl" data-theme="light" data-text-size="normal">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#285a47" />
+    <meta
+      name="description"
+      content="Twoja pracownia nauki do egzaminu na rzeczoznawcę majątkowego. 3240 pytań, oficjalne arkusze, podstawy prawne, nauka i sprawdziany bez konta."
+    />
+    <meta name="application-name" content="Pracownia Rzeczoznawcy" />
+    <meta name="apple-mobile-web-app-title" content="Pracownia" />
+    <meta
+      property="og:title"
+      content="Pracownia Rzeczoznawcy — wiedza, która buduje pewność"
+    />
+    <meta
+      property="og:description"
+      content="Nauka, losowe sprawdziany i egzaminy na rzeczoznawcę majątkowego. Oficjalne arkusze, podstawy prawne i Twój własny plan nauki."
+    />
+    <meta property="og:type" content="website" />
+    <meta name="color-scheme" content="light dark" />
+    <title>Pracownia Rzeczoznawcy — nauka i egzaminy</title>
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="assets/icon-180.png" />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <script src="bootstrap.js"></script>
+    <link rel="stylesheet" href="assets/fonts/fonts.css" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="release.css" />
+    <script src="enhancements.js" defer></script>
+    <script src="app.js" defer></script>
+    <script src="offline.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Przejdź do treści</a>
+    <div id="app" aria-busy="true">
+      <main class="splash">
+        <img src="assets/favicon.svg" alt="" width="65" height="65" />
+        <h1>Pracownia Rzeczoznawcy</h1>
+        <p>Przygotowujemy Twoją przestrzeń do nauki…</p>
+        <div class="splash-loader" aria-hidden="true"></div>
+      </main>
+    </div>
+    <div id="modal"></div>
+    <div id="toast" role="status" aria-live="polite"></div>
+    <div id="update-banner" hidden role="status">
+      <span
+        >Nowa wersja pracowni jest gotowa. Zapisany postęp pozostanie na tym
+        urządzeniu.</span
+      ><button class="btn secondary" id="update-app">Odśwież</button>
+    </div>
+    <noscript
+      ><p style="padding: 30px">
+        Do nauki potrzebujesz włączonego JavaScript. Aplikacja nie wymaga konta
+        ani instalacji.
+      </p></noscript
+    >
+  </body>
+</html>

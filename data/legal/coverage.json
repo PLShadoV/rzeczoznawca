@@ -1,0 +1,38 @@
+{
+  "counts": {
+    "cited": 2377,
+    "nonlegal": 540,
+    "unresolved": 323
+  },
+  "domains": {
+    "building": {
+      "cited": 240,
+      "nonlegal": 103
+    },
+    "law": {
+      "cited": 721,
+      "unresolved": 170,
+      "nonlegal": 88
+    },
+    "valuation": {
+      "cited": 638,
+      "nonlegal": 110,
+      "unresolved": 84
+    },
+    "rural": {
+      "cited": 353,
+      "nonlegal": 95,
+      "unresolved": 40
+    },
+    "economics": {
+      "nonlegal": 144,
+      "unresolved": 24,
+      "cited": 139
+    },
+    "planning": {
+      "cited": 286,
+      "unresolved": 5
+    }
+  },
+  "classificationConflicts": []
+}

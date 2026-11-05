@@ -1,0 +1,4869 @@
+[
+  {
+    "question": "Kiosk uliczny jest według ustawy Prawo budowlane:",
+    "options": [
+      "budynkiem;",
+      "urządzeniem budowlanym;",
+      "tymczsowym obiektem budowlanym."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-1",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Wnęka na elewacji budynku utworzona przez cofnięcie części ściany zewnętrznej w głąb budynku na całej wysokości kondygnacji, to:",
+    "options": [
+      "loggia;",
+      "ryzalit;",
+      "balkon."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-2",
+        "session": "2026-09-09"
+      },
+      {
+        "id": "2025-03-26-3",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "question": "Głębokość posadowienia fundamentów bezpośrednich w zależności od głębokości przemarzania gruntu dla strefy pierwszej, wynosi:",
+    "options": [
+      "0,80 m;",
+      "1,0 m",
+      "1,2 m"
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-3",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Budynek mieszkalny składający się z piwnic (stanowiących kondygnację podziemną), parteru i 3 pięter, w świetle przepisów techniczno-budowlanych to budynek:",
+    "options": [
+      "niski;",
+      "średniowysoki;",
+      "wysoki."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-4",
+        "session": "2026-09-09"
+      },
+      {
+        "id": "2021-09-09-5",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów ustawy Prawo budowlane do użytkowania obiektu budowlanego, na którego wzniesienie jest wymagane pozwolenie na budowę, można przystąpić, co do zasady, po zawiadomieniu właściwego organu o zakończeniu budowy, jeżeli organ ten nie zgłosi sprzeciwu w drodze decyzji w terminie:",
+    "options": [
+      "14 dni od dnia doręczenia zawiadomienia;",
+      "21 dni od dnia doręczenia zawiadomienia;",
+      "30 dni od dnia doręczenia zawiadomienia."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-5",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Strop Akermana to:",
+    "options": [
+      "strop ceramiczno - żelbetowy, w którym jednokierunkowe żebra oraz płyta nad pustakami ceramicznymi wykonane są z żelbetu;",
+      "strop, którego elementem konstrukcyjnym są belki prefabrykowane i pustaki żużlobetonowe;",
+      "strop z belek prefabrykowanych i ułożonych miedzy nimi płyty z cegły ceramicznej."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-6",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Według przepisów ustawy Prawo budowlane pozwolenie na budowę ma formę:",
+    "options": [
+      "zarządzenia właściwego organu budowlanego;",
+      "postanowienia;",
+      "decyzji administracyjnej."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-7",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Tabela elementów scalonych powinna zawierać:",
+    "options": [
+      "specyfikację techniczną (ST);",
+      "jednostkowe nakłady rzeczowe robocizny;",
+      "wyszczególnienie zagregowanych rodzajów robót wraz z kosztami."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-8",
+        "session": "2026-09-09"
+      },
+      {
+        "id": "2022-06-02-8",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Stropy w budynku mogą mieć konstrukcję:",
+    "options": [
+      "żelbetową;",
+      "drewniano-ceramiczną;",
+      "stalowo-ceramiczną."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-9",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Lokale wraz z pomieszczeniami do nich przynależnymi zaznacza się na rzucie odpowiednich kondygnacji budynku. Rzuty kondygnacji zgodnie z wymogiem ustawowym stanowią załącznik:",
+    "options": [
+      "do ustalenia odrębnej własnosci lokalu;",
+      "wyłącznie do operatu szacunkowego określającego wartość lokalu;",
+      "do aktu notarialnego ustanawiającego odrębną własność lokalu."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-09-09-88",
+        "session": "2026-09-09"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych do kubatury brutto budynku należy wliczać kubaturę:",
+    "options": [
+      "przejazdów bramowych;",
+      "kanałów i studzienek instalacyjnych;",
+      "przykrytych loggii."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-1",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "question": "Pomieszczenia przeznaczone na stały pobyt ludzi, według przepisów techniczno-budowlanych, to:",
+    "options": [
+      "pomieszczenia, w których przebywanie tych samych osób w ciągu doby trwa od 2 do 4 godzin włącznie;",
+      "pomieszczenia, w których przebywanie tych samych osób w ciągu doby trwa dłużej niż 4 godziny;",
+      "pomieszczenia, w których przebywanie różnych osób (zmieniających się w sposób ciągły) w ciągu doby trwa dłużej niż 4 godziny."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-2",
+        "session": "2026-06-17"
+      },
+      {
+        "id": "2024-09-17-8",
+        "session": "2024-09-17"
+      },
+      {
+        "id": "2023-09-14-1",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Decyzja o pozwoleniu na budowę wygasa, jeżeli:",
+    "options": [
+      "rozpoczęcie budowy nie nastąpiło przed upływem 3 lat od dnia, w którym decyzja ta stała się ostateczna;",
+      "budowa została przerwana na okres 2 lat;",
+      "budowa została przerwana na czas dłuższy niż 3 lata."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-3",
+        "session": "2026-06-17"
+      },
+      {
+        "id": "2025-10-15-5",
+        "session": "2025-10-15"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z rozporządzeniem w sprawie szczegółowego zakresu i formy projektu budowlanego powierzchnię użytkową na poddaszu o zróżnicowanej wysokości od 1 m do 2,5 m policzysz wg zasady:",
+    "options": [
+      "cała powierzchnia w podłodze dostępna do użytkowania na poddaszu;",
+      "cała powierzchnia w podłodze dostępna do użytkowania na poddaszu pomniejszona o część o wysokości do 190 cm;",
+      "cała powierzchnia w podłodze dostępna do użytkowania na poddaszu pomniejszona o część o wysokości < 140 cm i pomniejszona o 50% dla wysokości z przedziału 140<220 cm."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-4",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "question": "Kalenica to:",
+    "options": [
+      "pozioma krawędź na styku połaci dachowych;",
+      "belka podpierająca krokwie;",
+      "belka stropowa na ostatniej kondygnacji budynku."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-5",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych umieszczanie na ogrodzeniach, na wysokości 1,5 m, ostro zakończonych elementów lub tłuczonego szkła jest:",
+    "options": [
+      "dozwolone;",
+      "zabronione w każdym przypadku;",
+      "zabronione, przy czym nie dotyczy to ogrodzeń wewnętrznych w zakładach karnych i aresztach śledczych."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-6",
+        "session": "2026-06-17"
+      },
+      {
+        "id": "2024-11-19-9",
+        "session": "2024-11-19"
+      },
+      {
+        "id": "2023-10-26-5",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych przez pojęcie \"budynek mieszkalny\" należy rozumieć:",
+    "options": [
+      "budynek mieszkalny jednorodzinny;",
+      "budynek mieszkalny wielorodzinny;",
+      "dom rencistów."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-7",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "question": "Cena jednostkowa określonej pozycji przedmiarowej robót obejmuje:",
+    "options": [
+      "koszty bezpośrednie robocizny, materiałów i sprzętu;",
+      "koszty przygotowania dokumentacji technicznej;",
+      "koszty pośrednie i zysk."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-8",
+        "session": "2026-06-17"
+      },
+      {
+        "id": "2021-06-24-2",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów Prawa budowlanego, przez pojęcie ''remont\" rozumie się wykonanie w istniejącym obiekcie budowlanym robót budowlanych polegających na:",
+    "options": [
+      "odtworzeniu stanu pierwotnego z dopuszczeniem zastosowania wyrobów budowlanych innych niż były użyte w stanie pierwotnym;",
+      "odtworzeniu stanu pierwotnego przy zastosowaniu wyrobów budowlanych, które były użyte w stanie pierwotnym;",
+      "drobnej bieżącej naprawie lub konserwacji elementów instalacji w obiekcie."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-06-17-9",
+        "session": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z Polską Normą PN-ISO 9836 pomiarów dokonuje się na wysokości:",
+    "options": [
+      "1,3 metra nad poziomem podłogi odpowiedniej kondygnacji;",
+      "poziomu podłogi odpowiedniej kondygnacji;",
+      "1,0 metra nad poziomem podłogi odpowiedniej kondygnacji."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-1",
+        "session": "2026-04-22"
+      },
+      {
+        "id": "2024-06-25-6",
+        "session": "2024-06-25"
+      },
+      {
+        "id": "2021-09-09-4",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z przepisami prawa budowlanego za pomieszczenia mieszkalne uznaje się:",
+    "options": [
+      "pokoje w mieszkaniu;",
+      "sypialnie;",
+      "pomieszczenia do dziennego pobytu ludzi w budynku zamieszkania zbiorowego."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-2",
+        "session": "2026-04-22"
+      },
+      {
+        "id": "2025-10-15-8",
+        "session": "2025-10-15"
+      }
+    ]
+  },
+  {
+    "question": "Liczba \"20\" przy symbolu klasy betonu C20/25, określa:",
+    "options": [
+      "dopuszczalna grubość w mm kruszywa użytego do betonu;",
+      "wytrzymałość charakterystyczną na ściskanie;",
+      "czas w dniach, po którym beton uzyskuje min. 50% wytrzymałości."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-3",
+        "session": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Aktualny usystematyzowany wykaz obiektów budowlanych, rozumianych jako produkty finalne działalności budowlanej, należy ustalać na podstawie:",
+    "options": [
+      "Klasyfikacji Obiektów Budowlanych (KOB);",
+      "Klasyfikacji Głównego Urzędu Statystycznego (GUS);",
+      "Polskiej Klasyfikacji Obiektów Budowlanych (PKOB)."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-4",
+        "session": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Elementami stropu płytowo-żebrowego są:",
+    "options": [
+      "płyta żelbetowa;",
+      "podciąg;",
+      "płyta ceramiczna."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-5",
+        "session": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Uczestnikami procesu budowlanego wg prawa budowlanego są:",
+    "options": [
+      "geodeta uprawniony;",
+      "projektant;",
+      "organ administracji architektoniczno-budowlanej."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-6",
+        "session": "2026-04-22"
+      },
+      {
+        "id": "2023-06-22-8",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "W budynku mieszkalnym, w którym wyodrębnione są cztery lokale mieszkalne, prowadzono prace remontowe polegające na wymianie stropu drewnianego. Możliwość wykonania prac wynikała z:",
+    "options": [
+      "uzyskanego pozwolenia na budowę;",
+      "zgłoszenia robót budowlanych;",
+      "oświadczenia inwestora."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-7",
+        "session": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Na dokumentację budowy składa się:",
+    "options": [
+      "pozwolenie na budowę;",
+      "dziennik budowy;",
+      "protokoły odbiorów częściowych."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-8",
+        "session": "2026-04-22"
+      },
+      {
+        "id": "2023-03-23-3",
+        "session": "2023-03-23"
+      },
+      {
+        "id": "2021-06-24-1",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych, do działek przeznaczonych lub wykorzystywanych na cele budowlane oraz do budynków i urządzeń z nimi związanych należy zapewnić dojazd umożliwiający dostęp do drogi publicznej o szerokości jezdni nie mniejszej niż:",
+    "options": [
+      "2,0 m;",
+      "3,0 m;",
+      "4,0 m."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-9",
+        "session": "2026-04-22"
+      },
+      {
+        "id": "2024-06-25-2",
+        "session": "2024-06-25"
+      },
+      {
+        "id": "2022-03-24-5",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Minimalną powierzchnię nowo wydzielanych działek budowlanych określa:",
+    "options": [
+      "miejscowy plan zagospodarowania przestrzennego;",
+      "Prawo budowlane;",
+      "Prawo geodezyjne i kartograficzne."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2026-04-22-55",
+        "session": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Budynek mieszkalny jednorodzinny to zgodnie z ustawą -Prawo budowlane budynek, w którym dopuszcza się:",
+    "options": [
+      "wydzielenie nie więcej niż dwóch lokali mieszkalnych;",
+      "wydzielenie tylko jednego lokalu użytkowego;",
+      "wydzielenie jednego lokalu mieszkalnego i lokalu użytkowego o powierzchni całkowitej nie przekraczającej 30% powierzchni całkowitej budynku."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-1",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "question": "Powierzchnię użytkową budynku, dla potrzeb ustalenia podatku od nieruchomości, oblicza się:",
+    "options": [
+      "zgodnie z normą PN- ISO 9836 (w świetle otynkowanych ścian);",
+      "zgodnie z normą PN- 70/B-02367;",
+      "zgodnie z ustawą o podatkach i opłatach lokalnych."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-2",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "question": "Pomieszczenie pomocnicze w lokalu mieszkalnym to:",
+    "options": [
+      "komórka w piwnicy;",
+      "kuchnia;",
+      "łazienka."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-3",
+        "session": "2026-03-25"
+      },
+      {
+        "id": "2021-12-02-4",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych, odległość miejsc postojowych dla 50 samochodów osobowych od placu zabaw dla dzieci, powinna wynosić nie mniej niż:",
+    "options": [
+      "7 m;",
+      "10 m;",
+      "15m."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-4",
+        "session": "2026-03-25"
+      },
+      {
+        "id": "2022-07-07-7",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "question": "Budynek, w którym ściany konstrukcyjne (nośne) usytuowane są równolegle do osi podłużnej budynku nazywamy budynkiem o układzie konstrukcyjnym:",
+    "options": [
+      "podłużnym;",
+      "poprzecznym;",
+      "krzyżowym."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-5",
+        "session": "2026-03-25"
+      },
+      {
+        "id": "2024-03-19-2",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów ustawy- Prawo budowlane dokumentację budowy stanowią m.in.:",
+    "options": [
+      "pozwolenie na budowę wraz z załączonym projektem budowlanym;",
+      "dziennik budowy, protokoły odbiorów częściowych;",
+      "książka obmiarów."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-6",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów ustawy o własności lokali, garaż w budynku wielorodzinnym może stanowić:",
+    "options": [
+      "lokal użytkowy;",
+      "pomieszczenie pomocnicze;",
+      "pomieszczenie przynależne."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-7",
+        "session": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "question": "Wiadukt to:",
+    "options": [
+      "przeprawa pozwalająca na pokonanie doliny;",
+      "przeprawa pozwalająca na pokonanie wąwozu;",
+      "przeprawa pozwalająca na pokonanie przeszkód wodnych."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-8",
+        "session": "2026-03-25"
+      },
+      {
+        "id": "2021-09-09-2",
+        "session": "2021-09-09"
+      },
+      {
+        "id": "2021-07-22-4",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Według ustawy o ochronie prawa lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu Cywilnego, do powierzchni użytkowej lokalu mieszkalnego nie zalicza się:",
+    "options": [
+      "balkonów;",
+      "loggii;",
+      "szaf i schowków w ścianach."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2026-03-25-9",
+        "session": "2026-03-25"
+      },
+      {
+        "id": "2022-10-27-6",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Jakie dane można uzyskać z Katalogów Nakładów Rzeczowych (KNR)?",
+    "options": [
+      "zasady przedmiarowania robót;",
+      "jednostkowe nakłady rzeczowe;",
+      "stawki kosztów pośrednich."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-1",
+        "session": "2025-11-19"
+      },
+      {
+        "id": "2023-04-20-3",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Wg normy PN - ISO 9836 powierzchnię całkowitą kondygnacji budynku mierzy się:",
+    "options": [
+      "na poziomie posadzki po obrysie zewnętrznym budynku;",
+      "na poziomie posadzki po obrysie zewnętrznym budynku z uwzględnieniem tynków, okładzin;",
+      "na poziomie posadzki po obrysie zewnętrznym z doliczeniem powierzchni balkonów."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-2",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Fundament bezpośredni pod budynkiem może być wykonany jako:",
+    "options": [
+      "ława fundamentowa;",
+      "stopa fundamentowa;",
+      "płyta fundamentowa."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-3",
+        "session": "2025-11-19"
+      },
+      {
+        "id": "2022-06-02-4",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Dźwigar, to :",
+    "options": [
+      "element nośny dachów hal przemysłowych;",
+      "element konstrukcyjny poziomy lub pochyły, pełnościenny, ażurowy lub kratkowy;",
+      "zasadniczy element konstrukcji nośnej mostów, wiaduktów."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-4",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z przepisami prawa budowlanego za pomieszczenie mieszkalne uznaje się:",
+    "options": [
+      "pokoje w mieszkaniu;",
+      "sypialnie;",
+      "łazienkę."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-5",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych bramy i furtki w ogrodzeniu zewnętrznym nie mogą się otwierać:",
+    "options": [
+      "na zewnątrz działki;",
+      "na zewnątrz działki, tylko jeżeli szerokość skrzydła jest większa niż 1,0 m;",
+      "do wewnątrz działki."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-6",
+        "session": "2025-11-19"
+      },
+      {
+        "id": "2024-11-19-4",
+        "session": "2024-11-19"
+      },
+      {
+        "id": "2023-09-14-5",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Płyta, żebro, podciąg, słup, to elementy stropu:",
+    "options": [
+      "płytowo-żebrowego monolitycznego;",
+      "płytowego monolitycznego bezgłowicowego;",
+      "rusztowego."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-7",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Obiektem małej architektury jest?",
+    "options": [
+      "kapliczka;",
+      "śmietnik;",
+      "ogrodzenie murowane."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-8",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "W świetle ustawy Prawo budowlane, każdy ma prawo zabudowy nieruchomości gruntowej, jeżeli wykaże prawo do dysponowania nieruchomością na cele budowlane, przez które należy rozumieć:",
+    "options": [
+      "wyłącznie tytuł prawny wynikający z prawa własności;",
+      "tytuł prawny wynikający z prawa własności, użytkowania wieczystego, zarządu, ograniczonego prawa rzeczowego albo stosunku zobowiązaniowego, przewidującego uprawnienia do wykonywania robót budowlanych;",
+      "każde faktyczne władztwo nieruchomości."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-9",
+        "session": "2025-11-19"
+      },
+      {
+        "id": "2022-12-01-2",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "Cena jednostkowa robót budowlanych dla potrzeb określenia wartości odtworzeniowej budynku w technice szczegółowej zawiera następujące składniki:",
+    "options": [
+      "wartość kosztorysową robocizny, materiałów, pracy sprzętu, kosztów zaopatrzenia, kosztów ogólnych i zysku;",
+      "wartość kosztorysową robocizny, materiałów, pracy sprzętu, kosztów zakupu, kosztów pośrednich i zysku;",
+      "wartość kosztorysową robocizny, materiałów, pracy sprzętu, kosztów zakupu, kosztów pośrednich, zysku i podatku VAT."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-11-19-29",
+        "session": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Ilość energii określanej przy sporządzaniu charakterystyki energetycznej budynku określa się w:",
+    "options": [
+      "kJ/m2/rok;",
+      "kWh/m2/rok;",
+      "kW/m3/rok."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-1",
+        "session": "2025-10-15"
+      }
+    ]
+  },
+  {
+    "question": "Stroną w postępowaniu w sprawie pozwolenia na użytkowanie budynku są:",
+    "options": [
+      "wszystkie osoby i instytucje powiadomione o wydanym pozwoleniu na budowę;",
+      "inwestor i właściciele (użytkownicy wieczyści) nieruchomości przyległych w stosunku do nieruchomości na której zakończono inwestycję;",
+      "wyłącznie inwestor."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-2",
+        "session": "2025-10-15"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z Polską Normą PN-70/B-02365 (Powierzchnia budynków - Podział, określenia zasady obmiaru) pomiarów dokonuje się na wysokości:",
+    "options": [
+      "1,3 m nad poziomem podłogi odpowiedniej kondygnacji;",
+      "poziomu podłogi odpowiedniej kondygnacji;",
+      "1,0 m nad poziomem podłogi odpowiedniej kondygnacji."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-3",
+        "session": "2025-10-15"
+      },
+      {
+        "id": "2022-04-28-6",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z Prawem budowlanym, w budynku mieszkalnym jednorodzinnym dopuszcza się wydzielenie:",
+    "options": [
+      "nie więcej niż dwóch lokali mieszkalnych;",
+      "nie więcej niż trzech lokali mieszkalnych;",
+      "jednego lokalu mieszkalnego i lokalu użytkowego o powierzchni całkowitej nie przekraczającej 30% powierzchni całkowitej budynku."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-4",
+        "session": "2025-10-15"
+      },
+      {
+        "id": "2023-03-23-5",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Stopień zużycia fundamentów i posadzki betonowej wiaty wynosi 25%, a udział tych elementów w koszcie odtworzenia wynosi 20%, natomiast stopień zużycia stalowej konstrukcji nośnej wraz z pokryciem wynosi 50%, a udział tych elementów w koszcie odtworzenia wynosi 80%. Średnioważony stopień zużycia technicznego wiaty wynosi:",
+    "options": [
+      "40%;",
+      "45%;",
+      "50%."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-6",
+        "session": "2025-10-15"
+      },
+      {
+        "id": "2025-05-14-9",
+        "session": "2025-05-14"
+      },
+      {
+        "id": "2024-10-22-10",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "question": "Kondygnacje to poziome części budynku położone:",
+    "options": [
+      "tylko w części nadziemnej;",
+      "w części nadziemnej i podziemnej;",
+      "tylko w części podziemnej."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-7",
+        "session": "2025-10-15"
+      },
+      {
+        "id": "2025-05-14-1",
+        "session": "2025-05-14"
+      },
+      {
+        "id": "2024-09-17-7",
+        "session": "2024-09-17"
+      }
+    ]
+  },
+  {
+    "question": "Koszt kapitału obcego (długu) jest najczęściej niższy od kosztu kapitału własnego, gdyż:",
+    "options": [
+      "koszt długu (odsetki) pomniejsza podstawę opodatkowania podatkiem dochodowym;",
+      "wierzyciele nie wymagają premii za ryzyko inwestowania;",
+      "większe ryzyko inwestowania ponosi inwestor."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-10-15-9",
+        "session": "2025-10-15"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych piwnica to:",
+    "options": [
+      "kondygnacja podziemna lub najniższa nadziemna bądź ich część, w których poziom podłogi co najmniej z jednej strony budynku znajduje się poniżej poziomu terenu;",
+      "kondygnacja podziemna lub najniższa nadziemna bądź ich część, w których poziom podłogi co najmniej z jednej strony budynku znajduje się nie mniej niż 1,5 m poniżej poziomu terenu;",
+      "kondygnacja podziemna lub najniższa nadziemna bądź ich część, w których poziom podłogi co najmniej z jednej strony budynku znajduje się nie mniej niż 0,9 m poniżej poziomu terenu."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-1",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "question": "Elementami konstrukcyjnymi budynku są:",
+    "options": [
+      "ściany nośne i ściany działowe;",
+      "stropy gęstożebrowe, stropy płytowe żelbetowe, stropy drewniane;",
+      "stropodach wentylowany, stropodach niewentylowany, dźwigary dachowe stalowe."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-2",
+        "session": "2025-09-10"
+      },
+      {
+        "id": "2024-10-22-8",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych, w mieszkaniu jednopokojowym dopuszcza się pomieszczenie kuchenne bez okien pod warunkiem zastosowania:",
+    "options": [
+      "wentylacji grawitacyjnej w przypadku kuchni elektrycznej;",
+      "wentylacji mechanicznej wywiewnej w przypadku kuchni gazowej;",
+      "wentylacji mechanicznej nawiewno - wywiewnej w przypadku kuchni gazowej."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-3",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych szerokość drzwi do pomieszczenia przeznaczonego na stały pobyt ludzi powinna mieć co najmniej:",
+    "options": [
+      "0,7 m;",
+      "0,8 m;",
+      "0,9 m."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-4",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych wyróżnia się przewody kominowe:",
+    "options": [
+      "wentylacyjne, spalinowe, dymowe;",
+      "węglowe, wentylacyjne;",
+      "centralnego ogrzewania, zbiorcze grawitacyjne."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-5",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "question": "Przy określeniu kosztu odtworzenia przy użyciu techniki wskaźnikowej, wykorzystanie cen wskaźnikowych, publikowanych w specjalistycznych wydawnictwach, dopuszczalne jest pod warunkiem:",
+    "options": [
+      "że obiekt wyceniany jest porównywalny pod względem rozwiązań techniczno-materiałowych i wielkości z obiektem, dla którego znana jest cena wskaźnikowa;",
+      "zgodności nazw obiektu wycenianego i obiektu, dla którego znana jest cena wskaźnikowa;",
+      "bez ograniczeń, jeżeli będzie zastosowany współczynnik regionalny."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-6",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "question": "Z wyłączeniem przypadków szczególnych oraz przepisów odrębnych, budynek na działce budowlanej należy sytuować w odległości od granicy z sąsiednią działką budowlaną nie mniejszej niż:",
+    "options": [
+      "3 m - w przypadku budynku zwróconego ścianą z otworami okiennymi lub drzwiowymi w stronę tej granicy;",
+      "2 m - w przypadku budynku zwróconego ścianą bez otworów okiennych lub drzwiowych w stronę tej granicy;",
+      "4 m - w przypadku budynku zwróconego ścianą z otworami okiennymi lub drzwiowymi w stronę tej granicy."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-7",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów Prawa budowlanego do użytkowania obiektu budowlanego, na którego wzniesienie jest wymagane pozwolenie na budowę, można przystąpić, co do zasady, po zawiadomieniu właściwego organu o zakończeniu budowy, jeżeli organ ten nie zgłosi sprzeciwu w terminie:",
+    "options": [
+      "14 dni od dnia doręczenia zawiadomienia;",
+      "21 dni od dnia doręczenia zawiadomienia;",
+      "30 dni od dnia doręczenia zawiadomienia."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-8",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "question": "Dobra substytucyjne to dobra:",
+    "options": [
+      "umożliwiające zaspokajanie takich samych potrzeb;",
+      "posiadające zawsze charakter dóbr wolnych;",
+      "wzajemnie zastępowalne."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-09-10-9",
+        "session": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "question": "Cena jednostkowa, ustalona dla określonych jednostek przedmiarowych, obejmuje m.in.:",
+    "options": [
+      "koszt dostawy materiałów od miejsca nabycia na plac budowy;",
+      "koszty pośrednie na jednostkę przedmiarową robót;",
+      "podatek VAT."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-1",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów ustawy Prawo budowlane przez pojęcie \"remont\" rozumie się wykonanie w istniejącym obiekcie budowlanym robót budowlanych polegających na:",
+    "options": [
+      "odtworzeniu stanu pierwotnego z dopuszczeniem zastosowania wyrobów budowlanych innych niż były użyte w stanie pierwotnym;",
+      "odtworzeniu stanu pierwotnego przy zastosowaniu wyrobów budowlanych, które były użyte w stanie pierwotnym;",
+      "drobnej bieżącej naprawie lub konserwacji elementów instalacji w obiekcie."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-2",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Obiektem małej architektury, zgodnie z Prawem budowlanym jest:",
+    "options": [
+      "ogrodzenie trwałe z bramą;",
+      "śmietnik;",
+      "kapliczka."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-3",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Głębokość posadowienia fundamentów budynku uzależniona jest od:",
+    "options": [
+      "powierzchni zabudowy;",
+      "głębokości występowania gruntów nośnych;",
+      "umownej głębokości przemarzania gruntów."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-4",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "W świetle normy PN-70/B-02365 do obliczenia powierzchni pomieszczenia, którego zinwentaryzowane wymiary w świetle otynkowanych ścian wnoszą dług. 583 cm, szer. 401 cm, (grubość tynków - średnio 2 cm) należy przyjąć:",
+    "options": [
+      "5,83 m i 4,01 m;",
+      "5,87 m i 4,05 m;",
+      "5,79 m i 3,97 m."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-5",
+        "session": "2025-06-25"
+      },
+      {
+        "id": "2021-12-02-1",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów Prawa budowlanego, budynek to :",
+    "options": [
+      "obiekt budowlany, który jest trwale związane z gruntem, wydzielony z przestrzeni za pomocą przegród budowlanych oraz posiadający fundamenty i dach;",
+      "obiekt budowlany wydzielony z przestrzeni, bez fundamentów, ale przekryty dachem;",
+      "obiekt budowlany, posiadający fundamenty, ale bez dachu."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-6",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Odległość studni dostarczającej wodę do spożycia przez ludzi od budynków inwentarskich, w świetle przepisów techniczno-budowlanych nie może być mniejsza, niż:",
+    "options": [
+      "5 m;",
+      "10 m;",
+      "15 m."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-7",
+        "session": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Organem administracji architektoniczno-budowlanej wyższego stopnia w stosunku do starosty jest:",
+    "options": [
+      "wojewódzki inspektor nadzoru budowlanego;",
+      "wojewoda;",
+      "Główny Inspektor Nadzoru Budowlanego."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-8",
+        "session": "2025-06-25"
+      },
+      {
+        "id": "2022-06-02-6",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Decyzja o pozwoleniu na budowę wygasa jeżeli budowa została przerwana na czas dłuższy niż:",
+    "options": [
+      "1 rok;",
+      "2 lata;",
+      "3 lata."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-06-25-9",
+        "session": "2025-06-25"
+      },
+      {
+        "id": "2022-06-02-1",
+        "session": "2022-06-02"
+      },
+      {
+        "id": "2021-05-27-4",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Jakie rodzaje schodów stosuje się w budownictwie?",
+    "options": [
+      "jednobiegowe; dwubiegowe;",
+      "zabiegowe, spiralne;",
+      "wachlarzowe."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-3",
+        "session": "2025-05-14"
+      },
+      {
+        "id": "2022-07-07-9",
+        "session": "2022-07-07"
+      },
+      {
+        "id": "2021-10-28-3",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych poziom podłogi w pomieszczeniach przeznaczonych na stały pobyt ludzi powinien znajdować się:",
+    "options": [
+      "powyżej lub być równy poziomowi terenu przy budynku;",
+      "co najmniej 0,30 m powyżej terenu urządzonego przy budynku;",
+      "nie więcej niż 0,30 m poniżej terenu urządzonego przy budynku."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-4",
+        "session": "2025-05-14"
+      }
+    ]
+  },
+  {
+    "question": "Ościeżnica to:",
+    "options": [
+      "tynk ścian bocznych w otworze okiennym;",
+      "element stolarki okiennej lub drzwiowej;",
+      "rodzaj nadproża nad otworem w ścianie."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-5",
+        "session": "2025-05-14"
+      },
+      {
+        "id": "2023-04-20-2",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Okresowa kontrola polegająca na sprawdzeniu stanu technicznego przewodów kominowych w budynku mieszkalnym wielorodzinnym, powinna być przeprowadzona:",
+    "options": [
+      "co najmniej raz w roku;",
+      "co najmniej raz na 5 lat;",
+      "dwa razy w roku."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-6",
+        "session": "2025-05-14"
+      },
+      {
+        "id": "2024-04-23-6",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z aktualnym Rozporządzeniem w sprawie szczegółowego zakresu i formy projektu budowlanego powierzchnię użytkową na poddaszu o zróżnicowanej wysokości od 1 m do 2,5 m policzysz wg zasady:",
+    "options": [
+      "cała powierzchnia w podłodze dostępna do użytkowania na poddaszu;",
+      "cała powierzchnia w podłodze dostępna do użytkowania na poddaszu pomniejszona o część o wysokości do 190 cm;",
+      "cała powierzchnia w podłodze dostępna do użytkowania na poddaszu pomniejszona o część o wysokości < 140 cm i pomniejszona o 50% dla wysokości z przedziału 140<220 cm."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-7",
+        "session": "2025-05-14"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z ustawą Prawo budowlane, ogrodzenie to:",
+    "options": [
+      "budowla;",
+      "obiekt małej architektury;",
+      "urządzenie budowlane."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-8",
+        "session": "2025-05-14"
+      }
+    ]
+  },
+  {
+    "question": "Określając wartość nieruchomości zabudowanej budynkiem przemysłowym 3-kondygnacyjnym, przewidzianym do likwidacji, należy uwzględnić koszty:",
+    "options": [
+      "rozbiórki;",
+      "odwozu gruzu oraz utylizacji i opłat za składowanie;",
+      "nadzoru."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-23",
+        "session": "2025-05-14"
+      },
+      {
+        "id": "2023-04-20-37",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Dla potrzeb wyceny obiektów budowlanych metodą kosztów zastąpienia należy przyjmować do kalkulacji kosztów:",
+    "options": [
+      "aktualnie stosowane technologie i materiały;",
+      "alternatywną funkcję obiektu;",
+      "podobne parametry użytkowe obiektu."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-05-14-41",
+        "session": "2025-05-14"
+      },
+      {
+        "id": "2023-11-30-24",
+        "session": "2023-11-30"
+      },
+      {
+        "id": "2022-09-15-34",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów Prawa budowlanego przyłącza mediów do budynków zalicza się do:",
+    "options": [
+      "instalacji obiektu budowlanego;",
+      "sieci zasilająch obiekt budowlany;",
+      "urządzeń budowlanych."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-1",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów Prawa budowlanego kiosk uliczny niepołączony trwale z gruntem, przeznaczony do użytkowania w okresie krótszym od jego trwałości, to:",
+    "options": [
+      "budynek;",
+      "tymczasowy obiekt budowlany;",
+      "urządzenie budowlane."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-2",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "question": "Wg przepisów Prawa budowlanego pozwolenie na budowę ma formę:",
+    "options": [
+      "zarządzenia właściwego organu budowlanego;",
+      "postanowienia;",
+      "decyzji administracyjnej."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-4",
+        "session": "2025-03-26"
+      },
+      {
+        "id": "2023-11-30-2",
+        "session": "2023-11-30"
+      },
+      {
+        "id": "2023-06-22-2",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "Fundament pośredni to:",
+    "options": [
+      "studnia fundamentowa;",
+      "skrzynia fundamentowa;",
+      "pal fundamentowy."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-5",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "question": "Przez obiekt budowlany należy rozumieć:",
+    "options": [
+      "budynek wraz z instalacjami zapewniającymi możliwość użytkowania obiektu zgodnie z jego przeznaczeniem;",
+      "obiekt małej architektury;",
+      "budowlę."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-6",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "question": "Budynek mieszkalny jednorodzinny, to budynek o:",
+    "options": [
+      "jednym lokalu mieszkalnym;",
+      "dwóch lokalach mieszkalnych;",
+      "trzech lokalach mieszkalnych."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-7",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "question": "Modernizacja budynku to wykonanie robót, w wyniku których uzyskuje się:",
+    "options": [
+      "poprawę standardu budynku;",
+      "przedłużenie okresu użytkowania;",
+      "poprawę stanu technicznego budynku."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-8",
+        "session": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "question": "Kubaturę stropodachu wentylowanego, nieużytkowego, o wymiarach zewnętrznych 50,00 x 10,00 m i średniej wysokości 1,00 m, zgodnie z normą PN-ISO 9836, zaliczysz do kubatury brutto budynku w wielkości:",
+    "options": [
+      "500,00 m3;",
+      "250,00 m3;",
+      "nie uwzględnia się kubatury stropodachu."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-9",
+        "session": "2025-03-26"
+      },
+      {
+        "id": "2022-12-01-3",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "Które z wymienionych poniżej rodzajów kosztów wchodzą w skład cen jednostkowych robót budowlanych:",
+    "options": [
+      "koszty bezpośrednie;",
+      "koszty pośrednie;",
+      "koszty dokumentacji obiektu budowlanego."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2025-03-26-32",
+        "session": "2025-03-26"
+      },
+      {
+        "id": "2022-10-27-37",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Wagą w tabeli zużycia średnioważonego jest:",
+    "options": [
+      "procentowy udział kosztu elementu nowego w koszcie budynku nowego;",
+      "procentowy udział wartości roboty w koszcie odtworzenia elementu scalonego;",
+      "udział procentowy wynikający z ilości elementów."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-1",
+        "session": "2024-11-19"
+      },
+      {
+        "id": "2024-03-19-8",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów „Prawa budowlanego”, budynek to:",
+    "options": [
+      "obiekt budowlany, który jest trwale związane z gruntem, wydzielony z przestrzeni za pomocą przegród budowlanych oraz posiada fundamenty i dach;",
+      "każdy obiekt budowany pokryty dachem;",
+      "każdy obiekt budowlany, który nie jest budowlą."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-2",
+        "session": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Który z poniżej wymienionych zakresów robót budowlanych jest remontem zgodnie z ustawą „Prawo budowlane”?",
+    "options": [
+      "wymiana stropów;",
+      "malowanie ścian;",
+      "wymiana instalacji centralnego ogrzewania."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-3",
+        "session": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Dźwigar to:",
+    "options": [
+      "element nośny dachów hal przemysłowych;",
+      "element konstrukcyjny poziomy lub pochyły, pełnościenny, ażurowy lub kratkowy;",
+      "zasadniczy element konstrukcji nośnej mostów, wiaduktów."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-5",
+        "session": "2024-11-19"
+      },
+      {
+        "id": "2024-04-23-4",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "question": "Przy prawidłowej eksploatacji najkrótszym okresem twałości charakteryzuje się posadzka wykonana z:",
+    "options": [
+      "płyt marmurowych;",
+      "lastryka;",
+      "płytek PCV."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-6",
+        "session": "2024-11-19"
+      },
+      {
+        "id": "2022-10-27-1",
+        "session": "2022-10-27"
+      },
+      {
+        "id": "2022-07-07-2",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z przepisami prawa budowlanego, za pomieszczenie mieszkalne uznaje się:",
+    "options": [
+      "pokoje w mieszkaniu;",
+      "sypialnie;",
+      "łazienkę w mieszkaniu."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-7",
+        "session": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych, odległość miejsc postojowych dla 11 do 60 samochodów osobowych od placu zabaw dla dzieci, powinna wynosić nie mniej niż:",
+    "options": [
+      "7 m;",
+      "10 m;",
+      "15m."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-11-19-8",
+        "session": "2024-11-19"
+      }
+    ]
+  },
+  {
+    "question": "Odległość studni dostarczającej wodę do spożycia przez ludzi od budynków inwentarskich, w świetle przepisów techniczno-budowlanych, powinna wynosić – licząc od osi studni – co najmniej:",
+    "options": [
+      "5 m;",
+      "10 m;",
+      "15 m."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-1",
+        "session": "2024-10-22"
+      },
+      {
+        "id": "2023-03-23-4",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów prawa budowlanego rozpoczęcie budowy następuje z chwilą podjęcia na terenie budowy prac przygotowawczych, którymi są:",
+    "options": [
+      "wykonanie niwelacji terenu;",
+      "wytyczenie geodezyjne obiektu w terenie;",
+      "wykonanie wykopów pod budynek inwestora."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-2",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "question": "Obmiar robót sporządza się na podstawie:",
+    "options": [
+      "protokołu konieczności robót;",
+      "projektu;",
+      "pomiaru z natury."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-3",
+        "session": "2024-10-22"
+      },
+      {
+        "id": "2023-09-14-2",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z przepisami ustawy Prawo budowlane, budynek mieszkalny jednorodzinny to m.in.:",
+    "options": [
+      "budynek rekreacji indywidualnej;",
+      "budynek mieszkalny zawierający nie więcej niż dwa lokale;",
+      "budynek bliźniaczy lub szeregowy, stanowiący konstrukcyjnie samodzielną całość, wykorzystywany na cele mieszkaniowe."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-4",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych daszki, balkony mogą być umieszczane nad poziomem chodnika na wysokości nie mniejszej, niż:",
+    "options": [
+      "2,0 m;",
+      "2,4 m;",
+      "3,0 m."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-5",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "question": "Cegła sylikatowa to wyrób:",
+    "options": [
+      "ceramiczny;",
+      "wapienno - piaskowy;",
+      "betonowy."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-6",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "question": "Do obowiązków inwestora należy zorganizowanie procesu budowy, a w szczególności zapewnienie:",
+    "options": [
+      "opracowania projektu budowlanego;",
+      "opracowania planu bezpieczeństwa i ochrony zdrowia;",
+      "wykonania i odbioru robót budowlanych."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-7",
+        "session": "2024-10-22"
+      },
+      {
+        "id": "2023-11-30-5",
+        "session": "2023-11-30"
+      },
+      {
+        "id": "2023-06-22-9",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "Strop Akermana zaliczamy do stopów:",
+    "options": [
+      "gęstożebrowych;",
+      "płytowo-żebrowych;",
+      "płytowych."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-10-22-9",
+        "session": "2024-10-22"
+      }
+    ]
+  },
+  {
+    "question": "Przy ubieganiu się o pozwolenie na budowę, projekt zagospodarowania działki lub terenu jest opracowaniem, które:",
+    "options": [
+      "nie jest obowiązkowe;",
+      "jest obowiązkowe;",
+      "wraz z projektem architektoniczno-budowlanym jest zatwierdzany w decyzji o pozwoleniu na budowę."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-1",
+        "session": "2024-09-17"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych w pokoju mieszkalnym o powierzchni 16 m2 powierzchnia okien powinna wynosić co najmniej:",
+    "options": [
+      "1,00 m2;",
+      "1,60 m2;",
+      "2,00 m2."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-2",
+        "session": "2024-09-17"
+      },
+      {
+        "id": "2021-04-22-4",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Stan zerowy w budynku podpiwniczonym mieszkalnym obejmuje następujące elementy:",
+    "options": [
+      "wykopy, fundamenty, ściany piwnic wraz z izolacją, strop nad piwnicą, zasypanie wykopów;",
+      "tylko fundamenty, ściany piwnic, strop nad piwnicą;",
+      "wyłącznie fundamenty."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-3",
+        "session": "2024-09-17"
+      },
+      {
+        "id": "2021-07-22-1",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Stropodach to przegroda budynku:",
+    "options": [
+      "pozioma;",
+      "pionowa;",
+      "pełniąca jednocześnie funkcję stropu i dachu."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-4",
+        "session": "2024-09-17"
+      },
+      {
+        "id": "2022-09-15-1",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Do wniosku o pozwolenie na budowę dołącza się m.in. projekt architektoniczno-budowlany w:",
+    "options": [
+      "postaci papierowej w trzech egzemplarzach, albo w postaci elektronicznej;",
+      "postaci papierowej w czterech egzemplarzach, albo w postaci elektronicznej;",
+      "postaci papierowej w dwóch egzemplarzach oraz w postaci elektronicznej;"
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-5",
+        "session": "2024-09-17"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno - budowlanych, do pomieszczeń higieniczno-sanitarnych zalicza się:",
+    "options": [
+      "łaźnię;",
+      "przebieralnie;",
+      "pomieszczenie służące do przechowywania sprzętu do utrzymania czystości."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-6",
+        "session": "2024-09-17"
+      }
+    ]
+  },
+  {
+    "question": "Który z poniższych obiektów budowlanych jest budowlą?",
+    "options": [
+      "wiadukt;",
+      "oczyszczalnia ścieków;",
+      "pomnik."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-09-17-9",
+        "session": "2024-09-17"
+      }
+    ]
+  },
+  {
+    "question": "Powierzchnia kondygnacji netto w świetle normy PN ISO 9836 dzieli się na powierzchnię:",
+    "options": [
+      "użytkową, usługową, ruchu;",
+      "użytkową, pomocniczą, komunikacji;",
+      "użytkową, ruchu."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-1",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Dla ustalenia stopnia zużycia technicznego (fizycznego) budynku przydatne są m.in. dokumenty:",
+    "options": [
+      "protokoły przeglądów rocznych i pięcioletnich;",
+      "ekspertyzy techniczne;",
+      "pozwolenie na budowę."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-3",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Okresowa kontrola instalacji elektrycznych i piorunochronnej w zakresie stanu sprawności połączeń, zabezpieczeń i środków ochrony od porażeń w budynkach użyteczności publicznej powinna być przeprowadzona:",
+    "options": [
+      "co najmniej raz w roku;",
+      "co najmniej raz na 5 lat;",
+      "wg zalecenia instrukcji użytkowania obiektu."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-4",
+        "session": "2024-06-25"
+      },
+      {
+        "id": "2021-12-02-9",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "Aktualny usystematyzowany wykaz obiektów budowlanych, rozumianych jako produkty finalne działalności budowlanej należy ustalać na podstawie:",
+    "options": [
+      "Klasyfikacji Obiektów Budowlanych (KOB);",
+      "Klasyfikacji Głównego Urzędu Statystycznego (GUS);",
+      "Polskiej Klasyfikacji Obiektów Budowlanych (PKOB)."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-5",
+        "session": "2024-06-25"
+      },
+      {
+        "id": "2022-09-15-4",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Stosownie do przepisów Prawa budowlanego obowiązek prowadzenia książki obiektu budowlanego nie obejmuje:",
+    "options": [
+      "budynków mieszkalnych jednorodzinnych;",
+      "budynków mieszkalnych wielorodzinnych;",
+      "budynków czasowo użytkowanych, położonych na terenie budowy."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-7",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Inwestor określił wymaganą stopę zwrotu r = 10%. Na podstawie kształtowania się NPV dla projektu wyznaczono wewnętrzną stopę zwrotu (IRR) na poziomie 15%. Czy projekt ten jest opłacalny?",
+    "options": [
+      "tak, gdyż IRR > r;",
+      "nie, gdyż IRR > r;",
+      "nie można udzielić odpowiedzi w oparciu o te dane."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-8",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "question": "W rozumieniu ustawy o rachunkowości, elementem ceny nabycia skladnika aktywów są :",
+    "options": [
+      "cena zakupu składnika zawsze zawierająca podatek VAT;",
+      "cena zakupu składnika bez podatku Vat podlegającemu odliczeniu;",
+      "koszty bezpośrednio związane z zakupem i przystosowaniem składnika aktywów do stanu zdatnego do używania."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-06-25-9",
+        "session": "2024-06-25"
+      }
+    ]
+  },
+  {
+    "question": "Określenie wartości odtworzeniowej części składowej gruntu w podejściu kosztowym możliwe jest poprzez zastosowanie:",
+    "options": [
+      "metody kosztów odtworzenia;",
+      "metody kosztów likwidacji;",
+      "metody kosztów zastąpienia."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-1",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych umieszczenie drutu kolczastego na ogrodzeniu zakładu produkcyjnego nie jest możliwe na wysokości:",
+    "options": [
+      "1,50 m;",
+      "1,80 m;",
+      "2,00 m."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-2",
+        "session": "2024-04-23"
+      },
+      {
+        "id": "2022-06-02-7",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych, piwnica to:",
+    "options": [
+      "kondygnacja podziemna lub najniższa nadziemna bądź ich część, w których poziom podłogi co najmniej z jednej strony budynku znajduje się poniżej poziomu terenu;",
+      "kondygnacja podziemna lub najniższa nadziemna bądź ich część, w których poziom podłogi co najmniej z jednej strony budynku znajduje się nie mniej niż 1,5 m poniżej poziomu terenu;",
+      "kondygnacja podziemna lub najniższa nadziemna bądź ich część, w których poziom podłogi co najmniej z jednej strony budynku znajduje się nie mniej niż 0,9 m poniżej poziomu terenu."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-3",
+        "session": "2024-04-23"
+      },
+      {
+        "id": "2022-03-24-1",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Do obiektów małej architektury zalicza się:",
+    "options": [
+      "ogrodzenie;",
+      "piaskownice;",
+      "śmietniki."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-5",
+        "session": "2024-04-23"
+      },
+      {
+        "id": "2023-10-26-4",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "Za kondygnację budynku w świetle przepisów techniczno-budowlanych uważa się:",
+    "options": [
+      "nadbudówkę ponad dachem stanowiącą maszynownię dźwigu osobowego;",
+      "poddasze z pomieszczeniami przeznaczonymi na pobyt ludzi;",
+      "suterenę."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-7",
+        "session": "2024-04-23"
+      },
+      {
+        "id": "2023-04-20-9",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Według przepisów techniczno-budowlanych, przewody kominowe to przewody:",
+    "options": [
+      "dymowe;",
+      "wentylacyjne;",
+      "spalinowe."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-8",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "question": "Klinkier jest materiałem:",
+    "options": [
+      "konstrukcyjnym;",
+      "wykończeniowym;",
+      "drogowym."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-04-23-9",
+        "session": "2024-04-23"
+      }
+    ]
+  },
+  {
+    "question": "Wiadukt to:",
+    "options": [
+      "przeprawa pozwalająca na pokonanie doliny, wąwozu;",
+      "przeprawa pozwalająca na pokonanie przeszkody terenowej typu droga kołowa, linia kolejowa;",
+      "przeprawa pozwalająca na pokonanie przeszkód wodnych."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-1",
+        "session": "2024-03-19"
+      },
+      {
+        "id": "2023-03-23-8",
+        "session": "2023-03-23"
+      },
+      {
+        "id": "2022-09-15-5",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Ryzalit to:",
+    "options": [
+      "wysunięty poza lico ściany element konstrukcyjny budynku prowadzony od fundamentów po dach;",
+      "nadwieszony powyżej parteru wystający z lica elewacji fragment budynku, poszerzający przylegające wnętrze, nakryty osobnym daszkiem;",
+      "element architektoniczny budynku, nadwieszony, posiadający formę otwartą."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-3",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "W świetle normy PN-ISO 9836 \"Właściwości użytkowe w budownictwie\" do powierzchni zabudowy nie wlicza się:",
+    "options": [
+      "schodów zewnętrznych;",
+      "ramp zewnętrznych;",
+      "daszków, markiz, występów."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-4",
+        "session": "2024-03-19"
+      },
+      {
+        "id": "2022-07-07-4",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "question": "Budynek wykonany w technologii tzw. \"wielki blok\" zalicza się do budynków o konstrukcji:",
+    "options": [
+      "prefabrykowanej;",
+      "monolitycznej;",
+      "sprężonej."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-5",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "W budynku wielokondygnacyjnym użyteczności publicznej element scalony występujący w technice elementów scalonych podejścia kosztowego to:",
+    "options": [
+      "rodzaj roboty budowlanej;",
+      "jednorodny technologicznie element obiektu budowlanego;",
+      "w budynkach wielokondygnacyjnych użyteczności publicznej nie występują elementy scalone."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-6",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "Kwestie dokonywania oględzin w procesie wyceny nieruchomości zostały uregulowane w:",
+    "options": [
+      "ustawie o gospodarce nieruchomościami;",
+      "rozporządzeniu w sprawie wyceny nieruchomości;",
+      "żaden przepis prawa nie przewiduje takiego obowiązku."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-7",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z ustawą - Prawo budowlane, w budynku mieszkalnym jednorodzinnym dopuszcza się wydzielenie:",
+    "options": [
+      "nie więcej niż dwóch lokali mieszkalnych;",
+      "nie więcej niż czterech lokali mieszkalnych;",
+      "jednego lokalu mieszkalnego i lokalu użytkowego o powierzchni całkowitej nieprzekraczającej 50% powierzchni całkowitej budynku."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2024-03-19-9",
+        "session": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "question": "Estakada to:",
+    "options": [
+      "wiadukt prowadzony nad poziomem terenu, wykorzystywany do prowadzenia trasy komunikacyjnej;",
+      "budowla służąca do przeprowadzenia drogi komunikacyjnej nad rzeką, kanałem lub cieśniną;",
+      "pomost prowadzony nad poziomem terenu, wykorzystywany do prowadzenia rurociągu, transportu urobku."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-1",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "question": "Obiektem małej architektury nie jest :",
+    "options": [
+      "kapliczka;",
+      "pomnik;",
+      "posąg."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-3",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "question": "Tymczasowy obiekt budowlany to:",
+    "options": [
+      "obiekt budowlany nie połączony trwale z gruntem;",
+      "obiekt przeznaczony do czasowego użytkowania;",
+      "kiosk uliczny."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-4",
+        "session": "2023-11-30"
+      },
+      {
+        "id": "2022-04-28-4",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów o własności lokali, garaż w budynku wielorodzinnym, może stanowić:",
+    "options": [
+      "lokal użytkowy;",
+      "pomieszczenie pomocnicze;",
+      "pomieszczenie przynależne."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-6",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "question": "Przy określeniu kosztu odtworzenia wg techniki wskaźnikowej, wykorzystanie cen wskaźnikowych publikowanych w specjalistycznych wydawnictwach, dopuszczalne jest pod warunkiem:",
+    "options": [
+      "że obiekt wyceniany jest porównywalny pod względem rozwiązań techniczno-materiałowych i wielkości z obiektem, dla którego znana jest cena wskaźnikowa;",
+      "zgodności nazw obiektu wycenianego i obiektu, dla którego znana jest cena wskaźnikowa;",
+      "bez ograniczeń, jeżeli będzie zastosowany współczynnik regionalny."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-7",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "question": "Dostęp do drogi publicznej dla działki budowlanej może być:",
+    "options": [
+      "bezpośredni;",
+      "przez służebność drogową;",
+      "przez drogę wewnętrzną."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-8",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "question": "W księgowości dewelopera nieruchomości przeznaczone do sprzedaży są ujmowane w:",
+    "options": [
+      "środkach trwałych;",
+      "nieruchomościach inwestycyjnych;",
+      "rzeczowych aktywach obrotowych."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-9",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "question": "W świetle ustawy o podatku od spadków i darowizn, za powierzchnię użytkową budynku uważa się powierzchnię mierzoną po wewnętrznej długości ścian pomieszczeń na wszystkich kondygnacjach podziemnych i naziemnych z wyjątkiem:",
+    "options": [
+      "powierzchni piwnic;",
+      "powierzchni klatek schodowych;",
+      "powierzchni szybów dźwigów."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-11-30-75",
+        "session": "2023-11-30"
+      }
+    ]
+  },
+  {
+    "question": "Płatwie stanowią element nośny więźby dachu drewnianego:",
+    "options": [
+      "płatwiowo-kleszczowgo;",
+      "jętkowo-stolcowego;",
+      "wieszakowego."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-1",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów prawa budowlanego do budowli nie zalicza się:",
+    "options": [
+      "ogrodzeń do 2 m wysokości;",
+      "sieci gazowych;",
+      "sieci wodociągowych."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-2",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "Dla ustalenia stopnia zużycia technicznego (fizycznego) budynku przydatne są m.in.: dokumenty:",
+    "options": [
+      "protokoły przeglądów rocznych i pięcioletnich;",
+      "ekspertyzy techniczne;",
+      "dziennik budowy."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-3",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych, do działek budowlanych oraz do budynków i urządzeń z nimi związanych należy zapewnić dojazd umożliwiający dostęp do drogi publicznej o szerokości jezdni nie mniejszej niż:",
+    "options": [
+      "2,0 m;",
+      "3,0 m;",
+      "4,0 m."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-6",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "W świetle ustawy o podatku od spadków i darowizn za powierzchnię użytkową budynku uważa się powierzchnię mierzoną po wewnętrznej długości ścian pomieszczeń na wszystkich kondygnacjach podziemnych i naziemnych z wyjątkiem:",
+    "options": [
+      "powierzchni piwnic;",
+      "powierzchni klatek schodowych;",
+      "powierzchni szybów dźwigów."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-7",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "Pomieszczenie przeznaczone na stały pobyt ludzi, to pomieszczenie, w którym przebywanie tych samych osób w ciągu doby trwa dłużej niż:",
+    "options": [
+      "2 godziny;",
+      "3 godziny;",
+      "4 godziny."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-8",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "Okres amortyzacji kredytu to czas:",
+    "options": [
+      "na który rozłożone są spłaty części kapitałowej kredytu;",
+      "na który rozłożone są spłaty części odsetkowej kredytu;",
+      "okres przyjęty do obliczeń, w którym następuje spłata całości zadłużenia."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-10-26-9",
+        "session": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "question": "Wewnętrzna warstwa desek pomiędzy belkami drewnianego stropu podtrzymująca izolację, to:",
+    "options": [
+      "podsufitka;",
+      "ślepa podłoga;",
+      "ślepy pułap."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-3",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Strop Kleina to strop:",
+    "options": [
+      "drewniany podwójny, nazywany też jako strop \"cichy\";",
+      "stalowo - ceramiczny, płaski;",
+      "stalowo-ceramiczny, łukowy."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-4",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z rozporządzeniem w sprawie warunków technicznych jakim powinny odpowiadać budynki i ich usytuowanie, kondygnacja budynku zawierająca pomieszczenia, w których poziom podłogi w części lub w całości znajduje się 50 cm poniżej poziomu terenu, może być:",
+    "options": [
+      "sutereną;",
+      "piwnicą;",
+      "pomieszczeniem technicznym."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-6",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Dylatacja ustroju konstrukcyjnego w budynku to świadome przerwanie ciągłości elementów:",
+    "options": [
+      "fundamentów, ścian, stropów, dachu;",
+      "tylko fundamentów;",
+      "tylko fundamentów i ścian nośnych."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-7",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Strumień pieniężny w ostatnim roku prognozy wynosi 20 tys zł. Stopa kapitalizacji i stopa dyskontowa wynoszą po 10 %. Wartość rezydualna wynosi:",
+    "options": [
+      "20 000 zł;",
+      "200 000 zł;",
+      "180 000 zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-8",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Roczny dochód operacyjny netto z nieruchomości wynosi 10 000 zł. Stopa kapitalizacji wynosi 8%. To wartość tej nieruchomości wynosi:",
+    "options": [
+      "80 000 zł;",
+      "125 000 zł;",
+      "100 000 zł."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-9",
+        "session": "2023-09-14"
+      }
+    ]
+  },
+  {
+    "question": "Przy wycenie obiektów budowlanych metodą kosztów odtworzenia należy przyjmować:",
+    "options": [
+      "te same parametry użytkowe;",
+      "te same technologie budowy;",
+      "aktualnie stosowane technologie i materiały."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-09-14-35",
+        "session": "2023-09-14"
+      },
+      {
+        "id": "2023-03-23-29",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno - budowlanych, minimalna wysokość balustrady w budynku jednorodzinnym powinna wynosić:",
+    "options": [
+      "0,9 m;",
+      "1,1 m;",
+      "dowolnie wg projektu budowlanego."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-1",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "Zbrojenia konstrukcji żelbetowych wykonuje się z:",
+    "options": [
+      "prętów stalowych gładkich;",
+      "prętów stalowych żebrowanych;",
+      "kabli bądź strun stalowych."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-3",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "Przez budynek mieszkalny, zgodnie z przepisami techniczno-budowlanymi, należy rozumieć:",
+    "options": [
+      "budynek mieszkalny wielorodzinny;",
+      "budynek mieszkalny jednorodzinny;",
+      "budynek rekreacji indywidualnej."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-4",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z przepisami ustawy Prawo budowlane, budynek mieszkalny jednorodzinny to m.in.:",
+    "options": [
+      "budynek rekreacji indywidualnej;",
+      "budynek mieszkalny zawierający nie więcej niż dwa lokale mieszkalne;",
+      "budynek bliźniaczy lub szeregowy, stanowiący konstrukcyjnie samodzielną całość, wykorzystywany na cele mieszkaniowe."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-5",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych awaryjne oświetlenie ewakuacyjne należy stosować w pomieszczeniach:",
+    "options": [
+      "sal widowiskowych;",
+      "o powierzchni netto ponad 2000 m2 w budynkach użyteczności publicznej;",
+      "na drogach ewakuacyjnych oświetlonych wyłącznie światłem sztucznym."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-6",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych do kubatury brutto budynku należy wliczać kubaturę:",
+    "options": [
+      "przejazdów bramowych;",
+      "kanałów i studzienek instalacyjnych;",
+      "przekrytych loggii."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-06-22-7",
+        "session": "2023-06-22"
+      }
+    ]
+  },
+  {
+    "question": "Stroną w postępowaniu w sprawie pozwolenia na użytkowanie budynku są:",
+    "options": [
+      "wszystkie osoby i instytucje powiadomione o wydanym pozwoleniu na budowę,",
+      "inwestor i właściciele (użytkownicy wieczyści) nieruchomości przyległych w stosunku do nieruchomości, na której zakończono inwestycję;",
+      "wyłącznie inwestor."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-1",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Głębokość posadowienia fundamentów wynika z:",
+    "options": [
+      "warunków gruntowo - wodnych;",
+      "głębokości przemarzania gruntu;",
+      "względów użytkowych, np. podpiwniczenia lub jego braku."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-4",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Przy określeniu kosztu odtworzenia wg techniki wskaźnikowej, wykorzystanie cen wskaźnikowych, publikowanych w specjalistycznych wydawnictwach, dopuszczalne jest pod warunkiem:",
+    "options": [
+      "że obiekt wyceniany jest porównywalny pod względem rozwiązań techniczno-materiałowych i wielkości z obiektem, dla którego znana jest cena wskaźnikowa;",
+      "zgodności nazw obiektu wycenianego i obiektu, dla którego znana jest cena wskaźnikowa;",
+      "bez ograniczeń, jeżeli będzie zastosowany współczynnik regionalny."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-5",
+        "session": "2023-04-20"
+      },
+      {
+        "id": "2022-03-24-6",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów \"Prawa budowlanego\" przez pojęcie \"remont\" rozumie się wykonanie w istniejącym obiekcie budowlanym robót budowlanych polegających na:",
+    "options": [
+      "odtworzeniu stanu pierwotnego z dopuszczeniem zastosowania wyrobów budowlanych innych niż były użyte w stanie pierwotnym;",
+      "odtworzeniu stanu pierwotnego przy zastosowaniu wyrobów budowlanych, które były użyte w stanie pierwotnym;",
+      "drobnej bieżącej naprawie lub konserwacji elementów instalacji w obiekcie."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-6",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych budynkiem zamieszkania zbiorowego nie jest:",
+    "options": [
+      "internat;",
+      "budynek mieszkalno-usługowy;",
+      "budynek zakwaterowania na terenie zakładu karnego."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-7",
+        "session": "2023-04-20"
+      }
+    ]
+  },
+  {
+    "question": "Urządzeniami budowlanymi są:",
+    "options": [
+      "ciepłociąg magistralny;",
+      "ogrodzenia;",
+      "przyłącza zapewniające możliwość użytkowania obiektu zgodnie z jego przeznaczeniem."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-04-20-8",
+        "session": "2023-04-20"
+      },
+      {
+        "id": "2022-04-28-5",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych gazomierzy nie można instalować:",
+    "options": [
+      "we wspólnych wnękach z licznikami elektrycznymi;",
+      "na zewnątrz budynku, razem z kurkiem głównym instalacji gazowej;",
+      "w odległości mniejszej w rzucie poziomym niż 1 m od palnika gazowego lub innego paleniska."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-1",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Który z poniższych obiektów budowlanych, zgodnie z Prawem budowlanym, nie jest tymczasowym obiektem budowlanym?",
+    "options": [
+      "kiosk uliczny niezwiązany trwale z gruntem;",
+      "pawilon handlowy o konstrukcji stalowej niepołączony trwale z gruntem, przeznaczony do użytkowania przez okres 10 lat, a po tym okresie przeznaczony do rozbiórki;",
+      "budynek jednorodzinny o konstrukcji drewnianej."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-2",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Kotew to:",
+    "options": [
+      "pręt stalowy łączący elementy konstrukcyne budynku;",
+      "tzw. \"ankra\" wiążąca i wzmacniająca uszkodzone elementy konstrukcyjne;",
+      "pręt stalowy łączący słup ze stopą fundamentową."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-6",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Pomieszcenia przeznaczone na stały pobyt ludzi, według przepisów techniczno-budowlanych, to:",
+    "options": [
+      "pomieszczenia, w których przebywanie tych samych osób w ciągu doby trwa od 2 do 4 godzin włącznie;",
+      "pomieszczenia, w których przebywanie tych samych osób w ciągu doby trwa dłużej niż 4 godziny;",
+      "pomieszczenia, w których przebywanie różnych osób (zmieniających się w sposób ciągły) w ciągu doby trwa dłużej niż 4 godziny."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-7",
+        "session": "2023-03-23"
+      }
+    ]
+  },
+  {
+    "question": "Przez obiekt małej architektury należy rozumieć:",
+    "options": [
+      "kapliczki;",
+      "wodotryski;",
+      "huśtawki."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2023-03-23-9",
+        "session": "2023-03-23"
+      },
+      {
+        "id": "2022-04-28-3",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno - budowlanych, mieszkanie powinno mieć powierzchnię użytkową nie mniejszą niż:",
+    "options": [
+      "19 m2;",
+      "25 m2;",
+      "30 m2."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-1",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "Budynek mieszkalny jednorodzinny to zgodnie z ustawą \"Prawo budowlane\" budynek, w którym dopuszcza się:",
+    "options": [
+      "wydzielenie nie więcej niż dwóch lokali mieszkalnych;",
+      "wydzielenie tylko jednego lokalu użytkowego;",
+      "wydzielenie jednego lokalu mieszkalnego i lokalu użytkowego o powierzchni całkowitej nie przekraczającej 30% powierzchni całkowitej budynku."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-4",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "Obowiązek prowadzenia książki obiektu budowlanego nie obejmuje właścicieli i zarządców:",
+    "options": [
+      "budynków mieszkalnych jednorodzinnych;",
+      "budownictwa zagrodowego i letniskowego;",
+      "budynku wielorodzinnego."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-5",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "Modernizacja budynku to wykonanie robót, w wyniku których uzyskuje się :",
+    "options": [
+      "poprawę standardu budynku;",
+      "przedłużenie okresu użytkowania;",
+      "poprawę stanu technicznego budynku."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-6",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych liczba stopni w jednym biegu schodów zewnętrznych nie powinna wynosić więcej niż:",
+    "options": [
+      "10 stopni;",
+      "14 stopni;",
+      "15 stopni."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-7",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów \"Prawa budowlanego\" do użytkowania obiektu budowlanego, na którego wzniesienie jest wymagane pozwolenie na budowę, można przystąpić, co do zasady, po zawiadomieniu właściwego organu o zakończeniu budowy, jeżeli organ ten nie zgłosi sprzeciwu w drodze decyzji w okresie:",
+    "options": [
+      "14 dni od dnia doręczenia zawiadomienia;",
+      "21 dni od dnia doręczenia zawiadomienia;",
+      "30 dni od dnia doręczenia zawiadomienia."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-8",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "Kalenica jest to:",
+    "options": [
+      "pozioma krawędź na styku połaci dachowych;",
+      "belka podpierająca krokwie;",
+      "belka stropowa na ostatniej kondygnacji budynku."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-12-01-9",
+        "session": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych powierzchnię antresoli:",
+    "options": [
+      "wlicza się do powierzchni wewnętrznej budynku;",
+      "nie wlicza się do powierzchni wewnętrznej budynku;",
+      "wlicza się do powierzchni wewnętrznej budynku w 50%."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-2",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych przez pojęcie \"budynek mieszkalny\" należy rozumieć:",
+    "options": [
+      "budynek mieszkalny jednorodzinny;",
+      "budynek mieszkalny w zabudowie zagrodowej;",
+      "dom rencistów."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-3",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Strop Kleina to:",
+    "options": [
+      "strop żelbetowy;",
+      "strop stalowo - ceramiczny;",
+      "strop prefabrykowany."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-4",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów Prawa budowlanego kiosk uliczny nie połączony trwale z gruntem, przeznaczony do użytkowania w okresie krótszym od jego trwałości, to :",
+    "options": [
+      "budynek;",
+      "tymczasowy obiekt budowlany;",
+      "urządzenie budowlane."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-5",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych awaryjne oświetlenie ewakuacyjne należy stosować w pomieszczeniach:",
+    "options": [
+      "sal widowiskowych;",
+      "o powierzchni netto ponad 2000 m2 w budynkach użyteczności publicznej;",
+      "na drogach ewakuacyjnych, oświetlonych wyłącznie światłem sztucznym."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-7",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów ustawy \"Prawo budowlane\" tymczasowy obiekt budowlany, to:",
+    "options": [
+      "obiekt kontenerowy połączony trwale z gruntem, przeznaczony do użytkowania w okresie odpowiadającym jego trwałości;",
+      "obiekt budowlany niepołączony trwale z gruntem;",
+      "obiekt liniowy."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-8",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Wartość nominalna akcji:",
+    "options": [
+      "to wartość kapitału akcyjnego przypadajacego na jedną akcję;",
+      "jest zawsze równa cenie oferowanej do nabycia na rynku pierwotnym (tzw. cenie emisyjnej);",
+      "jest podstawą określenia wysokości kapitału, którego nie można wycofać do monentu likwidacji spółki akcyjnej."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-9",
+        "session": "2022-10-27"
+      }
+    ]
+  },
+  {
+    "question": "Określając wartość nieruchomości zabudowanej budynkiem przemysłowym 3-kondygnacyjnym, przewidzianym do likwidacji, należy uwzględnić koszty:",
+    "options": [
+      "rozbiórki;",
+      "odwozu gruzu oraz utylizacji i opłat za składowanie;",
+      "dokumentacji i nadzoru."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-10-27-40",
+        "session": "2022-10-27"
+      },
+      {
+        "id": "2021-09-09-37",
+        "session": "2021-09-09"
+      },
+      {
+        "id": "2021-04-22-40",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Według przepisów prawa budowlanego, przez pomieszczenie gospodarcze należy rozumieć pomieszczenie znajdujące się poza lokalem użytkowym, służące min. do przechowywania:",
+    "options": [
+      "przedmiotów użytkowników budynku;",
+      "opału;",
+      "odpadów stałych."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-2",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Dla ustalenia stopnia zużycia technicznego (fizycznego) budynku przydatne są m.in. dokumenty :",
+    "options": [
+      "protokoły przeglądów rocznych i pięcioletnich;",
+      "ekspertyzy techniczne;",
+      "pozwolenie na budowę."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-3",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Obiekty budowlane powinny być w czasie ich użytkowania poddawane przez właściciela lub zarządcę kontroli okresowej:",
+    "options": [
+      "co najmniej raz w roku - instalacji gazowych;",
+      "co najmniej raz na 5 lat - badanie instalacji elektrycznej i piorunochronnej;",
+      "co najmniej raz w roku - przewody kominowe i wentylacyjne."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-6",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Fundament bezpośredni to:",
+    "options": [
+      "stopa fundamentowa;",
+      "skrzynia fundamentowa;",
+      "pal fundamentowy."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-7",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Podstawę do sporządzania kosztorysu inwestorskiego stanowią:",
+    "options": [
+      "ceny jednostkowe robót podstawowych;",
+      "specyfikacja techniczna wykonania i odbioru robót budowlanych;",
+      "założenia wyjściowe do kosztorysowania."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-8",
+        "session": "2022-09-15"
+      }
+    ]
+  },
+  {
+    "question": "Przedmiar robót wykonuje się:",
+    "options": [
+      "na etapie projektowania;",
+      "po wykonaniu robót ziemnych;",
+      "w stanie ukończonym obiektu budowlanego."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-09-15-9",
+        "session": "2022-09-15"
+      },
+      {
+        "id": "2022-07-07-5",
+        "session": "2022-07-07"
+      },
+      {
+        "id": "2021-12-02-6",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych kabina natryskowa niezamknięta, stanowiąca wydzieloną część pomieszczeń natrysków i umywalni zbiorowych, powinna mieć powierzchnię nie mniejszą niż:",
+    "options": [
+      "0,9 m2;",
+      "1 m2;",
+      "1,1m2."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-07-07-1",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych antresola to:",
+    "options": [
+      "górna część kondygnacji lub pomieszczenia znajdująca się nad przedzielającym je stropem pośrednim o powierzchni mniejszej od powierzchni tej kondygnacji lub pomieszczenia, niezamknięta przegrodami budowlanymi od strony wnętrza, z którego jest wydzielona;",
+      "górna część kondygnacji lub pomieszczenia znajdująca się nad przedzielającym je stropem pośrednim o powierzchni mniejszej od powierzchni tej kondygnacji lub pomieszczenia, zamknięta przegrodami budowlanymi od strony wnętrza, z którego jest wydzielona;",
+      "górna część kondygnacji lub pomieszczenia znajdująca się nad przedzielającym je stropem pośrednim o dowolnej powierzchni, zamknięta lub niezamknięta przegrodami budowlanymi od strony wnętrza, z którego jest wydzielona."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-07-07-3",
+        "session": "2022-07-07"
+      },
+      {
+        "id": "2021-10-28-6",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Który z poniżej wymienionych zakresów robót budowlanych jest remontem zgodnie z ustawą \"Prawo budowlane\"?",
+    "options": [
+      "wymiana stropów;",
+      "malowanie ścian;",
+      "wymiana instalacji centralnego ogrzewania."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-07-07-6",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno - budowlanych, szerokość drzwi wejściowych do budynku oraz do mieszkań, w świetle ościeżnicy, powinny mieć szerokość conajmniej:",
+    "options": [
+      "0,9 m;",
+      "1,0 m;",
+      "1,2 m."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-07-07-8",
+        "session": "2022-07-07"
+      }
+    ]
+  },
+  {
+    "question": "Projekt zagospodarowania działki lub terenu obejmuje m.in.:",
+    "options": [
+      "informacje o obszarze oddziaływania obiektu;",
+      "układ komunikacyjny;",
+      "kubaturę projektowanego obiektu budowlanego."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-06-02-2",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "Wg normy PN - ISO 9836 \"Właściwości użytkowe w budownictwie\" powierzchnię całkowitą kondygnacji budynku mierzy się:",
+    "options": [
+      "na poziomie posadzki po obrysie zewnętrznym budynku bez uwzglednienia tynków;",
+      "na poziomie posadzki po obrysie zewnętrznym budynku z uwzględnieniem tynków, okładzin i balustrad;",
+      "na poziomie posadzki po obrysie zewnętrznym bez tynku z doliczeniem powierzchni gzymsów nadokiennych."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-06-02-3",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych suterena jest to kondygnacja budynku zawierająca pomieszczenia:",
+    "options": [
+      "mieszkalne, w których poziom podłogi znajduje się poniżej poziomu terenu co najmniej 1 m;",
+      "w której poziom podłogi od strony ściany z oknami znajduje się nie więcej niż 0,9 m poniżej terenu przylegajacego;",
+      "w której poziom podłogi od strony ściany z oknami znajduje się co najmniej 0,5 m poniżej terenu przylegajacego."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-06-02-5",
+        "session": "2022-06-02"
+      },
+      {
+        "id": "2021-10-28-4",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Za kondygnację budynku w świetle przepisów techniczno-budowanych uważa się:",
+    "options": [
+      "nadbudówkę ponad dachem stanowiącą maszynownię dźwigu osobowego;",
+      "poddasze z pomieszczeniami przeznaczonymi na pobyt ludzi;",
+      "suterenę."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-06-02-9",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "W budynku mieszkalnym w którym wyodrębnione są cztery lokale mieszkalne, prowadzono prace remontowe polegające na wymianie stropu drewnianego. Możliwość wykonania prac wynikała z:",
+    "options": [
+      "uzyskanego pozwolenia na budowę;",
+      "zgłoszenia robót budowlanych;",
+      "oświadczenia inwestora."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2022-06-02-10",
+        "session": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych za kondygnację uważa się:",
+    "options": [
+      "poddasze z pomieszczeniami przeznaczonymi na pobyt ludzi;",
+      "poziomą część budynku stanowiącą przestrzeń na urządzenia techniczne, mającą średnią wysokość w świetle co najmniej 1,8 m;",
+      "nadbudówkę ponad dachem - maszynownię dźwigu."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-04-28-1",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "Stan zerowy w budynku podpiwniczonym mieszkalnym obejmuje następujące elementy:",
+    "options": [
+      "wykopy, fundamenty, ściany piwnic wraz z izolacją, strop nad piwnicą, zasypanie wykopów;",
+      "fundamenty, ściany piwnic;",
+      "wyłącznie fundamenty."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-04-28-2",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "Pomieszczenia przeznaczone na czasowy pobyt ludzi, to pomieszczenia, w których:",
+    "options": [
+      "przebywanie tych samych osób w ciągu doby trwa od 2 do 4 godzin włącznie;",
+      "przebywanie tych samych osób w ciągu doby trwa krócej niż 2 godziny;",
+      "przebywanie osób jest krótkotrwałe i związane z konserwacją maszyn."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-04-28-7",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z Polską Normą PN-70/B-02365 (Powierzchnia budynków - Podział, określenia zasady obmiaru) do powierzchni pomieszczeń nie wlicza się:",
+    "options": [
+      "powierzchni przejść;",
+      "powierzchni otworów okiennych;",
+      "powierzchni otworów drzwiowych."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-04-28-8",
+        "session": "2022-04-28"
+      }
+    ]
+  },
+  {
+    "question": "Drzwi do łazienki, umywalni i wydzielonego ustępu w budynku mieszkalnym powinny:",
+    "options": [
+      "otwierać się na zewnątrz pomieszczenia;",
+      "mieć co najmniej szerokość 0,8 m i wysokość 2 m w świetle ościeży, a w dolnej części - otwory;",
+      "mieć co najmniej szerokość 0,8 m i wysokość 2 m w świetle ościeżnicy, a w dolnej części - otwory."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-2",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Stropy w budynku mogą być o konstrukcji:",
+    "options": [
+      "żelbetowej;",
+      "drewniano-ceramicznej;",
+      "stalowo-ceramicznej."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-3",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Legar to element stropu:",
+    "options": [
+      "drewnianego;",
+      "gęstożebrowego;",
+      "grzybkowego."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-4",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Wniosek o pozwolenie na rozbiórkę należy złożyć do:",
+    "options": [
+      "organu administracji architektoniczno-budowlanej;",
+      "powiatowego inspektora nadzoru budowlanego;",
+      "kierownika wojewódzkiego nadzoru budowlanego;"
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-7",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Przez pozwolenie na budowę należy rozumieć:",
+    "options": [
+      "decyzję administracyjną zezwalającą na rozpoczęcie i prowadzenie budowy lub wykonywanie robót budowlanych innych niż budowa obiektu budowlanego;",
+      "tytuł prawny wynikający z prawa własności, użytkowania wieczystego, zarządu, ograniczonego prawa rzeczowego albo stosunku zobowiązaniowego, przewidującego uprawnienia do wykonania robót budowlanych;",
+      "dokumentację budowy z naniesionymi zmianami dokonanymi w toku wykonania robót oraz geodezyjnymi pomiarami powykonawczymi."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-8",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Organami administracji architektoniczno-budowlanej są:",
+    "options": [
+      "starosta;",
+      "wójt, burmistrz, prezydent miasta;",
+      "wojewoda."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-9",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Określając wartość nieruchomości zabudowanej 4- kondygnacyjnym budynkiem mieszkalnym, przeznaczonym do rozbiórki, należy uwzględnić:",
+    "options": [
+      "koszty rozbiórki wraz z odwozem gruzu;",
+      "koszty nabycia gruntu;",
+      "wartość materiałów pozostałych po likwidacji budynku."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2022-03-24-39",
+        "session": "2022-03-24"
+      }
+    ]
+  },
+  {
+    "question": "Głębokość posadowienia fundamentów budynku ze względu na przemarzanie gruntu w centralnej części Polski nie powinna być mniejsza niż:",
+    "options": [
+      "0,80 m;",
+      "1,0 m;",
+      "1,2 m."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-2",
+        "session": "2021-12-02"
+      },
+      {
+        "id": "2021-05-27-6",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Strop typu DZ składa się z:",
+    "options": [
+      "stalowych belek i prefabrykowanych płyt żelb.;",
+      "żelbetowej płyty opartej na żebrach;",
+      "żelbetowych belek prefabrykowanych, pustaków betonowych i warstwy nadbetonu."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-3",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "Udział w nieruchomości wspólnej jest odnotowany:",
+    "options": [
+      "w III dziale księgi wieczystej lokalu w spisie ograniczeń;",
+      "w I dziale księgi wieczystej lokalu w spisie praw związanych z własnością;",
+      "w I dziale księgi wieczystej lokalu w oznaczeniu nieruchomości."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-5",
+        "session": "2021-12-02"
+      },
+      {
+        "id": "2021-06-24-7",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "W rozumieniu przepisów \"Prawa budowlanego\" rozpoczęcie budowy następuje z chwilą podjęcia prac przygotowawczych na terenie budowy, którymi m.in. są :",
+    "options": [
+      "zagospodarowanie placu budowy wraz z budową tymczasowych obiektów;",
+      "wytycznie geodezyjne obiektów w terenie;",
+      "niwelacja terenu."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-7",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "Estakada to:",
+    "options": [
+      "wiadukt prowadzony nad poziomem terenu, wykorzystywany do prowadzenia trasy komunikacyjnej;",
+      "most prowadzony nad poziomem terenu, wykorzystywany do prowadzenia trasy komunikacyjnej, rurociągu, transportu urobku;",
+      "pomost prowadzony nad poziomem terenu, wykorzystywany do prowadzenia rurociągu, transportu urobku."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-8",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych wysokość balustrad schodowych lub balkonowych w budynkach wielorodzinnych powinna wynosić nie mniej niż:",
+    "options": [
+      "0,80 m;",
+      "0,90 m;",
+      "1,10 m."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-12-02-14",
+        "session": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "question": "W architekturze współczesnej - atrium, to:",
+    "options": [
+      "budynki w zabudowie atrialnej;",
+      "dziedziniec wewnętrzny mieszczący się w obrysie rzutu budynku;",
+      "plac otoczony budynkami."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-1",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Które z niżej wymienionych czynników wpływają na zużycie funkcjonalne budynku mieszkalnego jednorodzinnego :",
+    "options": [
+      "forma architektoniczna ( płaski dach);",
+      "pokoje o powierzchni nie przekraczającej 14 m2;",
+      "nowo wybudowana droga powiatowa w bezpośrednim sąsiedztwie ."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-2",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych garaż w budynku wielolokalowym może być:",
+    "options": [
+      "samodzielnym lokalem użytkowym;",
+      "pomieszczeniem pomocniczym;",
+      "pomieszczeniem przynależnym do samodzielnego lokalu."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-5",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Kiosk uliczny jest według Prawa budowlanego:",
+    "options": [
+      "budynkiem;",
+      "urządzeniem budowlanym;",
+      "tymczasowym obiektem budowlanym."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-8",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Ustanawianie odrębnej własności lokali w domach wielolokalowych odbywa się na zasadach określonych w ustawie:",
+    "options": [
+      "prawo budowlane;",
+      "o własności lokali;",
+      "Kodeks cywilny."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-9",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno - budowlanych przez powierzchnię wewnętrzną budynku rozumie się:",
+    "options": [
+      "sumę powierzchni wszystkich kondygnacji mierzoną po wewnętrznym obrysie przegród zewnętrznych budynku, w poziomie podłogi, bez pomniejszenia o powierzchnie przekroju poziomego konstrukcji i przegród wewnętrznych;",
+      "sumę powierzchni pomieszczeń poszczególnych kondygnacji liczoną w poziomie podłogi, po obrysie poszczególnych pomieszczeń;",
+      "powierzchnię całkowitą budynku, pomniejszoną o powierzchnię przekroju poziomego konstrukcji, przegród zewnętrznych i wewnętrznych oraz powierzchnię klatek schodowych."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-11",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z przepisami ustawy \"Prawo budowlane\" w skład dokumentacji budowy wchodzi:",
+    "options": [
+      "pozwolenie na budowę wraz z projektem budowlanym;",
+      "dziennik budowy;",
+      "protokoły odbiorów częściowych i końcowych."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-10-28-15",
+        "session": "2021-10-28"
+      }
+    ]
+  },
+  {
+    "question": "Przy sporządzaniu kosztorysu szczegółowego informacje o stawkach i cenach możesz pozyskać:",
+    "options": [
+      "z KNRu (Katologu Nakładów Rzeczowych);",
+      "z Biuletynu informacyjnego SEKOCENBUD;",
+      "od przedsiębiorcy budowlanego z lokalnego rynku."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-1",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Przez prawo do dysponowania nieruchomością na cele budowlane należy rozumieć tytuł prawny wynikający z:",
+    "options": [
+      "użytkowania wieczystego;",
+      "zarządu;",
+      "własności."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-3",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z Polską Klasyfikacją Obiektów Budowlanych (PKOB), jako budynek można zakwalifikować:",
+    "options": [
+      "zadaszony obiekt budowlany wraz z wbudowanymi instalacjami i urządzeniami technicznymi, wykorzystywany dla potrzeb stałych, przystosowany do przebywania ludzi, zwierząt lub ochrony przedmiotów;",
+      "wiata, która stanowi pomieszczenie naziemne, nieobudowane ścianami ze wszystkich stron lub nawet w ogóle ścian pozbawione;",
+      "samodzielny podziemny obiekt budowlany - stanowiący schron."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-6",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Konstrukcja nośna budynku może być:",
+    "options": [
+      "drewniana;",
+      "mieszana;",
+      "stalowa."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-7",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Informację o przeprowadzonych remontach w budynku możemy pozyskać z:",
+    "options": [
+      "projektu budowlanego;",
+      "książki obiektu budowlanego;",
+      "inwentaryzacji budowlanej."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-8",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "question": "Współczynnik kapitalizacji wynosi 12,5. Minimalna stopa kapitalizacji przyjmowana do współczynnika korygujacego stosowanego do określenia wartości prawa użytkowania wieczystego dla potrzeb ustalenia ceny nieruchomości gruntowej sprzedawanej jej użytkownikowi wieczystemu wynosi:",
+    "options": [
+      "8%;",
+      "9%;",
+      "12,5%."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-09-09-9",
+        "session": "2021-09-09"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych do pomieszczeń pomocniczych w obrębie mieszkania zalicza się:",
+    "options": [
+      "przechowalnie ubrań;",
+      "pomieszczenie do przygotowywania posiłków;",
+      "komórka w piwnicy."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-2",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z aktualnym Rozporządzeniem w sprawie szczegółowego zakresu i formy projektu budowlanego powierzchnię użytkową na poddaszu policzysz wg zasady:",
+    "options": [
+      "cała powierzchnia w podłodze dostępna do użytkowania na poddaszu;",
+      "cała powierzchnia w podłodze dostępna do użytkowania na poddaszu pomniejszona o część o wysokości do 190 cm;",
+      "cała powierzchnia w podłodze dostępna do użytkowania na poddaszu pomniejszona o część o wysokości do 140 cm i pomniejszona o 50% dla wysokości z przedziału 140-220 cm."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-3",
+        "session": "2021-07-22"
+      },
+      {
+        "id": "2021-05-27-2",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów prawa budowlanego poprzez prawo do dysponowania nieruchomością na cele budowlane należy rozumieć tytuł prawny wynikający z:",
+    "options": [
+      "prawa własności;",
+      "prawa użytkowania wieczystego;",
+      "stosunku zobowiązaniowego, przewidującego uprawnienia do wykonywania robót budowlanych."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-5",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "W świetle normy PN ISO 9836 powierzchnie przejść drzwiowych w ścianach zalicza się do:",
+    "options": [
+      "powierzchni ruchu;",
+      "powierzchni użytkowej;",
+      "powierzchni konstrukcji."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-6",
+        "session": "2021-07-22"
+      },
+      {
+        "id": "2021-06-24-9",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "Tabela elementów scalonych powinna zawierać:",
+    "options": [
+      "specyfikację techniczną zakresu robót budowlanych;",
+      "cj - cenę jednostkową roboty zagregowanej;",
+      "wyszczególnienie zagregowanych rodzajów robót wraz z kosztami."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-7",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Stopień zużycia technicznego budynku , którego wiek wynosi 30 lat , a okres trwałości 120 lat, obliczany metodą liniową wynosi:",
+    "options": [
+      "40%;",
+      "30%;",
+      "25%."
+    ],
+    "correct": [
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-8",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z przepisami ustawy o własności lokali, do nieruchomości wspólnej zalicza się następujące części budynku:",
+    "options": [
+      "fundamenty, mury konstrukcyjne;",
+      "dachy, kominy;",
+      "klatki schodowe, kotłownie."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-07-22-9",
+        "session": "2021-07-22"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z Roz. M. Infrastruktury w sprawie warunków technicznych, jakim powinny odpowiadać budynki …. w mieszkaniu znajdują się pomieszczenia:",
+    "options": [
+      "mieszkalne;",
+      "pomocnicze;",
+      "gospodarcze."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-3",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z Roz. M. Infrastruktury w sprawie warunków technicznych, jakim powinny odpowiadać budynki …. przez pomieszczenie pomocnicze należy rozumieć pomieszczenie znajdujące się w obrębie mieszkania służące do celów :",
+    "options": [
+      "komunikacji wewnętrznej;",
+      "higieniczno-sanitarnych;",
+      "przygotowywania posiłków."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-4",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "Budynek, w którym ściany konstrukcyjne (nośne) usytuowane są równolegle do osi podłużnej budynku nazywamy budynkiem o układzie konstrukcyjnym:",
+    "options": [
+      "podłużnym;",
+      "poprzecznym;",
+      "mieszanym."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-5",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych garaż w budynku wielolokalowym,może być:",
+    "options": [
+      "samodzielnym lokalem użytkowym;",
+      "pomieszczeniem pomocniczym;",
+      "pomieszczeniem przynależnym do samodzielnego lokalu."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-6",
+        "session": "2021-06-24"
+      },
+      {
+        "id": "2021-05-27-1",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Ze względu na materiał - stropy w budynku mogą być o konstrukcji:",
+    "options": [
+      "żelbetowej;",
+      "drewniano-ceramicznej;",
+      "stalowo-ceramicznej."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-06-24-8",
+        "session": "2021-06-24"
+      }
+    ]
+  },
+  {
+    "question": "Wg normy PN - ISO 9836 powierzchnię całkowitą kondygnacji budynku mierzy się :",
+    "options": [
+      "na poziomie posadzki po obrysie zewnętrznym budynku bez uwzględnienia tynków, okładzin;",
+      "na poziomie posadzki po obrysie zewnętrznym budynku z uwzględnieniem tynków, okładzin;",
+      "na poziomie posadzki po obrysie zewnętrznym z doliczeniem powierzchni balkonów."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-05-27-3",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Według przepisów prawa budowlanego, przez pomieszczenie gospodarcze należy rozumieć pomieszczenie znajdujace się poza lokalem użytkowym, służące min. do przechowywania:",
+    "options": [
+      "przedmiotów użytkowników budynku;",
+      "opału;",
+      "odpadów stałych."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-05-27-5",
+        "session": "2021-05-27"
+      },
+      {
+        "id": "2021-04-22-7",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Dylatacja konstrukcyjna w budynku to świadome przerwanie ciągłości elementów:",
+    "options": [
+      "fundamentów, ścian, stropów, dachu;",
+      "tylko fundamentów;",
+      "tylko fundamentów i ścian nośnych."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-05-27-7",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Kurzawka to:",
+    "options": [
+      "jeden z rodzajów gruntów wyróżnianych w procesie oceny ich nośności dla celów budowlanych;",
+      "mieszanina piasków używana do zapraw tynkarskich;",
+      "aparat do pomiaru stężenia kurzu i pyłu w pomieszczeniu."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-05-27-8",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "Na poziom dochodu operacyjnego netto ustalanego w procesie wyceny nieruchomości dla celów sprzedaży wpływa:",
+    "options": [
+      "koszt kredytu przeznaczonego na rozwój nieruchomości;",
+      "wynagrodzenie zarządcy;",
+      "wielkość pierwszej opłaty za użytkowanie wieczyste."
+    ],
+    "correct": [
+      1
+    ],
+    "occurrences": [
+      {
+        "id": "2021-05-27-9",
+        "session": "2021-05-27"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych (w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie) w mieszkaniu znajdują się:",
+    "options": [
+      "pomieszczenia mieszkalne;",
+      "pomieszczenia gospodarcze.",
+      "pomieszczenia pomocnicze;"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-1",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych garaż w budynku wielolokalowym,może być:",
+    "options": [
+      "samodzielnym lokalem użytkowym;",
+      "pomieszczeniem pomocniczym.",
+      "pomieszczeniem przynależnym do samodzielnego lokalu;"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-2",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Stosownie do przepisów Prawa budowlanego obowiązek prowadzenia książki obiektu budowlanego nie obejmuje:",
+    "options": [
+      "budynków mieszkalnych jednorodzinnych;",
+      "budynków mieszkalnych wielorodzinnych;",
+      "budynkow czasowo użytkowanych, połżonych na terenie budowy;"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-3",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów techniczno-budowlanych powierzchnia antresoli:",
+    "options": [
+      "jest zawsze mniejsza od powierzchni pomieszczenia, w którym jest wydzielona;",
+      "zawsze jest równa powierzchni pomieszczenia, w którym jest wydzielona;",
+      "może być równa powierzchni pomieszczenia, w którym jest wydzielona;"
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-5",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "Zgodnie z rozporządzeniem w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie, kondygnacja budynku zawierająca pomieszczenia, w których poziom podłogi w części lub całości znajduje się 50 cm poniżej poziomu terenu może być:",
+    "options": [
+      "piwnicą;",
+      "pomieszczeniem technicznym.",
+      "sutereną;"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-6",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "W świetle przepisów Prawa budowlanego do użytkowania obiektu budowlanego, na którego wzniesienie jest wymagane pozwolenie na budowę, można przystąpić, co do zasady, po zawiadomieniu właściwego organu o zakończeniu budowy, jeżeli organ ten nie zgłosi sprzeciwu:",
+    "options": [
+      "14 dni od dnia doręczenia zawiadomienia;",
+      "21 dni od dnia doręczenia zawiadomienia;",
+      "30 dni od dnia doręczenia zawiadomienia."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-8",
+        "session": "2021-04-22"
+      }
+    ]
+  },
+  {
+    "question": "\"Płatew\" to element:",
+    "options": [
+      "konstrukcji dachu;",
+      "konstrukcji stropu;",
+      "konstrukcji ściany."
+    ],
+    "correct": [
+      0
+    ],
+    "occurrences": [
+      {
+        "id": "2021-04-22-9",
+        "session": "2021-04-22"
+      }
+    ]
+  }
+]

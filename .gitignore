@@ -1,0 +1,21 @@
+data/*.pdf
+data/*.png
+data/*.txt
+data/gov.html
+data/latest-key.html
+*.tar.gz
+
+/data/legal/sources/
+
+# Local tooling, private progress exports, and hosting-specific state.
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+.openai/
+pracownia-postep-*.json
+*postep*.json
+releases/
+*.zip
