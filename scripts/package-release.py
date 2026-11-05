@@ -36,6 +36,8 @@ for name in sorted(set(tracked)):
         raise SystemExit('Unsafe archive path: ' + name)
     if any(part in forbidden_parts for part in rel.parts):
         continue
+    if tuple(rel.parts[:2]) == ('dist', 'downloads'):
+        continue  # Hosted release archives are not part of the portable application.
     if tuple(rel.parts[:3]) == ('data', 'legal', 'sources'):
         continue
     if rel.name.startswith('.env') or rel.suffix.lower() in {'.pdf', '.zip', '.gz', '.pyc'}:

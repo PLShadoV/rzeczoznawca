@@ -1,8 +1,9 @@
-# Kontrola wydania 1.0.0
+# Kontrola wydania 1.0.1
 
 ## Wykonane kontrole automatyczne
 
 - Renderowanie widoków i poprawność składni skryptów.
+- Wszystkie 56 kombinacji kompletów poprawnych odpowiedzi i zaznaczeń dla A/B/C: pełna treść, poprawny status i podpis każdego wariantu; sprawdzone pominięcia, brak odpowiedzi, kodowanie tekstu oraz przegląd nauki/sprawdzianu/egzaminu.
 - Wielokrotny wybór oceniany jako kompletny zestaw; próg 65/64 punktów na egzaminie.
 - Odpowiedzi i przypisy ukryte podczas sprawdzianu/egzaminu, dostępne po zakończeniu.
 - Losowanie, brak identycznych pytań w zestawie, wybór zakresu i filtry.

@@ -306,8 +306,102 @@ function assets() {
     "PASS: relative runtime assets, local fonts/icons, PWA manifest, and no platform-bound hosting identifiers in the app.",
   );
 }
+async function resultReview() {
+  const t = setup();
+  await ready();
+  const fixture = {
+    id: "review-fixture",
+    number: 1,
+    session: "2026-09-09",
+    question: "Pytanie kontrolne",
+    category: "Budownictwo",
+    options: [
+      "Pełna treść wariantu A",
+      "Pełna treść wariantu B",
+      "Pełna treść wariantu C",
+    ],
+    correct: [0],
+    source: "https://www.gov.pl/",
+    keySource: "https://www.gov.pl/",
+  };
+  t.run(`byId['review-fixture']=${JSON.stringify(fixture)}`);
+  for (let keyMask = 1; keyMask < 8; keyMask++)
+    for (let selectedMask = 0; selectedMask < 8; selectedMask++) {
+      const correct = [0, 1, 2].filter((i) => keyMask & (1 << i)),
+        selected = [0, 1, 2].filter((i) => selectedMask & (1 << i));
+      t.run(`byId['review-fixture'].correct=${JSON.stringify(correct)}`);
+      const markup = t.run(
+        `reviewOptions(byId['review-fixture'],${JSON.stringify(selected)})`,
+      );
+      const rows = [
+        ...markup.matchAll(
+          /<li class="([^"]+)" data-answer-index="(\d+)">([\s\S]*?)<\/li>/g,
+        ),
+      ];
+      assert.equal(rows.length, 3);
+      for (const row of rows) {
+        const index = Number(row[2]),
+          isCorrect = correct.includes(index),
+          chosen = selected.includes(index);
+        const status = isCorrect
+          ? "correct"
+          : chosen
+            ? "selected-wrong"
+            : "wrong";
+        assert(row[1].split(" ").includes("review-" + status));
+        assert.equal(row[1].split(" ").includes("review-chosen"), chosen);
+        assert(row[3].includes(fixture.options[index]));
+        assert(
+          row[3].includes(
+            isCorrect ? "Poprawna odpowiedź" : "Błędna odpowiedź",
+          ),
+        );
+        assert(row[3].includes(chosen ? "Twoja odpowiedź" : "Nie zaznaczono"));
+        assert.equal(
+          /review-selected-wrong/.test(row[1]),
+          !isCorrect && chosen,
+        );
+      }
+    }
+  for (const mode of ["test", "exam", "learn"]) {
+    t.run(
+      `byId['review-fixture'].correct=[2];review={mode:${JSON.stringify(mode)},ids:['review-fixture'],answers:{'review-fixture':[0]},score:0,total:1}`,
+    );
+    const html = t.run("reviewPage()");
+    assert.match(html, /review-selected-wrong review-chosen/);
+    assert.match(html, /review-correct/);
+    assert.match(html, /review-wrong/);
+    for (const option of fixture.options) assert(html.includes(option));
+    assert.match(html, /Twoja odpowiedź: <b>A<\/b>/);
+    assert.match(html, /Wszystkie możliwe odpowiedzi/);
+    assert.equal(
+      (html.match(/Pełna treść wariantu C/g) || []).length,
+      1,
+      "Correct option should not be duplicated in the explanation",
+    );
+    assert.match(html, /Poprawny zestaw z klucza/);
+  }
+  t.run("review.answers['review-fixture']=[]");
+  assert.match(t.run("reviewPage()"), /Brak odpowiedzi/);
+  assert.doesNotMatch(
+    t.run("reviewPage()"),
+    /review-selected-wrong review-chosen/,
+  );
+  t.run(
+    "byId['review-fixture'].options[0]='<img src=x onerror=alert(1)> & test'",
+  );
+  const safe = t.run("reviewOptions(byId['review-fixture'],[0])");
+  assert.match(safe, /&lt;img/);
+  assert.match(safe, /&amp; test/);
+  assert.doesNotMatch(safe, /<img/);
+  console.log(
+    "PASS: all56 answer/key combinations, complete A/B/C text, correct vs selected-wrong vs unselected-wrong states, omissions, no-answer cases, safe text and review across learning/test/exam.",
+  );
+}
+
 (async () => {
   assets();
+  await resultReview();
   await personalTools();
   await offlineWorker();
 })().catch((e) => {

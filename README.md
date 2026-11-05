@@ -2,7 +2,7 @@
 
 # Pracownia Rzeczoznawcy
 
-**Wersja 1.0.0.** Gotowa, samodzielna aplikacja do nauki na egzamin na rzeczoznawcę majątkowego. Działa bez konta i backendu. Możesz opublikować ją na **GitHub Pages** lub dowolnym hostingu statycznym. Wszystkie pliki strony są w `dist/`.
+**Wersja 1.0.1.** Gotowa, samodzielna aplikacja do nauki na egzamin na rzeczoznawcę majątkowego. Działa bez konta i backendu. Możesz opublikować ją na **GitHub Pages** lub dowolnym hostingu statycznym. Wszystkie pliki strony są w `dist/`.
 
 ## Szybki start
 
@@ -24,6 +24,7 @@ npm test
 
 - **Nauka:** wybór tematu, sesji, liczby i statusu pytań; poprawny komplet odpowiedzi po sprawdzeniu pytania.
 - **Losowa nauka i sprawdzian:** 10, 20, 30, 50, 90 lub 100 pytań z całej bazy. Bez identycznych pytań w jednym zestawie; wybierana jest najnowsza wersja powtórzonej treści. Sprawdzian pokazuje wynik dopiero na końcu.
+- **Czytelny przegląd wyników:** pełna treść wszystkich odpowiedzi; poprawne na zielono, błędne zaznaczone przez użytkownika na pomarańczowo, pozostałe błędne na czerwono. Każdy wariant ma także podpis poprawności i informację o zaznaczeniu.
 - **Egzamin próbny:** pełne historyczne arkusze lub losowy zestaw, 90 pytań / 90 minut, próg 65 punktów, pełny przegląd po zakończeniu. Czas biegnie także po zamknięciu strony.
 - **Baza:** wyszukiwanie treści, nazw aktów i artykułów; filtrowanie sesji, kategorii, odpowiedzi i statusu podstawy prawnej.
 - **Podstawy prawne:** nazwa aktu, konkretny art./§/ustęp/punkt, urzędowy link i rozwijany fragment źródła.
