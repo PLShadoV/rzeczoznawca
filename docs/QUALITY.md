@@ -1,8 +1,9 @@
-# Kontrola wydania 1.0.1
+# Kontrola wydania 1.1.1
 
 ## Wykonane kontrole automatyczne
 
 - Renderowanie widoków i poprawność składni skryptów.
+- Pełny komplet daje 1 punkt; częściowy lub z nadmiarowym wariantem daje 0 punktów. Poprawna odpowiedź nie podświetla niezaznaczonych wariantów jako błędów.
 - Wszystkie 56 kombinacji kompletów poprawnych odpowiedzi i zaznaczeń dla A/B/C: pełna treść, poprawny status i podpis każdego wariantu; sprawdzone pominięcia, brak odpowiedzi, kodowanie tekstu oraz przegląd nauki/sprawdzianu/egzaminu.
 - Wielokrotny wybór oceniany jako kompletny zestaw; próg 65/64 punktów na egzaminie.
 - Odpowiedzi i przypisy ukryte podczas sprawdzianu/egzaminu, dostępne po zakończeniu.
@@ -24,3 +25,7 @@ W tym środowisku nie był dostępny obsługiwany podgląd przeglądarkowy. Nie 
 Po uruchomieniu na własnym GitHub Pages zalecany jest krótki przegląd: widok telefonu i komputera, jasny/nocny motyw, klawiatura i focus dialogu, notatka z eksportem/importem, egzamin po odświeżeniu oraz przejście offline po zakończonej instalacji cache. Nie stanowi to dodatkowego wymogu do zbudowania strony — jest jawnym zakresem niewykonanego sprawdzenia.
 
 Biblioteka jest historyczna. 2377 pytań ma przypis prawny, 540 oznaczenie wiedzy specjalistycznej lub obliczeń, a 323 wymaga dalszej weryfikacji podstawy. Potwierdzenie fragmentu w wskazanym tekście aktu nie oznacza pełnego audytu wszystkich historycznych wersji prawa ani zgodności z dzisiejszym egzaminem. Szczegóły w `data/legal/README.md`.
+
+## Komentarze do odpowiedzi
+
+863 pytania bez potwierdzonego przypisu prawnego mają komentarze dydaktyczne ze źródłami, obliczeniami oraz zastrzeżeniami do historycznych kluczy. Logowanie i Firebase usunięto. Postęp zapisuje się lokalnie bez konta; nie synchronizuje się między urządzeniami.

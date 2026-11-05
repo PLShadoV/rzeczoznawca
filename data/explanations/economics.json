@@ -1,0 +1,1667 @@
+{
+  "2026-09-09-10": {
+    "text": "Płynność oznacza zdolność spłacania zobowiązań krótkoterminowych. Wskaźnik bieżący obejmuje aktywa obrotowe, szybki pomija m.in. zapasy, a natychmiastowy odnosi środki pieniężne do zobowiązań krótkoterminowych.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — wskaźniki finansowe",
+        "url": "https://openstax.org/books/principles-finance/pages/6-summary"
+      }
+    ]
+  },
+  "2026-09-09-11": {
+    "text": "Cena nabycia obejmuje cenę zakupu bez VAT podlegającego odliczeniu oraz koszty bezpośrednio związane z zakupem i doprowadzeniem aktywa do używania (art. 28 ust. 2). Koszty pośrednie nie są tu automatycznie doliczane.",
+    "sources": [
+      {
+        "title": "Ustawa o rachunkowości — tekst z 2023 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2023/120/text.html"
+      }
+    ],
+    "caveat": "Literalny klucz wskazuje odpowiedzi o VAT podlegającym odliczeniu i kosztach pośrednich. Jest sprzeczny z przytoczoną regułą; nie należy utrwalać tych sformułowań jako poprawnych."
+  },
+  "2026-09-09-12": {
+    "text": "Optymalny udział długu i kapitału własnego równoważy korzyści finansowania długiem z kosztami jego ryzyka. W standardowym modelu minimum średniego ważonego kosztu kapitału odpowiada maksymalnej wartości przedsiębiorstwa.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — struktura finansowania i tarcza podatkowa",
+        "url": "https://openstax.org/books/principles-finance/pages/17-4-capital-structure-choices"
+      }
+    ]
+  },
+  "2026-09-09-14": {
+    "text": "Konkurencja doskonała zakłada wielu nabywców i sprzedawców, jednorodny produkt oraz przyjmowanie ceny rynkowej przez pojedynczego uczestnika. Przy identycznym produkcie i pełnej informacji różnica ceny kieruje wyborem dostawcy.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — popyt, podaż i równowaga",
+        "url": "https://openstax.org/books/principles-economics-3e/pages/3-1-demand-supply-and-equilibrium-in-markets-for-goods-and-services"
+      }
+    ],
+    "caveat": "To model teoretyczny: rzeczywiste wybory zależą również od informacji, kosztów transakcji i cech produktu."
+  },
+  "2026-09-09-15": {
+    "text": "Straty wynoszą 10 000 × 10% = 1 000 zł. EDB = 10 000 − 1 000 = 9 000 zł, wydatki = 9 000 × 10% = 900 zł, a DON = 9 000 − 900 = 8 100 zł. Drugie 10% liczymy od EDB, nie od PDB.",
+    "sources": [
+      {
+        "title": "Rozporządzenie w sprawie wyceny nieruchomości z 2023 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2023/1832/text.html"
+      }
+    ]
+  },
+  "2026-09-09-17": {
+    "text": "Ryzyko oznacza możliwość wyniku innego od oczekiwanego, w tym straty. W projekcie dotyczy m.in. niepewnych przychodów i kosztów; nie ogranicza się do sytuacji, gdy strata już wystąpiła.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — dywersyfikacja i ryzyko",
+        "url": "https://openstax.org/books/principles-finance/pages/15-2-risk-and-return-to-multiple-assets"
+      }
+    ]
+  },
+  "2026-09-09-18": {
+    "text": "Inflacja w kolejnych latach kumuluje się mnożnikowo. Średnia roczna stopa to [(1+π₁)…(1+πₙ)]^(1/n) − 1, czyli średnia geometryczna indeksów cen pomniejszona o 1; nie średnia geometryczna samych procentowych stóp.",
+    "sources": [
+      {
+        "title": "AGH — Finanse, pieniądz i inflacja",
+        "url": "https://epodreczniki.open.agh.edu.pl/handbook/1643/module/1650/reader"
+      }
+    ]
+  },
+  "2025-09-10-11": {
+    "text": "Inflacja w kolejnych latach kumuluje się mnożnikowo. Średnia roczna stopa to [(1+π₁)…(1+πₙ)]^(1/n) − 1, czyli średnia geometryczna indeksów cen pomniejszona o 1; nie średnia geometryczna samych procentowych stóp.",
+    "sources": [
+      {
+        "title": "AGH — Finanse, pieniądz i inflacja",
+        "url": "https://epodreczniki.open.agh.edu.pl/handbook/1643/module/1650/reader"
+      }
+    ]
+  },
+  "2026-06-17-10": {
+    "text": "Dług bywa tańszy dzięki pierwszeństwu wierzycieli wobec właścicieli i podatkowej korzyści odsetek, o ile są kosztem podatkowym. Niższe ryzyko wierzyciela nie oznacza braku premii za ryzyko: oprocentowanie uwzględnia m.in. ryzyko niewypłacalności.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — struktura finansowania i tarcza podatkowa",
+        "url": "https://openstax.org/books/principles-finance/pages/17-4-capital-structure-choices"
+      }
+    ],
+    "caveat": "Klucz uznaje zdanie „wierzyciele nie wymagają premii za ryzyko” za poprawne. To nieprawidłowe uogólnienie. Także podatkowa korzyść odsetek podlega ograniczeniom ustawowym."
+  },
+  "2023-10-26-16": {
+    "text": "Dług bywa tańszy dzięki pierwszeństwu wierzycieli wobec właścicieli i podatkowej korzyści odsetek, o ile są kosztem podatkowym. Niższe ryzyko wierzyciela nie oznacza braku premii za ryzyko: oprocentowanie uwzględnia m.in. ryzyko niewypłacalności.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — struktura finansowania i tarcza podatkowa",
+        "url": "https://openstax.org/books/principles-finance/pages/17-4-capital-structure-choices"
+      }
+    ],
+    "caveat": "Klucz uznaje zdanie „wierzyciele nie wymagają premii za ryzyko” za poprawne. To nieprawidłowe uogólnienie. Także podatkowa korzyść odsetek podlega ograniczeniom ustawowym."
+  },
+  "2026-06-17-11": {
+    "text": "Stopa oparta na EDB pomija jeszcze wydatki operacyjne. Aby porównanie z innymi nieruchomościami nie zniekształciło wyniku, udział tych wydatków w dochodzie musi być podobny. Sama podobna lokalizacja ani jednakowa kwota kosztów tego nie zapewnia.",
+    "sources": [
+      {
+        "title": "Rozporządzenie w sprawie wyceny nieruchomości z 2023 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2023/1832/text.html"
+      }
+    ]
+  },
+  "2026-06-17-12": {
+    "text": "Indeks 80,5% oznacza cenę równą 0,805 ceny z okresu bazowego. Zmiana wynosi 80,5% − 100% = −19,5%, a więc spadek o 19,5%.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — statystyka opisowa",
+        "url": "https://openstax.org/books/introductory-statistics/pages/2-chapter-review"
+      }
+    ]
+  },
+  "2026-06-17-13": {
+    "text": "Bezpośredni zakup nieruchomości zwykle wymaga znacznie większego jednorazowego kapitału niż zakup pojedynczych papierów wartościowych. Sprzedaż nieruchomości trwa dłużej, co ogranicza płynność; nie jest z tego powodu typową lokatą krótkoterminową.",
+    "sources": [
+      {
+        "title": "Politechnika Białostocka — Rynek nieruchomości mieszkaniowych w Polsce",
+        "url": "https://pb.edu.pl/oficyna-wydawnicza/wp-content/uploads/sites/4/2024/06/Rynek-nieruchomosci-mieszkaniowych-w-Polsce.pdf"
+      }
+    ]
+  },
+  "2023-10-26-12": {
+    "text": "Bezpośredni zakup nieruchomości zwykle wymaga znacznie większego jednorazowego kapitału niż zakup pojedynczych papierów wartościowych. Sprzedaż nieruchomości trwa dłużej, co ogranicza płynność; nie jest z tego powodu typową lokatą krótkoterminową.",
+    "sources": [
+      {
+        "title": "Politechnika Białostocka — Rynek nieruchomości mieszkaniowych w Polsce",
+        "url": "https://pb.edu.pl/oficyna-wydawnicza/wp-content/uploads/sites/4/2024/06/Rynek-nieruchomosci-mieszkaniowych-w-Polsce.pdf"
+      }
+    ]
+  },
+  "2026-06-17-14": {
+    "text": "Deficytowość to ograniczona dostępność nieruchomości o pożądanej lokalizacji i cechach. Współzależność oznacza, że sposób używania sąsiednich gruntów i otoczenie wpływają na wartość. Różnorodność zalicza się zwykle do cech fizycznych.",
+    "sources": [
+      {
+        "title": "Politechnika Białostocka — Rynek nieruchomości mieszkaniowych w Polsce",
+        "url": "https://pb.edu.pl/oficyna-wydawnicza/wp-content/uploads/sites/4/2024/06/Rynek-nieruchomosci-mieszkaniowych-w-Polsce.pdf"
+      }
+    ]
+  },
+  "2026-06-17-15": {
+    "text": "Czynsz efektywny rozkłada rzeczywiste wpływy z umowy na okres najmu, uwzględniając ulgi, okresy bezczynszowe i zachęty. Jest wtedy niższy od porównywalnej stawki bez ulg. Nie jest po prostu czynszem powiększonym o inflację.",
+    "sources": [
+      {
+        "title": "Politechnika Białostocka — Rynek nieruchomości mieszkaniowych w Polsce",
+        "url": "https://pb.edu.pl/oficyna-wydawnicza/wp-content/uploads/sites/4/2024/06/Rynek-nieruchomosci-mieszkaniowych-w-Polsce.pdf"
+      }
+    ],
+    "caveat": "Porównanie wymaga tej samej podstawy i okresu: rynkowy czynsz efektywny także może już uwzględniać typowe zachęty."
+  },
+  "2026-04-22-11": {
+    "text": "Cena powstaje w relacji popytu i podaży oraz wyraża w pieniądzu warunki wymiany dobra. Sama użyteczność nie wyznacza jednej ceny: znaczenie mają także rzadkość, możliwości substytucji i konkurencja.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — popyt, podaż i równowaga",
+        "url": "https://openstax.org/books/principles-economics-3e/pages/3-1-demand-supply-and-equilibrium-in-markets-for-goods-and-services"
+      }
+    ]
+  },
+  "2024-09-17-17": {
+    "text": "Cena powstaje w relacji popytu i podaży oraz wyraża w pieniądzu warunki wymiany dobra. Sama użyteczność nie wyznacza jednej ceny: znaczenie mają także rzadkość, możliwości substytucji i konkurencja.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — popyt, podaż i równowaga",
+        "url": "https://openstax.org/books/principles-economics-3e/pages/3-1-demand-supply-and-equilibrium-in-markets-for-goods-and-services"
+      }
+    ]
+  },
+  "2026-04-22-12": {
+    "text": "Inwestowanie pośrednie oznacza zakup instrumentu powiązanego z nieruchomościami, np. jednostek funduszu, zamiast nabycia konkretnego lokalu czy gruntu. Inwestor ma prawa do instrumentu, a zarządzaniem aktywami zajmuje się emitent lub fundusz.",
+    "sources": [
+      {
+        "title": "Ministerstwo Finansów — fundusze inwestycyjne",
+        "url": "https://www.gov.pl/web/finanse/fundusze-inwestycyjne"
+      }
+    ]
+  },
+  "2026-04-22-13": {
+    "text": "Przy niezmienionych pozostałych warunkach wyższe ryzyko wymaga wyższej stopy zwrotu, co podwyższa stopę kapitalizacji. Z zależności V = DON/R wynika wtedy niższa wartość przy tym samym dochodzie.",
+    "sources": [
+      {
+        "title": "Rozporządzenie w sprawie wyceny nieruchomości z 2023 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2023/1832/text.html"
+      },
+      {
+        "title": "OpenStax, Rice University — dywersyfikacja i ryzyko",
+        "url": "https://openstax.org/books/principles-finance/pages/15-2-risk-and-return-to-multiple-assets"
+      }
+    ]
+  },
+  "2026-04-22-15": {
+    "text": "W depresji spadają zamówienia, opłacalność nowych projektów i zdolność kredytowa. Popyt na kredyt inwestycyjny i skłonność banków do finansowania ryzyka zwykle maleją. Jest to prawidłowość cykliczna, a nie mechaniczny skutek każdej recesji.",
+    "sources": [
+      {
+        "title": "NBP — polityka pieniężna, materiał edukacyjny",
+        "url": "https://nbp.pl/wp-content/uploads/2022/09/polityka-pieniezna-scenariusz.pdf"
+      }
+    ]
+  },
+  "2026-04-22-17": {
+    "text": "Deflacja to utrzymujący się spadek ogólnego poziomu cen. Może sprzyjać odkładaniu zakupów i inwestycji oraz zwiększać realny ciężar długu; stąd odpowiedź o mniejszej skłonności do inwestowania.",
+    "sources": [
+      {
+        "title": "AGH — Finanse, pieniądz i inflacja",
+        "url": "https://epodreczniki.open.agh.edu.pl/handbook/1643/module/1650/reader"
+      }
+    ],
+    "caveat": "Spadek inwestycji jest możliwym skutkiem deflacji, nie jej definicją ani koniecznością w każdej gospodarce."
+  },
+  "2026-03-25-10": {
+    "text": "Fundusz pozwala połączyć niewielkie wpłaty wielu osób i rozłożyć środki na wiele aktywów. Ułatwia to dywersyfikację i dostęp do inwestowania, ale nie gwarantuje zysku ani ochrony kapitału.",
+    "sources": [
+      {
+        "title": "KNF — inwestuj świadomie",
+        "url": "https://wybieramfundusze.knf.gov.pl/inwestuj-swiadomie"
+      }
+    ]
+  },
+  "2026-03-25-11": {
+    "text": "NPV i IRR uwzględniają moment uzyskania przepływów pieniężnych. NPV sumuje ich wartości bieżące, a IRR jest stopą, przy której NPV = 0. Sama stopa kapitalizacji nie jest standardowym dynamicznym kryterium oceny projektu.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — NPV",
+        "url": "https://openstax.org/books/principles-finance/pages/16-2-net-present-value-npv-method"
+      },
+      {
+        "title": "OpenStax, Rice University — IRR",
+        "url": "https://openstax.org/books/principles-finance/pages/16-3-internal-rate-of-return-irr-method"
+      }
+    ]
+  },
+  "2024-04-23-16": {
+    "text": "NPV i IRR uwzględniają moment uzyskania przepływów pieniężnych. NPV sumuje ich wartości bieżące, a IRR jest stopą, przy której NPV = 0. Sama stopa kapitalizacji nie jest standardowym dynamicznym kryterium oceny projektu.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — NPV",
+        "url": "https://openstax.org/books/principles-finance/pages/16-2-net-present-value-npv-method"
+      },
+      {
+        "title": "OpenStax, Rice University — IRR",
+        "url": "https://openstax.org/books/principles-finance/pages/16-3-internal-rate-of-return-irr-method"
+      }
+    ]
+  },
+  "2023-04-20-16": {
+    "text": "NPV i IRR uwzględniają moment uzyskania przepływów pieniężnych. NPV sumuje ich wartości bieżące, a IRR jest stopą, przy której NPV = 0. Sama stopa kapitalizacji nie jest standardowym dynamicznym kryterium oceny projektu.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — NPV",
+        "url": "https://openstax.org/books/principles-finance/pages/16-2-net-present-value-npv-method"
+      },
+      {
+        "title": "OpenStax, Rice University — IRR",
+        "url": "https://openstax.org/books/principles-finance/pages/16-3-internal-rate-of-return-irr-method"
+      }
+    ]
+  },
+  "2026-03-25-14": {
+    "text": "W progu rentowności przychody pokrywają wszystkie koszty stałe i zmienne: zysk wynosi zero. Ilościowo Q₀ = koszty stałe/(cena jednostkowa − koszt zmienny jednostkowy). Dopiero dalsza sprzedaż, przy niezmienionych warunkach, tworzy zysk.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — próg rentowności i marża pokrycia",
+        "url": "https://openstax.org/books/principles-managerial-accounting/pages/3-2-calculate-a-break-even-point-in-units-and-dollars"
+      }
+    ]
+  },
+  "2026-03-25-15": {
+    "text": "Dla konwencjonalnych przepływów projekt jest opłacalny, gdy IRR przekracza wymaganą stopę: NPV jest dodatnie. Równość IRR i stopy dyskontowej oznacza NPV = 0, czyli granicę akceptacji bez dodatkowego przyrostu wartości.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — IRR",
+        "url": "https://openstax.org/books/principles-finance/pages/16-3-internal-rate-of-return-irr-method"
+      }
+    ],
+    "caveat": "Przy przepływach zmieniających znak wielokrotnie może wystąpić kilka IRR; wówczas bezpieczniej rozstrzygać na podstawie NPV."
+  },
+  "2026-03-25-16": {
+    "text": "Regulacja czynszu służy m.in. dostępności mieszkań i ochronie lokatorów, czyli realizacji polityki społecznej. Stawka jest ograniczana instytucjonalnie, nie powstaje wyłącznie w swobodnej grze popytu i podaży.",
+    "sources": [
+      {
+        "title": "Politechnika Białostocka — Rynek nieruchomości mieszkaniowych w Polsce",
+        "url": "https://pb.edu.pl/oficyna-wydawnicza/wp-content/uploads/sites/4/2024/06/Rynek-nieruchomosci-mieszkaniowych-w-Polsce.pdf"
+      }
+    ],
+    "caveat": "Szczegółowe zasady ustalania czynszu, uwzględniania kosztów i dopuszczalnych podwyżek zależą od rodzaju zasobu i obowiązujących przepisów."
+  },
+  "2025-11-19-10": {
+    "text": "Dodatnia dźwignia finansowa podwyższa ROE, jeśli rentowność inwestycji przewyższa koszt długu. W takim modelu finansowanie wyłącznie kapitałem własnym daje niższe ROE niż częściowy dług.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — struktura finansowania i tarcza podatkowa",
+        "url": "https://openstax.org/books/principles-finance/pages/17-4-capital-structure-choices"
+      }
+    ],
+    "caveat": "Klucz pomija warunek dodatniej dźwigni. Gdy inwestycja zarabia mniej niż koszt długu, zadłużenie obniża ROE; wskazana zależność nie jest bezwarunkowa."
+  },
+  "2025-11-19-12": {
+    "text": "r = −0,70 wskazuje dość silny ujemny związek liniowy: wyższym cenom towarzyszy zwykle mniejsza liczba transakcji. Nie oznacza, że podwyżka o 1 tys. zł powoduje spadek liczby sprzedaży o 70%; korelacja nie jest współczynnikiem regresji ani dowodem przyczynowości.",
+    "sources": [
+      {
+        "title": "GUS — współczynniki korelacji",
+        "url": "https://stat.gov.pl/metainformacje/slownik-pojec/pojecia-stosowane-w-statystyce-publicznej/2908,pojecie.html"
+      }
+    ]
+  },
+  "2025-11-19-13": {
+    "text": "Większa wydajność oraz inwestycje zwiększające zdolności produkcyjne przesuwają potencjał podaży gospodarki. Pozwala to zwiększać realny dochód bez tak silnej presji cenowej jak przy samym wzroście wydatków konsumpcyjnych.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — popyt, podaż i równowaga",
+        "url": "https://openstax.org/books/principles-economics-3e/pages/3-1-demand-supply-and-equilibrium-in-markets-for-goods-and-services"
+      }
+    ],
+    "caveat": "Inwestycje jednocześnie zwiększają bieżący popyt. Efekt podażowy pojawia się z opóźnieniem, więc brak inflacji nie jest zagwarantowany w każdym horyzoncie."
+  },
+  "2025-10-15-12": {
+    "text": "Dominanta i wartość modalna to dwie nazwy wartości występującej najczęściej. Nie musi to być ani największa obserwacja, ani obserwacja środkowa; w zbiorze może być więcej niż jedna dominanta.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — statystyka opisowa",
+        "url": "https://openstax.org/books/introductory-statistics/pages/2-chapter-review"
+      }
+    ]
+  },
+  "2022-07-07-17": {
+    "text": "Dominanta i wartość modalna to dwie nazwy wartości występującej najczęściej. Nie musi to być ani największa obserwacja, ani obserwacja środkowa; w zbiorze może być więcej niż jedna dominanta.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — statystyka opisowa",
+        "url": "https://openstax.org/books/introductory-statistics/pages/2-chapter-review"
+      }
+    ]
+  },
+  "2025-10-15-13": {
+    "text": "EDB = DON + wydatki = 150 + 30 = 180 tys. zł. Straty stanowią 10% PDB, więc EDB = 0,9 × PDB. Stąd PDB = 180/0,9 = 200 tys. zł.",
+    "sources": [
+      {
+        "title": "Rozporządzenie w sprawie wyceny nieruchomości z 2023 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2023/1832/text.html"
+      }
+    ]
+  },
+  "2024-10-22-17": {
+    "text": "EDB = DON + wydatki = 150 + 30 = 180 tys. zł. Straty stanowią 10% PDB, więc EDB = 0,9 × PDB. Stąd PDB = 180/0,9 = 200 tys. zł.",
+    "sources": [
+      {
+        "title": "Rozporządzenie w sprawie wyceny nieruchomości z 2023 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2023/1832/text.html"
+      }
+    ]
+  },
+  "2025-10-15-15": {
+    "text": "Koszt kapitału to wymagana przez dostawcę środków stopa zwrotu, zależna od ryzyka i alternatywnych inwestycji. Jest kosztem pozyskania finansowania, a nie ceną zakupu aktywów ani samą historyczną rentownością akcji.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — struktura finansowania i tarcza podatkowa",
+        "url": "https://openstax.org/books/principles-finance/pages/17-4-capital-structure-choices"
+      }
+    ]
+  },
+  "2021-07-22-15": {
+    "text": "Koszt kapitału to wymagana przez dostawcę środków stopa zwrotu, zależna od ryzyka i alternatywnych inwestycji. Jest kosztem pozyskania finansowania, a nie ceną zakupu aktywów ani samą historyczną rentownością akcji.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — struktura finansowania i tarcza podatkowa",
+        "url": "https://openstax.org/books/principles-finance/pages/17-4-capital-structure-choices"
+      }
+    ]
+  },
+  "2025-09-10-17": {
+    "text": "W typowym rozkładzie lewoskośnym długi ogon niskich wartości przesuwa średnią w lewo względem mediany. Dlatego mediana leży na prawo od średniej. Sama skośność nie wyznacza bez wyjątków położenia każdej z tych miar.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — skośność, średnia i mediana",
+        "url": "https://openstax.org/books/introductory-statistics/pages/2-6-skewness-and-the-mean-median-and-mode?query=variation"
+      }
+    ]
+  },
+  "2025-06-25-10": {
+    "text": "Dodatnia dźwignia finansowa podwyższa ROE, jeśli rentowność inwestycji przewyższa koszt długu. W takim modelu finansowanie wyłącznie kapitałem własnym daje niższe ROE niż częściowy dług.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — struktura finansowania i tarcza podatkowa",
+        "url": "https://openstax.org/books/principles-finance/pages/17-4-capital-structure-choices"
+      }
+    ],
+    "caveat": "Klucz pomija warunek dodatniej dźwigni. Gdy inwestycja zarabia mniej niż koszt długu, zadłużenie obniża ROE; wskazana zależność nie jest bezwarunkowa."
+  },
+  "2025-06-25-11": {
+    "text": "Wartość sprzedaży ponad poziom progu to (400 − 250) × 20 = 3 000 zł. Taki wynik odpowiada wyliczeniu przyjętemu w kluczu.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — próg rentowności i marża pokrycia",
+        "url": "https://openstax.org/books/principles-managerial-accounting/pages/3-2-calculate-a-break-even-point-in-units-and-dollars"
+      }
+    ],
+    "caveat": "To nadwyżka przychodu ponad przychód progowy, nie obliczony zysk. Zysk wynosi (400−250) × marża jednostkowa; bez kosztu zmiennego jednostki nie da się potwierdzić rzeczywistej nadwyżki finansowej 3 000 zł."
+  },
+  "2025-06-25-12": {
+    "text": "Nowych budynków i gruntów w danej lokalizacji nie można szybko dostarczyć, więc podaż reaguje z opóźnieniem. Rynek jest niejednorodny i ma ograniczoną przejrzystość. W klasycznej charakterystyce podkreśla się małą elastyczność popytu i podaży oraz niedoskonałość rynku.",
+    "sources": [
+      {
+        "title": "Politechnika Białostocka — Rynek nieruchomości mieszkaniowych w Polsce",
+        "url": "https://pb.edu.pl/oficyna-wydawnicza/wp-content/uploads/sites/4/2024/06/Rynek-nieruchomosci-mieszkaniowych-w-Polsce.pdf"
+      }
+    ],
+    "caveat": "Elastyczność zależy od segmentu, dostępności kredytu i horyzontu; nie jest stałą cechą liczbową wszystkich nieruchomości."
+  },
+  "2025-06-25-14": {
+    "text": "Wyższa stopa redyskontowa zwiększa cenę określonego rodzaju refinansowania banków. W restrykcyjnym mechanizmie polityki pieniężnej wyższy koszt pieniądza ogranicza akcję kredytową.",
+    "sources": [
+      {
+        "title": "NBP — polityka pieniężna, materiał edukacyjny",
+        "url": "https://nbp.pl/wp-content/uploads/2022/09/polityka-pieniezna-scenariusz.pdf"
+      }
+    ],
+    "caveat": "Skala zależy od korzystania z redyskonta i innych warunków finansowania; sama zmiana tej jednej stopy nie gwarantuje konkretnej zmiany wolumenu kredytu."
+  },
+  "2025-06-25-16": {
+    "text": "Efektywna stopa roczna to (1+0,08/m)^m−1. Dla m=1 wynosi 8%; dla m=2: 8,16%; dla m=4: 8,243216%. Najwyższą daje kapitalizacja kwartalna, ponieważ odsetki wcześniej zaczynają zarabiać kolejne odsetki.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — wycena obligacji",
+        "url": "https://openstax.org/books/principles-finance/pages/10-2-bond-valuation"
+      }
+    ]
+  },
+  "2025-06-25-18": {
+    "text": "Szkodę ocenia się przez porównanie stanu zagospodarowania przed działaniami i po ich zakończeniu. Wskazane w pytaniu daty decyzji i zakończenia działań służą uchwyceniu zmian wywołanych czasowym zajęciem; nie należy utożsamiać szkody wyłącznie z okresem przed rozpoczęciem robót.",
+    "sources": [
+      {
+        "title": "Rozporządzenie w sprawie wyceny nieruchomości i operatu — tekst z 2021 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2021/555/text.html"
+      },
+      {
+        "title": "Ustawa o gospodarce nieruchomościami — tekst z 2024 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2024/1145/text.html"
+      }
+    ],
+    "caveat": "Szczegółowy zakres utraconych pożytków i właściwe daty wymagają zastosowania historycznych przepisów do konkretnego rodzaju decyzji, nie tylko porównania dwóch zdjęć stanu gruntu."
+  },
+  "2025-05-14-11": {
+    "text": "Średnia wykorzystuje wszystkie wartości, więc obserwacje skrajne silnie ją przesuwają. Dobrze reprezentuje centrum zbioru bez dużej asymetrii i odstających obserwacji; przy silnej skośności często użyteczniejsza jest mediana.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — statystyka opisowa",
+        "url": "https://openstax.org/books/introductory-statistics/pages/2-chapter-review"
+      }
+    ]
+  },
+  "2025-05-14-12": {
+    "text": "Rentowność do wykupu obligacji to stopa zrównująca cenę zakupu z wartością bieżącą kuponów i spłaty nominału, a więc IRR tych przepływów. Iloraz rocznego kuponu i ceny to tylko rentowność bieżąca, pomijająca wynik na wykupie.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — wycena obligacji",
+        "url": "https://openstax.org/books/principles-finance/pages/10-2-bond-valuation"
+      }
+    ],
+    "caveat": "Osiągnięcie zrealizowanej stopy równej YTM wymaga m.in. odpowiedniego reinwestowania kuponów i terminowej spłaty emitenta."
+  },
+  "2022-12-01-11": {
+    "text": "Rentowność do wykupu obligacji to stopa zrównująca cenę zakupu z wartością bieżącą kuponów i spłaty nominału, a więc IRR tych przepływów. Iloraz rocznego kuponu i ceny to tylko rentowność bieżąca, pomijająca wynik na wykupie.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — wycena obligacji",
+        "url": "https://openstax.org/books/principles-finance/pages/10-2-bond-valuation"
+      }
+    ],
+    "caveat": "Osiągnięcie zrealizowanej stopy równej YTM wymaga m.in. odpowiedniego reinwestowania kuponów i terminowej spłaty emitenta."
+  },
+  "2022-07-07-15": {
+    "text": "Rentowność do wykupu obligacji to stopa zrównująca cenę zakupu z wartością bieżącą kuponów i spłaty nominału, a więc IRR tych przepływów. Iloraz rocznego kuponu i ceny to tylko rentowność bieżąca, pomijająca wynik na wykupie.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — wycena obligacji",
+        "url": "https://openstax.org/books/principles-finance/pages/10-2-bond-valuation"
+      }
+    ],
+    "caveat": "Osiągnięcie zrealizowanej stopy równej YTM wymaga m.in. odpowiedniego reinwestowania kuponów i terminowej spłaty emitenta."
+  },
+  "2025-05-14-13": {
+    "text": "EDB = PDB − straty z pustostanów i nieściągalnych czynszów. DON = EDB − wydatki operacyjne, więc równoważnie EDB = DON + wydatki operacyjne. To dochód brutto przed kosztami operacyjnymi, nie po prostu dowolny „dochód przed podatkiem”.",
+    "sources": [
+      {
+        "title": "Rozporządzenie w sprawie wyceny nieruchomości z 2023 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2023/1832/text.html"
+      }
+    ]
+  },
+  "2024-03-19-17": {
+    "text": "EDB = PDB − straty z pustostanów i nieściągalnych czynszów. DON = EDB − wydatki operacyjne, więc równoważnie EDB = DON + wydatki operacyjne. To dochód brutto przed kosztami operacyjnymi, nie po prostu dowolny „dochód przed podatkiem”.",
+    "sources": [
+      {
+        "title": "Rozporządzenie w sprawie wyceny nieruchomości z 2023 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2023/1832/text.html"
+      }
+    ]
+  },
+  "2025-05-14-16": {
+    "text": "Nowych budynków i gruntów w danej lokalizacji nie można szybko dostarczyć, więc podaż reaguje z opóźnieniem. Rynek jest niejednorodny i ma ograniczoną przejrzystość. W klasycznej charakterystyce podkreśla się małą elastyczność popytu i podaży oraz niedoskonałość rynku.",
+    "sources": [
+      {
+        "title": "Politechnika Białostocka — Rynek nieruchomości mieszkaniowych w Polsce",
+        "url": "https://pb.edu.pl/oficyna-wydawnicza/wp-content/uploads/sites/4/2024/06/Rynek-nieruchomosci-mieszkaniowych-w-Polsce.pdf"
+      }
+    ],
+    "caveat": "Elastyczność zależy od segmentu, dostępności kredytu i horyzontu; nie jest stałą cechą liczbową wszystkich nieruchomości."
+  },
+  "2025-05-14-17": {
+    "text": "Po uporządkowaniu sześciu liczb mediana jest średnią trzeciej i czwartej: (4+5)/2 = 4,5. Dominanta wynosi 5, bo występuje trzy razy. Zatem mediana jest mniejsza od wartości modalnej.",
+    "sources": [
+      {
+        "title": "GUS — mediana",
+        "url": "https://stat.gov.pl/metainformacje/slownik-pojec/pojecia-stosowane-w-statystyce-publicznej/2903,pojecie.html"
+      }
+    ]
+  },
+  "2022-04-28-17": {
+    "text": "Po uporządkowaniu sześciu liczb mediana jest średnią trzeciej i czwartej: (4+5)/2 = 4,5. Dominanta wynosi 5, bo występuje trzy razy. Zatem mediana jest mniejsza od wartości modalnej.",
+    "sources": [
+      {
+        "title": "GUS — mediana",
+        "url": "https://stat.gov.pl/metainformacje/slownik-pojec/pojecia-stosowane-w-statystyce-publicznej/2903,pojecie.html"
+      }
+    ]
+  },
+  "2025-03-26-10": {
+    "text": "Rynek pieniężny obejmuje instrumenty krótkoterminowe, a kapitałowy m.in. długoterminowy dług i akcje. Wyodrębnia się także rynek walutowy i instrumentów pochodnych. Podział na rynek pierwotny i wtórny odnosi się do etapu obrotu, nie rodzaju instrumentu.",
+    "sources": [
+      {
+        "title": "Ministerstwo Finansów — fundusze inwestycyjne",
+        "url": "https://www.gov.pl/web/finanse/fundusze-inwestycyjne"
+      },
+      {
+        "title": "OpenStax, Rice University — wycena obligacji",
+        "url": "https://openstax.org/books/principles-finance/pages/10-2-bond-valuation"
+      }
+    ]
+  },
+  "2025-03-26-12": {
+    "text": "Stopa kapitalizacji łączy poziom dochodów z cenami aktywów i może być analizowana jako sygnał fazy cyklu inwestycyjnego. Jednak na samym rynku najmu podstawowymi wskaźnikami są także czynsze, pustostany i zajętość powierzchni.",
+    "sources": [
+      {
+        "title": "Politechnika Białostocka — Rynek nieruchomości mieszkaniowych w Polsce",
+        "url": "https://pb.edu.pl/oficyna-wydawnicza/wp-content/uploads/sites/4/2024/06/Rynek-nieruchomosci-mieszkaniowych-w-Polsce.pdf"
+      }
+    ],
+    "caveat": "Klucz wskazuje wyłącznie stopę kapitalizacji. Nie wynika z tego, że stawka czynszu i poziom wynajętej powierzchni nie mogą służyć ocenie cyklu najmu; takie wykluczenie wymagałoby szczególnego modelu z materiałów egzaminacyjnych."
+  },
+  "2025-03-26-13": {
+    "text": "Wydatki 20% EDB oznaczają DON = 0,8 × EDB, więc EDB = 72 000/0,8 = 90 000 zł. W treści straty wynoszą 10% EDB, czyli 9 000 zł. PDB = EDB + straty = 99 000 zł.",
+    "sources": [
+      {
+        "title": "Rozporządzenie w sprawie wyceny nieruchomości z 2023 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2023/1832/text.html"
+      }
+    ],
+    "caveat": "Uwaga na nietypową podstawę procentu: gdyby straty wynosiły 10% PDB, wynik wynosiłby 100 000 zł. W tym zadaniu napisano 10% EDB."
+  },
+  "2025-03-26-14": {
+    "text": "Pieniądz pozwala wymieniać towary, regulować zobowiązania, porównywać wartości i przechowywać siłę nabywczą. Są to funkcje transakcyjna, płatnicza, obrachunkowa i tezauracyjna. Status prawnego środka płatniczego dotyczy pieniądza wskazanego ustawą.",
+    "sources": [
+      {
+        "title": "AGH — Finanse, pieniądz i inflacja",
+        "url": "https://epodreczniki.open.agh.edu.pl/handbook/1643/module/1650/reader"
+      }
+    ]
+  },
+  "2024-11-19-11": {
+    "text": "Wzrost ogólnego poziomu cen zmniejsza siłę nabywczą pieniądza. Inflacja popytowa może wystąpić, gdy wydatki przewyższają zdolności podażowe gospodarki; nadwyżka podaży nie opisuje tego mechanizmu.",
+    "sources": [
+      {
+        "title": "AGH — Finanse, pieniądz i inflacja",
+        "url": "https://epodreczniki.open.agh.edu.pl/handbook/1643/module/1650/reader"
+      }
+    ],
+    "caveat": "Nie każda inflacja wynika z przewagi popytu: wzrost cen może także wywołać szok kosztowy lub ograniczenie podaży."
+  },
+  "2024-11-19-13": {
+    "text": "Przy niezmienionych pozostałych warunkach wyższe ryzyko wymaga wyższej stopy zwrotu, co podwyższa stopę kapitalizacji. Z zależności V = DON/R wynika wtedy niższa wartość przy tym samym dochodzie.",
+    "sources": [
+      {
+        "title": "Rozporządzenie w sprawie wyceny nieruchomości z 2023 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2023/1832/text.html"
+      },
+      {
+        "title": "OpenStax, Rice University — dywersyfikacja i ryzyko",
+        "url": "https://openstax.org/books/principles-finance/pages/15-2-risk-and-return-to-multiple-assets"
+      }
+    ]
+  },
+  "2024-11-19-16": {
+    "text": "Tytuły uczestnictwa dają prawa majątkowe związane z aktywami funduszu, a nie zwykłą pożyczkę dla niego. Trzeba jednak odróżniać certyfikaty inwestycyjne od jednostek uczestnictwa funduszu otwartego.",
+    "sources": [
+      {
+        "title": "Ministerstwo Finansów — fundusze inwestycyjne",
+        "url": "https://www.gov.pl/web/finanse/fundusze-inwestycyjne"
+      }
+    ],
+    "caveat": "Sformułowanie „udziały” jest nieprecyzyjne: jednostki uczestnictwa nie są swobodnie zbywalnymi papierami na rynku kapitałowym; inne zasady dotyczą certyfikatów. Klucza nie należy rozciągać na każdy fundusz."
+  },
+  "2023-04-20-10": {
+    "text": "Tytuły uczestnictwa dają prawa majątkowe związane z aktywami funduszu, a nie zwykłą pożyczkę dla niego. Trzeba jednak odróżniać certyfikaty inwestycyjne od jednostek uczestnictwa funduszu otwartego.",
+    "sources": [
+      {
+        "title": "Ministerstwo Finansów — fundusze inwestycyjne",
+        "url": "https://www.gov.pl/web/finanse/fundusze-inwestycyjne"
+      }
+    ],
+    "caveat": "Sformułowanie „udziały” jest nieprecyzyjne: jednostki uczestnictwa nie są swobodnie zbywalnymi papierami na rynku kapitałowym; inne zasady dotyczą certyfikatów. Klucza nie należy rozciągać na każdy fundusz."
+  },
+  "2024-11-19-18": {
+    "text": "Elastyczność dochodowa to procentowa zmiana popytu podzielona przez procentową zmianę dochodu. Dla dóbr niższego rzędu wzrost dochodu zmniejsza popyt, więc wynik jest ujemny. Nie musi być większy ani od zera, ani od jedności.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — elastyczność cenowa",
+        "url": "https://openstax.org/books/principles-economics-3e/pages/5-1-price-elasticity-of-demand-and-price-elasticity-of-supply"
+      }
+    ]
+  },
+  "2023-06-22-15": {
+    "text": "Elastyczność dochodowa to procentowa zmiana popytu podzielona przez procentową zmianę dochodu. Dla dóbr niższego rzędu wzrost dochodu zmniejsza popyt, więc wynik jest ujemny. Nie musi być większy ani od zera, ani od jedności.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — elastyczność cenowa",
+        "url": "https://openstax.org/books/principles-economics-3e/pages/5-1-price-elasticity-of-demand-and-price-elasticity-of-supply"
+      }
+    ]
+  },
+  "2024-10-22-11": {
+    "text": "Prosta stopa zwrotu porównuje roczny zysk z nakładem inwestycyjnym: stopa = zysk roczny/nakład. Nie dyskontuje kolejnych przepływów, dlatego nie jest to IRR. W porównaniach trzeba zachować tę samą definicję zysku i nakładów.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — okres zwrotu",
+        "url": "https://openstax.org/books/principles-finance/pages/16-1-payback-period-method"
+      }
+    ]
+  },
+  "2022-09-15-17": {
+    "text": "Prosta stopa zwrotu porównuje roczny zysk z nakładem inwestycyjnym: stopa = zysk roczny/nakład. Nie dyskontuje kolejnych przepływów, dlatego nie jest to IRR. W porównaniach trzeba zachować tę samą definicję zysku i nakładów.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — okres zwrotu",
+        "url": "https://openstax.org/books/principles-finance/pages/16-1-payback-period-method"
+      }
+    ]
+  },
+  "2024-10-22-12": {
+    "text": "Inwestor oczekuje odzyskania wyłożonej kwoty oraz wynagrodzenia za czas i ryzyko. Zwrot kapitału oznacza odzyskanie nakładu, a zwrot na kapitale — dochód z jego udostępnienia. Łączny efekt obejmuje oba składniki.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — wycena obligacji",
+        "url": "https://openstax.org/books/principles-finance/pages/10-2-bond-valuation"
+      }
+    ]
+  },
+  "2023-03-23-11": {
+    "text": "Inwestor oczekuje odzyskania wyłożonej kwoty oraz wynagrodzenia za czas i ryzyko. Zwrot kapitału oznacza odzyskanie nakładu, a zwrot na kapitale — dochód z jego udostępnienia. Łączny efekt obejmuje oba składniki.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — wycena obligacji",
+        "url": "https://openstax.org/books/principles-finance/pages/10-2-bond-valuation"
+      }
+    ]
+  },
+  "2024-10-22-14": {
+    "text": "Deprecjacja oznacza obniżenie wartości pieniądza, w szczególności spadek kursu waluty w systemie płynnym. Aprecjacja jest wzrostem wartości, a denominacja zmienia jednostkę nominalną, np. skreśla zera, nie tworząc sama w sobie nowej siły nabywczej.",
+    "sources": [
+      {
+        "title": "AGH — Finanse, pieniądz i inflacja",
+        "url": "https://epodreczniki.open.agh.edu.pl/handbook/1643/module/1650/reader"
+      }
+    ]
+  },
+  "2024-10-22-18": {
+    "text": "r = −0,70 wskazuje dość silny ujemny związek liniowy: wyższym cenom towarzyszy zwykle mniejsza liczba transakcji. Nie oznacza, że podwyżka o 1 tys. zł powoduje spadek liczby sprzedaży o 70%; korelacja nie jest współczynnikiem regresji ani dowodem przyczynowości.",
+    "sources": [
+      {
+        "title": "GUS — współczynniki korelacji",
+        "url": "https://stat.gov.pl/metainformacje/slownik-pojec/pojecia-stosowane-w-statystyce-publicznej/2908,pojecie.html"
+      }
+    ]
+  },
+  "2024-09-17-10": {
+    "text": "Akcja reprezentuje udział w kapitale zakładowym spółki akcyjnej i nie musi być notowana na giełdzie. Nie ma z góry oznaczonego terminu wykupu tak jak typowa obligacja.",
+    "sources": [
+      {
+        "title": "Kodeks spółek handlowych — tekst z 2024 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2024/18/text.html"
+      }
+    ],
+    "caveat": "Historyczne określenie akcji jako „dokumentu” wymaga zastrzeżenia: art. 328 § 1 KSH stanowi obecnie, że akcje nie mają formy dokumentu. Materialna kartka nie jest warunkiem istnienia akcji."
+  },
+  "2024-09-17-12": {
+    "text": "W depresji przedsiębiorstwa ograniczają nowe moce i odkładają wymianę urządzeń. Dlatego popyt na dobra inwestycyjne i kredyt inwestycyjny zwykle spada silniej niż popyt na podstawowe dobra konsumpcyjne.",
+    "sources": [
+      {
+        "title": "NBP — polityka pieniężna, materiał edukacyjny",
+        "url": "https://nbp.pl/wp-content/uploads/2022/09/polityka-pieniezna-scenariusz.pdf"
+      }
+    ]
+  },
+  "2024-09-17-13": {
+    "text": "Wyższa inflacja obniża realną wartość przechowywanej gotówki, co zwiększa koszt utrzymywania nieoprocentowanych sald i może zmniejszać realny popyt na pieniądz. Nie oznacza to automatycznie mniejszych nominalnych kwot potrzebnych do zakupów.",
+    "sources": [
+      {
+        "title": "AGH — Finanse, pieniądz i inflacja",
+        "url": "https://epodreczniki.open.agh.edu.pl/handbook/1643/module/1650/reader"
+      }
+    ],
+    "caveat": "Zależność popytu na pieniądz dotyczy ujęcia realnego i określonych warunków modelu; nominalny popyt może rosnąć wraz z cenami."
+  },
+  "2024-09-17-14": {
+    "text": "W tradycyjnych zestawieniach bezpośrednie inwestycje w nieruchomości lokuje się między bezpiecznym długiem a zmiennymi akcjami. Zróżnicowane dochody z najmu i wartość rzeczowego aktywa mogą ograniczać część ryzyka.",
+    "sources": [
+      {
+        "title": "Politechnika Białostocka — Rynek nieruchomości mieszkaniowych w Polsce",
+        "url": "https://pb.edu.pl/oficyna-wydawnicza/wp-content/uploads/sites/4/2024/06/Rynek-nieruchomosci-mieszkaniowych-w-Polsce.pdf"
+      },
+      {
+        "title": "OpenStax, Rice University — dywersyfikacja i ryzyko",
+        "url": "https://openstax.org/books/principles-finance/pages/15-2-risk-and-return-to-multiple-assets"
+      }
+    ],
+    "caveat": "To orientacyjna klasyfikacja: zadłużona inwestycja deweloperska może być bardziej ryzykowna niż portfel akcji. Mniejsza częstotliwość wycen nieruchomości także ukrywa część zmienności."
+  },
+  "2023-06-22-10": {
+    "text": "W tradycyjnych zestawieniach bezpośrednie inwestycje w nieruchomości lokuje się między bezpiecznym długiem a zmiennymi akcjami. Zróżnicowane dochody z najmu i wartość rzeczowego aktywa mogą ograniczać część ryzyka.",
+    "sources": [
+      {
+        "title": "Politechnika Białostocka — Rynek nieruchomości mieszkaniowych w Polsce",
+        "url": "https://pb.edu.pl/oficyna-wydawnicza/wp-content/uploads/sites/4/2024/06/Rynek-nieruchomosci-mieszkaniowych-w-Polsce.pdf"
+      },
+      {
+        "title": "OpenStax, Rice University — dywersyfikacja i ryzyko",
+        "url": "https://openstax.org/books/principles-finance/pages/15-2-risk-and-return-to-multiple-assets"
+      }
+    ],
+    "caveat": "To orientacyjna klasyfikacja: zadłużona inwestycja deweloperska może być bardziej ryzykowna niż portfel akcji. Mniejsza częstotliwość wycen nieruchomości także ukrywa część zmienności."
+  },
+  "2024-09-17-15": {
+    "text": "Różnica IRR − r tworzy margines względem progu akceptacji projektu. Przy 15 punktach procentowych margines jest większy niż przy 5 lub 1, więc w uproszczonym porównaniu wariant C ma największy zapas.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — IRR",
+        "url": "https://openstax.org/books/principles-finance/pages/16-3-internal-rate-of-return-irr-method"
+      }
+    ],
+    "caveat": "Sam margines nie jest pełną analizą wrażliwości: trzeba znać, jak przepływy poszczególnych projektów reagują na ceny, koszty i inne czynniki."
+  },
+  "2024-09-17-16": {
+    "text": "Jednookresowa stopa zwrotu z akcji to [dywidenda + cena sprzedaży − cena zakupu]/cena zakupu. Obejmuje dochód z posiadania i zmianę kursu. Sam P/E nie wyznacza uzyskanego wyniku inwestora.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — wskaźniki finansowe",
+        "url": "https://openstax.org/books/principles-finance/pages/6-summary"
+      }
+    ]
+  },
+  "2024-09-17-18": {
+    "text": "Rata = kapitał × podany roczny współczynnik = 10 000 × 0,10 = 1 000 zł. Współczynnik ma już zawierać wpływ okresu i stopy zwrotu; nie dzielimy tej kwoty ponownie przez liczbę lat.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — wycena obligacji",
+        "url": "https://openstax.org/books/principles-finance/pages/10-2-bond-valuation"
+      }
+    ]
+  },
+  "2024-06-25-10": {
+    "text": "Wartość bieżąca obligacji to zdyskontowane przyszłe kupony i spłata nominału. Cena rynkowa może być niższa, równa lub wyższa od nominału, zależnie m.in. od rynkowej rentowności i ryzyka emitenta.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — wycena obligacji",
+        "url": "https://openstax.org/books/principles-finance/pages/10-2-bond-valuation"
+      }
+    ],
+    "caveat": "Wartość wyliczona z modelu nie zawsze równa się cenie transakcyjnej; klucz upraszcza pojęcie „wartości bieżącej” do aktualnej ceny rynkowej."
+  },
+  "2024-06-25-11": {
+    "text": "Dominanta i wartość modalna to dwie nazwy wartości występującej najczęściej. Nie musi to być ani największa obserwacja, ani obserwacja środkowa; w zbiorze może być więcej niż jedna dominanta.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — statystyka opisowa",
+        "url": "https://openstax.org/books/introductory-statistics/pages/2-chapter-review"
+      }
+    ]
+  },
+  "2024-06-25-13": {
+    "text": "Brak remontów i odtwarzania zużytych składników prowadzi do narastania zużycia i spadku sprawności majątku — dekapitalizacji. Nie jest to termin określający zmianę kursu waluty ani samo obniżenie rynkowej stopy kapitalizacji.",
+    "sources": [
+      {
+        "title": "Politechnika Białostocka — Rynek nieruchomości mieszkaniowych w Polsce",
+        "url": "https://pb.edu.pl/oficyna-wydawnicza/wp-content/uploads/sites/4/2024/06/Rynek-nieruchomosci-mieszkaniowych-w-Polsce.pdf"
+      }
+    ]
+  },
+  "2023-04-20-11": {
+    "text": "Brak remontów i odtwarzania zużytych składników prowadzi do narastania zużycia i spadku sprawności majątku — dekapitalizacji. Nie jest to termin określający zmianę kursu waluty ani samo obniżenie rynkowej stopy kapitalizacji.",
+    "sources": [
+      {
+        "title": "Politechnika Białostocka — Rynek nieruchomości mieszkaniowych w Polsce",
+        "url": "https://pb.edu.pl/oficyna-wydawnicza/wp-content/uploads/sites/4/2024/06/Rynek-nieruchomosci-mieszkaniowych-w-Polsce.pdf"
+      }
+    ]
+  },
+  "2024-06-25-14": {
+    "text": "Stopa dyskontowa wyraża wymaganą rentowność za odroczenie wpływu i ryzyko. Można ją modelować jako stopę wolną od ryzyka powiększoną o premię. Sam zwrot początkowego kapitału ujmuje się w przepływach, a nie jako dodatkową część stopy.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — struktura finansowania i tarcza podatkowa",
+        "url": "https://openstax.org/books/principles-finance/pages/17-4-capital-structure-choices"
+      }
+    ]
+  },
+  "2022-10-27-11": {
+    "text": "Stopa dyskontowa wyraża wymaganą rentowność za odroczenie wpływu i ryzyko. Można ją modelować jako stopę wolną od ryzyka powiększoną o premię. Sam zwrot początkowego kapitału ujmuje się w przepływach, a nie jako dodatkową część stopy.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — struktura finansowania i tarcza podatkowa",
+        "url": "https://openstax.org/books/principles-finance/pages/17-4-capital-structure-choices"
+      }
+    ]
+  },
+  "2024-06-25-15": {
+    "text": "Po zakończeniu wydobycia trzeba rozróżnić wartość wyeksploatowanej nieruchomości, wartość samego złoża i odrębny obowiązek rekultywacji. Nie wolno automatycznie utożsamiać wartości gruntu z pozostałymi kosztami działalności górniczej.",
+    "sources": [
+      {
+        "title": "Rozporządzenie w sprawie wyceny nieruchomości z 2023 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2023/1832/text.html"
+      },
+      {
+        "title": "Rozporządzenie w sprawie wyceny nieruchomości i operatu — tekst z 2021 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2021/555/text.html"
+      }
+    ],
+    "caveat": "Nie potwierdzono bezwarunkowego twierdzenia klucza „kosztów rekultywacji nie uwzględnia się”. Obowiązek i zakres rekultywacji mogą wpływać na wartość; potrzebna jest weryfikacja właściwej metody, daty i historycznych standardów. To nie jest potwierdzenie klucza."
+  },
+  "2024-06-25-16": {
+    "text": "Potwierdzenia aktualności dokonuje autor operatu, poprzedzając je analizą zmian uwarunkowań. Nie jest to samo co sporządzenie nowej opinii przez innego rzeczoznawcę.",
+    "sources": [
+      {
+        "title": "Ustawa o gospodarce nieruchomościami — tekst z 2024 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2024/1145/text.html"
+      }
+    ],
+    "caveat": "Art. 156 ust. 4 w sprawdzonym tekście potwierdza autorstwo, ale nie ustanawia zasady „tylko jeden raz”. Ten fragment klucza wymaga wyjaśnienia i nie został uznany za potwierdzony."
+  },
+  "2024-04-23-10": {
+    "text": "KNR zawierają normy nakładów robocizny, materiałów i pracy sprzętu na jednostkę robót oraz założenia i zasady przedmiarowania. Poziom narzutu kosztów pośrednich ustala się odrębnie; nie jest jednostkowym nakładem rzeczowym z tablicy.",
+    "sources": [
+      {
+        "title": "Zintegrowana Platforma Edukacyjna — kosztorys budowlany",
+        "url": "https://zpe.gov.pl/a/kosztorys-budowlany/DXpdNpAVQ"
+      }
+    ]
+  },
+  "2024-04-23-12": {
+    "text": "Okres zwrotu n porównuje się z maksymalnym akceptowanym okresem nᵍ. Krótsze odzyskanie nakładu, n < nᵍ, spełnia przyjęte kryterium. Metoda nie ocenia jednak dochodów po dacie zwrotu ani sama nie dowodzi dodatniego NPV.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — okres zwrotu",
+        "url": "https://openstax.org/books/principles-finance/pages/16-1-payback-period-method"
+      }
+    ]
+  },
+  "2024-04-23-13": {
+    "text": "Rynek trzeba wyznaczyć przestrzennie, a następnie zbadać popyt i jego źródła: liczbę i strukturę mieszkańców, zatrudnienie, dochody oraz lokalną bazę ekonomiczną. Wszystkie te elementy pomagają wyjaśnić możliwość sprzedaży lub wynajmu nieruchomości.",
+    "sources": [
+      {
+        "title": "Politechnika Białostocka — Rynek nieruchomości mieszkaniowych w Polsce",
+        "url": "https://pb.edu.pl/oficyna-wydawnicza/wp-content/uploads/sites/4/2024/06/Rynek-nieruchomosci-mieszkaniowych-w-Polsce.pdf"
+      }
+    ]
+  },
+  "2024-04-23-14": {
+    "text": "Wskaźnik nasycenia odnosi zasób powierzchni handlowej do liczby mieszkańców, np. m²/1 000 osób. Umożliwia porównanie podaży z wielkością lokalnego rynku; sama liczba m² bez mianownika jest podażą, a nie wskaźnikiem nasycenia.",
+    "sources": [
+      {
+        "title": "Politechnika Białostocka — Rynek nieruchomości mieszkaniowych w Polsce",
+        "url": "https://pb.edu.pl/oficyna-wydawnicza/wp-content/uploads/sites/4/2024/06/Rynek-nieruchomosci-mieszkaniowych-w-Polsce.pdf"
+      }
+    ],
+    "caveat": "Wysokie nasycenie nie przesądza samo o braku potencjału: liczą się także siła nabywcza, dojazd, struktura handlu i obszar ciążenia."
+  },
+  "2024-04-23-15": {
+    "text": "Gdy drożeje dobro komplementarne, korzystanie z dobra X staje się łącznie droższe, więc popyt na X może spaść przy każdej jego cenie. Krzywa przesuwa się w lewo. Wzrost ludności lub dochodu zwykle działa odwrotnie dla dobra normalnego.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — popyt, podaż i równowaga",
+        "url": "https://openstax.org/books/principles-economics-3e/pages/3-1-demand-supply-and-equilibrium-in-markets-for-goods-and-services"
+      }
+    ]
+  },
+  "2024-04-23-17": {
+    "text": "W dyskontowaniu stopa określa wymaganą stopę zwrotu, którą trzeba uzyskać za czas i ryzyko. Jest wyrażana procentowo; współczynnik kapitalizacji jest natomiast mnożnikiem wartości i ma inną rolę.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — struktura finansowania i tarcza podatkowa",
+        "url": "https://openstax.org/books/principles-finance/pages/17-4-capital-structure-choices"
+      }
+    ]
+  },
+  "2024-03-19-12": {
+    "text": "Wzrost ogólnego poziomu cen zmniejsza siłę nabywczą pieniądza. Inflacja popytowa może wystąpić, gdy wydatki przewyższają zdolności podażowe gospodarki; nadwyżka podaży nie opisuje tego mechanizmu.",
+    "sources": [
+      {
+        "title": "AGH — Finanse, pieniądz i inflacja",
+        "url": "https://epodreczniki.open.agh.edu.pl/handbook/1643/module/1650/reader"
+      }
+    ],
+    "caveat": "Nie każda inflacja wynika z przewagi popytu: wzrost cen może także wywołać szok kosztowy lub ograniczenie podaży."
+  },
+  "2022-04-28-10": {
+    "text": "Wzrost ogólnego poziomu cen zmniejsza siłę nabywczą pieniądza. Inflacja popytowa może wystąpić, gdy wydatki przewyższają zdolności podażowe gospodarki; nadwyżka podaży nie opisuje tego mechanizmu.",
+    "sources": [
+      {
+        "title": "AGH — Finanse, pieniądz i inflacja",
+        "url": "https://epodreczniki.open.agh.edu.pl/handbook/1643/module/1650/reader"
+      }
+    ],
+    "caveat": "Nie każda inflacja wynika z przewagi popytu: wzrost cen może także wywołać szok kosztowy lub ograniczenie podaży."
+  },
+  "2024-03-19-14": {
+    "text": "Stopa oparta na EDB pomija jeszcze wydatki operacyjne. Aby porównanie z innymi nieruchomościami nie zniekształciło wyniku, udział tych wydatków w dochodzie musi być podobny. Sama podobna lokalizacja ani jednakowa kwota kosztów tego nie zapewnia.",
+    "sources": [
+      {
+        "title": "Rozporządzenie w sprawie wyceny nieruchomości z 2023 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2023/1832/text.html"
+      }
+    ]
+  },
+  "2024-03-19-15": {
+    "text": "Straty = 100 000 × 5% = 5 000 zł, więc EDB = 95 000 zł. Po odjęciu wydatków operacyjnych 15 000 zł: DON = 80 000 zł. Kwota 85 000 zł pomijałaby straty w dochodzie.",
+    "sources": [
+      {
+        "title": "Rozporządzenie w sprawie wyceny nieruchomości z 2023 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2023/1832/text.html"
+      }
+    ]
+  },
+  "2024-03-19-16": {
+    "text": "Rynkowa wartość jednej akcji jest wyrażana jej kursem. Jest licznikiem P/E = cena akcji/zysk na akcję. Wartość księgowa wynika z bilansu i nie musi być równa kursowi.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — wskaźniki finansowe",
+        "url": "https://openstax.org/books/principles-finance/pages/6-summary"
+      }
+    ]
+  },
+  "2024-03-19-18": {
+    "text": "Nowych budynków i gruntów w danej lokalizacji nie można szybko dostarczyć, więc podaż reaguje z opóźnieniem. Rynek jest niejednorodny i ma ograniczoną przejrzystość. W klasycznej charakterystyce podkreśla się małą elastyczność popytu i podaży oraz niedoskonałość rynku.",
+    "sources": [
+      {
+        "title": "Politechnika Białostocka — Rynek nieruchomości mieszkaniowych w Polsce",
+        "url": "https://pb.edu.pl/oficyna-wydawnicza/wp-content/uploads/sites/4/2024/06/Rynek-nieruchomosci-mieszkaniowych-w-Polsce.pdf"
+      }
+    ],
+    "caveat": "Elastyczność zależy od segmentu, dostępności kredytu i horyzontu; nie jest stałą cechą liczbową wszystkich nieruchomości."
+  },
+  "2023-11-30-10": {
+    "text": "Przybliżenie stopy realnej to r ≈ i − π. Dokładnie 1+r = (1+i)/(1+π), czyli r = (i−π)/(1+π). Przy niskich stopach różnica jest mała, dlatego zadania często stosują proste odejmowanie.",
+    "sources": [
+      {
+        "title": "AGH — Finanse, pieniądz i inflacja",
+        "url": "https://epodreczniki.open.agh.edu.pl/handbook/1643/module/1650/reader"
+      }
+    ],
+    "caveat": "Klucz uznaje równość z różnicą za dokładną. Jest to przybliżenie równania Fishera, nie uniwersalna tożsamość."
+  },
+  "2023-11-30-11": {
+    "text": "Okres zwrotu określa czas potrzebny, aby wpływy netto pokryły początkowy nakład. Może być liczony w latach albo miesiącach; „statyczny” oznacza nieuwzględnianie wartości pieniądza w czasie.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — okres zwrotu",
+        "url": "https://openstax.org/books/principles-finance/pages/16-1-payback-period-method"
+      }
+    ],
+    "caveat": "Wariant ograniczający definicję do miesięcy został pominięty w kluczu, ale sama jednostka czasu nie stanowi merytorycznego rozróżnienia. Poprawność zależy od użytej konwencji."
+  },
+  "2022-06-02-15": {
+    "text": "Okres zwrotu określa czas potrzebny, aby wpływy netto pokryły początkowy nakład. Może być liczony w latach albo miesiącach; „statyczny” oznacza nieuwzględnianie wartości pieniądza w czasie.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — okres zwrotu",
+        "url": "https://openstax.org/books/principles-finance/pages/16-1-payback-period-method"
+      }
+    ],
+    "caveat": "Wariant ograniczający definicję do miesięcy został pominięty w kluczu, ale sama jednostka czasu nie stanowi merytorycznego rozróżnienia. Poprawność zależy od użytej konwencji."
+  },
+  "2023-11-30-13": {
+    "text": "W krótkim okresie podaż budynków jest zwykle bardzo sztywna, bo budowa wymaga czasu. Popyt może reagować szybciej, np. na oprocentowanie kredytów; temu odpowiada porównanie wskazane w kluczu.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — elastyczność cenowa",
+        "url": "https://openstax.org/books/principles-economics-3e/pages/5-1-price-elasticity-of-demand-and-price-elasticity-of-supply"
+      },
+      {
+        "title": "Politechnika Białostocka — Rynek nieruchomości mieszkaniowych w Polsce",
+        "url": "https://pb.edu.pl/oficyna-wydawnicza/wp-content/uploads/sites/4/2024/06/Rynek-nieruchomosci-mieszkaniowych-w-Polsce.pdf"
+      }
+    ],
+    "caveat": "Nie istnieje ogólna nierówność elastyczności popytu i podaży dla wszystkich segmentów oraz okresów. Definicja elastyczności wymaga zmian procentowych, a nie samego ilorazu zmian ilości i ceny."
+  },
+  "2023-11-30-15": {
+    "text": "Rzut głównej bryły to 20 × 10 = 200 m². Przy kwalifikacji ganku jako części zabudowy dodaje się 2 × 3 = 6 m². Zewnętrznej pochylni zjazdowej nie dodaje się: wynik przyjęty w kluczu to 206 m².",
+    "sources": [
+      {
+        "title": "PKN — norma PN-ISO 9836:2015-12",
+        "url": "https://sklep.pkn.pl/normy/pn-iso-9836-2015-12p.html"
+      }
+    ],
+    "caveat": "Obliczenie odtwarza założenia klucza. Publiczna karta PKN nie udostępnia pełnego tekstu normy z 2015 r.; kwalifikację konkretnego ganku i pochylni trzeba sprawdzić w odpowiednim wydaniu normy i dokumentacji obiektu."
+  },
+  "2023-11-30-17": {
+    "text": "Po zakończeniu wydobycia trzeba rozróżnić wartość wyeksploatowanej nieruchomości, wartość samego złoża i odrębny obowiązek rekultywacji. Nie wolno automatycznie utożsamiać wartości gruntu z pozostałymi kosztami działalności górniczej.",
+    "sources": [
+      {
+        "title": "Rozporządzenie w sprawie wyceny nieruchomości z 2023 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2023/1832/text.html"
+      },
+      {
+        "title": "Rozporządzenie w sprawie wyceny nieruchomości i operatu — tekst z 2021 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2021/555/text.html"
+      }
+    ],
+    "caveat": "Nie potwierdzono bezwarunkowego twierdzenia klucza „kosztów rekultywacji nie uwzględnia się”. Obowiązek i zakres rekultywacji mogą wpływać na wartość; potrzebna jest weryfikacja właściwej metody, daty i historycznych standardów. To nie jest potwierdzenie klucza."
+  },
+  "2023-10-26-11": {
+    "text": "Równowaga występuje przy takiej cenie, dla której ilość oferowana równa się ilości, którą nabywcy chcą i mogą kupić. Na wykresie jest to przecięcie krzywych popytu i podaży, nie punkt wynikający wyłącznie z popytu.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — popyt, podaż i równowaga",
+        "url": "https://openstax.org/books/principles-economics-3e/pages/3-1-demand-supply-and-equilibrium-in-markets-for-goods-and-services"
+      }
+    ]
+  },
+  "2023-10-26-13": {
+    "text": "W pięcioelementowym uporządkowanym zbiorze mediana jest trzecią liczbą: 30. Wartość 32 to średnia arytmetyczna (10+20+30+40+60)/5, czyli inna miara.",
+    "sources": [
+      {
+        "title": "GUS — mediana",
+        "url": "https://stat.gov.pl/metainformacje/slownik-pojec/pojecia-stosowane-w-statystyce-publicznej/2903,pojecie.html"
+      }
+    ]
+  },
+  "2023-10-26-15": {
+    "text": "Badanie zdolności kredytowej ocenia możliwość obsługi zadłużenia, a scoring porządkuje ocenę ryzyka na podstawie cech klienta. Odchylenie standardowe mierzy zmienność danych, lecz samo nie jest procedurą sprawdzania wiarygodności kredytobiorcy.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — dywersyfikacja i ryzyko",
+        "url": "https://openstax.org/books/principles-finance/pages/15-2-risk-and-return-to-multiple-assets"
+      }
+    ]
+  },
+  "2023-09-14-10": {
+    "text": "NPV i IRR uwzględniają moment uzyskania przepływów pieniężnych. NPV sumuje ich wartości bieżące, a IRR jest stopą, przy której NPV = 0. Sama stopa kapitalizacji nie jest standardowym dynamicznym kryterium oceny projektu.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — NPV",
+        "url": "https://openstax.org/books/principles-finance/pages/16-2-net-present-value-npv-method"
+      },
+      {
+        "title": "OpenStax, Rice University — IRR",
+        "url": "https://openstax.org/books/principles-finance/pages/16-3-internal-rate-of-return-irr-method"
+      }
+    ]
+  },
+  "2023-09-14-12": {
+    "text": "Deprecjacja oznacza obniżenie wartości pieniądza, w szczególności spadek kursu waluty w systemie płynnym. Aprecjacja jest wzrostem wartości, a denominacja zmienia jednostkę nominalną, np. skreśla zera, nie tworząc sama w sobie nowej siły nabywczej.",
+    "sources": [
+      {
+        "title": "AGH — Finanse, pieniądz i inflacja",
+        "url": "https://epodreczniki.open.agh.edu.pl/handbook/1643/module/1650/reader"
+      }
+    ]
+  },
+  "2023-09-14-17": {
+    "text": "W wycenie odrzuca się transakcje o szczególnych warunkach, które spowodowały cenę rażąco odbiegającą od przeciętnych cen nieruchomości podobnych. Bonifikata lub egzekucja to sygnały wymagające zbadania warunków.",
+    "sources": [
+      {
+        "title": "Rozporządzenie w sprawie wyceny nieruchomości z 2023 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2023/1832/text.html"
+      }
+    ],
+    "caveat": "Klucz wyklucza wszystkie trzy typy bezwarunkowo. Samo powiązanie spółek ani status najemcy nie dowodzą zaniżenia ceny; § 5 ust. 4–5 wymaga oceny szczególnych warunków i ich wpływu na cenę."
+  },
+  "2023-06-22-17": {
+    "text": "Aktualizacja czasowa usuwa wpływ zmiany poziomu cen między datą transakcji a datą wyceny. Trend lub współczynnik zmiany wyznacza się z danych rynkowych, a ceny sprowadza do wspólnej jednostki porównawczej, np. zł/m².",
+    "sources": [
+      {
+        "title": "Rozporządzenie w sprawie wyceny nieruchomości i operatu — tekst z 2021 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2021/555/text.html"
+      },
+      {
+        "title": "Ustawa o gospodarce nieruchomościami — tekst z 2024 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2024/1145/text.html"
+      }
+    ],
+    "caveat": "Przeliczenie na zł/m² jest normalizacją jednostki, nie samo w sobie aktualizacją w czasie. Klucz łączy dwie różne czynności analityczne."
+  },
+  "2023-04-20-12": {
+    "text": "NPV = Σ CFₜ/(1+r)ᵗ, z uwzględnieniem nakładów jako przepływów ujemnych. Są to przepływy pieniężne netto, nie same przychody ani księgowy zysk. NPV dodatnie oznacza nadwyżkę ponad wymaganą stopę zwrotu.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — NPV",
+        "url": "https://openstax.org/books/principles-finance/pages/16-2-net-present-value-npv-method"
+      }
+    ]
+  },
+  "2023-04-20-14": {
+    "text": "Przy zachowaniu znaku elastyczność popytu jest zwykle ujemna. Popyt nieelastyczny spełnia −1 < E < 0, równoważnie 0 < |E| < 1: ilość reaguje procentowo słabiej niż cena. Niektóre podręczniki podają od razu wartość bezwzględną.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — elastyczność cenowa",
+        "url": "https://openstax.org/books/principles-economics-3e/pages/5-1-price-elasticity-of-demand-and-price-elasticity-of-supply"
+      }
+    ]
+  },
+  "2023-03-23-10": {
+    "text": "W prostej próbie losowej każda próba o danej liczebności ma jednakową szansę wyboru. Losowanie umożliwia probabilistyczne wnioskowanie o populacji, ale nie gwarantuje, że pojedyncza realizacja idealnie odtworzy jej strukturę.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — statystyka opisowa",
+        "url": "https://openstax.org/books/introductory-statistics/pages/2-chapter-review"
+      }
+    ],
+    "caveat": "W ogólnych schematach doboru losowego prawdopodobieństwa nie muszą być równe; równość dotyczy próby prostej, co pytanie zakłada domyślnie."
+  },
+  "2023-03-23-12": {
+    "text": "Krzywa podaży pokazuje ilość oferowaną przy różnych cenach, gdy pozostałe warunki są stałe. Przy zmianach kosztów, technologii czy możliwości produkcji przesuwa się cała krzywa — dlatego podaż nie zależy wyłącznie od ceny w każdych warunkach.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — popyt, podaż i równowaga",
+        "url": "https://openstax.org/books/principles-economics-3e/pages/3-1-demand-supply-and-equilibrium-in-markets-for-goods-and-services"
+      }
+    ]
+  },
+  "2023-03-23-15": {
+    "text": "W długim okresie producenci mogą zmienić moce, technologię i liczbę przedsiębiorstw. Podaż reaguje wtedy zwykle silniej na cenę niż w krótkim okresie, kiedy część zasobów jest stała.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — elastyczność cenowa",
+        "url": "https://openstax.org/books/principles-economics-3e/pages/5-1-price-elasticity-of-demand-and-price-elasticity-of-supply"
+      }
+    ]
+  },
+  "2022-03-24-14": {
+    "text": "W długim okresie producenci mogą zmienić moce, technologię i liczbę przedsiębiorstw. Podaż reaguje wtedy zwykle silniej na cenę niż w krótkim okresie, kiedy część zasobów jest stała.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — elastyczność cenowa",
+        "url": "https://openstax.org/books/principles-economics-3e/pages/5-1-price-elasticity-of-demand-and-price-elasticity-of-supply"
+      }
+    ]
+  },
+  "2022-12-01-10": {
+    "text": "Kosztorys inwestorski wymaga określenia robót i warunków ich wykonania. Ceny jednostkowe służą wycenie pozycji, specyfikacje określają wymagania techniczne, a założenia wyjściowe ustalają warunki kalkulacji. Nie należy mylić danych wejściowych z wynikiem kosztorysu.",
+    "sources": [
+      {
+        "title": "Rozporządzenie o kosztorysie inwestorskim — § 3 ust. 1",
+        "url": "https://eli.gov.pl/api/acts/DU/2021/2458/text.html"
+      }
+    ],
+    "caveat": "Sprawdzony § 3 ust. 1 wylicza dokumentację projektową, specyfikację techniczną, założenia wyjściowe i ceny jednostkowe robót. Dla egzaminu sprzed wejścia w życie tego rozporządzenia należy sięgnąć do ówczesnego aktu."
+  },
+  "2022-12-01-13": {
+    "text": "Ryzyko lokalizacji dotyczy zmian otoczenia i użyteczności miejsca, rynkowe — zmian cen i popytu, a płynności — trudności sprzedaży bez dużej obniżki ceny. Wszystkie mogą występować równocześnie przy tej samej nieruchomości.",
+    "sources": [
+      {
+        "title": "Politechnika Białostocka — Rynek nieruchomości mieszkaniowych w Polsce",
+        "url": "https://pb.edu.pl/oficyna-wydawnicza/wp-content/uploads/sites/4/2024/06/Rynek-nieruchomosci-mieszkaniowych-w-Polsce.pdf"
+      },
+      {
+        "title": "OpenStax, Rice University — dywersyfikacja i ryzyko",
+        "url": "https://openstax.org/books/principles-finance/pages/15-2-risk-and-return-to-multiple-assets"
+      }
+    ]
+  },
+  "2022-12-01-14": {
+    "text": "Przy stałym popycie na środki większe oszczędności zwiększają ich podaż. W prostym modelu rynku funduszy pożyczkowych nowa równowaga ma niższą stopę procentową.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — popyt, podaż i równowaga",
+        "url": "https://openstax.org/books/principles-economics-3e/pages/3-1-demand-supply-and-equilibrium-in-markets-for-goods-and-services"
+      }
+    ],
+    "caveat": "To zależność modelowa przy niezmienionym ryzyku, polityce banku centralnego i innych warunkach; nie automatyczna prognoza wszystkich stóp w gospodarce."
+  },
+  "2022-12-01-17": {
+    "text": "Regulacja czynszu służy m.in. dostępności mieszkań i ochronie lokatorów, czyli realizacji polityki społecznej. Stawka jest ograniczana instytucjonalnie, nie powstaje wyłącznie w swobodnej grze popytu i podaży.",
+    "sources": [
+      {
+        "title": "Politechnika Białostocka — Rynek nieruchomości mieszkaniowych w Polsce",
+        "url": "https://pb.edu.pl/oficyna-wydawnicza/wp-content/uploads/sites/4/2024/06/Rynek-nieruchomosci-mieszkaniowych-w-Polsce.pdf"
+      }
+    ],
+    "caveat": "Szczegółowe zasady ustalania czynszu, uwzględniania kosztów i dopuszczalnych podwyżek zależą od rodzaju zasobu i obowiązujących przepisów."
+  },
+  "2022-10-27-10": {
+    "text": "Kapitał obrotowy netto = aktywa obrotowe − zobowiązania krótkoterminowe. Równoważnie jest częścią kapitałów stałych pozostałą po sfinansowaniu aktywów trwałych. Nie jest to różnica aktywów obrotowych i zapasów.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — wskaźniki finansowe",
+        "url": "https://openstax.org/books/principles-finance/pages/6-summary"
+      }
+    ]
+  },
+  "2022-10-27-12": {
+    "text": "Łączenie aktywów o nieidealnie skorelowanych wynikach ogranicza ryzyko specyficzne pojedynczej inwestycji. Nie usuwa ryzyka systematycznego, np. spadku całego rynku. Celem jest poprawa relacji oczekiwanego zysku do ryzyka.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — dywersyfikacja i ryzyko",
+        "url": "https://openstax.org/books/principles-finance/pages/15-2-risk-and-return-to-multiple-assets"
+      }
+    ]
+  },
+  "2022-10-27-13": {
+    "text": "Lewoskośny rozkład ma wydłużony ogon niskich wartości, a skupienie obserwacji jest zwykle po stronie wyższych wartości. Niskie obserwacje ciągną średnią w lewo.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — skośność, średnia i mediana",
+        "url": "https://openstax.org/books/introductory-statistics/pages/2-6-skewness-and-the-mean-median-and-mode?query=variation"
+      }
+    ],
+    "caveat": "Klucz wskazuje „wartości mniejsze od średniej”, co nie odpowiada typowej interpretacji lewoskośności. Ponadto sama skośność nie rozstrzyga bez wyjątków, po której stronie średniej leży większość obserwacji."
+  },
+  "2022-10-27-14": {
+    "text": "W klasyfikacji inwestycji przedsiębiorstwa lokaty kapitałowe oznaczają lokowanie nadwyżek w aktywach finansowych lub przedsięwzięciach poza zasadniczą działalnością operacyjną. Zakup maszyny do własnej produkcji jest inwestycją rzeczową w tę działalność.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — NPV",
+        "url": "https://openstax.org/books/principles-finance/pages/16-2-net-present-value-npv-method"
+      }
+    ],
+    "caveat": "Termin ma różne zakresy w literaturze; nie należy utożsamiać każdej opłacalnej lokacji środków z konkretną klasyfikacją egzaminacyjną."
+  },
+  "2022-10-27-18": {
+    "text": "Przedział sumy współczynników korygujących opiera się na ilorazach Cmin/Cśrednia i Cmax/Cśrednia. Dlatego potrzebne są trzy wielkości: minimum, maksimum i średnia z przyjętego zbioru cen. Samo minimum i maksimum nie wyznaczą granic względem średniej.",
+    "sources": [
+      {
+        "title": "Rozporządzenie w sprawie wyceny nieruchomości i operatu — tekst z 2021 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2021/555/text.html"
+      }
+    ]
+  },
+  "2022-09-15-14": {
+    "text": "Rata = kapitał × podany roczny współczynnik = 10 000 × 0,10 = 1 000 zł. Współczynnik ma już zawierać wpływ okresu i stopy zwrotu; nie dzielimy tej kwoty ponownie przez liczbę lat.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — wycena obligacji",
+        "url": "https://openstax.org/books/principles-finance/pages/10-2-bond-valuation"
+      }
+    ]
+  },
+  "2022-09-15-15": {
+    "text": "W prostym modelu rynku pieniężnego większa podaż pieniądza przy stałym popycie obniża stopę procentową potrzebną do równowagi. To krótkookresowy efekt płynności.",
+    "sources": [
+      {
+        "title": "NBP — polityka pieniężna, materiał edukacyjny",
+        "url": "https://nbp.pl/wp-content/uploads/2022/09/polityka-pieniezna-scenariusz.pdf"
+      }
+    ],
+    "caveat": "Nie jest to reguła bezwarunkowa: oczekiwania inflacyjne i reakcja banku centralnego mogą z czasem podnosić nominalne stopy. Większa podaż sama nie wyznacza też dokładnego tempa inflacji."
+  },
+  "2022-09-15-18": {
+    "text": "W progu rentowności przychody pokrywają wszystkie koszty stałe i zmienne: zysk wynosi zero. Ilościowo Q₀ = koszty stałe/(cena jednostkowa − koszt zmienny jednostkowy). Dopiero dalsza sprzedaż, przy niezmienionych warunkach, tworzy zysk.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — próg rentowności i marża pokrycia",
+        "url": "https://openstax.org/books/principles-managerial-accounting/pages/3-2-calculate-a-break-even-point-in-units-and-dollars"
+      }
+    ]
+  },
+  "2022-07-07-13": {
+    "text": "Akcja reprezentuje udział w kapitale zakładowym spółki akcyjnej i nie musi być notowana na giełdzie. Nie ma z góry oznaczonego terminu wykupu tak jak typowa obligacja.",
+    "sources": [
+      {
+        "title": "Kodeks spółek handlowych — tekst z 2024 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2024/18/text.html"
+      }
+    ],
+    "caveat": "Historyczne określenie akcji jako „dokumentu” wymaga zastrzeżenia: art. 328 § 1 KSH stanowi obecnie, że akcje nie mają formy dokumentu. Materialna kartka nie jest warunkiem istnienia akcji."
+  },
+  "2022-07-07-14": {
+    "text": "Nowych budynków i gruntów w danej lokalizacji nie można szybko dostarczyć, więc podaż reaguje z opóźnieniem. Rynek jest niejednorodny i ma ograniczoną przejrzystość. W klasycznej charakterystyce podkreśla się małą elastyczność popytu i podaży oraz niedoskonałość rynku.",
+    "sources": [
+      {
+        "title": "Politechnika Białostocka — Rynek nieruchomości mieszkaniowych w Polsce",
+        "url": "https://pb.edu.pl/oficyna-wydawnicza/wp-content/uploads/sites/4/2024/06/Rynek-nieruchomosci-mieszkaniowych-w-Polsce.pdf"
+      }
+    ],
+    "caveat": "Elastyczność zależy od segmentu, dostępności kredytu i horyzontu; nie jest stałą cechą liczbową wszystkich nieruchomości."
+  },
+  "2022-06-02-11": {
+    "text": "W klasyfikacji rozróżniającej miary klasyczne i pozycyjne średnie arytmetyczna oraz geometryczna są klasyczne: oblicza się je z wartości obserwacji. Mediana jest miarą pozycyjną, wyznaczaną z porządku zbioru. Wszystkie należą do szerokiej grupy miar tendencji centralnej, ale pytanie zawęża grupę słowem „klasyczne”.",
+    "sources": [
+      {
+        "title": "GUS — miary tendencji centralnej",
+        "url": "https://stat.gov.pl/metainformacje/slownik-pojec/pojecia-stosowane-w-statystyce-publicznej/2757,pojecie.html"
+      }
+    ],
+    "caveat": "Terminologia podręczników bywa różna. GUS wymienia medianę w szerokiej grupie miar tendencji centralnej; nie oznacza to, że jest ona średnią klasyczną. To rozróżnienie jest istotne dla treści pytania."
+  },
+  "2022-06-02-14": {
+    "text": "Rynek to układ transakcji i warunków wymiany, w którym spotykają się popyt i podaż i kształtuje cena. Nie jest utożsamiany z samą interwencją państwa w postaci cen minimalnych czy maksymalnych.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — popyt, podaż i równowaga",
+        "url": "https://openstax.org/books/principles-economics-3e/pages/3-1-demand-supply-and-equilibrium-in-markets-for-goods-and-services"
+      }
+    ]
+  },
+  "2022-06-02-17": {
+    "text": "Substytuty zaspokajają podobną potrzebę i mogą się zastępować, np. dwa środki transportu na tej samej trasie. Nie muszą być dobrami wolnymi: wzrost ceny jednego może zwiększać popyt na drugi.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — popyt, podaż i równowaga",
+        "url": "https://openstax.org/books/principles-economics-3e/pages/3-1-demand-supply-and-equilibrium-in-markets-for-goods-and-services"
+      }
+    ]
+  },
+  "2022-04-28-11": {
+    "text": "Proste, statyczne metody to m.in. zwykły okres zwrotu i księgowa stopa zwrotu. Nie dyskontują przepływów. Zdyskontowany okres zwrotu jest odmianą uwzględniającą wartość pieniądza w czasie, dlatego nie należy do tej samej grupy.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — okres zwrotu",
+        "url": "https://openstax.org/books/principles-finance/pages/16-1-payback-period-method"
+      }
+    ]
+  },
+  "2022-04-28-12": {
+    "text": "Krzywa podaży przedstawia relację ceny dobra i ilości oferowanej przy pozostałych warunkach stałych. Podatek może ją przesunąć, ale nie jest zmienną cenową na osi standardowej krzywej.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — popyt, podaż i równowaga",
+        "url": "https://openstax.org/books/principles-economics-3e/pages/3-1-demand-supply-and-equilibrium-in-markets-for-goods-and-services"
+      }
+    ]
+  },
+  "2022-04-28-13": {
+    "text": "Rynek pieniężny obejmuje instrumenty krótkoterminowe, a kapitałowy m.in. długoterminowy dług i akcje. Wyodrębnia się także rynek walutowy i instrumentów pochodnych. Podział na rynek pierwotny i wtórny odnosi się do etapu obrotu, nie rodzaju instrumentu.",
+    "sources": [
+      {
+        "title": "Ministerstwo Finansów — fundusze inwestycyjne",
+        "url": "https://www.gov.pl/web/finanse/fundusze-inwestycyjne"
+      },
+      {
+        "title": "OpenStax, Rice University — wycena obligacji",
+        "url": "https://openstax.org/books/principles-finance/pages/10-2-bond-valuation"
+      }
+    ]
+  },
+  "2022-04-28-15": {
+    "text": "Stopę kapitalizacji wyprowadza się z relacji dochodów i cen nieruchomości podobnych, uwzględniając ryzyko wycenianego obiektu. Ma odzwierciedlać warunki rynku, nie dowolne indywidualne oczekiwanie właściciela ani mechaniczną średnią wszystkich obserwacji.",
+    "sources": [
+      {
+        "title": "Rozporządzenie w sprawie wyceny nieruchomości i operatu — tekst z 2021 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2021/555/text.html"
+      },
+      {
+        "title": "Rozporządzenie w sprawie wyceny nieruchomości z 2023 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2023/1832/text.html"
+      }
+    ]
+  },
+  "2022-04-28-16": {
+    "text": "Rzadkość to ograniczoność zasobów wobec potrzeb. Nawet bez lokalnego braku towaru nie można z dostępnej ziemi, pracy i kapitału wytworzyć wszystkiego, czego ludzie pragną; dlatego konieczny jest wybór i ponoszenie kosztów alternatywnych.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — popyt, podaż i równowaga",
+        "url": "https://openstax.org/books/principles-economics-3e/pages/3-1-demand-supply-and-equilibrium-in-markets-for-goods-and-services"
+      }
+    ]
+  },
+  "2022-04-28-18": {
+    "text": "Stopa netto odnosi się do dochodu po wydatkach operacyjnych. W modelu V = DON/R wzrost R przy stałym DON obniża wartość. Odwrotność musi dotyczyć tego samego rodzaju stopy i współczynnika, nie netto zestawionego z brutto.",
+    "sources": [
+      {
+        "title": "Rozporządzenie w sprawie wyceny nieruchomości z 2023 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2023/1832/text.html"
+      }
+    ]
+  },
+  "2022-03-24-10": {
+    "text": "Powierzchnię do podatku od nieruchomości określa ustawa podatkowa, nie dowolna norma pomiarowa. Mierzy się ją po wewnętrznej długości ścian na kondygnacjach, z ustawowymi wyłączeniami i zasadami dla niskich pomieszczeń.",
+    "sources": [
+      {
+        "title": "Gmina Raba Wyżna — ustawowe obliczanie powierzchni do podatku",
+        "url": "https://samorzad.gov.pl/web/gmina-raba-wyzna/weryfikacja-i-aktualizacja-danych-dotyczacych-powierzchni-uzytkowej-posiadanych-budynkow-mieszkalnych-pozostalych-oraz-zwiazanych-z-prowadzona-dzialalnoscia-gospodarcza"
+      }
+    ]
+  },
+  "2022-03-24-11": {
+    "text": "CPI porównuje poziom cen koszyka towarów i usług konsumpcyjnych między okresami. Zmiana tego indeksu jest powszechną miarą inflacji konsumenckiej. Kurs walutowy i oprocentowanie depozytów mogą z inflacją współzależeć, lecz nie są jej bezpośrednim miernikiem.",
+    "sources": [
+      {
+        "title": "AGH — Finanse, pieniądz i inflacja",
+        "url": "https://epodreczniki.open.agh.edu.pl/handbook/1643/module/1650/reader"
+      }
+    ]
+  },
+  "2022-03-24-12": {
+    "text": "P/E = kurs jednej akcji/zysk przypadający na jedną akcję. Wynik np. 12 oznacza cenę równą dwunastokrotności rocznego zysku na akcję. Iloraz ceny i wartości księgowej to P/BV, a nie P/E.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — wskaźniki finansowe",
+        "url": "https://openstax.org/books/principles-finance/pages/6-summary"
+      }
+    ]
+  },
+  "2022-03-24-15": {
+    "text": "Krzywa popytu łączy cenę dobra z ilością, którą nabywcy chcą i mogą kupić, przy stałych pozostałych warunkach. Zmiana samej ceny przesuwa po krzywej; zmiana dochodów, gustów lub liczby nabywców może przesunąć całą krzywą.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — popyt, podaż i równowaga",
+        "url": "https://openstax.org/books/principles-economics-3e/pages/3-1-demand-supply-and-equilibrium-in-markets-for-goods-and-services"
+      }
+    ]
+  },
+  "2021-12-02-10": {
+    "text": "Wskaźniki EU, EK i EP odnoszą roczne zapotrzebowanie na energię do powierzchni: kWh/(m²·rok). kWh jest energią, natomiast kW — mocą; dzielenie mocy przez objętość nie daje tego wskaźnika.",
+    "sources": [
+      {
+        "title": "Ministerstwo Rozwoju i Technologii — efektywność energetyczna budynków",
+        "url": "https://www.gov.pl/web/rozwoj-technologia/efektywnosci-energetycznej-budynkow"
+      }
+    ]
+  },
+  "2021-12-02-13": {
+    "text": "W murze pruskim obciążenia przenosi drewniany szkielet z krawędziaków, a pola między elementami są wypełnione cegłą. Samo obicie szkieletu deskami nie jest murowanym wypełnieniem charakterystycznym dla tej konstrukcji.",
+    "sources": [
+      {
+        "title": "Polska Akademia Nauk — mur pruski, Wielki słownik języka polskiego",
+        "url": "https://wsjp.pl/haslo/podglad/28858/mur-pruski"
+      }
+    ]
+  },
+  "2021-10-28-10": {
+    "text": "Potwierdzenie aktualności należy do autora operatu. Inny rzeczoznawca może sporządzić własną opinię, ale nie potwierdza autorstwa i aktualności cudzego opracowania w trybie art. 156 ust. 4. Komisja odpowiedzialności zawodowej ma inną funkcję.",
+    "sources": [
+      {
+        "title": "Ustawa o gospodarce nieruchomościami — tekst z 2024 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2024/1145/text.html"
+      }
+    ]
+  },
+  "2021-10-28-14": {
+    "text": "Symbol K w ewidencji oznacza użytki kopalne, np. tereny odkrywkowego wydobycia i wyrobiska. Tereny kolejowe mają oznaczenie Tk, a inne tereny komunikacyjne — Ti; wielkość liter i pełny symbol mają znaczenie.",
+    "sources": [
+      {
+        "title": "Rozporządzenie w sprawie ewidencji gruntów i budynków",
+        "url": "https://eli.gov.pl/api/acts/DU/2021/1390/text.html"
+      }
+    ]
+  },
+  "2021-10-28-17": {
+    "text": "Oszacowanie dla egzekucji odnosi się do przeciętnych cen sprzedaży podobnych nieruchomości w okolicy i stanu nieruchomości z dnia oszacowania. Nie przenosi się automatycznie stanu na dzień wszczęcia postępowania.",
+    "sources": [
+      {
+        "title": "Ministerstwo — historyczny arkusz z takim samym pytaniem, pyt. 19",
+        "url": "https://www.gov.pl/documents/33377/436740/20161117_pisemny.pdf"
+      },
+      {
+        "title": "UGN — ogólne zasady wyceny",
+        "url": "https://eli.gov.pl/api/acts/DU/2024/1145/text.html"
+      }
+    ],
+    "caveat": "Źródło egzaminacyjne potwierdza pochodzenie sformułowania, nie zastępuje samodzielnej weryfikacji dokładnego historycznego przepisu wykonawczego o egzekucji."
+  },
+  "2021-09-09-10": {
+    "text": "Przedmiotem obrotu jest funkcjonalnie cała zabudowana nieruchomość: grunt w użytkowaniu wieczystym oraz związana z nim własność budynku. Budynek nie staje się przez to przedmiotem użytkowania wieczystego. Odmienne prawa nie oznaczają konieczności pominięcia ich powiązania w rynkowej wycenie całości.",
+    "sources": [
+      {
+        "title": "Kodeks cywilny — tekst z 2024 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2024/1061/text.html"
+      },
+      {
+        "title": "Rozporządzenie w sprawie wyceny nieruchomości i operatu — tekst z 2021 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2021/555/text.html"
+      }
+    ]
+  },
+  "2021-09-09-13": {
+    "text": "Wariancja mierzy przeciętny kwadrat odchyleń od średniej, a odchylenie standardowe jest jej pierwiastkiem i ma jednostkę badanego zjawiska. Mediana opisuje położenie centrum, nie rozproszenie.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — statystyka opisowa",
+        "url": "https://openstax.org/books/introductory-statistics/pages/2-chapter-review"
+      }
+    ]
+  },
+  "2021-09-09-14": {
+    "text": "W DCF wzrost można ująć w prognozowanych przepływach. W uproszczonym modelu stałego wzrostu V = D₁/(r−g), więc wzrost g obniża stopę kapitalizacji r−g przy niezmienionej stopie dyskontowej r.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — NPV",
+        "url": "https://openstax.org/books/principles-finance/pages/16-2-net-present-value-npv-method"
+      },
+      {
+        "title": "Rozporządzenie w sprawie wyceny nieruchomości z 2023 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2023/1832/text.html"
+      }
+    ],
+    "caveat": "Klucz mówi o obniżeniu „stopy dyskontowej”. Ściśle obniża się tu stopę kapitalizacji o wzrost, nie dowolnie wymaganą stopę dyskontową; nie można równocześnie podwójnie uwzględniać tego samego wzrostu."
+  },
+  "2021-09-09-17": {
+    "text": "Pięć stanów tworzy cztery równe przejścia, więc 40/(5−1) = 10 zł na jeden stopień. Nieruchomość wyceniana ma stan 2, a porównawcza 3: korekta = (2−3) × 10 = −10 zł. Słabsza cecha obniża skorygowaną cenę porównawczą.",
+    "sources": [
+      {
+        "title": "Rozporządzenie w sprawie wyceny nieruchomości i operatu — tekst z 2021 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2021/555/text.html"
+      }
+    ],
+    "caveat": "Zakłada się równe odstępy skali oraz 40 zł jako pełną różnicę między stanem najgorszym i najlepszym; bez tych założeń poprawka nie jest jednoznaczna."
+  },
+  "2021-09-09-18": {
+    "text": "EDB = 10 000 × (1−10%) = 9 000 zł. Wydatki = 40% × 9 000 = 3 600 zł. DON = 9 000 − 3 600 = 5 400 zł. Kwota 3 600 zł to same wydatki, nie dochód netto.",
+    "sources": [
+      {
+        "title": "Rozporządzenie w sprawie wyceny nieruchomości z 2023 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2023/1832/text.html"
+      }
+    ]
+  },
+  "2021-07-22-16": {
+    "text": "Rzadkość to ograniczoność zasobów wobec potrzeb. Nawet bez lokalnego braku towaru nie można z dostępnej ziemi, pracy i kapitału wytworzyć wszystkiego, czego ludzie pragną; dlatego konieczny jest wybór i ponoszenie kosztów alternatywnych.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — popyt, podaż i równowaga",
+        "url": "https://openstax.org/books/principles-economics-3e/pages/3-1-demand-supply-and-equilibrium-in-markets-for-goods-and-services"
+      }
+    ]
+  },
+  "2021-07-22-17": {
+    "text": "Obligację można emitować po nominale, z dyskontem albo z premią. Nominał określa kwotę wykupu zgodnie z warunkami emisji, a cena emisyjna kwotę płaconą przy objęciu; nie muszą być jednakowe.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — wycena obligacji",
+        "url": "https://openstax.org/books/principles-finance/pages/10-2-bond-valuation"
+      }
+    ]
+  },
+  "2021-06-24-10": {
+    "text": "Atrium jest wewnętrznym dziedzińcem mieszczącym się w obrębie rzutu budynku. Współczesne realizacje mogą nad nim mieć przeszklenie; zasadnicza jest relacja do wnętrza bryły, nie dowolny plac pomiędzy osobnymi budynkami.",
+    "sources": [
+      {
+        "title": "PAN / Politechnika Lubelska — Teka architektury, atrium i dziedziniec",
+        "url": "https://bc.pollub.pl/Content/12755/PDF/tekaXI-3.pdf"
+      }
+    ]
+  },
+  "2021-06-24-13": {
+    "text": "„Działka budowlana” jest pojęciem używanym w kilku regulacjach, m.in. w UGN, ustawie planistycznej oraz warunkach technicznych budynków. Definicje służą innym celom i nie muszą być literalnie identyczne. Przy stosowaniu prawa należy wskazać konkretny akt.",
+    "sources": [
+      {
+        "title": "Ustawa o gospodarce nieruchomościami — tekst z 2024 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2024/1145/text.html"
+      }
+    ],
+    "caveat": "W przepisach wykonawczych do Prawa budowlanego także znajduje się definicja; nie oznacza to automatycznie identycznego brzmienia w samej ustawie Prawo budowlane."
+  },
+  "2021-06-24-15": {
+    "text": "Zużycie techniczne zależy od czasu użytkowania w relacji do trwałości elementu oraz jego rzeczywistego stanu i utrzymania. Okresowe kontrole pozwalają stan rozpoznać i zaplanować naprawy, lecz samo przeprowadzenie kontroli nie jest miarą stopnia zużycia.",
+    "sources": [
+      {
+        "title": "Politechnika Białostocka — Rynek nieruchomości mieszkaniowych w Polsce",
+        "url": "https://pb.edu.pl/oficyna-wydawnicza/wp-content/uploads/sites/4/2024/06/Rynek-nieruchomosci-mieszkaniowych-w-Polsce.pdf"
+      }
+    ]
+  },
+  "2021-06-24-16": {
+    "text": "Proste, statyczne metody to m.in. zwykły okres zwrotu i księgowa stopa zwrotu. Nie dyskontują przepływów. Zdyskontowany okres zwrotu jest odmianą uwzględniającą wartość pieniądza w czasie, dlatego nie należy do tej samej grupy.",
+    "sources": [
+      {
+        "title": "OpenStax, Rice University — okres zwrotu",
+        "url": "https://openstax.org/books/principles-finance/pages/16-1-payback-period-method"
+      }
+    ]
+  },
+  "2021-06-24-18": {
+    "text": "Dochód z najmu prognozuje się z uwzględnieniem wiążących umów oraz rynkowych warunków w dalszym okresie. Podatek od nieruchomości obciążający właściciela jest wydatkiem operacyjnym pomniejszającym dochód. Indywidualna operatywność najemcy nie zastępuje rynkowych danych o nieruchomości.",
+    "sources": [
+      {
+        "title": "Rozporządzenie w sprawie wyceny nieruchomości i operatu — tekst z 2021 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2021/555/text.html"
+      }
+    ],
+    "caveat": "Trzeba sprawdzić, kto zgodnie z umową faktycznie ponosi podatek; odzyskiwany od najemcy koszt nie może zostać odjęty podwójnie."
+  },
+  "2021-05-27-11": {
+    "text": "Prawo pierwokupu daje KOWR możliwość wejścia w miejsce kupującego przy określonej dalszej sprzedaży nieruchomości nabytej z Zasobu. W pytaniu chodzi o ustawowy okres pięciu lat od nabycia, a nie ogólne ograniczenie każdej transakcji rolnej.",
+    "sources": [
+      {
+        "title": "Ustawa o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa — art. 29 ust. 4",
+        "url": "https://eli.gov.pl/api/acts/DU/2024/589/text.html#chpt_6-arti_29-pass_4"
+      }
+    ],
+    "caveat": "Reguła dotyczy odsprzedaży nieruchomości nabytej od KOWR, nie każdej sprzedaży gruntu rolnego. Nie mylić z odrębnymi uprawnieniami z ustawy o kształtowaniu ustroju rolnego; dla konkretnej daty trzeba uwzględnić brzmienie historyczne."
+  },
+  "2021-05-27-12": {
+    "text": "Przekazanie odpisu umowy organowi, który przekształcił prawo, pozwala mu ocenić skutki szybkiej dalszej sprzedaży, w tym ewentualny zwrot bonifikaty. Samo pouczenie stron nie wykonuje obowiązku doręczenia odpisu przez notariusza.",
+    "sources": [
+      {
+        "title": "Prawo o notariacie — obowiązek przesłania wypisu po przekształceniu",
+        "url": "https://eli.gov.pl/api/acts/DU/2024/1001/text.html"
+      }
+    ],
+    "caveat": "Przepis dotyczy wskazanych w Prawie o notariacie historycznych trybów przekształcenia; nie należy automatycznie stosować go do każdego ustawowego przekształcenia z 2019 r."
+  },
+  "2021-05-27-14": {
+    "text": "Budynki oświaty i ochrony zdrowia mieszczą się w definicji użyteczności publicznej. Dom dziecka bywa kwalifikowany jako budynek zamieszkania zbiorowego ze względu na funkcję mieszkalną, dlatego nie należy utożsamiać każdego obiektu opieki z użytecznością publiczną.",
+    "sources": [
+      {
+        "title": "Warunki techniczne budynków — § 3 pkt 5 i 6",
+        "url": "https://eli.gov.pl/api/acts/DU/2022/1225/text.html"
+      }
+    ],
+    "caveat": "Ostateczna kwalifikacja wymaga sprawdzenia funkcji i właściwego § 3 warunków technicznych; nazwa jednostki nie zawsze przesądza o kategorii całego obiektu."
+  },
+  "2021-05-27-15": {
+    "text": "Wspólnotę tworzy ogół właścicieli lokali w danej nieruchomości. Członkostwo wynika z własności, nie z zamieszkiwania ani najmu: najemca nie staje się członkiem wspólnoty tylko dlatego, że korzysta z lokalu.",
+    "sources": [
+      {
+        "title": "Ustawa o własności lokali — art. 6",
+        "url": "https://eli.gov.pl/api/acts/DU/2021/1048/text.html"
+      }
+    ]
+  },
+  "2021-05-27-16": {
+    "text": "Mapa glebowo-rolnicza przedstawia typy i właściwości gleb oraz ich przydatność rolniczą; pozwala odróżniać gleby organiczne od mineralnych według oznaczeń legendy. Zwykła mapa ewidencyjna opisuje przede wszystkim działki i użytki, a nie pełną charakterystykę glebową.",
+    "sources": [
+      {
+        "title": "GUGiK — informacje o glebach w raporcie o działce",
+        "url": "https://www.gov.pl/web/gugik/informacje-o-glebach-w-raporcie-o-dzialce"
+      },
+      {
+        "title": "GUGiK — instrukcje i publikacje IUNG o mapach glebowo-rolniczych",
+        "url": "https://www.gov.pl/web/gugik/materialy-dotyczace-map-glebowo-rolniczych"
+      }
+    ],
+    "caveat": "Odczyt wymaga legendy i skali konkretnej mapy. Mapa siedlisk leśnych służy innemu zakresowi rozpoznania i nie zastępuje automatycznie mapy glebowo-rolniczej."
+  },
+  "2021-05-27-17": {
+    "text": "Samo wynajęcie nieruchomości nie narzuca wyłącznie podejścia dochodowego. Dla zabezpieczenia wierzytelności można rozważyć podejście porównawcze lub dochodowe, zależnie od rynku, danych i celu; wybór musi być uzasadniony.",
+    "sources": [
+      {
+        "title": "Rozporządzenie w sprawie wyceny nieruchomości i operatu — tekst z 2021 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2021/555/text.html"
+      },
+      {
+        "title": "Ustawa o gospodarce nieruchomościami — tekst z 2024 r.",
+        "url": "https://eli.gov.pl/api/acts/DU/2024/1145/text.html"
+      }
+    ],
+    "caveat": "Należy odróżniać wartość rynkową zabezpieczenia od szczególnych zasad ustalania wartości bankowo-hipotecznej."
+  },
+  "2021-04-22-13": {
+    "text": "Wyłączenie gruntu leśnego z produkcji może powodować obowiązek zapłaty jednorazowej należności i opłat rocznych. To inne obciążenia niż opłata związana z usunięciem drzewa; dodatkowo w przypadkach leśnych może wystąpić odszkodowanie za przedwczesny wyrąb.",
+    "sources": [
+      {
+        "title": "Ustawa o ochronie gruntów rolnych i leśnych — art. 12",
+        "url": "https://eli.gov.pl/api/acts/DU/2024/82/text.html"
+      }
+    ],
+    "caveat": "Właściwy jest art. 12 ustawy o ochronie gruntów rolnych i leśnych wraz z wyjątkami i zwolnieniami; nie każde wyłączenie powoduje identyczny zestaw należności."
+  }
+}

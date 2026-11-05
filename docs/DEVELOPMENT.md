@@ -33,3 +33,7 @@ Skrypt zapisuje ZIP repozytorium, ZIP samej strony, manifest plików i sumy SHA-
 `questions.json` przechowuje historyczne klucze ministerstwa, a `legal-bases.json` opracowanie redakcyjne. Nie zmieniaj klucza tylko dlatego, że dzisiejszy przepis jest inny; najpierw zweryfikuj właściwą wersję prawa i oficjalne sprostowanie. Sprzeczność lub brak potwierdzenia oznacz jako wymagające weryfikacji. Kategorie pytań są pomocnicze.
 
 Standardowe testy danych: `python3 checks/legal.py`. Dodatkowa kontrola kluczy z PDF-ów (`checks/keys.py`) wymaga PyMuPDF, Pillow i lokalnych oryginalnych dokumentów. Kontrola fragmentów (`checks/legal-evidence.py`) wymaga pobranych urzędowych korpusów, które są pomijane w paczce. Samo mapowanie można odtworzyć z plików `data/legal/` przez `assemble.py`; przed publikacją ponownie sprawdź treść źródeł.
+
+## Komentarze dydaktyczne
+
+`data/explanations/assemble.py` buduje `dist/explanations.json` z plików redakcyjnych. `checks/explanations.py` sprawdza pokrycie 863 pytań bez przypisu. Komentarze nie zmieniają urzędowych pytań ani kluczy.

@@ -88,6 +88,7 @@ try {
 } catch (e) {
   storageOK = false;
 }
+let explanations = {};
 let legalBases = {},
   legalMeta = null,
   legalReady = false;
@@ -160,7 +161,7 @@ function shell(content) {
     review: "Przegląd odpowiedzi",
   };
   $("#app").innerHTML =
-    `<div class="shell"><aside class="sidebar"><a href="#home" class="brand"><span class="brandmark">${I("building")}</span><span>Pracownia<br>Rzeczoznawcy<small>TWOJA PRZESTRZEŃ DO NAUKI</small></span></a><div class="navlabel">TWOJA PRACOWNIA</div><nav aria-label="Menu główne">${nav.map(([v, i, t]) => `<a href="#${v}" title="${t}" ${view === v ? 'aria-current="page"' : ""} class="${view === v ? "active" : ""}">${I(i)}<span>${t}</span>${v === "base" ? `<span class="count">${Q.length}</span>` : ""}</a>`).join("")}</nav><div class="sidebottom"><div class="sidehelp">${I("bulb")}<h3>Małe kroki. Duży postęp.</h3><p>Nawet 15 minut nauki dziennie przybliża Cię do celu.</p><button data-action="learn-config">Zacznij krótką sesję ↗</button></div><div class="local"><span class="dot"></span>Bez konta. W Twoim tempie.</div></div></aside><main class="main" id="main-content" tabindex="-1"><header class="topbar"><div class="crumb">Twoja pracownia <span>/ &nbsp; ${titles[view] || "Pulpit"}</span></div><a class="mobilebrand" href="#home">Pracownia Rzeczoznawcy</a><div class="topright">${networkBadge()}<span class="date">Przestrzeń do dobrego przygotowania</span><span class="pill">${I("shield")} Bez logowania</span><div class="toolbar"><button class="iconbtn" data-action="theme" aria-label="${preferences().theme === "dark" ? "Włącz jasny wygląd" : "Włącz tryb nocny"}" title="Zmień wygląd">${I(preferences().theme === "dark" ? "sun" : "moon")}</button><button class="iconbtn" data-action="help" aria-label="Pomoc i skróty klawiaturowe" title="Pomoc">${I("help")}</button><button class="iconbtn" data-action="settings" aria-label="Ustawienia i plan nauki" title="Ustawienia pracowni">${I("settings")}</button></div></div></header><div class="content">${!storageOK ? '<div id="storage-warn" class="notice">Zapis lokalny jest niedostępny. Zachowaj postęp, pobierając kopię w Statystykach.</div>' : ""}${content}<footer class="foot"><span>© ${new Date().getFullYear()} Pracownia Rzeczoznawcy · Wersja 1.0.1 · Ucz się świadomie.</span><span><button data-action="help">Pomoc i skróty</button> &nbsp; · &nbsp; Postęp na tym urządzeniu &nbsp; · &nbsp; <button data-action="sources">Źródła i zasady</button></span></footer></div></main></div>`;
+    `<div class="shell"><aside class="sidebar"><a href="#home" class="brand"><span class="brandmark">${I("building")}</span><span>Pracownia<br>Rzeczoznawcy<small>TWOJA PRZESTRZEŃ DO NAUKI</small></span></a><div class="navlabel">TWOJA PRACOWNIA</div><nav aria-label="Menu główne">${nav.map(([v, i, t]) => `<a href="#${v}" title="${t}" ${view === v ? 'aria-current="page"' : ""} class="${view === v ? "active" : ""}">${I(i)}<span>${t}</span>${v === "base" ? `<span class="count">${Q.length}</span>` : ""}</a>`).join("")}</nav><div class="sidebottom"><div class="sidehelp">${I("bulb")}<h3>Małe kroki. Duży postęp.</h3><p>Nawet 15 minut nauki dziennie przybliża Cię do celu.</p><button data-action="learn-config">Zacznij krótką sesję ↗</button></div><div class="local"><span class="dot"></span>Bez konta. W Twoim tempie.</div></div></aside><main class="main" id="main-content" tabindex="-1"><header class="topbar"><div class="crumb">Twoja pracownia <span>/ &nbsp; ${titles[view] || "Pulpit"}</span></div><a class="mobilebrand" href="#home">Pracownia Rzeczoznawcy</a><div class="topright">${networkBadge()}<span class="date">Przestrzeń do dobrego przygotowania</span><span class="pill">${I("shield")} Bez logowania</span><div class="toolbar"><button class="iconbtn" data-action="theme" aria-label="${preferences().theme === "dark" ? "Włącz jasny wygląd" : "Włącz tryb nocny"}" title="Zmień wygląd">${I(preferences().theme === "dark" ? "sun" : "moon")}</button><button class="iconbtn" data-action="help" aria-label="Pomoc i skróty klawiaturowe" title="Pomoc">${I("help")}</button><button class="iconbtn" data-action="settings" aria-label="Ustawienia i plan nauki" title="Ustawienia pracowni">${I("settings")}</button></div></div></header><div class="content">${!storageOK ? '<div id="storage-warn" class="notice">Zapis lokalny jest niedostępny. Zachowaj postęp, pobierając kopię w Statystykach.</div>' : ""}${content}<footer class="foot"><span>© ${new Date().getFullYear()} Pracownia Rzeczoznawcy · Wersja 1.1.1 · Ucz się świadomie.</span><span><button data-action="help">Pomoc i skróty</button> &nbsp; · &nbsp; Postęp na tym urządzeniu &nbsp; · &nbsp; <button data-action="sources">Źródła i zasady</button></span></footer></div></main></div>`;
 }
 const head = (h, p, extra = "") =>
   `<div class="pagehead"><div><h1>${h}</h1><p>${p}</p></div>${extra}</div>`;
@@ -536,6 +537,18 @@ function legalURL(value) {
     return null;
   }
 }
+function commentFor(q) {
+  const entry = explanations[q.id];
+  if (!entry) return "";
+  const sources = (entry.sources || []).filter((s) => {
+    try {
+      return new URL(s.url).protocol === "https:";
+    } catch {
+      return false;
+    }
+  });
+  return `<section class="legal-basis educational-comment"><h3>${I("bulb")} Komentarz do odpowiedzi</h3><p>${esc(entry.text).replace(/\n/g, "<br>")}</p>${entry.caveat ? `<div class="comment-caveat"><strong>Uwaga przy interpretacji klucza</strong><p>${esc(entry.caveat)}</p></div>` : ""}<div class="comment-sources"><strong>Źródła komentarza</strong>${sources.map((s) => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)} ↗</a>`).join("")}</div><p class="legal-caption">Komentarz dydaktyczny; punktacja według historycznego klucza. Sprawdzono: 5 listopada 2026 r.</p></section>`;
+}
 function legalBasis(q) {
   const entry = legalBases[q.id];
   if (!legalReady)
@@ -555,7 +568,7 @@ function legalOverview() {
   return `<section class="panel legal-overview"><h2>Podstawy prawne odpowiedzi</h2><p>Przy odpowiedziach w trybie nauki, w podglądzie pytania oraz po zakończeniu sprawdzianu i egzaminu znajdziesz przypisy z konkretnym artykułem lub paragrafem, nazwą aktu i odnośnikiem do oficjalnego tekstu.</p><div class="legal-counts"><span><b>${c.cited}</b> pytań z przypisem prawnym</span><span><b>${c.nonlegal}</b> pytań specjalistycznych lub obliczeniowych</span><span><b>${c.unresolved}</b> pytań z podstawą do dalszej weryfikacji</span></div><p>Każdy przypis wymagał sprawdzenia treści wskazanego przepisu. Nie oznacza to pełnej weryfikacji obowiązywania tego brzmienia w dniu każdej historycznej sesji ani aktualności na dziś. Datę i wersję sprawdzisz w źródłowym akcie. Wątpliwe przypisania są oznaczone zamiast uzupełniane domyślnym artykułem.</p><p class="muted">Data opracowania przypisów: ${esc(legalMeta.checkedAt)}. Odpowiedzi i punktacja nadal pochodzą z historycznych kluczy ministerstwa.</p></section>`;
 }
 function feedback(q, ok, showCorrectOptions = true) {
-  return `<div class="feedback ${ok ? "" : "error"}" role="status"><strong>${ok ? "✓ Dobra odpowiedź." : "↻ To pytanie warto powtórzyć."}</strong><p>Poprawny zestaw z klucza: <b>${q.correct.map((i) => "ABC"[i]).join(", ")}</b>.</p>${showCorrectOptions ? q.correct.map((i) => `<p>${"ABC"[i]}. ${esc(q.options[i])}</p>`).join("") : ""}<p style="margin-top:9px;font-size:12px;color:#7f8773">Klucz historyczny — stan na ${dateLabel(q.session)}. Bez weryfikacji z obecnymi przepisami.</p><a href="${q.keySource}" target="_blank" rel="noopener">Oficjalny klucz PDF ↗</a> &nbsp; <a href="${q.source}" target="_blank" rel="noopener">Arkusz źródłowy PDF ↗</a>${legalBasis(q)}${noteEditor(q)}</div>`;
+  return `<div class="feedback ${ok ? "" : "error"}" role="status"><strong>${ok ? "✓ Dobra odpowiedź." : "↻ To pytanie warto powtórzyć."}</strong><p>Poprawny zestaw z klucza: <b>${q.correct.map((i) => "ABC"[i]).join(", ")}</b>.</p>${showCorrectOptions ? q.correct.map((i) => `<p>${"ABC"[i]}. ${esc(q.options[i])}</p>`).join("") : ""}<p style="margin-top:9px;font-size:12px;color:#7f8773">Klucz historyczny — stan na ${dateLabel(q.session)}. Bez weryfikacji z obecnymi przepisami.</p><a href="${q.keySource}" target="_blank" rel="noopener">Oficjalny klucz PDF ↗</a> &nbsp; <a href="${q.source}" target="_blank" rel="noopener">Arkusz źródłowy PDF ↗</a>${legalBasis(q)}${commentFor(q)}${noteEditor(q)}</div>`;
 }
 function finish() {
   if (!quiz) return;
@@ -612,16 +625,83 @@ function resultPage() {
     `<div class="result"><div class="scorecircle">${review.score}<small style="font:13px 'DM Sans';display:block">z ${review.total} punktów</small></div><div class="eyebrow" style="justify-content:center">${modeLabel(review.mode, review.scope).toLocaleUpperCase("pl-PL")} — KONIEC SESJI</div><h2>${exam ? (pass ? "Dobra robota. Egzamin zaliczony!" : "Wiesz już, nad czym warto popracować.") : test ? "Twój sprawdzian jest zakończony." : "Kolejny krok za Tobą."}</h2><p>${exam ? `Próg zaliczenia: 65 punktów. Twój wynik: ${review.score} / ${review.total}.` : `Poprawne odpowiedzi: ${review.score} z ${review.total} (${pct(review.score, review.total)}%). Przejrzyj zestaw i wróć do trudniejszych pytań.`}</p><div class="actions">${btn("Przejrzyj odpowiedzi", "review")}${btn("Powtórz błędne pytania", "repeat-wrong", "refresh", "secondary")}${btn("Wróć do pulpitu", "go-home", "home", "ghost")}</div></div>`
   );
 }
-// Read-only review deliberately separates legal correctness from the user's selections.
+// A question earns a point only for the exact full answer set.
+function reviewAssessment(q, selected) {
+  const ok = exact(selected, q.correct);
+  const missing = q.correct.filter((index) => !selected.includes(index));
+  const extra = selected.filter((index) => !q.correct.includes(index));
+  const letters = (values) =>
+    values.map((index) => String.fromCharCode(65 + index)).join(", ");
+  const kind = ok
+    ? "correct"
+    : !selected.length
+      ? "unanswered"
+      : missing.length && !extra.length
+        ? "incomplete"
+        : "incorrect";
+  const title = ok
+    ? "Poprawna odpowiedź"
+    : kind === "unanswered"
+      ? "Brak odpowiedzi"
+      : kind === "incomplete"
+        ? "Błąd — niepełna odpowiedź"
+        : "Błędna odpowiedź";
+  const explanation = ok
+    ? "Zaznaczono cały poprawny zestaw."
+    : [
+        missing.length
+          ? `Brakujące poprawne odpowiedzi: ${letters(missing)}.`
+          : "",
+        extra.length ? `Błędnie zaznaczone odpowiedzi: ${letters(extra)}.` : "",
+        "Punkt przysługuje tylko za cały poprawny zestaw.",
+      ]
+        .filter(Boolean)
+        .join(" ");
+  return { ok, kind, title, explanation, missing, extra, points: ok ? 1 : 0 };
+}
 function reviewOptions(q, selected) {
+  const assessment = reviewAssessment(q, selected);
   return `<ol class="review-options" aria-label="Wszystkie możliwe odpowiedzi">${q.options
     .map((text, index) => {
       const correct = q.correct.includes(index),
         chosen = selected.includes(index);
-      const status = correct ? "correct" : chosen ? "selected-wrong" : "wrong";
-      const verdict = correct ? "Poprawna odpowiedź" : "Błędna odpowiedź";
-      const selection = chosen ? "Twoja odpowiedź" : "Nie zaznaczono";
-      return `<li class="review-option review-${status}${chosen ? " review-chosen" : ""}" data-answer-index="${index}"><span class="review-letter">${String.fromCharCode(65 + index)}</span><div class="review-option-content"><p class="review-option-text">${esc(text)}</p><div class="review-option-tags"><span class="review-verdict">${I(correct ? "check" : chosen ? "info" : "close")} ${verdict}</span><span class="review-selection">${selection}</span></div></div></li>`;
+      const status = correct
+        ? chosen && !assessment.ok
+          ? "partial"
+          : "correct"
+        : chosen
+          ? "selected-wrong"
+          : assessment.ok
+            ? "neutral"
+            : "wrong";
+      const verdict =
+        status === "neutral"
+          ? "Nie zaznaczono"
+          : status === "partial"
+            ? assessment.kind === "incomplete"
+              ? "Poprawny wariant — odpowiedź niepełna"
+              : "Poprawny wariant — cały zestaw błędny"
+            : correct
+              ? "Poprawna odpowiedź"
+              : "Błędna odpowiedź";
+      const selection = chosen
+        ? "Twoja odpowiedź"
+        : status === "neutral"
+          ? ""
+          : correct
+            ? "Brakujący poprawny wariant"
+            : "Nie zaznaczono";
+      const icon =
+        status === "neutral"
+          ? ""
+          : I(
+              status === "partial" || status === "selected-wrong"
+                ? "info"
+                : correct
+                  ? "check"
+                  : "close",
+            );
+      return `<li class="review-option review-${status}${chosen ? " review-chosen" : ""}" data-answer-index="${index}"><span class="review-letter">${String.fromCharCode(65 + index)}</span><div class="review-option-content"><p class="review-option-text">${esc(text)}</p><div class="review-option-tags"><span class="review-verdict">${icon} ${verdict}</span>${selection ? `<span class="review-selection">${selection}</span>` : ""}</div></div></li>`;
     })
     .join("")}</ol>`;
 }
@@ -630,14 +710,14 @@ function reviewPage() {
   return (
     head(
       "Zrozum swój wynik.",
-      "Pełna treść wszystkich wariantów i Twoje zaznaczenia — pytanie po pytaniu.",
+      "Punkt zdobywasz tylko za cały poprawny zestaw odpowiedzi.",
     ) +
-    `<div class="review-legend" aria-label="Oznaczenia odpowiedzi"><span class="legend-correct"><i aria-hidden="true"></i>Poprawne odpowiedzi</span><span class="legend-selected-wrong"><i aria-hidden="true"></i>Twoje błędne zaznaczenia</span><span class="legend-wrong"><i aria-hidden="true"></i>Pozostałe błędne warianty</span></div><div class="questions">${review.ids
+    `<div class="review-legend" aria-label="Oznaczenia odpowiedzi"><span class="legend-correct"><i aria-hidden="true"></i>Poprawne warianty</span><span class="legend-selected-wrong"><i aria-hidden="true"></i>Twoja błędna lub niepełna odpowiedź</span><span class="legend-wrong"><i aria-hidden="true"></i>Błędne warianty w niezaliczonym pytaniu</span><span class="legend-neutral"><i aria-hidden="true"></i>Przy poprawnej odpowiedzi pozostałe warianty są neutralne</span></div><div class="questions">${review.ids
       .map((id) => {
         const q = byId[id],
           selected = review.answers[id] || [],
-          ok = exact(selected, q.correct);
-        return `<article class="qrow review-question"><div class="qmeta"><span class="badge ${ok ? "review-result-correct" : "review-result-incorrect"}">${ok ? "✓ Poprawnie" : "↻ Do powtórki"}</span><span>${dateLabel(q.session)} · pytanie ${q.number}</span></div><h3>${esc(q.question)}</h3><p class="review-answer-summary">Twoja odpowiedź: <b>${selected.length ? selected.map((i) => String.fromCharCode(65 + i)).join(", ") : "Brak odpowiedzi"}</b></p>${reviewOptions(q, selected)}${feedback(q, ok, false)}</article>`;
+          assessment = reviewAssessment(q, selected);
+        return `<article class="qrow review-question"><div class="qmeta"><span class="badge ${assessment.ok ? "review-result-correct" : "review-result-incorrect"}">${assessment.ok ? "✓" : "✕"} ${assessment.title}</span><span class="review-points ${assessment.ok ? "is-correct" : "is-incorrect"}">${assessment.points} / 1 pkt</span><span>${dateLabel(q.session)} · pytanie ${q.number}</span></div><h3>${esc(q.question)}</h3><p class="review-answer-summary">Twoja odpowiedź: <b>${selected.length ? selected.map((i) => String.fromCharCode(65 + i)).join(", ") : "Brak odpowiedzi"}</b></p><p class="review-assessment ${assessment.ok ? "is-correct" : "is-incorrect"}">${assessment.explanation}</p>${reviewOptions(q, selected)}${feedback(q, assessment.ok, false)}</article>`;
       })
       .join("")}</div>`
   );
@@ -1187,8 +1267,10 @@ Promise.all([
       return r.json();
     })
     .catch(() => null),
+  fetch("explanations.json").then(r => r.ok ? r.json() : null).catch(() => null),
 ])
-  .then(([data, legal]) => {
+  .then(([data, legal, comments]) => {
+    if (comments?.schemaVersion === 1) explanations = comments.items || {};
     if (legal?.schemaVersion === 1 && legal.items && legal.counts) {
       legalBases = legal.items;
       legalMeta = legal;

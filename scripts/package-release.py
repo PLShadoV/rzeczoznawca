@@ -38,7 +38,7 @@ for name in sorted(set(tracked)):
         continue
     if tuple(rel.parts[:2]) == ('dist', 'downloads'):
         continue  # Hosted release archives are not part of the portable application.
-    if tuple(rel.parts[:3]) == ('data', 'legal', 'sources'):
+    if tuple(rel.parts[:3]) in {('data', 'legal', 'sources'), ('data', 'explanations', 'sources')}:
         continue
     if rel.name.startswith('.env') or rel.suffix.lower() in {'.pdf', '.zip', '.gz', '.pyc'}:
         continue

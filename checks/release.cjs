@@ -329,7 +329,23 @@ async function resultReview() {
     for (let selectedMask = 0; selectedMask < 8; selectedMask++) {
       const correct = [0, 1, 2].filter((i) => keyMask & (1 << i)),
         selected = [0, 1, 2].filter((i) => selectedMask & (1 << i));
+      const full = selectedMask === keyMask;
       t.run(`byId['review-fixture'].correct=${JSON.stringify(correct)}`);
+      const assessment = JSON.parse(
+        t.run(
+          `JSON.stringify(reviewAssessment(byId['review-fixture'],${JSON.stringify(selected)}))`,
+        ),
+      );
+      assert.equal(assessment.points, full ? 1 : 0);
+      assert.equal(assessment.ok, full);
+      assert.deepEqual(
+        assessment.missing,
+        correct.filter((i) => !selected.includes(i)),
+      );
+      assert.deepEqual(
+        assessment.extra,
+        selected.filter((i) => !correct.includes(i)),
+      );
       const markup = t.run(
         `reviewOptions(byId['review-fixture'],${JSON.stringify(selected)})`,
       );
@@ -341,52 +357,57 @@ async function resultReview() {
       assert.equal(rows.length, 3);
       for (const row of rows) {
         const index = Number(row[2]),
-          isCorrect = correct.includes(index),
-          chosen = selected.includes(index);
-        const status = isCorrect
-          ? "correct"
-          : chosen
-            ? "selected-wrong"
-            : "wrong";
-        assert(row[1].split(" ").includes("review-" + status));
-        assert.equal(row[1].split(" ").includes("review-chosen"), chosen);
+          right = correct.includes(index),
+          chosen = selected.includes(index),
+          classes = row[1].split(" ");
+        if (full) {
+          assert(
+            classes.includes(chosen ? "review-correct" : "review-neutral"),
+          );
+          assert.doesNotMatch(row[3], /Błędna odpowiedź|niepełna/);
+        } else if (chosen) {
+          assert(
+            classes.includes(
+              right ? "review-partial" : "review-selected-wrong",
+            ),
+          );
+          assert(row[3].includes("Twoja odpowiedź"));
+        } else {
+          assert(classes.includes(right ? "review-correct" : "review-wrong"));
+          if (right) assert(row[3].includes("Brakujący poprawny wariant"));
+        }
+        assert.equal(classes.includes("review-chosen"), chosen);
         assert(row[3].includes(fixture.options[index]));
-        assert(
-          row[3].includes(
-            isCorrect ? "Poprawna odpowiedź" : "Błędna odpowiedź",
-          ),
-        );
-        assert(row[3].includes(chosen ? "Twoja odpowiedź" : "Nie zaznaczono"));
-        assert.equal(
-          /review-selected-wrong/.test(row[1]),
-          !isCorrect && chosen,
-        );
       }
     }
+  // A true variant alone is still a failed question when another true variant is missing.
   for (const mode of ["test", "exam", "learn"]) {
     t.run(
-      `byId['review-fixture'].correct=[2];review={mode:${JSON.stringify(mode)},ids:['review-fixture'],answers:{'review-fixture':[0]},score:0,total:1}`,
+      `byId['review-fixture'].correct=[0,1];review={mode:${JSON.stringify(mode)},ids:['review-fixture'],answers:{'review-fixture':[1]},score:0,total:1}`,
     );
     const html = t.run("reviewPage()");
-    assert.match(html, /review-selected-wrong review-chosen/);
-    assert.match(html, /review-correct/);
-    assert.match(html, /review-wrong/);
+    assert.match(html, /Błąd — niepełna odpowiedź/);
+    assert.match(html, /0 \/ 1 pkt/);
+    assert.match(html, /Brakujące poprawne odpowiedzi: A\./);
+    assert.match(html, /review-partial review-chosen/);
+    assert.match(html, /Poprawny wariant — odpowiedź niepełna/);
     for (const option of fixture.options) assert(html.includes(option));
-    assert.match(html, /Twoja odpowiedź: <b>A<\/b>/);
-    assert.match(html, /Wszystkie możliwe odpowiedzi/);
-    assert.equal(
-      (html.match(/Pełna treść wariantu C/g) || []).length,
-      1,
-      "Correct option should not be duplicated in the explanation",
-    );
+    assert.match(html, /Twoja odpowiedź: <b>B<\/b>/);
     assert.match(html, /Poprawny zestaw z klucza/);
   }
+  t.run(
+    "byId['review-fixture'].correct=[0];review.answers['review-fixture']=[0]",
+  );
+  const correctHTML = t.run("reviewOptions(byId['review-fixture'],[0])");
+  assert.equal((correctHTML.match(/review-neutral/g) || []).length, 2);
+  assert.doesNotMatch(
+    correctHTML,
+    /review-wrong|review-selected-wrong|review-partial|Błędna odpowiedź/,
+  );
+  assert.match(t.run("reviewPage()"), /1 \/ 1 pkt/);
   t.run("review.answers['review-fixture']=[]");
   assert.match(t.run("reviewPage()"), /Brak odpowiedzi/);
-  assert.doesNotMatch(
-    t.run("reviewPage()"),
-    /review-selected-wrong review-chosen/,
-  );
+  assert.match(t.run("reviewPage()"), /0 \/ 1 pkt/);
   t.run(
     "byId['review-fixture'].options[0]='<img src=x onerror=alert(1)> & test'",
   );
@@ -394,8 +415,29 @@ async function resultReview() {
   assert.match(safe, /&lt;img/);
   assert.match(safe, /&amp; test/);
   assert.doesNotMatch(safe, /<img/);
+  // Real grading and saved progress agree with the review, including a full90-question exam.
+  const grading = setup();
+  await ready();
+  grading.run(
+    "const partialQuestion=Q.find(q=>q.correct.length===2);startQuiz('test',[partialQuestion],1);quiz.answers[partialQuestion.id]=[partialQuestion.correct[0]];finish()",
+  );
+  assert.equal(grading.run("review.score"), 0);
+  assert.equal(grading.run("state.answers[review.ids[0]].correct"), false);
+  assert.match(grading.run("reviewPage()"), /Błąd — niepełna odpowiedź/);
+  grading.run(
+    "startQuiz('exam',Q.filter(q=>q.session===sessions[0].date),90,true);quiz.ids.forEach(id=>quiz.answers[id]=[...byId[id].correct]);const incompleteId=quiz.ids.find(id=>byId[id].correct.length===2);quiz.answers[incompleteId]=[byId[incompleteId].correct[0]];finish()",
+  );
+  assert.equal(grading.run("review.score"), 89);
+  assert.equal(
+    (
+      grading
+        .run("reviewPage()")
+        .match(/class="badge review-result-incorrect"/g) || []
+    ).length,
+    1,
+  );
   console.log(
-    "PASS: all56 answer/key combinations, complete A/B/C text, correct vs selected-wrong vs unselected-wrong states, omissions, no-answer cases, safe text and review across learning/test/exam.",
+    "PASS: all56 answer sets; partial answers score0 and name missing variants; exact answers score1 with neutral unchosen options; real test/exam grading and safe full-text review.",
   );
 }
 

@@ -1,0 +1,976 @@
+{
+  "2026-09-09-2": {
+    "text": "Loggia jest przestrzenią otwartą na zewnątrz, lecz cofniętą w bryłę budynku. Balkon wystaje przed lico elewacji, a ryzalit jest wysuniętą częścią samej bryły. Opis wnęki odpowiada więc loggii.",
+    "sources": [
+      {
+        "title": "ZPE – Wnętrza i detale dekoracji zewnętrznej",
+        "url": "https://zpe.gov.pl/a/wnetrza-i-detale-dekoracji-zewnetrznej/D5MBEpGVp"
+      }
+    ]
+  },
+  "2025-03-26-3": {
+    "text": "Loggia jest przestrzenią otwartą na zewnątrz, lecz cofniętą w bryłę budynku. Balkon wystaje przed lico elewacji, a ryzalit jest wysuniętą częścią samej bryły. Opis wnęki odpowiada więc loggii.",
+    "sources": [
+      {
+        "title": "ZPE – Wnętrza i detale dekoracji zewnętrznej",
+        "url": "https://zpe.gov.pl/a/wnetrza-i-detale-dekoracji-zewnetrznej/D5MBEpGVp"
+      }
+    ]
+  },
+  "2026-09-09-3": {
+    "text": "W historycznym podziale Polski na cztery strefy przemarzania strefie I odpowiada umowna głębokość 0,80 m. To wartość odniesienia z PN-81/B-03020, a nie uniwersalna głębokość każdego fundamentu.",
+    "sources": [
+      {
+        "title": "PIIB – Głębokość posadowień fundamentów: wymagania a rzeczywistość",
+        "url": "https://nauka.inzynierbudownictwa.pl/wp-content/uploads/2026/01/T_Glebokosc-posadowien-fundamentow-wymagania-a-rzeczywistosc_IB_4_2025_compressed1.pdf"
+      }
+    ],
+    "caveat": "W rzeczywistym projekcie trzeba uwzględnić rodzaj gruntu, wodę, ochronę przed mrozem i zasady projektowania geotechnicznego; sama strefa klimatyczna nie rozstrzyga całego posadowienia."
+  },
+  "2026-09-09-6": {
+    "text": "Akerman jest stropem gęstożebrowym: wypełnienie tworzą pustaki ceramiczne, a nośne żebra i górną płytę betonuje się na budowie. Rozpoznajemy go po połączeniu ceramiki z żelbetem, bez prefabrykowanych belek charakterystycznych dla innych systemów.",
+    "sources": [
+      {
+        "title": "ZPE – Stropy: elementy konstrukcyjne",
+        "url": "https://zpe.gov.pl/a/stropy---elementy-konstrukcyjne/D18jgtZiU"
+      }
+    ]
+  },
+  "2026-09-09-9": {
+    "text": "W typowym podziale materiałowym występują stropy żelbetowe oraz stalowo-ceramiczne, np. Kleina. W tym drugim rozwiązaniu stalowe belki współpracują z ceramiczną płytą między nimi. Sama obecność różnych materiałów wykończeniowych nie określa konstrukcji nośnej stropu.",
+    "sources": [
+      {
+        "title": "ZPE – Stropy: elementy konstrukcyjne",
+        "url": "https://zpe.gov.pl/a/stropy---elementy-konstrukcyjne/D18jgtZiU"
+      }
+    ],
+    "caveat": "Klucz korzysta z typowej klasyfikacji podręcznikowej; nie oznacza to zakazu istnienia historycznych lub indywidualnie projektowanych rozwiązań mieszanych."
+  },
+  "2026-06-17-5": {
+    "text": "Kalenica to górna linia, w której zbiegają się połacie dachu. Jest krawędzią geometryczną; belka podpierająca krokwie to płatew, która może znajdować się pod kalenicą.",
+    "sources": [
+      {
+        "title": "ZPE – Elementy składowe dachu",
+        "url": "https://zpe.gov.pl/a/elementy-skladowe-dachu/DuPNHs3MU"
+      }
+    ]
+  },
+  "2026-04-22-1": {
+    "text": "W PN-ISO 9836 pomiar powierzchni wykonuje się na poziomie podłogi. Nie należy przenosić na tę normę reguły pomiaru metr nad podłogą, znanej ze starszej PN-70/B-02365.",
+    "sources": [
+      {
+        "title": "KNF – Droga do kredytu: porównanie zasad pomiaru powierzchni",
+        "url": "https://www.knf.gov.pl/knf/pl/komponenty/img/Droga_do_kredytu_30336.pdf"
+      }
+    ],
+    "caveat": "Należy sprawdzić wydanie normy oraz cel obmiaru: powierzchnia całkowita, netto i użytkowa mają odmienne zakresy."
+  },
+  "2024-06-25-6": {
+    "text": "W PN-ISO 9836 pomiar powierzchni wykonuje się na poziomie podłogi. Nie należy przenosić na tę normę reguły pomiaru metr nad podłogą, znanej ze starszej PN-70/B-02365.",
+    "sources": [
+      {
+        "title": "KNF – Droga do kredytu: porównanie zasad pomiaru powierzchni",
+        "url": "https://www.knf.gov.pl/knf/pl/komponenty/img/Droga_do_kredytu_30336.pdf"
+      }
+    ],
+    "caveat": "Należy sprawdzić wydanie normy oraz cel obmiaru: powierzchnia całkowita, netto i użytkowa mają odmienne zakresy."
+  },
+  "2021-09-09-4": {
+    "text": "W PN-ISO 9836 pomiar powierzchni wykonuje się na poziomie podłogi. Nie należy przenosić na tę normę reguły pomiaru metr nad podłogą, znanej ze starszej PN-70/B-02365.",
+    "sources": [
+      {
+        "title": "KNF – Droga do kredytu: porównanie zasad pomiaru powierzchni",
+        "url": "https://www.knf.gov.pl/knf/pl/komponenty/img/Droga_do_kredytu_30336.pdf"
+      }
+    ],
+    "caveat": "Należy sprawdzić wydanie normy oraz cel obmiaru: powierzchnia całkowita, netto i użytkowa mają odmienne zakresy."
+  },
+  "2026-04-22-3": {
+    "text": "C20/25 opisuje klasę wytrzymałości betonu. Pierwsza liczba oznacza charakterystyczną wytrzymałość na ściskanie na próbce walcowej: 20 MPa; druga odpowiada próbce sześciennej: 25 MPa. Nie jest to rozmiar kruszywa ani liczba dni.",
+    "sources": [
+      {
+        "title": "Politechnika Gdańska, Katedra Konstrukcji Betonowych – przykład obliczeń",
+        "url": "https://wilis.pg.edu.pl/documents/20614119/0/zad_1_Emilia%20Inczewska.pdf"
+      }
+    ]
+  },
+  "2026-04-22-5": {
+    "text": "W ustroju płytowo-żebrowym płyta oddaje obciążenie żebrom, następnie podciągom i ich podporom. Dlatego płyta żelbetowa oraz podciąg są elementami tego rozwiązania, a w pełnym schemacie występują również słupy.",
+    "sources": [
+      {
+        "title": "ZPE – Stropy: elementy konstrukcyjne",
+        "url": "https://zpe.gov.pl/a/stropy---elementy-konstrukcyjne/D18jgtZiU"
+      }
+    ]
+  },
+  "2026-03-25-5": {
+    "text": "Nazwa układu odnosi się do kierunku ścian nośnych względem dłuższej osi budynku. Gdy biegną wzdłuż niej, układ jest podłużny; ustawienie w poprzek oznacza układ poprzeczny. Ściany działowe nie przesądzają o tym podziale.",
+    "sources": [
+      {
+        "title": "Politechnika Gdańska – Podstawy budownictwa, część I",
+        "url": "https://www.pg.gda.pl/audyt_energetyczny/pliki/Podstawy_budownictwa/pods_bud_I.pdf"
+      }
+    ]
+  },
+  "2024-03-19-2": {
+    "text": "Nazwa układu odnosi się do kierunku ścian nośnych względem dłuższej osi budynku. Gdy biegną wzdłuż niej, układ jest podłużny; ustawienie w poprzek oznacza układ poprzeczny. Ściany działowe nie przesądzają o tym podziale.",
+    "sources": [
+      {
+        "title": "Politechnika Gdańska – Podstawy budownictwa, część I",
+        "url": "https://www.pg.gda.pl/audyt_energetyczny/pliki/Podstawy_budownictwa/pods_bud_I.pdf"
+      }
+    ]
+  },
+  "2026-03-25-8": {
+    "text": "Wiadukt przeprowadza drogę lub kolej ponad przeszkodą lądową, np. suchą doliną, wąwozem albo inną trasą komunikacyjną. Pokonywanie przeszkody wodnej jest cechą mostu w tym podstawowym podziale.",
+    "sources": [
+      {
+        "title": "ZPE – Kolejowe obiekty inżynierskie, część I",
+        "url": "https://zpe.gov.pl/a/kolejowe-obiekty-inzynierskie-cz-i/Dtx9kTozh"
+      }
+    ]
+  },
+  "2021-09-09-2": {
+    "text": "Wiadukt przeprowadza drogę lub kolej ponad przeszkodą lądową, np. suchą doliną, wąwozem albo inną trasą komunikacyjną. Pokonywanie przeszkody wodnej jest cechą mostu w tym podstawowym podziale.",
+    "sources": [
+      {
+        "title": "ZPE – Kolejowe obiekty inżynierskie, część I",
+        "url": "https://zpe.gov.pl/a/kolejowe-obiekty-inzynierskie-cz-i/Dtx9kTozh"
+      }
+    ]
+  },
+  "2021-07-22-4": {
+    "text": "Wiadukt przeprowadza drogę lub kolej ponad przeszkodą lądową, np. suchą doliną, wąwozem albo inną trasą komunikacyjną. Pokonywanie przeszkody wodnej jest cechą mostu w tym podstawowym podziale.",
+    "sources": [
+      {
+        "title": "ZPE – Kolejowe obiekty inżynierskie, część I",
+        "url": "https://zpe.gov.pl/a/kolejowe-obiekty-inzynierskie-cz-i/Dtx9kTozh"
+      }
+    ]
+  },
+  "2025-11-19-1": {
+    "text": "KNR zawierają nakłady robocizny, materiałów i pracy sprzętu przypadające na jednostkę roboty oraz założenia i reguły jej obmiaru. Nie należy mylić tych ilości z cenami i stawkami narzutów: koszt pośredni ustala się odrębnie.",
+    "sources": [
+      {
+        "title": "ZPE – Katalogi nakładów rzeczowych",
+        "url": "https://zpe.gov.pl/pobierz/R1WcXimQ2e4FI"
+      }
+    ]
+  },
+  "2023-04-20-3": {
+    "text": "KNR zawierają nakłady robocizny, materiałów i pracy sprzętu przypadające na jednostkę roboty oraz założenia i reguły jej obmiaru. Nie należy mylić tych ilości z cenami i stawkami narzutów: koszt pośredni ustala się odrębnie.",
+    "sources": [
+      {
+        "title": "ZPE – Katalogi nakładów rzeczowych",
+        "url": "https://zpe.gov.pl/pobierz/R1WcXimQ2e4FI"
+      }
+    ]
+  },
+  "2025-11-19-2": {
+    "text": "Powierzchnię całkowitą kondygnacji ustala się po zewnętrznym obrysie na poziomie posadzki, z uwzględnieniem wykończenia przegród. To inny pomiar niż powierzchnia pomieszczeń w świetle ścian. Wystających balkonów nie dolicza się automatycznie do obrysu zamkniętej kondygnacji.",
+    "sources": [
+      {
+        "title": "Małopolska Okręgowa Izba Architektów – Opinia nr 17: powierzchnia całkowita budynku",
+        "url": "https://www.mpoia.pl/index.php/dzialalnosc/zespol-rzeczoznawcow?catid=39&id=1547&view=article"
+      }
+    ],
+    "caveat": "Pytania odwołują się do PN-ISO 9836; sposób wykazywania powierzchni otwartych i osłoniętych należy odróżnić od powierzchni zamkniętej."
+  },
+  "2025-11-19-3": {
+    "text": "Ława, stopa i płyta mogą przekazywać obciążenia bezpośrednio swoją podstawą na podłoże. O zaliczeniu do posadowienia bezpośredniego rozstrzyga droga przekazania obciążenia, a nie wyłącznie kształt czy materiał fundamentu.",
+    "sources": [
+      {
+        "title": "Powiatowe Centrum Edukacji Zawodowej w Bytowie – Fundamenty",
+        "url": "https://www.pcez-bytow.pl/download/plk/budownictwo-ogolne-tydzien-i.pdf"
+      }
+    ]
+  },
+  "2022-06-02-4": {
+    "text": "Ława, stopa i płyta mogą przekazywać obciążenia bezpośrednio swoją podstawą na podłoże. O zaliczeniu do posadowienia bezpośredniego rozstrzyga droga przekazania obciążenia, a nie wyłącznie kształt czy materiał fundamentu.",
+    "sources": [
+      {
+        "title": "Powiatowe Centrum Edukacji Zawodowej w Bytowie – Fundamenty",
+        "url": "https://www.pcez-bytow.pl/download/plk/budownictwo-ogolne-tydzien-i.pdf"
+      }
+    ]
+  },
+  "2025-11-19-4": {
+    "text": "Dźwigar jest głównym elementem przenoszącym obciążenia między podporami. Może być belką pełnościenną albo ustrojem kratowym i pracować poziomo lub pochyło; spotyka się go w dachach hal i w ustrojach mostowych.",
+    "sources": [
+      {
+        "title": "ZPE – Wykonywanie połączeń elementów konstrukcji: słownik",
+        "url": "https://zpe.gov.pl/a/slownik-pojec/Da3UXcvOa"
+      }
+    ]
+  },
+  "2025-11-19-7": {
+    "text": "W ustroju płytowo-żebrowym płyta oddaje obciążenie żebrom, następnie podciągom i ich podporom. Dlatego płyta żelbetowa oraz podciąg są elementami tego rozwiązania, a w pełnym schemacie występują również słupy.",
+    "sources": [
+      {
+        "title": "ZPE – Stropy: elementy konstrukcyjne",
+        "url": "https://zpe.gov.pl/a/stropy---elementy-konstrukcyjne/D18jgtZiU"
+      }
+    ]
+  },
+  "2025-10-15-3": {
+    "text": "PN-70/B-02365 przyjmowała pomiar metr ponad podłogą, w stanie surowym. Dlatego poprawna jest wysokość 1,0 m, a nie poziom posadzki stosowany w PN-ISO 9836.",
+    "sources": [
+      {
+        "title": "PKN – Porównanie zasad obmiaru powierzchni, dr inż. arch. A. Starzyk",
+        "url": "https://wiedza.pkn.pl/documents/14109/17909/prezentacja_dr_inz._arch.a.starzyk.pdf/96020d77-09b0-41fa-a836-c952b9cd56fa"
+      }
+    ],
+    "caveat": "Jest to historyczna zasada wskazanej normy, nie ogólna współczesna reguła wszystkich pomiarów budynków."
+  },
+  "2022-04-28-6": {
+    "text": "PN-70/B-02365 przyjmowała pomiar metr ponad podłogą, w stanie surowym. Dlatego poprawna jest wysokość 1,0 m, a nie poziom posadzki stosowany w PN-ISO 9836.",
+    "sources": [
+      {
+        "title": "PKN – Porównanie zasad obmiaru powierzchni, dr inż. arch. A. Starzyk",
+        "url": "https://wiedza.pkn.pl/documents/14109/17909/prezentacja_dr_inz._arch.a.starzyk.pdf/96020d77-09b0-41fa-a836-c952b9cd56fa"
+      }
+    ],
+    "caveat": "Jest to historyczna zasada wskazanej normy, nie ogólna współczesna reguła wszystkich pomiarów budynków."
+  },
+  "2025-10-15-6": {
+    "text": "Średnią ważymy udziałami w koszcie odtworzenia: 0,20 × 25% + 0,80 × 50% = 5% + 40% = 45%. Większy wpływ na wynik ma konstrukcja nośna, bo odpowiada za 80% kosztu.",
+    "sources": [
+      {
+        "title": "Politechnika Wrocławska – Materiały o trwałości i zużyciu budynków",
+        "url": "https://zdb.pwr.edu.pl/podworna/do_pobrania/rm2019.pdf"
+      }
+    ]
+  },
+  "2025-05-14-9": {
+    "text": "Średnią ważymy udziałami w koszcie odtworzenia: 0,20 × 25% + 0,80 × 50% = 5% + 40% = 45%. Większy wpływ na wynik ma konstrukcja nośna, bo odpowiada za 80% kosztu.",
+    "sources": [
+      {
+        "title": "Politechnika Wrocławska – Materiały o trwałości i zużyciu budynków",
+        "url": "https://zdb.pwr.edu.pl/podworna/do_pobrania/rm2019.pdf"
+      }
+    ]
+  },
+  "2024-10-22-10": {
+    "text": "Średnią ważymy udziałami w koszcie odtworzenia: 0,20 × 25% + 0,80 × 50% = 5% + 40% = 45%. Większy wpływ na wynik ma konstrukcja nośna, bo odpowiada za 80% kosztu.",
+    "sources": [
+      {
+        "title": "Politechnika Wrocławska – Materiały o trwałości i zużyciu budynków",
+        "url": "https://zdb.pwr.edu.pl/podworna/do_pobrania/rm2019.pdf"
+      }
+    ]
+  },
+  "2025-10-15-9": {
+    "text": "Dług bywa tańszy od kapitału własnego dzięki tarczy podatkowej od odsetek i zazwyczaj mniejszemu ryzyku wierzyciela niż właściciela. Wierzyciel może jednak żądać premii za ryzyko niewypłacalności; oprocentowanie nie musi być stopą wolną od ryzyka.",
+    "sources": [
+      {
+        "title": "Rice University, OpenStax – Capital Structure Choices",
+        "url": "https://openstax.org/books/principles-finance/pages/17-4-capital-structure-choices"
+      }
+    ],
+    "caveat": "Klucz oznacza wszystkie odpowiedzi jako poprawne, lecz zdanie „wierzyciele nie wymagają premii za ryzyko inwestowania” jest merytorycznie błędne. Tarczy podatkowej nie należy też zakładać bezwarunkowo: zależy od przepisów i sytuacji podatnika."
+  },
+  "2025-09-10-9": {
+    "text": "Substytuty mogą zastępować się w zaspokajaniu tej samej potrzeby, np. dwa konkurencyjne środki transportu. „Dobra wolne” opisuje natomiast brak ekonomicznej rzadkości, a nie zdolność wzajemnego zastępowania.",
+    "sources": [
+      {
+        "title": "ZPE – Prawa rynku: dobra substytucyjne i komplementarne",
+        "url": "https://zpe.gov.pl/a/interaktywne-materialy-sprawdzajace/DWJqrJMmW"
+      }
+    ]
+  },
+  "2025-06-25-4": {
+    "text": "Poziom posadowienia dobiera się do warstw nośnych, wód gruntowych i zagrożenia przemarzaniem. Znaczenie ma też układ podziemia: piwnica może wymagać głębszego fundamentowania. Sama powierzchnia zabudowy nie wyznacza głębokości.",
+    "sources": [
+      {
+        "title": "PIIB – Fundament domu jednorodzinnego",
+        "url": "https://inzynierbudownictwa.pl/fundament-domu-jednorodzinnego/"
+      }
+    ]
+  },
+  "2025-06-25-5": {
+    "text": "Dawna norma wymaga wymiarów bez tynków. Do odległości zmierzonej między dwiema otynkowanymi ścianami dodajemy więc 2 × 2 cm: 583 + 4 = 587 cm oraz 401 + 4 = 405 cm, czyli 5,87 m i 4,05 m.",
+    "sources": [
+      {
+        "title": "PKN – Porównanie zasad obmiaru powierzchni, dr inż. arch. A. Starzyk",
+        "url": "https://wiedza.pkn.pl/documents/14109/17909/prezentacja_dr_inz._arch.a.starzyk.pdf/96020d77-09b0-41fa-a836-c952b9cd56fa"
+      }
+    ],
+    "caveat": "Obliczenie dotyczy konkretnie PN-70/B-02365. Przy pomiarze w stanie wykończonym według innej normy nie należy mechanicznie dodawać tynku."
+  },
+  "2021-12-02-1": {
+    "text": "Dawna norma wymaga wymiarów bez tynków. Do odległości zmierzonej między dwiema otynkowanymi ścianami dodajemy więc 2 × 2 cm: 583 + 4 = 587 cm oraz 401 + 4 = 405 cm, czyli 5,87 m i 4,05 m.",
+    "sources": [
+      {
+        "title": "PKN – Porównanie zasad obmiaru powierzchni, dr inż. arch. A. Starzyk",
+        "url": "https://wiedza.pkn.pl/documents/14109/17909/prezentacja_dr_inz._arch.a.starzyk.pdf/96020d77-09b0-41fa-a836-c952b9cd56fa"
+      }
+    ],
+    "caveat": "Obliczenie dotyczy konkretnie PN-70/B-02365. Przy pomiarze w stanie wykończonym według innej normy nie należy mechanicznie dodawać tynku."
+  },
+  "2025-05-14-3": {
+    "text": "Jedno- i dwubiegowe opisują liczbę biegów, a zabiegowe, wachlarzowe i spiralne – ich kształt oraz układ stopni. Wszystkie wymienione formy występują w budownictwie, choć ich dopuszczalność w danym obiekcie zależy od wymagań użytkowych.",
+    "sources": [
+      {
+        "title": "ZPE – Organizowanie utrzymania stanu technicznego: słownik pojęć",
+        "url": "https://zpe.gov.pl/pdf/PpGSqA7NH"
+      }
+    ]
+  },
+  "2022-07-07-9": {
+    "text": "Jedno- i dwubiegowe opisują liczbę biegów, a zabiegowe, wachlarzowe i spiralne – ich kształt oraz układ stopni. Wszystkie wymienione formy występują w budownictwie, choć ich dopuszczalność w danym obiekcie zależy od wymagań użytkowych.",
+    "sources": [
+      {
+        "title": "ZPE – Organizowanie utrzymania stanu technicznego: słownik pojęć",
+        "url": "https://zpe.gov.pl/pdf/PpGSqA7NH"
+      }
+    ]
+  },
+  "2021-10-28-3": {
+    "text": "Jedno- i dwubiegowe opisują liczbę biegów, a zabiegowe, wachlarzowe i spiralne – ich kształt oraz układ stopni. Wszystkie wymienione formy występują w budownictwie, choć ich dopuszczalność w danym obiekcie zależy od wymagań użytkowych.",
+    "sources": [
+      {
+        "title": "ZPE – Organizowanie utrzymania stanu technicznego: słownik pojęć",
+        "url": "https://zpe.gov.pl/pdf/PpGSqA7NH"
+      }
+    ]
+  },
+  "2025-05-14-5": {
+    "text": "Ościeżnica to rama osadzona w otworze drzwiowym lub okiennym, do której mocuje się skrzydło. Ościeże jest powierzchnią samego otworu w murze, a nadproże przenosi obciążenia nad nim.",
+    "sources": [
+      {
+        "title": "ZPE – Techniki montażu stolarki: słownik",
+        "url": "https://zpe.gov.pl/a/slownik-pojec/DIEagBEOe"
+      }
+    ]
+  },
+  "2023-04-20-2": {
+    "text": "Ościeżnica to rama osadzona w otworze drzwiowym lub okiennym, do której mocuje się skrzydło. Ościeże jest powierzchnią samego otworu w murze, a nadproże przenosi obciążenia nad nim.",
+    "sources": [
+      {
+        "title": "ZPE – Techniki montażu stolarki: słownik",
+        "url": "https://zpe.gov.pl/a/slownik-pojec/DIEagBEOe"
+      }
+    ]
+  },
+  "2025-03-26-5": {
+    "text": "Pale i studnie umożliwiają oparcie konstrukcji na głębiej położonym podłożu i należą do typowych przykładów posadowienia pośredniego. Skrzynia może natomiast pracować jako fundament bezpośredni, rozkładający nacisk dużą powierzchnią podstawy.",
+    "sources": [
+      {
+        "title": "Powiatowe Centrum Edukacji Zawodowej w Bytowie – Fundamenty",
+        "url": "https://www.pcez-bytow.pl/download/plk/budownictwo-ogolne-tydzien-i.pdf"
+      }
+    ]
+  },
+  "2025-03-26-8": {
+    "text": "Modernizacja oznacza unowocześnienie obiektu i podniesienie jego standardu. Zależnie od zakresu może poprawić stan techniczny i wydłużyć dalsze użytkowanie, np. przez wymianę instalacji lub wzmocnienia. Nie jest synonimem każdej bieżącej naprawy.",
+    "sources": [
+      {
+        "title": "Politechnika Wrocławska – Materiały o trwałości i zużyciu budynków",
+        "url": "https://zdb.pwr.edu.pl/podworna/do_pobrania/rm2019.pdf"
+      }
+    ],
+    "caveat": "Wskazane skutki nie muszą wystąpić łącznie przy każdej modernizacji. Klucz traktuje je jako możliwe rezultaty, a nie trzy warunki konieczne."
+  },
+  "2025-03-26-9": {
+    "text": "Objętość rozpatrywanej części wynosi 50,00 × 10,00 × 1,00 = 500,00 m³. Kubatura brutto opisuje zewnętrzną objętość budynku, więc brak funkcji użytkowej przestrzeni stropodachu sam w sobie nie usuwa jej z tej kategorii.",
+    "sources": [
+      {
+        "title": "PN-ISO 9836:1997 – tekst udostępniony przez środowisko rzeczoznawców",
+        "url": "https://rzeczoznawca-zachodniopomorskie.pl/pliki/PN_ISO_9836_1997.pdf"
+      }
+    ],
+    "caveat": "Pytanie zakłada podane wymiary zewnętrzne i wysokość średnią. To nie jest obliczenie kubatury użytkowej ani powierzchni użytkowej."
+  },
+  "2022-12-01-3": {
+    "text": "Objętość rozpatrywanej części wynosi 50,00 × 10,00 × 1,00 = 500,00 m³. Kubatura brutto opisuje zewnętrzną objętość budynku, więc brak funkcji użytkowej przestrzeni stropodachu sam w sobie nie usuwa jej z tej kategorii.",
+    "sources": [
+      {
+        "title": "PN-ISO 9836:1997 – tekst udostępniony przez środowisko rzeczoznawców",
+        "url": "https://rzeczoznawca-zachodniopomorskie.pl/pliki/PN_ISO_9836_1997.pdf"
+      }
+    ],
+    "caveat": "Pytanie zakłada podane wymiary zewnętrzne i wysokość średnią. To nie jest obliczenie kubatury użytkowej ani powierzchni użytkowej."
+  },
+  "2024-11-19-1": {
+    "text": "W metodzie średnioważonej wagą elementu jest jego udział w koszcie odtworzenia nowego budynku. Dzięki temu zużycie drogiego elementu wpływa na wynik mocniej niż jednakowe zużycie elementu o małym udziale kosztowym.",
+    "sources": [
+      {
+        "title": "Politechnika Wrocławska – Materiały o trwałości i zużyciu budynków",
+        "url": "https://zdb.pwr.edu.pl/podworna/do_pobrania/rm2019.pdf"
+      }
+    ]
+  },
+  "2024-03-19-8": {
+    "text": "W metodzie średnioważonej wagą elementu jest jego udział w koszcie odtworzenia nowego budynku. Dzięki temu zużycie drogiego elementu wpływa na wynik mocniej niż jednakowe zużycie elementu o małym udziale kosztowym.",
+    "sources": [
+      {
+        "title": "Politechnika Wrocławska – Materiały o trwałości i zużyciu budynków",
+        "url": "https://zdb.pwr.edu.pl/podworna/do_pobrania/rm2019.pdf"
+      }
+    ]
+  },
+  "2024-11-19-5": {
+    "text": "Dźwigar jest głównym elementem przenoszącym obciążenia między podporami. Może być belką pełnościenną albo ustrojem kratowym i pracować poziomo lub pochyło; spotyka się go w dachach hal i w ustrojach mostowych.",
+    "sources": [
+      {
+        "title": "ZPE – Wykonywanie połączeń elementów konstrukcji: słownik",
+        "url": "https://zpe.gov.pl/a/slownik-pojec/Da3UXcvOa"
+      }
+    ]
+  },
+  "2024-04-23-4": {
+    "text": "Dźwigar jest głównym elementem przenoszącym obciążenia między podporami. Może być belką pełnościenną albo ustrojem kratowym i pracować poziomo lub pochyło; spotyka się go w dachach hal i w ustrojach mostowych.",
+    "sources": [
+      {
+        "title": "ZPE – Wykonywanie połączeń elementów konstrukcji: słownik",
+        "url": "https://zpe.gov.pl/a/slownik-pojec/Da3UXcvOa"
+      }
+    ]
+  },
+  "2024-11-19-6": {
+    "text": "W podręcznikowym porównaniu trwałości cienka posadzka z płytek PVC zużywa się zwykle szybciej niż masywne posadzki mineralne z marmuru lub lastryka. Te ostatnie mogą też podlegać szlifowaniu i renowacji.",
+    "sources": [
+      {
+        "title": "Przegląd Budowlany – Rewitalizacja posadzek betonowych typu lastrico",
+        "url": "https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-8f564077-4a4f-4486-af4c-8cddbf3b0453/c/Swiatek-Zolynska_S_Rewitalizacja_9_2021.pdf"
+      }
+    ],
+    "caveat": "Nie ma jednej gwarantowanej trwałości wynikającej z samej nazwy materiału. Klasa wyrobu, grubość, obciążenie ruchem i konserwacja mogą zmienić kolejność w konkretnym obiekcie."
+  },
+  "2022-10-27-1": {
+    "text": "W podręcznikowym porównaniu trwałości cienka posadzka z płytek PVC zużywa się zwykle szybciej niż masywne posadzki mineralne z marmuru lub lastryka. Te ostatnie mogą też podlegać szlifowaniu i renowacji.",
+    "sources": [
+      {
+        "title": "Przegląd Budowlany – Rewitalizacja posadzek betonowych typu lastrico",
+        "url": "https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-8f564077-4a4f-4486-af4c-8cddbf3b0453/c/Swiatek-Zolynska_S_Rewitalizacja_9_2021.pdf"
+      }
+    ],
+    "caveat": "Nie ma jednej gwarantowanej trwałości wynikającej z samej nazwy materiału. Klasa wyrobu, grubość, obciążenie ruchem i konserwacja mogą zmienić kolejność w konkretnym obiekcie."
+  },
+  "2022-07-07-2": {
+    "text": "W podręcznikowym porównaniu trwałości cienka posadzka z płytek PVC zużywa się zwykle szybciej niż masywne posadzki mineralne z marmuru lub lastryka. Te ostatnie mogą też podlegać szlifowaniu i renowacji.",
+    "sources": [
+      {
+        "title": "Przegląd Budowlany – Rewitalizacja posadzek betonowych typu lastrico",
+        "url": "https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-8f564077-4a4f-4486-af4c-8cddbf3b0453/c/Swiatek-Zolynska_S_Rewitalizacja_9_2021.pdf"
+      }
+    ],
+    "caveat": "Nie ma jednej gwarantowanej trwałości wynikającej z samej nazwy materiału. Klasa wyrobu, grubość, obciążenie ruchem i konserwacja mogą zmienić kolejność w konkretnym obiekcie."
+  },
+  "2024-10-22-3": {
+    "text": "Obmiar ustala faktycznie wykonany zakres na podstawie pomiarów na obiekcie. Projekt jest typową podstawą przedmiaru planowanych robót; protokół konieczności może uzasadniać dodatkowe prace, lecz nie zastępuje zmierzenia ich ilości.",
+    "sources": [
+      {
+        "title": "PARP – Rekomendacje Sektorowej Rady ds. Kompetencji w Sektorze Budowlanym",
+        "url": "https://power.parp.gov.pl/storage/grants/documents/153/Rekomendacje-Sektorowej-Rady-ds.-Kompetencji-w-Sektorze-Budowlanym---obowizuje-od-01.02.2021.pdf"
+      }
+    ]
+  },
+  "2023-09-14-2": {
+    "text": "Obmiar ustala faktycznie wykonany zakres na podstawie pomiarów na obiekcie. Projekt jest typową podstawą przedmiaru planowanych robót; protokół konieczności może uzasadniać dodatkowe prace, lecz nie zastępuje zmierzenia ich ilości.",
+    "sources": [
+      {
+        "title": "PARP – Rekomendacje Sektorowej Rady ds. Kompetencji w Sektorze Budowlanym",
+        "url": "https://power.parp.gov.pl/storage/grants/documents/153/Rekomendacje-Sektorowej-Rady-ds.-Kompetencji-w-Sektorze-Budowlanym---obowizuje-od-01.02.2021.pdf"
+      }
+    ]
+  },
+  "2024-10-22-6": {
+    "text": "Silikaty są wyrobami wapienno-piaskowymi, zwykle utwardzanymi w autoklawie. Nie klasyfikuje się ich jako ceramiki wypalanej z gliny ani jako zwykłego betonu cementowego.",
+    "sources": [
+      {
+        "title": "Biuletyn WAT – P. Kostrzewa: Cegły wapienno-piaskowe z dodatkiem pyłu bazaltowego",
+        "url": "https://bibliotekanauki.pl/articles/211276.pdf"
+      }
+    ]
+  },
+  "2024-10-22-9": {
+    "text": "Akerman jest stropem gęstożebrowym: wypełnienie tworzą pustaki ceramiczne, a nośne żebra i górną płytę betonuje się na budowie. Rozpoznajemy go po połączeniu ceramiki z żelbetem, bez prefabrykowanych belek charakterystycznych dla innych systemów.",
+    "sources": [
+      {
+        "title": "ZPE – Stropy: elementy konstrukcyjne",
+        "url": "https://zpe.gov.pl/a/stropy---elementy-konstrukcyjne/D18jgtZiU"
+      }
+    ]
+  },
+  "2024-09-17-3": {
+    "text": "Stan zerowy oznacza ukończenie robót do poziomu przyziemia. W budynku podpiwniczonym obejmuje więc nie tylko fundamenty, ale także wykopy, ściany piwnic z izolacjami, strop nad piwnicą oraz potrzebne zasypki.",
+    "sources": [
+      {
+        "title": "Murator – Stan zerowy domu: zakres prac",
+        "url": "https://muratordom.pl/przed-budowa/organizacja-budowy/stan-zerowy-domu-czyli-poczatek-budowy-domu-jakie-prace-wykonuje-sie-na-tym-etapie-wznoszenia-budynku-aa-g7pT-ZeHU-kGCN.html"
+      }
+    ],
+    "caveat": "To umowna nazwa etapu realizacji; dokładny zakres kontraktowy powinien wynikać z dokumentacji i umowy."
+  },
+  "2021-07-22-1": {
+    "text": "Stan zerowy oznacza ukończenie robót do poziomu przyziemia. W budynku podpiwniczonym obejmuje więc nie tylko fundamenty, ale także wykopy, ściany piwnic z izolacjami, strop nad piwnicą oraz potrzebne zasypki.",
+    "sources": [
+      {
+        "title": "Murator – Stan zerowy domu: zakres prac",
+        "url": "https://muratordom.pl/przed-budowa/organizacja-budowy/stan-zerowy-domu-czyli-poczatek-budowy-domu-jakie-prace-wykonuje-sie-na-tym-etapie-wznoszenia-budynku-aa-g7pT-ZeHU-kGCN.html"
+      }
+    ],
+    "caveat": "To umowna nazwa etapu realizacji; dokładny zakres kontraktowy powinien wynikać z dokumentacji i umowy."
+  },
+  "2024-09-17-4": {
+    "text": "Stropodach zamyka ostatnią kondygnację i jednocześnie chroni budynek jako dach. W podziale przegród jest przegrodą poziomą; wymagany spadek do odwodnienia nie zmienia tego podstawowego zakwalifikowania.",
+    "sources": [
+      {
+        "title": "ZPE – Izolacje budowlane: słownik pojęć",
+        "url": "https://zpe.gov.pl/a/slownik-pojec-dla-e-zasobu/DuTJZIAdH"
+      }
+    ]
+  },
+  "2022-09-15-1": {
+    "text": "Stropodach zamyka ostatnią kondygnację i jednocześnie chroni budynek jako dach. W podziale przegród jest przegrodą poziomą; wymagany spadek do odwodnienia nie zmienia tego podstawowego zakwalifikowania.",
+    "sources": [
+      {
+        "title": "ZPE – Izolacje budowlane: słownik pojęć",
+        "url": "https://zpe.gov.pl/a/slownik-pojec-dla-e-zasobu/DuTJZIAdH"
+      }
+    ]
+  },
+  "2024-06-25-1": {
+    "text": "Powierzchnię netto rozdziela się według funkcji na użytkową, usługową oraz ruchu. „Usługowa” oznacza tu obsługę techniczną budynku, a „ruchu” – komunikację, np. korytarze. Nie należy utożsamiać tego z potocznym podziałem na pomieszczenia główne i pomocnicze.",
+    "sources": [
+      {
+        "title": "PN-ISO 9836:1997 – tekst udostępniony przez środowisko rzeczoznawców",
+        "url": "https://rzeczoznawca-zachodniopomorskie.pl/pliki/PN_ISO_9836_1997.pdf"
+      }
+    ]
+  },
+  "2024-06-25-8": {
+    "text": "Przy zwykłym układzie przepływów inwestycyjnych projekt przechodzi kryterium IRR, gdy jego wewnętrzna stopa zwrotu przewyższa stopę wymaganą. Tutaj 15% > 10%, więc przy tych założeniach jest akceptowalny.",
+    "sources": [
+      {
+        "title": "Rice University, OpenStax – Internal Rate of Return (IRR) Method",
+        "url": "https://openstax.org/books/principles-finance/pages/16-3-internal-rate-of-return-irr-method"
+      }
+    ],
+    "caveat": "W nietypowych przepływach ze zmianami znaku może wystąpić kilka IRR lub problem interpretacji. Wtedy decyzję trzeba oprzeć również na NPV."
+  },
+  "2024-04-23-9": {
+    "text": "Klinkier budowlany może służyć do wykonywania murów, okładzin i nawierzchni. Stąd możliwe są funkcje konstrukcyjna, wykończeniowa i drogowa; zakres zastosowania zależy od rodzaju wyrobu oraz jego parametrów.",
+    "sources": [
+      {
+        "title": "GDDKiA – Klinkier: historia zastosowania w drogownictwie",
+        "url": "https://www.archiwum.gddkia.gov.pl/pl/a/30603/Klinkier"
+      },
+      {
+        "title": "Wielki słownik języka polskiego PAN – klinkier",
+        "url": "https://wsjp.pl/haslo/podglad/61308/klinkier/5166448/wyrob"
+      }
+    ]
+  },
+  "2024-03-19-1": {
+    "text": "Wiadukt przeprowadza drogę lub kolej ponad przeszkodą lądową, np. suchą doliną, wąwozem albo inną trasą komunikacyjną. Pokonywanie przeszkody wodnej jest cechą mostu w tym podstawowym podziale.",
+    "sources": [
+      {
+        "title": "ZPE – Kolejowe obiekty inżynierskie, część I",
+        "url": "https://zpe.gov.pl/a/kolejowe-obiekty-inzynierskie-cz-i/Dtx9kTozh"
+      }
+    ]
+  },
+  "2023-03-23-8": {
+    "text": "Wiadukt przeprowadza drogę lub kolej ponad przeszkodą lądową, np. suchą doliną, wąwozem albo inną trasą komunikacyjną. Pokonywanie przeszkody wodnej jest cechą mostu w tym podstawowym podziale.",
+    "sources": [
+      {
+        "title": "ZPE – Kolejowe obiekty inżynierskie, część I",
+        "url": "https://zpe.gov.pl/a/kolejowe-obiekty-inzynierskie-cz-i/Dtx9kTozh"
+      }
+    ]
+  },
+  "2022-09-15-5": {
+    "text": "Wiadukt przeprowadza drogę lub kolej ponad przeszkodą lądową, np. suchą doliną, wąwozem albo inną trasą komunikacyjną. Pokonywanie przeszkody wodnej jest cechą mostu w tym podstawowym podziale.",
+    "sources": [
+      {
+        "title": "ZPE – Kolejowe obiekty inżynierskie, część I",
+        "url": "https://zpe.gov.pl/a/kolejowe-obiekty-inzynierskie-cz-i/Dtx9kTozh"
+      }
+    ]
+  },
+  "2024-03-19-3": {
+    "text": "Ryzalit jest wysuniętą przed lico elewacji częścią bryły budynku, zwykle prowadzoną od dołu ku dachowi. Wykusz jest nadwieszony, natomiast otwarty element wystający z elewacji kojarzymy z balkonem.",
+    "sources": [
+      {
+        "title": "ZPE – Wnętrza i detale dekoracji zewnętrznej",
+        "url": "https://zpe.gov.pl/a/wnetrza-i-detale-dekoracji-zewnetrznej/D5MBEpGVp"
+      }
+    ]
+  },
+  "2024-03-19-4": {
+    "text": "W normowym obliczeniu powierzchni zabudowy oddziela się zasadniczy rzut budynku od elementów drugorzędnych, takich jak zewnętrzne schody, rampy czy daszki i markizy. Dlatego nie dodaje się ich automatycznie do powierzchni zabudowy.",
+    "sources": [
+      {
+        "title": "PN-ISO 9836:1997 – tekst udostępniony przez środowisko rzeczoznawców",
+        "url": "https://rzeczoznawca-zachodniopomorskie.pl/pliki/PN_ISO_9836_1997.pdf"
+      }
+    ],
+    "caveat": "Odrębny przepis albo ustalenie planu miejscowego może posługiwać się własną definicją; reguła dotyczy normy wskazanej w pytaniu."
+  },
+  "2022-07-07-4": {
+    "text": "W normowym obliczeniu powierzchni zabudowy oddziela się zasadniczy rzut budynku od elementów drugorzędnych, takich jak zewnętrzne schody, rampy czy daszki i markizy. Dlatego nie dodaje się ich automatycznie do powierzchni zabudowy.",
+    "sources": [
+      {
+        "title": "PN-ISO 9836:1997 – tekst udostępniony przez środowisko rzeczoznawców",
+        "url": "https://rzeczoznawca-zachodniopomorskie.pl/pliki/PN_ISO_9836_1997.pdf"
+      }
+    ],
+    "caveat": "Odrębny przepis albo ustalenie planu miejscowego może posługiwać się własną definicją; reguła dotyczy normy wskazanej w pytaniu."
+  },
+  "2024-03-19-5": {
+    "text": "W technologii wielkoblokowej ściany składa się z dużych elementów wykonanych wcześniej w zakładzie. Jest to więc prefabrykacja. „Monolityczna” oznacza zasadniczo wykonywanie konstrukcji na miejscu, a „sprężona” opisuje sposób wprowadzenia naprężeń.",
+    "sources": [
+      {
+        "title": "ZPE – Organizowanie i kontrolowanie robót konstrukcyjno-budowlanych stanu surowego",
+        "url": "https://zpe.gov.pl/a/e-book---organizowanie-i-kontrolowanie-robot-konstrukcyjno-budowlanych-stanu-surowego/D7AeuUUpP"
+      }
+    ]
+  },
+  "2023-11-30-1": {
+    "text": "Estakada wynosi trasę albo ciąg technologiczny ponad teren na szeregu podpór. Może prowadzić ruch lub rurociągi; nie musi przekraczać rzeki. W podstawowym rozróżnieniu przeszkoda wodna charakteryzuje most, a estakada wiąże się z wydłużonym wyniesieniem nad teren.",
+    "sources": [
+      {
+        "title": "ZPE – Kolejowe obiekty inżynierskie, część I",
+        "url": "https://zpe.gov.pl/a/kolejowe-obiekty-inzynierskie-cz-i/Dtx9kTozh"
+      }
+    ]
+  },
+  "2023-10-26-1": {
+    "text": "Płatew jest podłużną podporą elementów więźby. Może wystąpić w różnych rozwiązaniach dachów ze słupami lub wieszakami, dlatego sama obecność płatwi nie ogranicza się do jednej nazwy ustroju. W każdym przypadku trzeba odczytać rzeczywisty schemat podparcia.",
+    "sources": [
+      {
+        "title": "ZPE – Dokumentacja rysunkowa więźby płatwiowej",
+        "url": "https://zpe.gov.pl/a/DeVS7oipv"
+      }
+    ],
+    "caveat": "Nazwy tradycyjnych więźb bywają stosowane odmiennie. Nie należy wnioskować, że każdy wariant każdej wymienionej więźby musi zawierać płatew."
+  },
+  "2023-10-26-9": {
+    "text": "Amortyzacja kredytu oznacza stopniową spłatę kapitału według harmonogramu. Okres amortyzacji określa czas przyjęty do wyliczenia rat i pełnej spłaty kapitału; przy standardowym kredycie amortyzowanym pokrywa się z okresem spłaty.",
+    "sources": [
+      {
+        "title": "Rice University, OpenStax – The Basics of Loans",
+        "url": "https://openstax.org/books/contemporary-mathematics/pages/6-8-the-basics-of-loans"
+      }
+    ],
+    "caveat": "Klucz wybiera wyłącznie opis spłaty całości zadłużenia, lecz odpowiedź o rozłożeniu spłat części kapitałowej również oddaje podstawowy sens amortyzacji. Pytanie nie rozróżnia tego dostatecznie od terminu zapadalności i kredytu z ratą balonową."
+  },
+  "2023-09-14-3": {
+    "text": "Ślepy pułap jest wewnętrznym deskowaniem między belkami podtrzymującym wypełnienie izolacyjne stropu. Podsufitka wykańcza go od spodu, natomiast ślepa podłoga jest podkładem pod warstwę podłogową.",
+    "sources": [
+      {
+        "title": "ZPE – Konstrukcje stropów drewnianych",
+        "url": "https://zpe.gov.pl/a/konstrukcje-stropow-drewnianych/DfchWM5GU"
+      }
+    ]
+  },
+  "2023-09-14-4": {
+    "text": "W stropie Kleina stalowe belki podpierają płaską płytę ceglaną zbrojoną w spoinach. Określenie stalowo-ceramiczny opisuje oba podstawowe materiały nośne; nie jest to strop drewniany ani klasyczne sklepienie łukowe.",
+    "sources": [
+      {
+        "title": "ZPE – Stropy: elementy konstrukcyjne",
+        "url": "https://zpe.gov.pl/a/stropy---elementy-konstrukcyjne/D18jgtZiU"
+      }
+    ]
+  },
+  "2023-09-14-7": {
+    "text": "Dylatacja konstrukcyjna rozdziela obiekt na części mogące przemieszczać się względem siebie bez wymuszania nadmiernych naprężeń. Może obejmować ściany, stropy i dach, a przy różnicach osiadania także fundamenty; nie ogranicza się z definicji do samych fundamentów.",
+    "sources": [
+      {
+        "title": "SGGW – Wymagania dla konstrukcji oraz podkonstrukcji",
+        "url": "https://bip2.sggw.edu.pl/wp-content/uploads/sites/34/2021/04/20210129-092944_1582095_0qu93veprsdq87o78m3pvieu91_a-1.pdf?x62783="
+      }
+    ],
+    "caveat": "Zakres szczeliny zależy od jej celu. Dylatacja termiczna nie zawsze przecina fundamenty, więc wariant wyliczający wszystkie elementy należy traktować jako opis pełnego rozdzielenia, nie obowiązek w każdej sytuacji."
+  },
+  "2023-06-22-3": {
+    "text": "Typowe zbrojenie żelbetu tworzą stalowe pręty gładkie lub żebrowane współpracujące z betonem. Kable i struny są charakterystyczne dla zbrojenia sprężającego w konstrukcjach sprężonych, które odróżnia się od zwykłego żelbetu.",
+    "sources": [
+      {
+        "title": "Politechnika Gdańska, Katedra Konstrukcji Betonowych – przykład obliczeń",
+        "url": "https://wilis.pg.edu.pl/documents/20614119/0/zad_1_Emilia%20Inczewska.pdf"
+      }
+    ],
+    "caveat": "W szerszym opisie konstrukcji betonowych stosuje się także inne rodzaje zbrojenia; klucz odwołuje się do tradycyjnego rozróżnienia żelbetu i betonu sprężonego."
+  },
+  "2023-04-20-4": {
+    "text": "Poziom posadowienia dobiera się do warstw nośnych, wód gruntowych i zagrożenia przemarzaniem. Znaczenie ma też układ podziemia: piwnica może wymagać głębszego fundamentowania. Sama powierzchnia zabudowy nie wyznacza głębokości.",
+    "sources": [
+      {
+        "title": "PIIB – Fundament domu jednorodzinnego",
+        "url": "https://inzynierbudownictwa.pl/fundament-domu-jednorodzinnego/"
+      }
+    ]
+  },
+  "2023-03-23-6": {
+    "text": "Kotew wiąże elementy, ograniczając ich wzajemne przesunięcie lub oderwanie. Może ściągać mury jako ankra albo mocować słup do fundamentu; określenie opisuje funkcję połączenia, nie jeden wyłącznie detal.",
+    "sources": [
+      {
+        "title": "ZPE – Słownik pojęć: kotew",
+        "url": "https://zpe.gov.pl/watek/LPFA8PJCQ3/35/a/slownik-pojec/D5JT8LJRJ"
+      }
+    ]
+  },
+  "2022-12-01-6": {
+    "text": "Modernizacja oznacza unowocześnienie obiektu i podniesienie jego standardu. Zależnie od zakresu może poprawić stan techniczny i wydłużyć dalsze użytkowanie, np. przez wymianę instalacji lub wzmocnienia. Nie jest synonimem każdej bieżącej naprawy.",
+    "sources": [
+      {
+        "title": "Politechnika Wrocławska – Materiały o trwałości i zużyciu budynków",
+        "url": "https://zdb.pwr.edu.pl/podworna/do_pobrania/rm2019.pdf"
+      }
+    ],
+    "caveat": "Wskazane skutki nie muszą wystąpić łącznie przy każdej modernizacji. Klucz traktuje je jako możliwe rezultaty, a nie trzy warunki konieczne."
+  },
+  "2022-12-01-9": {
+    "text": "Kalenica to górna linia, w której zbiegają się połacie dachu. Jest krawędzią geometryczną; belka podpierająca krokwie to płatew, która może znajdować się pod kalenicą.",
+    "sources": [
+      {
+        "title": "ZPE – Elementy składowe dachu",
+        "url": "https://zpe.gov.pl/a/elementy-skladowe-dachu/DuPNHs3MU"
+      }
+    ]
+  },
+  "2022-10-27-4": {
+    "text": "W stropie Kleina stalowe belki podpierają płaską płytę ceglaną zbrojoną w spoinach. Określenie stalowo-ceramiczny opisuje oba podstawowe materiały nośne; nie jest to strop drewniany ani klasyczne sklepienie łukowe.",
+    "sources": [
+      {
+        "title": "ZPE – Stropy: elementy konstrukcyjne",
+        "url": "https://zpe.gov.pl/a/stropy---elementy-konstrukcyjne/D18jgtZiU"
+      }
+    ]
+  },
+  "2022-10-27-9": {
+    "text": "Wartość nominalna akcji wynika z podziału kapitału zakładowego na akcje. Cena emisyjna jest ceną objęcia akcji i może przewyższać nominał; różnicę nazywa się agio. Nominału nie należy też utożsamiać z bieżącą ceną giełdową.",
+    "sources": [
+      {
+        "title": "Kodeks spółek handlowych, art. 302 – podział kapitału zakładowego na akcje",
+        "url": "https://eli.gov.pl/eli/DU/2024/18/ogl"
+      }
+    ],
+    "caveat": "Zdanie o kapitale, którego „nie można wycofać do momentu likwidacji”, jest uproszczeniem. Prawo przewiduje m.in. umorzenie akcji i obniżenie kapitału przy zachowaniu ustawowych warunków ochronnych."
+  },
+  "2022-09-15-7": {
+    "text": "Stopa i skrzynia mogą należeć do fundamentów bezpośrednich, przekazujących nacisk podstawą na grunt. Pal przenosi obciążenie przez zagłębiony element, dlatego jest typowym fundamentem pośrednim.",
+    "sources": [
+      {
+        "title": "Powiatowe Centrum Edukacji Zawodowej w Bytowie – Fundamenty",
+        "url": "https://www.pcez-bytow.pl/download/plk/budownictwo-ogolne-tydzien-i.pdf"
+      }
+    ]
+  },
+  "2022-06-02-3": {
+    "text": "Powierzchnię całkowitą kondygnacji ustala się po zewnętrznym obrysie na poziomie posadzki, z uwzględnieniem wykończenia przegród. To inny pomiar niż powierzchnia pomieszczeń w świetle ścian. Wystających balkonów nie dolicza się automatycznie do obrysu zamkniętej kondygnacji.",
+    "sources": [
+      {
+        "title": "Małopolska Okręgowa Izba Architektów – Opinia nr 17: powierzchnia całkowita budynku",
+        "url": "https://www.mpoia.pl/index.php/dzialalnosc/zespol-rzeczoznawcow?catid=39&id=1547&view=article"
+      }
+    ],
+    "caveat": "Pytania odwołują się do PN-ISO 9836; sposób wykazywania powierzchni otwartych i osłoniętych należy odróżnić od powierzchni zamkniętej."
+  },
+  "2022-04-28-2": {
+    "text": "Stan zerowy oznacza ukończenie robót do poziomu przyziemia. W budynku podpiwniczonym obejmuje więc nie tylko fundamenty, ale także wykopy, ściany piwnic z izolacjami, strop nad piwnicą oraz potrzebne zasypki.",
+    "sources": [
+      {
+        "title": "Murator – Stan zerowy domu: zakres prac",
+        "url": "https://muratordom.pl/przed-budowa/organizacja-budowy/stan-zerowy-domu-czyli-poczatek-budowy-domu-jakie-prace-wykonuje-sie-na-tym-etapie-wznoszenia-budynku-aa-g7pT-ZeHU-kGCN.html"
+      }
+    ],
+    "caveat": "To umowna nazwa etapu realizacji; dokładny zakres kontraktowy powinien wynikać z dokumentacji i umowy."
+  },
+  "2022-04-28-8": {
+    "text": "W historycznych zasadach obmiaru powierzchnię pomieszczenia wyznacza jego obrys między przegrodami. Wnęki otworów okiennych i drzwiowych oraz przejścia w grubości przegród nie stają się przez to dodatkową powierzchnią pomieszczenia.",
+    "sources": [
+      {
+        "title": "PKN – Porównanie zasad obmiaru powierzchni, dr inż. arch. A. Starzyk",
+        "url": "https://wiedza.pkn.pl/documents/14109/17909/prezentacja_dr_inz._arch.a.starzyk.pdf/96020d77-09b0-41fa-a836-c952b9cd56fa"
+      }
+    ],
+    "caveat": "Pytanie odwołuje się do PN-70/B-02365. Nie należy przenosić jego wyniku bez sprawdzenia na współczesny cel pomiaru ani na powierzchnię całkowitą kondygnacji."
+  },
+  "2022-03-24-3": {
+    "text": "W typowym podziale materiałowym występują stropy żelbetowe oraz stalowo-ceramiczne, np. Kleina. W tym drugim rozwiązaniu stalowe belki współpracują z ceramiczną płytą między nimi. Sama obecność różnych materiałów wykończeniowych nie określa konstrukcji nośnej stropu.",
+    "sources": [
+      {
+        "title": "ZPE – Stropy: elementy konstrukcyjne",
+        "url": "https://zpe.gov.pl/a/stropy---elementy-konstrukcyjne/D18jgtZiU"
+      }
+    ],
+    "caveat": "Klucz korzysta z typowej klasyfikacji podręcznikowej; nie oznacza to zakazu istnienia historycznych lub indywidualnie projektowanych rozwiązań mieszanych."
+  },
+  "2022-03-24-4": {
+    "text": "Legar to belka podparcia podłogi, na której układa się deski lub płyty. Jest charakterystyczny dla podłóg i stropów drewnianych; nie oznacza żebra żelbetowego ani głowicy stropu grzybkowego.",
+    "sources": [
+      {
+        "title": "ZPE – Konstrukcje stropów drewnianych",
+        "url": "https://zpe.gov.pl/a/konstrukcje-stropow-drewnianych/DfchWM5GU"
+      }
+    ]
+  },
+  "2021-12-02-2": {
+    "text": "W przyjmowanym w pytaniu historycznym podziale centralna Polska wiąże się zazwyczaj ze strefą II, której umowna głębokość przemarzania wynosi 1,0 m. Należy odróżnić tę wartość mapową od indywidualnej decyzji projektowej.",
+    "sources": [
+      {
+        "title": "PIIB – Głębokość posadowień fundamentów: wymagania a rzeczywistość",
+        "url": "https://nauka.inzynierbudownictwa.pl/wp-content/uploads/2026/01/T_Glebokosc-posadowien-fundamentow-wymagania-a-rzeczywistosc_IB_4_2025_compressed1.pdf"
+      }
+    ],
+    "caveat": "„Centralna część Polski” jest określeniem orientacyjnym. Położenie konkretnej działki i właściwości gruntu wymagają sprawdzenia; norma PN-81/B-03020 ma charakter historycznego odniesienia."
+  },
+  "2021-05-27-6": {
+    "text": "W przyjmowanym w pytaniu historycznym podziale centralna Polska wiąże się zazwyczaj ze strefą II, której umowna głębokość przemarzania wynosi 1,0 m. Należy odróżnić tę wartość mapową od indywidualnej decyzji projektowej.",
+    "sources": [
+      {
+        "title": "PIIB – Głębokość posadowień fundamentów: wymagania a rzeczywistość",
+        "url": "https://nauka.inzynierbudownictwa.pl/wp-content/uploads/2026/01/T_Glebokosc-posadowien-fundamentow-wymagania-a-rzeczywistosc_IB_4_2025_compressed1.pdf"
+      }
+    ],
+    "caveat": "„Centralna część Polski” jest określeniem orientacyjnym. Położenie konkretnej działki i właściwości gruntu wymagają sprawdzenia; norma PN-81/B-03020 ma charakter historycznego odniesienia."
+  },
+  "2021-12-02-3": {
+    "text": "Strop DZ jest stropem gęstożebrowym z prefabrykowanymi belkami żelbetowymi, pustakami betonowymi i betonem uzupełniającym. Belki i nadbeton tworzą nośny układ, a pustaki przede wszystkim wypełniają przestrzeń między żebrami.",
+    "sources": [
+      {
+        "title": "ZPE – Stropy: elementy konstrukcyjne",
+        "url": "https://zpe.gov.pl/a/stropy---elementy-konstrukcyjne/D18jgtZiU"
+      }
+    ]
+  },
+  "2021-12-02-8": {
+    "text": "Estakada wynosi trasę albo ciąg technologiczny ponad teren na szeregu podpór. Może prowadzić ruch lub rurociągi; nie musi przekraczać rzeki. W podstawowym rozróżnieniu przeszkoda wodna charakteryzuje most, a estakada wiąże się z wydłużonym wyniesieniem nad teren.",
+    "sources": [
+      {
+        "title": "ZPE – Kolejowe obiekty inżynierskie, część I",
+        "url": "https://zpe.gov.pl/a/kolejowe-obiekty-inzynierskie-cz-i/Dtx9kTozh"
+      }
+    ]
+  },
+  "2021-10-28-1": {
+    "text": "We współczesnym użyciu architektonicznym atrium to wewnętrzna przestrzeń lub dziedziniec otoczony częściami budynku. Nie jest nazwą całego zespołu domów atrialnych ani dowolnego placu między odrębnymi budynkami.",
+    "sources": [
+      {
+        "title": "ZPE – Słownik: atrium i perystyl",
+        "url": "https://zpe.gov.pl/a/indicativus-praesentis-activi/Diq4FepRm"
+      }
+    ],
+    "caveat": "Historyczne atrium domu rzymskiego i współczesny przeszklony hol atrialny różnią się rozwiązaniem; pytanie oczekuje znaczenia dziedzińca wewnętrznego."
+  },
+  "2021-10-28-2": {
+    "text": "Zużycie funkcjonalne dotyczy niedopasowania cech obiektu do obecnych potrzeb rynku, np. niekorzystnego układu lub wielkości pomieszczeń. Uciążliwość nowej drogi jest przede wszystkim czynnikiem otoczenia, zwykle analizowanym jako oddziaływanie zewnętrzne.",
+    "sources": [
+      {
+        "title": "Politechnika Wrocławska – Materiały o trwałości i zużyciu budynków",
+        "url": "https://zdb.pwr.edu.pl/podworna/do_pobrania/rm2019.pdf"
+      }
+    ],
+    "caveat": "Płaski dach i pokoje poniżej 14 m² nie są automatycznie wadami funkcjonalnymi. Klucz zakłada określone preferencje i standard, które w rzeczywistej wycenie trzeba wykazać danymi rynkowymi."
+  },
+  "2021-09-09-7": {
+    "text": "Konstrukcję nośną można wykonać z drewna, stali albo połączyć różne materiały w układzie mieszanym. Podział określa materiał i sposób współpracy zasadniczych elementów nośnych, nie sam rodzaj elewacji czy wykończenia.",
+    "sources": [
+      {
+        "title": "ZPE – Organizowanie i kontrolowanie robót konstrukcyjno-budowlanych stanu surowego",
+        "url": "https://zpe.gov.pl/a/e-book---organizowanie-i-kontrolowanie-robot-konstrukcyjno-budowlanych-stanu-surowego/D7AeuUUpP"
+      }
+    ]
+  },
+  "2021-07-22-6": {
+    "text": "W normowym podziale powierzchnie w rzucie przegród, w tym ich otwory przejściowe, nie są automatycznie zaliczane do powierzchni ruchu. Dla przejść drzwiowych w ścianach pytanie wskazuje powierzchnię konstrukcji, odróżniając ją od wolnej powierzchni korytarza.",
+    "sources": [
+      {
+        "title": "PN-ISO 9836:1997 – tekst udostępniony przez środowisko rzeczoznawców",
+        "url": "https://rzeczoznawca-zachodniopomorskie.pl/pliki/PN_ISO_9836_1997.pdf"
+      }
+    ],
+    "caveat": "Trzeba uwzględnić wydanie normy oraz rodzaj przegrody. Nie jest to ogólna reguła zaliczania całych pomieszczeń ani ustawowa definicja powierzchni podatkowej."
+  },
+  "2021-06-24-9": {
+    "text": "W normowym podziale powierzchnie w rzucie przegród, w tym ich otwory przejściowe, nie są automatycznie zaliczane do powierzchni ruchu. Dla przejść drzwiowych w ścianach pytanie wskazuje powierzchnię konstrukcji, odróżniając ją od wolnej powierzchni korytarza.",
+    "sources": [
+      {
+        "title": "PN-ISO 9836:1997 – tekst udostępniony przez środowisko rzeczoznawców",
+        "url": "https://rzeczoznawca-zachodniopomorskie.pl/pliki/PN_ISO_9836_1997.pdf"
+      }
+    ],
+    "caveat": "Trzeba uwzględnić wydanie normy oraz rodzaj przegrody. Nie jest to ogólna reguła zaliczania całych pomieszczeń ani ustawowa definicja powierzchni podatkowej."
+  },
+  "2021-07-22-8": {
+    "text": "Metoda liniowa przyjmuje zużycie proporcjonalne do stosunku wieku do trwałości: 30 / 120 × 100% = 25%. To model czasowy, a nie wynik oględzin rzeczywistego stanu budynku.",
+    "sources": [
+      {
+        "title": "Politechnika Wrocławska – Materiały o trwałości i zużyciu budynków",
+        "url": "https://zdb.pwr.edu.pl/podworna/do_pobrania/rm2019.pdf"
+      }
+    ]
+  },
+  "2021-06-24-5": {
+    "text": "Nazwa układu odnosi się do kierunku ścian nośnych względem dłuższej osi budynku. Gdy biegną wzdłuż niej, układ jest podłużny; ustawienie w poprzek oznacza układ poprzeczny. Ściany działowe nie przesądzają o tym podziale.",
+    "sources": [
+      {
+        "title": "Politechnika Gdańska – Podstawy budownictwa, część I",
+        "url": "https://www.pg.gda.pl/audyt_energetyczny/pliki/Podstawy_budownictwa/pods_bud_I.pdf"
+      }
+    ]
+  },
+  "2021-06-24-8": {
+    "text": "W typowym podziale materiałowym występują stropy żelbetowe oraz stalowo-ceramiczne, np. Kleina. W tym drugim rozwiązaniu stalowe belki współpracują z ceramiczną płytą między nimi. Sama obecność różnych materiałów wykończeniowych nie określa konstrukcji nośnej stropu.",
+    "sources": [
+      {
+        "title": "ZPE – Stropy: elementy konstrukcyjne",
+        "url": "https://zpe.gov.pl/a/stropy---elementy-konstrukcyjne/D18jgtZiU"
+      }
+    ],
+    "caveat": "Klucz korzysta z typowej klasyfikacji podręcznikowej; nie oznacza to zakazu istnienia historycznych lub indywidualnie projektowanych rozwiązań mieszanych."
+  },
+  "2021-05-27-3": {
+    "text": "Powierzchnię całkowitą kondygnacji ustala się po zewnętrznym obrysie na poziomie posadzki, z uwzględnieniem wykończenia przegród. To inny pomiar niż powierzchnia pomieszczeń w świetle ścian. Wystających balkonów nie dolicza się automatycznie do obrysu zamkniętej kondygnacji.",
+    "sources": [
+      {
+        "title": "Małopolska Okręgowa Izba Architektów – Opinia nr 17: powierzchnia całkowita budynku",
+        "url": "https://www.mpoia.pl/index.php/dzialalnosc/zespol-rzeczoznawcow?catid=39&id=1547&view=article"
+      }
+    ],
+    "caveat": "Pytania odwołują się do PN-ISO 9836; sposób wykazywania powierzchni otwartych i osłoniętych należy odróżnić od powierzchni zamkniętej."
+  },
+  "2021-05-27-7": {
+    "text": "Dylatacja konstrukcyjna rozdziela obiekt na części mogące przemieszczać się względem siebie bez wymuszania nadmiernych naprężeń. Może obejmować ściany, stropy i dach, a przy różnicach osiadania także fundamenty; nie ogranicza się z definicji do samych fundamentów.",
+    "sources": [
+      {
+        "title": "SGGW – Wymagania dla konstrukcji oraz podkonstrukcji",
+        "url": "https://bip2.sggw.edu.pl/wp-content/uploads/sites/34/2021/04/20210129-092944_1582095_0qu93veprsdq87o78m3pvieu91_a-1.pdf?x62783="
+      }
+    ],
+    "caveat": "Zakres szczeliny zależy od jej celu. Dylatacja termiczna nie zawsze przecina fundamenty, więc wariant wyliczający wszystkie elementy należy traktować jako opis pełnego rozdzielenia, nie obowiązek w każdej sytuacji."
+  },
+  "2021-05-27-8": {
+    "text": "Kurzawka to silnie nawodniony drobny grunt niespoisty tracący stateczność i zachowujący się jak płynna masa, np. przy dopływie wody do wykopu. Jest problemem geotechnicznym; nie jest składnikiem zaprawy ani przyrządem pomiarowym.",
+    "sources": [
+      {
+        "title": "Państwowy Instytut Geologiczny – Warunki geologiczno-inżynierskie na obszarze Polski",
+        "url": "https://www.pgi.gov.pl/docman-tree-all/geologia-inzynierska/poradniki-i-metodyki/11673-warunki-geologiczno-inzynierskie-na-obszarze-polski/file.html"
+      }
+    ],
+    "caveat": "Odpowiedź o „rodzaju gruntu” jest skrótem. Zjawisko kurzawkowe wiąże się ze stanem nawodnienia i warunkami przepływu, nie tylko z nazwą granulometryczną gruntu."
+  },
+  "2021-05-27-9": {
+    "text": "Dochód operacyjny netto pomniejsza się o wydatki bieżącego utrzymania i zarządzania, dlatego wynagrodzenie zarządcy ma na niego wpływ. Koszt kredytu jest kosztem finansowania konkretnego inwestora, a pierwsza opłata za użytkowanie wieczyste nie jest corocznym kosztem działalności.",
+    "sources": [
+      {
+        "title": "PFSRM – Zeszyt metodyczny: zastosowanie podejścia dochodowego (projekt)",
+        "url": "https://maz-srm.pl/wp-content/uploads/2021/01/Zeszyt-metodyczny-pod.-dochodowe-PROJEKT-20201219.pdf"
+      }
+    ],
+    "caveat": "Nie należy mylić pierwszej opłaty z opłatami rocznymi ani dochodu z nieruchomości z przepływem gotówki po obsłudze długu."
+  },
+  "2021-04-22-9": {
+    "text": "Płatew biegnie wzdłuż dachu i podpiera krokwie lub inne elementy więźby. Należy do konstrukcji dachu; belka podłogowa lub element ściany może wyglądać podobnie, lecz pełni inną funkcję.",
+    "sources": [
+      {
+        "title": "ZPE – Dokumentacja rysunkowa więźby płatwiowej",
+        "url": "https://zpe.gov.pl/a/DeVS7oipv"
+      }
+    ]
+  }
+}

@@ -1635,3 +1635,90 @@ kbd {
     font-size: 17px;
   }
 }
+
+/* An incomplete answer is a failed set, even when a chosen variant is true. */
+.review-partial {
+  background: #fff3de;
+  border-color: #dbad60;
+  color: #845014;
+}
+.review-neutral {
+  background: var(--paper);
+  border-color: var(--line);
+  color: var(--muted);
+}
+.legend-neutral i {
+  background: var(--paper);
+  border-color: #a9b0a3;
+}
+.review-points {
+  font-size: 12px;
+  font-weight: 700;
+  padding: 3px 7px;
+  border-radius: 5px;
+  white-space: nowrap;
+}
+.review-points.is-correct {
+  background: #e4efdd;
+  color: #386437;
+}
+.review-points.is-incorrect {
+  background: #ffe7e1;
+  color: #953d36;
+}
+.review-assessment {
+  font-size: 13px;
+  line-height: 1.8;
+  margin: 0 0 16px;
+  padding: 11px 14px;
+  border-left: 3px solid;
+  border-radius: 0 6px 6px 0;
+}
+.review-assessment.is-correct {
+  color: #386437;
+  background: #f0f7ec;
+  border-color: #86ad75;
+}
+.review-assessment.is-incorrect {
+  color: #953d36;
+  background: #fff2ed;
+  border-color: #c77766;
+}
+.review-result-incorrect {
+  background: #ffe7e1;
+  color: #953d36;
+}
+[data-theme="dark"] .review-partial {
+  background: #44361f;
+  border-color: #b58c49;
+  color: #f0cd8b;
+}
+[data-theme="dark"] .review-assessment.is-correct,
+[data-theme="dark"] .review-points.is-correct {
+  background: #253d2a;
+  color: #c8e2ba;
+  border-color: #6d925f;
+}
+[data-theme="dark"] .review-assessment.is-incorrect,
+[data-theme="dark"] .review-points.is-incorrect,
+[data-theme="dark"] .review-result-incorrect {
+  background: #422d29;
+  color: #efb7ac;
+  border-color: #aa7167;
+}
+@media (max-width: 580px) {
+  .review-assessment {
+    font-size: 12px;
+    padding: 10px 12px;
+  }
+  .review-points {
+    font-size: 11px;
+  }
+}
+
+/* Sourced educational comments. */
+.educational-comment > p { line-height: 1.85; }
+.comment-sources { display: grid; gap: 8px; margin: 18px 0 10px; font-size: 13px; }
+.comment-sources a { overflow-wrap: anywhere; }
+.comment-caveat { margin: 16px 0; padding: 15px; border-left: 4px solid #ce933c; background: #fff5e7; color: #704b21; border-radius: 7px; line-height: 1.8; }
+[data-theme="dark"] .comment-caveat { background: #453a27; color: #f4d59e; }

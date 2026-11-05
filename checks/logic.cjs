@@ -61,7 +61,7 @@ function setup(saved, options = {}) {
     },
     fetch: async (path) => ({
       ok: true,
-      json: async () => (path === "legal-bases.json" ? legalFixture : data),
+      json: async () => (path === "legal-bases.json" ? legalFixture : path === "explanations.json" ? JSON.parse(fs.readFileSync("dist/explanations.json","utf8")) : data),
     }),
     setInterval() {},
     setTimeout() {},

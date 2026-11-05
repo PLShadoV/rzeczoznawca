@@ -19,3 +19,7 @@ pracownia-postep-*.json
 *postep*.json
 releases/
 *.zip
+
+# Temporary research corpora for educational comments
+data/explanations/sources/
+data/explanations/__pycache__/
