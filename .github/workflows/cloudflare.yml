@@ -1,0 +1,61 @@
+name: Deploy to Cloudflare Pages
+
+# Każdy push: testy, a potem publikacja katalogu dist/ na Cloudflare Pages.
+#  - gałąź main  -> wdrożenie produkcyjne,
+#  - inne gałęzie -> wdrożenie podglądowe (osobny adres *.pages.dev).
+# Wymagane w GitHub: Settings -> Secrets and variables -> Actions
+#  - secret  CLOUDFLARE_API_TOKEN   (uprawnienie: Account / Cloudflare Pages / Edit)
+#  - secret  CLOUDFLARE_ACCOUNT_ID
+#  - variable CLOUDFLARE_PROJECT_NAME (nazwa projektu Pages; domyślnie "rzeczoznawca")
+# Bez sekretów krok publikacji jest pomijany, a testy nadal się wykonują.
+
+on:
+  push:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  deployments: write
+
+concurrency:
+  group: cloudflare-pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v7
+        with:
+          node-version: "22"
+          package-manager-cache: false
+      - name: Validate application and question references
+        run: npm test
+      - name: Check Cloudflare credentials
+        id: creds
+        env:
+          TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          ACCOUNT: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          if [ -n "$TOKEN" ] && [ -n "$ACCOUNT" ]; then
+            echo "ok=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "ok=false" >> "$GITHUB_OUTPUT"
+            echo "::warning::Brak sekretów CLOUDFLARE_API_TOKEN / CLOUDFLARE_ACCOUNT_ID — publikacja na Cloudflare pominięta."
+          fi
+      - name: Deploy dist/ to Cloudflare Pages
+        if: steps.creds.outputs.ok == 'true'
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+          command: >-
+            pages deploy dist
+            --project-name=${{ vars.CLOUDFLARE_PROJECT_NAME || 'rzeczoznawca' }}
+            --branch=${{ github.ref_name }}
+            --commit-dirty=true
