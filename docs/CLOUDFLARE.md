@@ -9,7 +9,7 @@ Nie ma kroku budowania — publikowana jest zawartość `dist/`.
 
 ## Konfiguracja (jednorazowo)
 
-1. Cloudflare → **Workers & Pages** → projekt Pages (istniejący albo nowy, typ *Direct Upload*). Zapamiętaj jego nazwę.
+1. Projekt Pages: jeśli nie istnieje projekt o nazwie z `CLOUDFLARE_PROJECT_NAME` (domyślnie `rzeczoznawca`), workflow utworzy go sam (adres `https://<nazwa>.pages.dev`). Jeśli masz już projekt pod inną nazwą, wpisz ją w zmiennej.
 2. Cloudflare → **My Profile → API Tokens → Create Token** → szablon *Edit Cloudflare Workers* lub własny z uprawnieniem **Account → Cloudflare Pages → Edit**. Skopiuj token.
 3. Account ID: widoczny w panelu Cloudflare (Workers & Pages, prawa kolumna).
 4. GitHub → repozytorium → **Settings → Secrets and variables → Actions**:
