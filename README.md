@@ -2,7 +2,7 @@
 
 # Pracownia Rzeczoznawcy
 
-**Wersja 1.1.1.** Gotowa, samodzielna aplikacja do nauki na egzamin na rzeczoznawcę majątkowego. Działa bez konta i backendu. Możesz opublikować ją na **GitHub Pages** lub dowolnym hostingu statycznym. Wszystkie pliki strony są w `dist/`.
+**Wersja 1.2.0.** Gotowa, samodzielna aplikacja do nauki na egzamin na rzeczoznawcę majątkowego. Działa bez konta i backendu. Możesz opublikować ją na **GitHub Pages** lub dowolnym hostingu statycznym. Wszystkie pliki strony są w `dist/`.
 
 ## Szybki start
 
@@ -36,11 +36,13 @@ npm test
 
 ## Dane i zakres weryfikacji
 
-Baza zawiera **3240 pytań z 36 pełnych sesji z lat 2021–2026**, od kwietnia 2021 do września 2026. To pytania z arkuszy, więc treści mogą powtarzać się między sesjami. Nie jest to kompletny zbiór wszystkich egzaminów. Każdy rekord zachowuje datę sesji, oryginalny numer, warianty, oficjalny klucz i odnośniki do źródeł.
+Baza zawiera **4950 pytań z 55 pełnych sesji z lat 2018–2026**, od marca 2018 do września 2026. Sesje 2018–03.2021 (1710 pytań) zostały odczytane ze skanów ministerstwa (OCR + ręczna korekta ze skanem, klucze odczytane z kratek i sprawdzone wzrokowo, z uwzględnieniem dwóch oficjalnych sprostowań) — szczegóły w [data/older/README.md](data/older/README.md). To pytania z arkuszy, więc treści mogą powtarzać się między sesjami. Nie jest to kompletny zbiór wszystkich egzaminów. Każdy rekord zachowuje datę sesji, oryginalny numer, warianty, oficjalny klucz i odnośniki do źródeł.
 
 Źródło arkuszy i kluczy: [oficjalna strona ministerstwa dla kandydatów na rzeczoznawców](https://www.gov.pl/web/rozwoj-technologia/jak-zostac-rzeczoznawca-majatkowym). Podział tematyczny jest pomocniczy. Projekt jest niezależny od ministerstwa i InfoGeoTech.
 
-Warstwa przypisów zawiera **2377 pytań z potwierdzonymi powiązaniami z przepisami**, **540 oznaczeń zagadnień specjalistycznych lub obliczeniowych** i **323 pozycje wymagające dalszej weryfikacji**. Obejmuje wskazany tekst aktu, a nie automatyczne potwierdzenie jego aktualności na dziś lub brzmienia w każdej historycznej dacie. Rozbieżności kluczy z przepisami są oznaczane; oryginalnej punktacji nie zmieniono. Szczegóły: [dokumentacja przypisów](data/legal/README.md).
+Warstwa przypisów zawiera **2856 pytań z potwierdzonymi powiązaniami z przepisami**, **652 oznaczenia zagadnień specjalistycznych lub obliczeniowych** i **1442 pozycje wymagające dalszej weryfikacji** (w tym 1055 pytań archiwalnych 2018–2021, dla których przypisów jeszcze nie opracowano; 655 pytań archiwalnych identycznych z późniejszymi dziedziczy ich przypis). Obejmuje wskazany tekst aktu, a nie automatyczne potwierdzenie jego aktualności na dziś lub brzmienia w każdej historycznej dacie. Rozbieżności kluczy z przepisami są oznaczane; oryginalnej punktacji nie zmieniono. Szczegóły: [dokumentacja przypisów](data/legal/README.md).
+
+**Korekta pisowni.** Arkusze ministerstwa zawierają literówki (np. „tymczsowym”, „brytto”, brak polskich znaków). W treści pytań i odpowiedzi poprawiono wyłącznie pisownię i odstępy przy interpunkcji (`data/text_fixes.py`); sens pytań i klucze pozostały bez zmian. Każda zmiana w pytaniach z lat 2021–2026 jest zapisana w `data/text-corrections.json` (przed/po), a oryginał jest dostępny pod linkiem do PDF przy pytaniu.
 
 ## Prywatność i kopie zapasowe
 
@@ -86,4 +88,4 @@ Oryginalny kod i dokumentacja: [MIT](LICENSE). Urzędowe materiały zachowują w
 
 ## Komentarze do odpowiedzi
 
-863 pytania bez potwierdzonego przypisu prawnego mają komentarze dydaktyczne ze źródłami, obliczeniami oraz zastrzeżeniami do historycznych kluczy. Logowanie i Firebase usunięto. Postęp zapisuje się lokalnie bez konta; nie synchronizuje się między urządzeniami.
+863 pytania z lat 2021–2026 bez potwierdzonego przypisu prawnego (oraz 176 identycznych pytań archiwalnych) mają komentarze dydaktyczne ze źródłami, obliczeniami oraz zastrzeżeniami do historycznych kluczy. Logowanie i Firebase usunięto. Postęp zapisuje się lokalnie bez konta; nie synchronizuje się między urządzeniami.

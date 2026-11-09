@@ -1,5 +1,13 @@
 # Historia zmian
 
+## 1.2.0 — 2026-11-09
+
+- Dodano 19 archiwalnych sesji z lat 2018–2021 (15.03.2018 – 18.03.2021): 1710 pytań. Baza liczy teraz 4950 pytań z 55 sesji (2018–2026).
+- Tekst archiwalnych arkuszy odczytano ze skanów (3 przebiegi OCR, dopasowanie do identycznych pytań z bazy, ręczna korekta ze skanem). Klucze odczytano z kratek skanu i sprawdzono wzrokowo; uwzględniono oficjalne sprostowania do sesji 25.06.2020 (pyt. 57) i 30.07.2020 (pyt. 61).
+- Pytania archiwalne identyczne z późniejszymi dziedziczą ich przypis prawny i komentarz; pozostałe mają status „do weryfikacji”.
+- Poprawiono literówki pochodzące z arkuszy ministerstwa w 493 polach pytań 2021–2026 (log: `data/text-corrections.json`). Klucze bez zmian — ponownie zweryfikowane z PDF-ami (3240/3240).
+- Przy pytaniach ze sprostowanym kluczem wyświetlana jest informacja o sprostowaniu.
+
 ## 1.1.1 — 2026-11-05
 
 - Usunięto konta, logowanie i integrację Firebase.

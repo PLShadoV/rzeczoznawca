@@ -1,0 +1,48 @@
+1 q Inwestycje finansowe o charakterze lokat wierzytelnościowych polegają na:
+2 q Podmioty wykorzystujące środki publiczne lub dysponujące nimi, które zleciły rzeczoznawcy majątkowemu sporządzenie operatu szacunkowego są obowiązane umożliwić osobie, której interesu prawnego dotyczy jego treść:
+2 c przeglądanie operatu szacunkowego i sporządzanie notatek po wyrażeniu zgody przez autora operatu.
+3 c iloczynu wartości rynkowej nieruchomości po dokonaniu nakładów (pomniejszonej o wartość gruntu) i wskaźnika przeliczeniowego dokonanych nakładów.
+5 c wskaźnik redukujący ceny sprzedaży drewna ze względu na jego jakość.
+6 q Wycena nieruchomości z występującymi w podłożu kopalinami uregulowana jest:
+9 c nie ma potrzeby zaznaczania, jeżeli jest aktualna dokumentacja powykonawcza budynku.
+10 q Jakie pomieszczenia w budynku wielolokalowym mogą stanowić odrębne nieruchomości?
+10 b samodzielne lokale mieszkalne oraz samodzielne lokale wykorzystywane na inne cele;
+10 c wszystkie bez wyjątku pomieszczenia wydzielone trwałymi ścianami w obrębie budynku.
+13 b przepisami rozporządzenia Rady Ministrów w sprawie wyceny nieruchomości i sporządzania operatu szacunkowego;
+14 c organy wydające decyzje powodujące zmiany danych ewidencji gruntów i budynków ale wyłącznie za zgodą właściciela lub użytkownika wieczystego nieruchomości, których zmiany te dotyczą.
+17 q W świetle przepisów techniczno-budowlanych umieszczanie na ogrodzeniu drutu kolczastego jest dozwolone na wysokości nie mniejszej niż:
+20 a dt ziarna żyta;
+25 q W jaki sposób określa się wartość rynkową nieruchomości, która na dzień wydania decyzji o zezwoleniu na realizację inwestycji drogowej, była już przeznaczona pod inwestycję drogową?
+27 a dane identyfikacyjne budynku lub jego części;
+27 b zalecenia określające zakres i rodzaj robót budowlano-instalacyjnych, które poprawią charakterystykę energetyczną budynku lub jego części;
+27 c charakterystykę energetyczną budynku lub jego części.
+30 a obszar użytków rolnych klasy IV przekracza 1 ha;
+30 c grunty rolne stanowią klasę VI i są pochodzenia organicznego.
+35 q W rejestrze cen i wartości w katastrze nieruchomości rejestracji podlegają m.in.:
+36 b stanowi szacunkową kwotę, jaką w dniu wyceny można uzyskać za nieruchomość, przy spełnieniu określonych warunków;
+36 c jest określana na podstawie cen lub dochodów na rynku kapitałowym.
+37 a równa zainwestowanemu kapitałowi;
+44 q Wskaźnik szacunkowy gruntu pod stawami rybackimi ustala się - w razie braku klasyfikacji jak dla:
+44 b klasy I łąk i pastwisk trwałych;
+47 c wyłącznie wartość odtworzenia gruntu z uwzględnieniem jego stopnia zużycia.
+48 c w ewidencji nie wykazuje się danych o materiale zewnętrznych ścian budynku.
+49 c jest przeszkodą, gdyż wymagana jest jednomyślność uczestników postępowania z uwagi na ingerencję w ich prawa do nieruchomości objętych scaleniem.
+51 q Z mapy ewidencyjnej można uzyskać m.in. następujące informacje, niezbędne do wyceny nieruchomości rolnej:
+57 a Prezes Urzędu Mieszkalnictwa i Rozwoju Miast;
+61 c pisemnej z podpisami notarialnie poświadczonymi.
+62 q Jakie zasady obowiązują przy ustalaniu odszkodowania za szkody spowodowane wybudowaniem na nieruchomości urządzenia infrastruktury technicznej na mocy decyzji starosty zezwalającej na jej zajęcie?
+67 c ustalenia odszkodowania za wywłaszczoną nieruchomość;
+71 c szacunku brakarskiego.
+73 c Izba samorządowa zrzeszająca rzeczoznawców majątkowych.
+75 q Przez określenie "stan nieruchomości" według ustawy o gospodarce nieruchomościami, należy rozumieć m.in.:
+76 b na podstawie kosztorysów wykonawczych budynków mieszkalnych oddanych do użytkowania nie wcześniej niż w okresie ostatnich 12 miesięcy;
+76 c jako iloczyn powierzchni użytkowej tego lokalu i urzędowego wskaźnika przeliczeniowego kosztu odtworzenia 1 m2 powierzchni użytkowej dla budynków mieszkalnych.
+78 c metody kosztów likwidacji.
+81 q Czy można dokonać podziału na działki gruntu nieruchomości przeznaczonych na inne cele niż rolne i leśne bez wydania przez wójta, burmistrza albo prezydenta miasta decyzji zatwierdzającej w/w podział?
+84 q W wypadku nadania decyzji o zezwoleniu na realizację inwestycji drogowej rygoru natychmiastowej wykonalności decyzja ta:
+84 a zobowiązuje do niezwłocznego wydania nieruchomości, opróżnienia lokali i innych pomieszczeń;
+86 a przeznaczenie nieruchomości zgodne z celem wywłaszczenia powoduje zwiększenie jej wartości;
+87 a które w dacie wyceny tych nakładów zostały już na nieruchomości dokonane;
+89 c jako średnia z wszystkich drzewostanów w oddziale.
+40 b zmienia się intensywniej niż cena;
+5 q We wzorach na wycenę drzewostanów leśnych techniką wskaźnikową "U" oznacza:

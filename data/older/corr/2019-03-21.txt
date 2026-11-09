@@ -1,0 +1,32 @@
+5 c nabywca uzależnia cenę zakupu nieruchomości od możliwości powtórnego jej wynajęcia.
+9 c funkcjonalności obiektu.
+18 q Prawidłowo ogłoszony przetarg pierwszy i prawidłowo ogłoszony przetarg drugi na zbycie nieruchomości stanowiącej własność gminy nie dały rozstrzygnięcia (zakończone zostały wynikiem negatywnym). Jaką procedurę może w tej sytuacji zastosować właściwy organ, chcąc kontynuować zbycie?
+22 q Do "powierzchni sprzedaży" w rozumieniu zapisów ustawy o planowaniu i zagospodarowaniu przestrzennym zalicza się:
+22 a część ogólnodostępną powierzchni obiektu handlowego, przeznaczoną do sprzedaży detalicznej, w której odbywa się bezpośrednia sprzedaż towarów łącznie z powierzchnią usług, gastronomii i ekspozycji wystawowej;
+23 a dochody z czynszów i dochody pozaczynszowe pomniejszone o wydatki operacyjne;
+25 q Odszkodowanie za nieruchomości zajęte pod drogi publiczne i przejęte z mocy prawa z dniem 1.01.1999 r., na rzecz Skarbu Państwa lub jednostki samorządu terytorialnego ustala:
+28 c wartość materiałów pozostałych po likwidacji budynku.
+31 c Noty Interpretacyjnej Nr 1 "Zastosowanie podejścia porównawczego w wycenie nieruchomości" wydanej przez Polską Federację Stowarzyszeń Rzeczoznawców Majątkowych.
+32 c ustaloną przez nadleśniczego na podstawie informacji uzyskanych w agencjach obrotu nieruchomościami, urzędach skarbowych i od pośredników w obrocie nieruchomościami.
+39 q Nieruchomością jest:
+42 q Pojęcie wartości godziwej precyzuje ustawa:
+44 c pomija się.
+48 c ma istotny wpływ na wartość drzewostanu.
+52 c lokale niestanowiące odrębnych nieruchomości, znajdujące się w budynkach położonych w granicach jednego obrębu, należące do tego samego właściciela.
+57 b nieruchomości stanowiące własność jednego podmiotu, położone w jednej jednostce ewidencyjnej;
+58 q Na czym polega gospodarowanie zasobem nieruchomości Skarbu Państwa?
+64 q Ustawowa należność za wyłączenie 1 ha PsIII wynosi 291450 zł. Na rynku lokalnym podobne grunty uzyskują cenę 10 zł/m2. Należność ustalona za wyłączenie 0,1000 ha gruntu rolnego wyniesie:
+66 b przyjęcia cen robót budowlanych z uwzględnieniem mnożnika regionalnego podanego w specjalistycznym wydawnictwie;
+68 q W trakcie opracowywania projektu scalenia gruntów zgodnie z ustawą o scalaniu i wymianie gruntów, rzeczoznawca majątkowy określa:
+68 c rzeczoznawca majątkowy nie bierze udziału w procesie scalenia, jeżeli przedmiotem scalenia są grunty bez części składowych.
+69 c gminnym.
+70 c grunty utrzymywane w postaci ugoru lub odłogowane.
+72 q Decyzja o pozwoleniu na budowę wygasa, jeżeli:
+75 b może, wraz z zakończeniem likwidacji przedsiębiorstwa będącego jej podmiotem;
+75 c może, w przypadku nabycia przedsiębiorstwa będącego jej podmiotem przez innego przedsiębiorcę, który musi podjąć starania o ponowne ustanowienie służebności przesyłu.
+78 q Trwały zarząd ustanowiony na nieruchomości stanowiącej własność Skarbu Państwa został rozwiązany na wniosek jednostki organizacyjnej, której to prawo przysługiwało. Jednostka ta w czasie trwania prawa trwałego zarządu poniosła nakłady na rozbudowę budynków wzniesionych na tej nieruchomości. W jaki sposób nastąpi rozliczenie za te nakłady?
+85 c w miastach, w których utworzone zostały dzielnice, może być obszar dzielnicy lub kilku sąsiadujących ze sobą dzielnic.
+89 b przewodów kominowych;
+89 c instalacji i urządzeń służących ochronie środowiska.
+18 a nie wcześniej niż w ciągu 30 dni i nie później niż w ciągu 6 miesięcy licząc od dnia zakończenia drugiego przetargu, zbyć nieruchomość w drodze rokowań;
+84 b nieruchomości stanowiące własność Skarbu Państwa znajdujące się w użytkowaniu wieczystym gminy;

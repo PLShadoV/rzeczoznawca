@@ -2,7 +2,7 @@
 
 The question bank and historical official answer keys are unchanged. References are an additional editorial layer, assembled into `dist/legal-bases.json` by `python data/legal/assemble.py`.
 
-Current coverage: 2377 question occurrences with confirmed relevant provisions, 540 methodological/technical/mathematical questions without a directly assigned statutory basis, and 323 unresolved entries. Occurrences may repeat across sessions. All 3240 IDs have an explicit status. These counts describe coverage, not a guarantee that every historical answer matches the law currently in force.
+Current coverage: 2377 question occurrences with confirmed relevant provisions, 540 methodological/technical/mathematical questions without a directly assigned statutory basis, and 323 unresolved entries. Occurrences may repeat across sessions. All 3240 IDs of the 2021–2026 sessions have an explicit status. The 1710 archive questions (2018–2021) are mapped in `archive-2018-2021.json`: 655 identical to later questions inherit their entry; the rest are `unresolved` until researched. These counts describe coverage, not a guarantee that every historical answer matches the law currently in force.
 
 ## Research and evidence
 

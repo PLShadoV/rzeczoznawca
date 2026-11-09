@@ -34,6 +34,10 @@ Skrypt zapisuje ZIP repozytorium, ZIP samej strony, manifest plików i sumy SHA-
 
 Standardowe testy danych: `python3 checks/legal.py`. Dodatkowa kontrola kluczy z PDF-ów (`checks/keys.py`) wymaga PyMuPDF, Pillow i lokalnych oryginalnych dokumentów. Kontrola fragmentów (`checks/legal-evidence.py`) wymaga pobranych urzędowych korpusów, które są pomijane w paczce. Samo mapowanie można odtworzyć z plików `data/legal/` przez `assemble.py`; przed publikacją ponownie sprawdź treść źródeł.
 
+## Archiwalne sesje 2018–2021 i korekta pisowni
+
+Sesje archiwalne powstały z OCR skanów — opis pipeline’u i ręcznych poprawek w `data/older/README.md`. Po zmianie tekstu w `data/older/corr/` uruchom `cd data/older && python3 assemble_older.py`, a następnie z katalogu głównego `python3 data/older/merge_into_dist.py` (skrypt jest idempotentny; stosuje też `data/text_fixes.py` do całej bazy). Nowe korekty pisowni dopisuj w `data/text_fixes.py` — nie zmieniaj sensu pytań ani kluczy.
+
 ## Komentarze dydaktyczne
 
-`data/explanations/assemble.py` buduje `dist/explanations.json` z plików redakcyjnych. `checks/explanations.py` sprawdza pokrycie 863 pytań bez przypisu. Komentarze nie zmieniają urzędowych pytań ani kluczy.
+`data/explanations/assemble.py` buduje `dist/explanations.json` z plików redakcyjnych. `checks/explanations.py` sprawdza pokrycie 863 pytań z lat 2021–2026 bez przypisu; pytania archiwalne dziedziczą komentarz identycznego pytania (`data/explanations/archive-2018-2021.json`). Komentarze nie zmieniają urzędowych pytań ani kluczy.
