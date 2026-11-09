@@ -66,4 +66,11 @@ jobs:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           PROJECT: ${{ vars.CLOUDFLARE_PROJECT_NAME || 'rzeczoznawca' }}
           BRANCH: ${{ github.ref_name }}
-        run: npx --yes wrangler@4 pages deploy dist --project-name="$PROJECT" --branch="$BRANCH" --commit-dirty=true
+        run: |
+          # Cloudflare API bywa chwilowo niedostępne (503) — do 4 prób.
+          for i in 1 2 3 4; do
+            npx --yes wrangler@4 pages deploy dist --project-name="$PROJECT" --branch="$BRANCH" --commit-dirty=true && exit 0
+            echo "Próba $i nieudana, ponawiam za $((i*15)) s..."
+            sleep $((i*15))
+          done
+          exit 1
