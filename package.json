@@ -1,6 +1,6 @@
 {
   "name": "pracownia-rzeczoznawcy",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "private": true,
   "description": "Statyczna aplikacja do nauki na egzamin na rzeczoznawcę majątkowego",
   "license": "MIT",

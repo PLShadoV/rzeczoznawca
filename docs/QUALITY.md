@@ -1,4 +1,4 @@
-# Kontrola wydania 1.1.1
+# Kontrola wydania 1.2.0
 
 ## Wykonane kontrole automatyczne
 
@@ -15,7 +15,10 @@
 - Błąd trwałego zapisu nie jest potwierdzany jako sukces; treść pozostaje w pamięci sesji.
 - Ścieżki względne, czcionki lokalne, ikony i manifest dla Pages w podkatalogu.
 - Scenariusze service worker: zapis obu baz i czcionek, praca bez sieci, osobny cache dla ścieżki projektu, zachowanie odpowiedzi z sieci przy pełnej pamięci cache.
-- Spójność statusów przypisów i dopuszczone urzędowe odnośniki. Dotychczasowe 3240 pytań i klucze pozostają niezmienione.
+- Spójność statusów przypisów i dopuszczone urzędowe odnośniki.
+- Klucze 3240 pytań z lat 2021–2026 ponownie porównane z kratkami w oryginalnych PDF-ach (`checks/keys.py`: 3240/3240 zgodnych). Treść tych pytań porównana z tekstem PDF-ów (0 rozbieżności przed korektą pisowni).
+- Korekta pisowni (493 pola w pytaniach 2021–2026) — wyłącznie ortografia i interpunkcja, log w `data/text-corrections.json`; klucze bez zmian.
+- 19 sesji archiwalnych 2018–03.2021: klucze odczytane automatycznie z kratek skanu i porównane wzrokowo; tekst z OCR z ręczną korektą pól z rozbieżnościami, liczbami i nieznanymi słowami (opis: `data/older/README.md`).
 - Paczki dystrybucyjne nie zawierają konfiguracji Sites ani poświadczeń; dołączone manifesty pozwalają sprawdzić integralność.
 
 ## Granice potwierdzenia
@@ -24,7 +27,7 @@ W tym środowisku nie był dostępny obsługiwany podgląd przeglądarkowy. Nie 
 
 Po uruchomieniu na własnym GitHub Pages zalecany jest krótki przegląd: widok telefonu i komputera, jasny/nocny motyw, klawiatura i focus dialogu, notatka z eksportem/importem, egzamin po odświeżeniu oraz przejście offline po zakończonej instalacji cache. Nie stanowi to dodatkowego wymogu do zbudowania strony — jest jawnym zakresem niewykonanego sprawdzenia.
 
-Biblioteka jest historyczna. 2377 pytań ma przypis prawny, 540 oznaczenie wiedzy specjalistycznej lub obliczeń, a 323 wymaga dalszej weryfikacji podstawy. Potwierdzenie fragmentu w wskazanym tekście aktu nie oznacza pełnego audytu wszystkich historycznych wersji prawa ani zgodności z dzisiejszym egzaminem. Szczegóły w `data/legal/README.md`.
+Biblioteka jest historyczna. 2856 pytań ma przypis prawny, 652 oznaczenie wiedzy specjalistycznej lub obliczeń, a 1442 wymaga dalszej weryfikacji podstawy (głównie archiwalne pytania 2018–2021). Tekst pytań archiwalnych pochodzi z OCR skanów; pola zgodne we wszystkich przebiegach OCR nie były porównywane ze skanem znak po znaku. Potwierdzenie fragmentu w wskazanym tekście aktu nie oznacza pełnego audytu wszystkich historycznych wersji prawa ani zgodności z dzisiejszym egzaminem. Szczegóły w `data/legal/README.md`.
 
 ## Komentarze do odpowiedzi
 

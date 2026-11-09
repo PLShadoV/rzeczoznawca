@@ -23,3 +23,21 @@ releases/
 # Temporary research corpora for educational comments
 data/explanations/sources/
 data/explanations/__pycache__/
+
+# Archive (2018-2021) OCR working files: scans, rendered pages, raw OCR passes.
+data/older/*.pdf
+data/older/*.docx
+data/older/png/
+data/older/pages/
+data/older/clean/
+data/older/clean4/
+data/older/ocr/
+data/older/ocr2/
+data/older/ocr3/
+data/older/review-*.txt
+data/older/final_prev*.json
+data/older/__pycache__/
+data/older/cleaned.json
+data/older/badw.json
+data/older/unknown.json
+data/older/spell.json

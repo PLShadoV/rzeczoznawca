@@ -1,0 +1,61 @@
+1 c spółdzielcze własnościowe prawo do lokalu.
+3 c wskaźników szacunkowych gruntów.
+4 q Wskaż koszt wykonania sposobem mechanicznym wykopu o długości 100 m, szerokości 2 m i głębokości 1,5 m, przy założeniu, że cena jednostkowa wykopu wynosi 20 zł/m3. Koszty ogólne wynoszą 50%, stawka zysku wynosi 10%:
+4 c 9900 zł.
+6 q W celu ustalenia opłaty adiacenckiej z tytułu podziału nieruchomości, wartość nieruchomości przed podziałem i po podziale określa się według cen na dzień:
+6 b wydania decyzji zatwierdzającej podział nieruchomości;
+6 c w którym decyzja zatwierdzająca podział nieruchomości stała się ostateczna.
+10 c cena m3 drewna podawana przez Prezesa GUS.
+14 c na podstawie wysokości drzew i obwodów pni na wysokości 1,3 m.
+17 q Wartość nieruchomości zlokalizowanej na obszarze Specjalnej Strefy Rewitalizacji, po stworzeniu warunków do korzystania z wybudowanej kanalizacji sanitarnej wynosi 140 000 zł. Wartość przed stworzeniem tych warunków wynosiła 120 000 zł. Rada Gminy ustaliła maksymalną stawkę opłaty adiacenckiej. Opłata ta wyniesie:
+17 a 6 000 zł;
+17 c 15 000 zł.
+21 c 0 zł.
+22 c w 25%.
+23 c 0,20.
+24 b samorządu województwa;
+24 c Rady Ministrów.
+25 a pięciu lat od nabycia tej nieruchomości od KOWR;
+26 a I, IIa, IIb, IIIa, IIIb, IV, V, VI, VIz;
+26 b I, II, IIIa, IIIb, IVa, IVb, V, VI, VIz;
+26 c I, II, III, IV, V, VI, VIz.
+28 b organ wykonawczy gminy gospodarujący zasobem nieruchomości Skarbu Państwa;
+30 b tereny przeznaczone pod budowę dróg lub linii kolejowych;
+30 c tereny produkcyjne.
+31 q Wartość drzewostanu określona metodą zysków, uzależniona jest od:
+38 c 4 000 zł.
+40 b 2 000 000 zł;
+43 q Przy wycenie nieruchomości w podejściu mieszanym, metodę pozostałościową można zastosować jeżeli:
+47 a w terminie do 1 roku;
+47 c w terminie do 3 lat.
+48 c ogół najemców lokali wyodrębnionych, wchodzących w skład określonej nieruchomości.
+51 q Fundament pod budynkiem może być zrealizowany jako:
+63 c uprawnienia objęte treścią prawa dożywocia zamieniają się automatycznie z dniem zbycia na dożywotnią rentę odpowiadającą wartości tych uprawnień.
+65 c 20%.
+66 a na mocy uchwały o scaleniu i podziale nieruchomości;
+66 c na mocy zarządzenia.
+69 q Jeżeli stopień zużycia technicznego: - fundamentów i posadzki betonowej obiektu wiaty wynosi 25%, a udział tych elementów w koszcie odtworzenia wynosi 20%, - stalowej konstrukcji nośnej wraz z pokryciem wynosi 50%, a udział tych elementów w koszcie odtworzenia wynosi 80%, to średnioważony stopień zużycia technicznego wiaty wynosi:
+69 c 50%.
+70 b ceny nieruchomości podobnych;
+70 c zawsze wysokość stawek procentowych opłat rocznych.
+71 c organizacja zawodowa rzeczoznawców majątkowych.
+72 a nabywca zobowiązuje się zapewnić zbywcy dożywotnie utrzymanie w zamian za przeniesienie własności nieruchomości;
+73 a inwestycji celu publicznego o znaczeniu krajowym i wojewódzkim - marszałek województwa;
+74 q Zgodnie z rozporządzeniem Ministra Infrastruktury w sprawie warunków technicznych jakim powinny odpowiadać budynki i ich usytuowanie, powierzchnia okna w pokoju mieszkalnym o powierzchni 32,00 m2 powinna wynosić co najmniej:
+75 c baza wskaźników cenowych dla poszczególnych rodzajów robót budowlanych.
+78 a wymagania ładu przestrzennego;
+80 b sprzedający;
+80 c strony czynności.
+84 a Konstytucja Rzeczypospolitej Polskiej;
+85 a roczna rzeczywista stopa procentowa;
+85 b roczna efektywna stopa procentowa;
+89 c działalność charytatywną.
+90 q Do gruntów rolnych w ewidencji gruntów zalicza się:
+65 b 19%;
+40 a 2 500 000 zł;
+58 c 0,3.
+81 a 100 ha;
+81 b 300 ha;
+16 c w sensie ekonomicznym są pojęciami tożsamymi.
+61 q Lasy Państwowe mogą sprzedawać nieruchomości zabudowane budynkami mieszkalnymi i samodzielne lokale mieszkalne, gdy są nieprzydatne Lasom Państwowym, po cenach:
+61 b najemcom z uwzględnieniem bonifikat wynikających z odrębnych przepisów;

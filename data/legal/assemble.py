@@ -4,7 +4,11 @@ from collections import Counter
 from urllib.parse import urlsplit
 import json,re,unicodedata
 ROOT=Path(__file__).resolve().parents[2]
-QUESTIONS=json.loads((ROOT/'dist/questions.json').read_text())['questions']
+_DATA=json.loads((ROOT/'dist/questions.json').read_text())
+ARCHIVE_DATES={s['date'] for s in _DATA['sessions'] if s.get('archive')}
+ALL_QUESTIONS=_DATA['questions']
+# 2018-2021 archive sessions have their own mapping file (data/legal/archive-2018-2021.json).
+QUESTIONS=[q for q in ALL_QUESTIONS if q['session'] not in ARCHIVE_DATES]
 DOMAINS=['building','law','valuation','rural','economics','planning']
 items={};reports={}
 for domain in DOMAINS:
@@ -41,6 +45,10 @@ for domain in DOMAINS:
  assigned=json.loads((ROOT/f'data/legal/domains/{domain}-questions.json').read_text())
  ids=[q['id'] for g in assigned for q in g['occurrences']]
  reports[domain]=dict(Counter(items[i]['status'] for i in ids))
+archive_path=ROOT/'data/legal/archive-2018-2021.json'
+if archive_path.exists():
+ items.update(json.loads(archive_path.read_text()))
+assert set(items)=={q['id'] for q in ALL_QUESTIONS}
 # Exact repeated question/answer sets can expose inconsistent editorial classifications.
 groups={}
 for q in QUESTIONS:

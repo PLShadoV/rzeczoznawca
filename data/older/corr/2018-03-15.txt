@@ -1,0 +1,26 @@
+9 c zadrzewienia wg wartości drewna.
+14 a stały dochód z zainwestowanego kapitału;
+14 b dochód w postaci dywidendy;
+48 q Poza techniką kapitalizacji prostej stosowaną w podejściu dochodowym, stopa kapitalizacji może być przydatna również przy:
+48 b określaniu stopy zwrotu z inwestycji;
+51 q Drzewostan So 40-letni na nieruchomości pozostawionej na kresach wschodnich (mienie zabużańskie) należy szacować:
+56 b normą PN-70/B-02367 (w świetle surowych ścian);
+60 c wartość nieruchomości obliczoną jako skapitalizowany dochód z ostatniego roku prognozy.
+63 q Jakie czynności zalicza się do czynności przekraczających zakres zwykłego zarządu w budynkach liczących ponad 7 samodzielnych lokali?
+63 c ustalenie wynagrodzenia zarządu lub zarządcy nieruchomości wspólnej.
+64 c państwowa jednostka organizacyjna niebędąca osobą prawną i której ustawa nie przyznaje zdolności prawnej.
+67 a jest stroną lub pozostaje z jedną ze stron w takim stosunku prawnym, że wynik wyceny może mieć wpływ na jego prawa i obowiązki;
+67 c osoba zainteresowana wyceną pozostaje wobec rzeczoznawcy w stosunku nadrzędności służbowej.
+68 q Podmiotami uprawnionymi do żądania rekompensaty z tytułu pozbawienia poprzez mpzp możliwości korzystania z nieruchomości lub jej części w dotychczasowy sposób są:
+71 b rynku lokalnego;
+72 c niewymagającej formy aktu notarialnego.
+78 c położenie nieruchomości w określonym okręgu podatkowym.
+81 a 1000 zł;
+81 b 1250 zł;
+82 a "Wycena dla zabezpieczenia wierzytelności";
+82 b "Określenie wartości ograniczonych praw rzeczowych";
+82 c "Wycena nieruchomości drogowych".
+84 a 15 000 zł;
+34 q Formuła: Cjr = Rj + Mj + Kzj + Sj + Kpj + Zj stosowana jest:
+54 c podejście dochodowe, technikę dyskontowania strumieni dochodów (DCF).
+83 q Właściciel lub zarządca jest obowiązany prowadzić książkę obiektu budowlanego dla:

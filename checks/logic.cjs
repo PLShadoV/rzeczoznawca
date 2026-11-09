@@ -85,16 +85,16 @@ const legalFixture = fs.existsSync("dist/legal-bases.json")
   : {
       schemaVersion: 1,
       checkedAt: "2026-11-05",
-      counts: { cited: 0, nonlegal: 0, unresolved: 3240 },
+      counts: { cited: 0, nonlegal: 0, unresolved: 4950 },
       items: {},
     };
 const ready = () => new Promise((r) => setImmediate(r));
 async function runLogicChecks() {
   let t = setup();
   await ready();
-  assert.equal(t.run("Q.length"), 3240);
-  assert.equal(t.run("sessions.length"), 36);
-  assert.equal(t.run("yearsLabel()"), "2021–2026");
+  assert.equal(t.run("Q.length"), 4950);
+  assert.equal(t.run("sessions.length"), 55);
+  assert.equal(t.run("yearsLabel()"), "2018–2026");
   assert.match(t.nodes["#app"].innerHTML, /Twoje uprawnienia/);
   for (let view of [
     "home",
@@ -191,7 +191,7 @@ async function runLogicChecks() {
         "JSON.stringify([...new Set(uniqueQuestions(Q).map(q=>q.session.slice(0,4)))].sort())",
       ),
     ),
-    ["2021", "2022", "2023", "2024", "2025", "2026"],
+    ["2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"],
   );
   random.run(
     "quiz.answers[quiz.ids[0]]=[...byId[quiz.ids[0]].correct];onAction('check')",
@@ -307,7 +307,7 @@ async function runLogicChecks() {
   legal.run("legalReady=false");
   assert.match(legal.run("legalBasis(Q[0])"), /Nie udało się wczytać/);
   console.log(
-    "PASS: 3240 questions / 36 sessions / 2021–2026; routes; exam 65/64 threshold; immediate learning; whole-base random selection and deduplication; deferred test scoring; persistence, import, and legacy backups.",
+    "PASS: 4950 questions / 55 sessions / 2018–2026; routes; exam 65/64 threshold; immediate learning; whole-base random selection and deduplication; deferred test scoring; persistence, import, and legacy backups.",
   );
 }
 module.exports = { setup, ready, runLogicChecks };

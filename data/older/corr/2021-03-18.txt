@@ -1,0 +1,60 @@
+3 c 6 280 zł.
+8 q Na kim ciąży obowiązek zapłacenia podatku od czynności cywilnoprawnych w przypadku oddawania nieruchomości w użytkowanie na zasadzie odpłatności?
+11 c najemca lokalu, jeżeli zamieszkuje w tym lokalu nieprzerwanie od lat dwudziestu.
+12 q Typ siedliskowy lasu, rzeczoznawca majątkowy określa na podstawie:
+12 a planu urządzenia lasu;
+12 b oględzin w terenie;
+12 c katastru nieruchomości.
+14 q Jaki organ orzeka w II instancji w sprawie opłaty adiacenckiej z tytułu wzrostu wartości nieruchomości spowodowanego jej podziałem?
+14 a wojewoda;
+14 b rada gminy;
+14 c samorządowe kolegium odwoławcze.
+15 a jest zawsze równa wartości nominalnej;
+15 b może być równa wartości nominalnej;
+15 c może być ustalana na poziomie wyższym lub niższym niż cena nominalna.
+18 a cel wywłaszczenia wynika z decyzji o warunkach zabudowy;
+18 c cel wywłaszczenia wynika z decyzji o ustaleniu lokalizacji inwestycji celu publicznego.
+21 a rachunku zysków i strat;
+21 b bilansu;
+21 c rachunku przepływów pieniężnych.
+22 q Ceny nieruchomości rolnych wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa mogą być ustalone w sposób uproszczony, na podstawie stawek szacunkowych i ceny 100 kg żyta, ustalonej stosownie do przepisów o podatku rolnym:
+26 c utrzymaniem porządku i czystości.
+34 b dochody, jakie można by osiągnąć, gdyby nieruchomość nie była objęta ochroną konserwatorską;
+35 c samego budynku i budowli.
+36 b rynku lokalnego;
+36 c informacji uzyskanych z ośrodków doradztwa rolnego.
+38 q W jaki sposób określa się wartość pogorszenia lub polepszenia stanu nieruchomości przy zwrocie nieruchomości wywłaszczonej?
+38 b jako różnicę wartości jaką miałaby nieruchomość, gdyby jej stan był taki, jaki był w chwili wywłaszczenia i wartości, jaką ma nieruchomość w stanie, jaki istnieje w chwili zwrotu;
+38 c uznaniowo, w uzgodnieniu z osobą na rzecz której dokonuje się zwrotu wywłaszczonej nieruchomości.
+39 q Na czyj wniosek wszczyna się postępowanie w sprawie wydania decyzji o zezwoleniu na realizację inwestycji drogowej?
+40 a prawem użyczenia;
+40 b prawem zastawu;
+40 c służebnością osobistą.
+41 q Jaka jest wartość nieruchomości, jeżeli wiadomo, że generuje miesięczny dochód netto w wysokości 5 000 zł, a określony współczynnik kapitalizacji wynosi 5?
+42 a ten, kto otrzyma pisemną zgodę właściciela nieruchomości na uzyskanie wypisów i wyrysów dotyczących jego nieruchomości;
+43 q Wskaźniki szacunkowe wyrażone w decytonach ziarna żyta z 1 ha gruntów ornych wynoszą: dla kl. I - 145; II - 132; IIIa - 118; IIIb - 100; IVa - 80; IVb - 60; V - 35; VI - 15 i VIz - 8. Wielkość tego wskaźnika dla gruntów rolnych zabudowanych wyniesie:
+46 q W celu określenia wartości budynku jako części składowej gruntu w podejściu kosztowym, metodą kosztów zastąpienia, techniką szczegółową, należy wykonać:
+55 c z uwzględnieniem celu, na jaki nieruchomość gruntowa została oddana w użytkowanie wieczyste.
+56 q Inwestor określił wymaganą stopę zwrotu r=10%. Na podstawie kształtowania się NPV dla projektu wyznaczono poziom wewnętrznej stopy zwrotu (IRR) na poziomie 15%. Czy projekt ten jest opłacalny?
+56 a tak, gdyż IRR > r;
+56 b nie, gdyż IRR > r;
+56 c nie można udzielić odpowiedzi w oparciu o te dane.
+57 q Które ceny uzyskane w przetargu mogą być przyjęte do wyceny podejściem porównawczym?
+57 a ceny sprzedaży nieruchomości, w których cena została rozłożona na raty;
+57 b te, które nie odbiegają o więcej niż 20% od cen przeciętnych uzyskiwanych za nieruchomości podobne;
+57 c wszystkie, gdyż są to także ceny uzyskane na wolnym rynku.
+58 q Wartość lokalu zbywanego przez KOWR została określona na kwotę 200 000 zł. Cena tego lokalu sprzedawanego najemcy z 15-letnim okresem najmu i posiadającemu 10-letni staż pracy w państwowym gospodarstwie rolnym wyniesie:
+59 c 0 zł.
+62 c dochód z nieruchomości obliczony jako udział wynajmującego w dochodach użytkownika prowadzącego działalność gospodarczą na nieruchomości.
+70 c przyjmując ceny uzyskane przy sprzedaży podobnych nieruchomości będących przedmiotem prawa użytkowania wieczystego oraz prawa własności.
+77 q Dla celów ustalenia wysokości rekompensaty za nieruchomości pozostawione poza obecnymi granicami Rzeczypospolitej Polskiej, w przypadku braku cen transakcyjnych uzyskiwanych za nieruchomości podobne, w odniesieniu do budynków określa się wartość odtworzeniową tych budynków przy zastosowaniu:
+77 a wyłącznie techniki szczegółowej;
+77 b wyłącznie techniki wskaźnikowej;
+77 c średnich kosztów odtworzenia budynków lub ich zastąpienia, określonych na podstawie analizy własnej rzeczoznawcy majątkowego, uwzględniającej właściwe cenniki obiektów lub robót budowlanych.
+78 q Powierzchnia lasu z 50-letnim drzewostanem należącego do osoby fizycznej wynosi 10,0000 ha. Cena 1 m3 drewna została ustalona przez Radę Gminy na poziomie 200 zł. Podatek leśny od tych gruntów wyniesie:
+79 q Wysokość odszkodowania za nieruchomość nabytą pod drogę publiczną gminną w trybie przepisów ustawy o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych, ustala się według wartości nieruchomości określonej na dzień ustalenia odszkodowania:
+79 a przez wojewodę;
+79 b przez starostę;
+79 c przez organ wykonawczy właściwej gminy.
+86 q Na jakich zasadach, zgodnie z ustawą Kodeks cywilny zarządzają nieruchomością wspólną jej współwłaściciele?
+86 a do podejmowania czynności przekraczających zakres zwykłego zarządu potrzebna jest jednomyślna zgoda wszystkich współwłaścicieli;

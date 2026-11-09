@@ -1,0 +1,79 @@
+1 b budynek o trzech kondygnacjach;
+1 c budynek o czterech kondygnacjach.
+2 q Jakie zagadnienia ważne dla gospodarki nieruchomościami rozstrzyga miejscowy plan zagospodarowania przestrzennego?
+2 a przeznaczenie terenów oraz linie rozgraniczające tereny o różnym przeznaczeniu;
+5 b ustalenie zasad zwrotu nieruchomości w przypadku niewykorzystania jej na cel określony w decyzji o wywłaszczeniu;
+6 q Współczynnik zadrzewienia wynosi 0,7. Miąższość rzeczywista drzewostanu na 1 ha, odczytana z opisu taksacyjnego wynosi 700 m3. Miąższość tabelaryczna dla prawidłowej gospodarki wynosi:
+7 a wartość gruntu bez jego części składowych;
+8 q Typ siedliskowy lasu jest to jednostka klasyfikacji:
+9 q Wartość prawa własności nieruchomości gruntowej w celu aktualizacji opłaty rocznej z tytułu użytkowania wieczystego można określić przy zastosowaniu:
+10 q Próg rentowności ilościowy (w analizie progu rentowności) został określony na 250 szt. wyrobu. Z analizy zawartych umów sprzedaży wynika, że przedsiębiorstwo sprzeda 400 szt. wyrobu. Cena jednostkowa wyrobu została określona na 20 zł. Wyliczony kwotowy margines bezpieczeństwa przychodu wynosi:
+11 b sukcesywnego dochodzenia nieruchomości lub jej części do rynkowego poziomu osiągania dochodu;
+13 q Każdy, kto kwestionuje ustalenia przyjęte w projekcie planu miejscowego wyłożonego do publicznego wglądu, może wnieść do projektu tego planu:
+16 q Wartość budynku rolniczego w stanie nowym wynosi 200 000 zł. Jego zużycie wynosi 5%. Suma ubezpieczenia tego budynku może odpowiadać wartości wynoszącej:
+18 q Do pozostałych przychodów i kosztów operacyjnych jednostki zalicza się m.in. przychody i koszty:
+18 c związane z aktualizacją wartości nieruchomości zaliczonych do inwestycji, jeżeli do wyceny inwestycji przyjęto cenę rynkową bądź inaczej określoną wartość godziwą.
+20 a prawo własności gruntu i prawo własności budynku jako jego części składowej;
+21 q Jakie elementy bierze pod uwagę rzeczoznawca majątkowy przy ustalaniu stanu nieruchomości?
+21 b charakter miejscowości, w której położona jest nieruchomość wyceniana;
+23 b suszarni kontenerowych o powierzchni zabudowy 30 m2;
+23 c budynku mieszkalnego jednorodzinnego, którego obszar oddziaływania mieści się na działce, na której został zaprojektowany.
+24 c ustala w planie miejscowym.
+25 c jak dla klasy IV łąk i pastwisk trwałych.
+27 q Czy organ ustalający opłaty z tytułu przekształcenia prawa użytkowania wieczystego w prawo własności nieruchomości, musi w każdym przypadku uzyskać aktualną na dzień przekształcenia opinię rzeczoznawcy majątkowego o wartości nieruchomości jako przedmiotu prawa własności?
+27 b może przyjąć wartość nieruchomości określoną dla celu aktualizacji opłat z tytułu użytkowania wieczystego tej nieruchomości, jeżeli aktualizacja była dokonana nie wcześniej niż w okresie ostatnich dwóch lat przed złożeniem wniosku o przekształcenie;
+27 c może przyjąć wartość nieruchomości określoną dla celu aktualizacji opłat z tytułu użytkowania wieczystego tej nieruchomości, niezależnie od tego kiedy ostatnia aktualizacja była dokonana.
+28 q Dostęp do drogi publicznej dla działki budowlanej może być:
+28 c przez drogę wewnętrzną.
+29 q W jakich przypadkach rzeczoznawca majątkowy określa wartość odtworzeniową części składowych nieruchomości gruntowej?
+29 c jeżeli przepis prawa tego wymaga.
+30 q Służebność przesyłu:
+30 a jest prawem polegającym na tym, że przedsiębiorca może korzystać w oznaczonym zakresie z nieruchomości obciążonej, zgodnie z przeznaczeniem urządzeń służących do doprowadzania lub odprowadzania wody, pary, gazu lub prądu elektrycznego;
+30 b jest obciążeniem nieruchomości, która może powstać w drodze umowy pomiędzy właścicielem nieruchomości a przedsiębiorcą przesyłowym;
+31 a nie jest doliczany oddzielnie, gdyż w cenach publikowanych w wydawnictwach np. WACETOB, ORGBUD, PROMIKS jest już ujęty podatek VAT;
+31 b dolicza się indywidualnie dla każdego rodzaju obiektu w pozycji "koszty dodatkowe";
+32 b decyzji starosty wykonującego zadania z zakresu administracji rządowej, w odniesieniu do nieruchomości stanowiących własność powiatu;
+35 a wg stanu nieruchomości i wartości gruntu, stanowiącej podstawę ostatniej opłaty z tytułu użytkowania wieczystego;
+35 b wg stanu nieruchomości i wartości gruntu jako przedmiotu prawa własności, z uwzględnieniem współczynnika odzwierciedlającego relację rynkowych cen gruntu jako przedmiotu prawa użytkowania wieczystego, do cen gruntów jako przedmiotu prawa własności;
+35 c wg stanu nieruchomości i wartości gruntu jako przedmiotu prawa własności z uwzględnieniem współczynnika korygującego określonego wg wzoru zamieszczonego w § 29 ust. 3 Rozp. RM z dnia 21.09.2004 r. w sprawie wyceny nieruchomości i sporządzania operatu szacunkowego.
+41 q Jak powinien postąpić właściwy organ przy ustalaniu odszkodowania za nieruchomość lub jej część nabytą z mocy prawa na rzecz Skarbu Państwa lub na rzecz jednostki samorządu terytorialnego, w związku z wydaniem decyzji o zezwoleniu na realizację inwestycji drogowej, jeżeli nieruchomość ta jest zabudowana budynkiem mieszkalnym albo budynkiem, w którym został wyodrębniony lokal mieszkalny, a właściciel nieruchomości w tym budynku albo lokalu zamieszkuje?
+44 b wartość rynkową obu nieruchomości jako przedmiotu prawa użytkowania wieczystego;
+44 c wartość rynkową nieruchomości wywłaszczonej jako przedmiotu prawa użytkowania wieczystego i wartość indywidualną nieruchomości zamiennej jako przedmiotu prawa własności.
+45 q Przy określaniu wartości nieruchomości położonych na złożach kopalin stanowiących części składowe nieruchomości, wykorzystuje się:
+47 a jest ustanawiana na rzecz przedsiębiorcy, którego własność stanowią urządzenia służące do doprowadzania lub odprowadzania wody, pary, gazu lub prądu elektrycznego;
+47 c przechodzi na nabywcę przedsiębiorstwa lub nabywcę urządzeń przesyłowych.
+48 a jakość wykonawstwa, sposób eksploatacji;
+48 c okres użytkowania i okres trwałości poszczególnych rodzajów robót lub elementów.
+51 q Poziom cen przy wycenie nieruchomości w celu naliczenia wysokości opłaty adiacenckiej z tytułu wybudowania przez gminę urządzeń infrastruktury technicznej należy przyjąć:
+51 c na dzień wejścia w życie uchwały o ustaleniu stawki procentowej opłaty adiacenckiej z tytułu wybudowania przez gminę urządzeń infrastruktury technicznej.
+52 b stawki czynszu najmu uzyskiwane z nieruchomości podobnych do nieruchomości wycenianej;
+54 b przestrzeń, w której prowadzone są roboty budowlane bez zaplecza budowy;
+55 a odszkodowania za poniesioną szkodę rzeczywistą;
+56 q Podczas wyceny nieruchomości oddanej w trwały zarząd na potrzeby aktualizacji opłat, rzeczoznawca majątkowy nie uwzględnia m.in.:
+58 b gleboznawczej klasyfikacji gruntów;
+61 b nie posiada, gdyż w jego imieniu zawsze działają właściwe organy, agencje rządowe lub inne jednostki organizacyjne;
+62 q Przy określaniu wartości nieruchomości zadrzewionych, położonych w strefie zainwestowania miejskiego i udostępnianych publicznie, stosuje się podejście:
+64 c jest płacona jednorazowo.
+65 q Czy nieruchomości stanowiące własność Skarbu Państwa mogą być zamieniane z nieruchomościami stanowiącymi własność osób fizycznych?
+66 c może być wyrażona liczbą ujemną w ograniczonych przypadkach, o których mowa w ustawie o planowaniu i zagospodarowaniu przestrzennym.
+70 q Czy Krajowy Ośrodek Wsparcia Rolnictwa może ustalić cenę sprzedaży niezabudowanej nieruchomości rolnej o powierzchni mniejszej niż 1 ha bez opinii o jej wartości sporządzonej przez rzeczoznawcę majątkowego?
+71 b odtworzeniowej;
+72 c linii i stacji elektroenergetycznych.
+73 q Wskaźnik szacunkowy wyrażony w decytonach ziarna żyta z 1 ha gruntów ornych klasy VI wynosi 12. Wskaźnik ten dla gruntów oznaczonych w ewidencji gruntów jako LzVI wyniesie:
+74 c zamieszkującą w gminie, na obszarze której położona jest jedna z nieruchomości rolnych wchodzących w skład tego gospodarstwa.
+75 q Obliczenie odszkodowań za przedwczesny wyrąb drzewostanów na gruntach leśnych wyłączonych z produkcji, odbywa się według formuły:
+75 a O = (Wl - Ws) * z * P * c;
+75 b O = Wk * z * P * c;
+75 c O = WSP * z * P * c.
+76 b jako sumę wartości gruntu i drzewostanu;
+76 c należy wykorzystać metodę inwestycyjną, techniką kapitalizacji prostej.
+77 a trzech nieruchomości przyjętych do porównań;
+77 c rynku nieruchomości adekwatnego do celu i sposobu wyceny.
+78 a I, II, IIIa, IIIb, IVa, IVb, V, VI, VIz;
+78 b I, II, IIIa, IIIb, IVa, IVb, V, VI;
+78 c I, II, III, IV, V, VI.
+80 q Czy starosta wydając zezwolenie na czasowe zajęcie nieruchomości w celu zapobieżenia znacznej szkodzie spowodowanej nagłymi zdarzeniami musi poprzedzić wydanie zezwolenia rokowaniami z właścicielem nieruchomości?
+82 q W formule "O = (Wl - Ws) * z * P * c" służącej do określenia odszkodowań za przedwczesny wyrąb drzewostanów, "z" oznacza:
+83 b w niektórych przypadkach od rodzaju użytków gruntowych występujących na nieruchomości, dla której ma być wydana decyzja;
+86 b część masy spadkowej, która pozostaje po odliczeniu długów i ciężarów (czysta wartość);
+6 a 490 m3;

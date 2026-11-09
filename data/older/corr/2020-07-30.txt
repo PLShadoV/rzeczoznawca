@@ -1,0 +1,17 @@
+2 q W świetle PN-ISO 9836 "Właściwości użytkowe w budownictwie" do powierzchni zabudowy nie wlicza się powierzchni:
+8 b odwrotnie proporcjonalnie;
+21 c WN = wartość nieruchomości pomniejszona o koszty robót budowlanych z uwzględnieniem ryzyka inwestora.
+25 q Czy opłata adiacencka z tytułu wzrostu wartości nieruchomości spowodowanego podziałem nieruchomości, może być wniesiona w innej formie niż w gotówce?
+25 c może w każdej dowolnie wybranej formie przez właściciela dzielonej nieruchomości.
+27 q W jakiej formie (rodzaj dokumentu) ustala się odszkodowanie za wywłaszczoną nieruchomość?
+27 a w formie umowy cywilnoprawnej;
+28 c z dnia wydania decyzji o zezwoleniu na realizację inwestycji drogowej przez organ I instancji.
+35 a WKn = WKb;
+35 b WKn > WKb;
+35 c WKn < WKb.
+44 q Potencjalny dochód brutto z nieruchomości wynosi 10 000 zł. Straty z tytułu pustostanów wynoszą 10% PDB. Wydatki operacyjne stanowią 10% EDB. W tym przypadku DON (dochód operacyjny netto) wynosi:
+73 b do 5 lat od usunięcia drzewostanu;
+73 c brak jest regulacji prawnych w tym zakresie.
+74 c przyjmując zasady parametryczne przewidziane w rozporządzeniu Rady Ministrów w sprawie wyceny nieruchomości i sporządzania operatu szacunkowego.
+9 c obwód rosnącego drzewa mierzony na wysokości 1,30 m.
+80 c ustanowienie zarządcy przymusowego przez sąd następuje tylko na żądanie większości właścicieli lokali, liczonej według wielkości udziałów.
