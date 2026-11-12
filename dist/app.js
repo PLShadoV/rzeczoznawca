@@ -267,14 +267,20 @@ function learnPage() {
     `<div class="sectiontitle"><h2>Wybierz obszar nauki</h2>${state.active ? btn("Wznów sesję", "resume", "arrow", "secondary") : ""}</div><div class="panel">${topicRows()}</div><div class="notice">Klucze są historyczne — odpowiedzi odpowiadają stanowi prawnemu w dniu danej sesji. Kategorie są pomocniczym podziałem tematycznym.</div>`
   );
 }
+function completedExamSessions() {
+  return new Set(
+    state.history.filter((h) => h.mode === "exam" && h.session).map((h) => h.session),
+  );
+}
 function examPage() {
+  const completed = completedExamSessions();
   return (
     head(
       "Generalna próba przed egzaminem.",
       "Pełne arkusze, prawdziwe zasady punktacji, Twoje tempo przygotowań.",
       btn("Losowy egzamin · 90 pytań", "exam-config"),
     ) +
-    `<div class="notice">90 pytań wielokrotnego wyboru · 90 minut · minimum 65 punktów. Punkt otrzymasz za wskazanie całego poprawnego zestawu odpowiedzi. ${state.active?.mode === "exam" ? '<button class="textlink" data-action="resume">Wznów trwający egzamin →</button>' : ""}</div>${randomModes()}<div class="sectiontitle"><h2>Wybierz historyczny arkusz</h2><a href="#sources" class="textlink">Oficjalne źródła ${I("external")}</a></div><div class="modes">${sessions.map((s) => `<article class="mode exam"><div class="eyebrow">SESJA EGZAMINACYJNA · ${s.date.slice(0, 4)}</div><h3>${dateLabel(s.date)}</h3><p>Oryginalna kolejność pytań i oficjalny klucz odpowiedzi. Odpowiedzi zobaczysz po zakończeniu.</p><div class="tags"><span>${I("db")} ${s.count} pytań</span><span>${I("clock")} 90 minut</span></div><button class="btn secondary" data-action="exam-session" data-value="${s.date}">Rozwiąż arkusz ${I("arrow")}</button></article>`).join("")}</div>`
+    `<div class="notice">90 pytań wielokrotnego wyboru · 90 minut · minimum 65 punktów. Punkt otrzymasz za wskazanie całego poprawnego zestawu odpowiedzi. ${state.active?.mode === "exam" ? '<button class="textlink" data-action="resume">Wznów trwający egzamin →</button>' : ""}</div>${randomModes()}<div class="sectiontitle"><h2>Wybierz historyczny arkusz</h2><a href="#sources" class="textlink">Oficjalne źródła ${I("external")}</a></div><div class="modes">${sessions.map((s) => `<article class="mode exam"><div class="eyebrow">SESJA EGZAMINACYJNA · ${s.date.slice(0, 4)}</div><h3>${dateLabel(s.date)}</h3><p>Oryginalna kolejność pytań i oficjalny klucz odpowiedzi. Odpowiedzi zobaczysz po zakończeniu.</p><div class="tags"><span>${I("db")} ${s.count} pytań</span><span>${I("clock")} 90 minut</span>${completed.has(s.date) ? `<span class="exam-completed">${I("check")} Przerobiony</span>` : ""}</div><button class="btn secondary" data-action="exam-session" data-value="${s.date}">Rozwiąż arkusz ${I("arrow")}</button></article>`).join("")}</div>`
   );
 }
 function filtered() {
@@ -410,6 +416,7 @@ function config(mode, cat = "", session = "", wholeBase = false) {
 function openConfig(mode, cat = "", session = "", wholeBase = false) {
   let exam = mode === "exam",
     test = mode === "test";
+  const completed = exam ? completedExamSessions() : new Set();
   showModal(
     modalHead(
       exam
@@ -426,7 +433,7 @@ function openConfig(mode, cat = "", session = "", wholeBase = false) {
           : `<label>Arkusz egzaminacyjny<select name="session"><option value="">${exam ? "Losowy zestaw z całej bazy" : "Wszystkie sesje"}</option>${opts(
               sessions.map((s) => ({
                 value: s.date,
-                label: dateLabel(s.date),
+                label: dateLabel(s.date) + (completed.has(s.date) ? " · ✓ Przerobiony" : ""),
               })),
               session,
             )}</select></label>`
@@ -471,6 +478,7 @@ function startQuiz(mode, list, limit = 20, ordered = false, wholeBase = false) {
   quiz = {
     mode,
     scope: wholeBase ? "all" : "selection",
+    ...(mode === "exam" && ordered ? { session: list[0].session } : {}),
     ids,
     index: 0,
     answers: {},
@@ -601,6 +609,7 @@ function finish() {
   state.history.push({
     mode: review.mode,
     scope: review.scope,
+    ...(review.session ? { session: review.session } : {}),
     score,
     total: review.total,
     date: review.date,
@@ -1136,6 +1145,8 @@ function validateImport(x) {
   for (let h of s.history)
     if (
       !["learn", "exam", "test"].includes(h.mode) ||
+      (h.session !== undefined &&
+        (h.mode !== "exam" || !sessions.some((s) => s.date === h.session))) ||
       !Number.isInteger(h.score) ||
       !Number.isInteger(h.total) ||
       h.total < 1 ||
@@ -1162,6 +1173,8 @@ function validateImport(x) {
       !Array.isArray(a.ids) ||
       !a.ids.length ||
       !a.ids.every((id) => byId[id]) ||
+      (a.session !== undefined &&
+        (a.mode !== "exam" || !a.ids.every((id) => byId[id].session === a.session))) ||
       !Number.isInteger(a.index) ||
       a.index < 0 ||
       a.index >= a.ids.length ||

@@ -112,18 +112,29 @@ async function runLogicChecks() {
   t.run("startQuiz('exam',Q.filter(q=>q.session===sessions[0].date),90,true)");
   assert.equal(t.run("quiz.ids.length"), 90);
   assert.equal(t.run("quiz.deadline-quiz.started"), 5400000);
+  assert.doesNotMatch(t.run("examPage()"), /Przerobiony/);
   t.run(
     "quiz.ids.slice(0,65).forEach(id=>quiz.answers[id]=[...byId[id].correct]);finish()",
   );
   assert.equal(t.run("review.score"), 65);
   assert.equal(t.run("state.active"), null);
   assert.equal(t.run("state.history[0].score"), 65);
+  assert.equal(t.run("state.history[0].session"), data.sessions[0].date);
   assert.match(t.run("resultPage()"), /Egzamin zaliczony/);
   t.run(
     "startQuiz('exam',Q.filter(q=>q.session===sessions[1].date),90,true);quiz.ids.slice(0,64).forEach(id=>quiz.answers[id]=[...byId[id].correct]);finish()",
   );
   assert.equal(t.run("review.score"), 64);
   assert.doesNotMatch(t.run("resultPage()"), /Egzamin zaliczony/);
+  const completed = setup(t.getStore());
+  await ready();
+  assert.equal(completed.run("completedExamSessions().size"), 2);
+  assert.equal((completed.run("examPage()").match(/Przerobiony/g) || []).length, 2);
+  completed.run("openConfig('exam')");
+  assert.match(completed.nodes["#modal"].innerHTML, /✓ Przerobiony/);
+  completed.run("validateImport({format:'pracownia-v1',state})");
+  completed.run("startQuiz('exam',Q,90);finish()");
+  assert.equal(completed.run("completedExamSessions().size"), 2);
   t.run(
     "startQuiz('learn',Q,10);quiz.answers[quiz.ids[0]]=[...byId[quiz.ids[0]].correct];markLearn(byId[quiz.ids[0]])",
   );
