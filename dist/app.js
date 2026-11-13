@@ -161,7 +161,7 @@ function shell(content) {
     review: "Przegląd odpowiedzi",
   };
   $("#app").innerHTML =
-    `<div class="shell"><aside class="sidebar"><a href="#home" class="brand"><span class="brandmark">${I("building")}</span><span>Pracownia<br>Rzeczoznawcy<small>TWOJA PRZESTRZEŃ DO NAUKI</small></span></a><div class="navlabel">TWOJA PRACOWNIA</div><nav aria-label="Menu główne">${nav.map(([v, i, t]) => `<a href="#${v}" title="${t}" ${view === v ? 'aria-current="page"' : ""} class="${view === v ? "active" : ""}">${I(i)}<span>${t}</span>${v === "base" ? `<span class="count">${Q.length}</span>` : ""}</a>`).join("")}</nav><div class="sidebottom"><div class="sidehelp">${I("bulb")}<h3>Małe kroki. Duży postęp.</h3><p>Nawet 15 minut nauki dziennie przybliża Cię do celu.</p><button data-action="learn-config">Zacznij krótką sesję ↗</button></div><div class="local"><span class="dot"></span>Bez konta. W Twoim tempie.</div></div></aside><main class="main" id="main-content" tabindex="-1"><header class="topbar"><div class="crumb">Twoja pracownia <span>/ &nbsp; ${titles[view] || "Pulpit"}</span></div><a class="mobilebrand" href="#home">Pracownia Rzeczoznawcy</a><div class="topright">${networkBadge()}<span class="date">Przestrzeń do dobrego przygotowania</span><span class="pill">${I("shield")} Bez logowania</span><div class="toolbar"><button class="iconbtn" data-action="theme" aria-label="${preferences().theme === "dark" ? "Włącz jasny wygląd" : "Włącz tryb nocny"}" title="Zmień wygląd">${I(preferences().theme === "dark" ? "sun" : "moon")}</button><button class="iconbtn" data-action="help" aria-label="Pomoc i skróty klawiaturowe" title="Pomoc">${I("help")}</button><button class="iconbtn" data-action="settings" aria-label="Ustawienia i plan nauki" title="Ustawienia pracowni">${I("settings")}</button></div></div></header><div class="content">${!storageOK ? '<div id="storage-warn" class="notice">Zapis lokalny jest niedostępny. Zachowaj postęp, pobierając kopię w Statystykach.</div>' : ""}${content}<footer class="foot"><span>© ${new Date().getFullYear()} Pracownia Rzeczoznawcy · Wersja 1.2.0 · Ucz się świadomie.</span><span><button data-action="help">Pomoc i skróty</button> &nbsp; · &nbsp; Postęp na tym urządzeniu &nbsp; · &nbsp; <button data-action="sources">Źródła i zasady</button></span></footer></div></main></div>`;
+    `<div class="shell"><aside class="sidebar"><a href="#home" class="brand"><span class="brandmark">${I("building")}</span><span>Pracownia<br>Rzeczoznawcy<small>TWOJA PRZESTRZEŃ DO NAUKI</small></span></a><div class="navlabel">TWOJA PRACOWNIA</div><nav aria-label="Menu główne">${nav.map(([v, i, t]) => `<a href="#${v}" title="${t}" ${view === v ? 'aria-current="page"' : ""} class="${view === v ? "active" : ""}">${I(i)}<span>${t}</span>${v === "base" ? `<span class="count">${Q.length}</span>` : ""}</a>`).join("")}</nav><div class="sidebottom"><div class="sidehelp">${I("bulb")}<h3>Małe kroki. Duży postęp.</h3><p>Nawet 15 minut nauki dziennie przybliża Cię do celu.</p><button data-action="learn-config">Zacznij krótką sesję ↗</button></div><div class="local"><span class="dot"></span>Bez konta. W Twoim tempie.</div></div></aside><main class="main" id="main-content" tabindex="-1"><header class="topbar"><div class="crumb">Twoja pracownia <span>/ &nbsp; ${titles[view] || "Pulpit"}</span></div><a class="mobilebrand" href="#home">Pracownia Rzeczoznawcy</a><div class="topright">${networkBadge()}<span class="date">Przestrzeń do dobrego przygotowania</span><span class="pill">${I("shield")} Bez logowania</span><div class="toolbar"><button class="iconbtn" data-action="theme" aria-label="${preferences().theme === "dark" ? "Włącz jasny wygląd" : "Włącz tryb nocny"}" title="Zmień wygląd">${I(preferences().theme === "dark" ? "sun" : "moon")}</button><button class="iconbtn" data-action="help" aria-label="Pomoc i skróty klawiaturowe" title="Pomoc">${I("help")}</button><button class="iconbtn" data-action="settings" aria-label="Ustawienia i plan nauki" title="Ustawienia pracowni">${I("settings")}</button></div></div></header><div class="content">${!storageOK ? '<div id="storage-warn" class="notice">Zapis lokalny jest niedostępny. Zachowaj postęp, pobierając kopię w Statystykach.</div>' : ""}${content}<footer class="foot"><span>© ${new Date().getFullYear()} Pracownia Rzeczoznawcy · Wersja 1.3.0 · Ucz się świadomie.</span><span><button data-action="help">Pomoc i skróty</button> &nbsp; · &nbsp; Postęp na tym urządzeniu &nbsp; · &nbsp; <button data-action="sources">Źródła i zasady</button></span></footer></div></main></div>`;
 }
 const head = (h, p, extra = "") =>
   `<div class="pagehead"><div><h1>${h}</h1><p>${p}</p></div>${extra}</div>`;
@@ -460,6 +460,24 @@ function uniqueQuestions(list) {
   }
   return [...latest.values()];
 }
+// Display order of answer variants: order[position] = original option index.
+// Answers, keys and scoring always use original indices; only letters/positions change.
+function answerOrder(q, session) {
+  const o = session?.order?.[q.id];
+  return Array.isArray(o) && o.length === q.options.length ? o : q.options.map((_, i) => i);
+}
+function letterFor(q, index, session) {
+  return "ABC"[answerOrder(q, session).indexOf(index)];
+}
+function lettersFor(q, indices, session) {
+  return [...indices]
+    .sort((a, b) => answerOrder(q, session).indexOf(a) - answerOrder(q, session).indexOf(b))
+    .map((i) => letterFor(q, i, session))
+    .join(", ");
+}
+function shuffledOrders(ids) {
+  return Object.fromEntries(ids.map((id) => [id, shuffle(byId[id].options.map((_, i) => i))]));
+}
 function startQuiz(mode, list, limit = 20, ordered = false, wholeBase = false) {
   if (!list.length) {
     toast("Brak pytań dla tego wyboru.");
@@ -484,6 +502,7 @@ function startQuiz(mode, list, limit = 20, ordered = false, wholeBase = false) {
     answers: {},
     checked: {},
     flags: [],
+    ...(preferences().shuffleAnswers ? { order: shuffledOrders(ids) } : {}),
     started,
     deadline: mode === "exam" ? started + 90 * 60 * 1000 : null,
   };
@@ -531,7 +550,7 @@ function quizPage() {
         : "Zaznacz wszystkie odpowiedzi, które uważasz za poprawne.",
       `<button class="btn secondary" data-action="leave-quiz">${isExam ? "Wyjdź z egzaminu" : "Zapisz i wyjdź"}</button>`,
     ) +
-    `<div class="quizlayout"><section class="quizcard"><div class="qmeta"><span class="badge">${modeLabel(quiz.mode, quiz.scope).toLocaleUpperCase("pl-PL")}</span><span>Pytanie ${quiz.index + 1} z ${quiz.ids.length}</span><span class="question-tools" style="margin-left:auto">${flagButton(q)}${bookmarkButton(q)}</span></div><div class="bar"><i style="width:${((quiz.index + 1) / quiz.ids.length) * 100}%"></i></div><div class="qmeta" style="margin-top:22px"><span>${esc(q.category)}</span><span>· ${dateLabel(q.session)}, nr ${q.number}</span></div><h2>${esc(q.question)}</h2><p class="quizhint">Pytanie wielokrotnego wyboru — jedna, dwie lub trzy odpowiedzi mogą być poprawne.</p><div class="options" role="group" aria-label="Odpowiedzi">${q.options.map((o, i) => `<button class="option ${selected.includes(i) ? "selected" : ""} ${checked && q.correct.includes(i) ? "correct" : ""} ${checked && selected.includes(i) && !q.correct.includes(i) ? "wrong" : ""}" role="checkbox" aria-checked="${selected.includes(i)}" data-action="answer" data-value="${i}" ${checked ? "disabled" : ""}><span class="letter">${"ABC"[i]}</span><span>${esc(o)}</span></button>`).join("")}</div>${checked ? feedback(q, quiz.checked[q.id]) : ""}<div class="quizactions"><button class="btn secondary" data-action="quiz-prev" ${quiz.index === 0 ? "disabled" : ""}>← Wstecz</button>${!delayed && !checked ? `<button class="btn" data-action="check" ${!selected.length ? "disabled" : ""}>Sprawdź odpowiedź ${I("check")}</button>` : btn(quiz.index === quiz.ids.length - 1 ? (isExam ? "Zakończ egzamin" : isTest ? "Zakończ sprawdzian" : "Zakończ naukę") : "Następne pytanie", "quiz-next")}</div></section><aside class="quizside">${isExam ? `<p class="muted" style="font-size:14px">POZOSTAŁY CZAS</p><div class="timer" id="timer">${formatTime(quiz.deadline - Date.now())}</div><div class="bar" style="margin-bottom:20px"></div>` : ""}<h3>Twój zestaw pytań</h3>${quiz.scope === "all" ? '<p class="legend">Wylosowane z całej bazy · bez identycznych pytań</p>' : ""}<div class="qgrid">${quiz.ids.map((id, i) => `<button title="Pytanie ${i + 1}${(quiz.flags || []).includes(id) ? " — do przejrzenia" : ""}" aria-label="Pytanie ${i + 1}${(quiz.flags || []).includes(id) ? ", oznaczone do przejrzenia" : ""}" ${i === quiz.index ? 'aria-current="step"' : ""} data-action="quiz-jump" data-value="${i}" class="${i === quiz.index ? "current" : ""} ${(quiz.flags || []).includes(id) ? "flagged" : ""} ${(quiz.answers[id] || []).length ? "answered" : ""} ${!delayed && quiz.checked[id] === false ? "bad" : ""}">${i + 1}</button>`).join("")}</div><p class="legend">${answered} / ${quiz.ids.length} z zaznaczoną odpowiedzią${(quiz.flags || []).length ? ` · ${quiz.flags.length} do przejrzenia` : ""}</p><p class="keyboard-hint"><kbd>A</kbd><kbd>B</kbd><kbd>C</kbd> — odpowiedzi · <kbd>Enter</kbd> — dalej</p>${delayed ? `<button class="btn secondary" style="width:100%;margin-top:18px" data-action="finish-dialog">${isExam ? "Zakończ egzamin" : "Zakończ sprawdzian"}</button>` : ""}<p class="legend">${isExam ? "Czas biegnie także po zamknięciu strony. Egzamin zostanie rozliczony po upływie 90 minut." : isTest ? "Bez limitu czasu. Możesz zmieniać odpowiedzi. Poprawny zestaw i wynik poznasz po zakończeniu." : "Możesz wrócić do poprzednich pytań. Sprawdzone odpowiedzi pozostają zapisane."}</p></aside></div>`
+    `<div class="quizlayout"><section class="quizcard"><div class="qmeta"><span class="badge">${modeLabel(quiz.mode, quiz.scope).toLocaleUpperCase("pl-PL")}</span><span>Pytanie ${quiz.index + 1} z ${quiz.ids.length}</span><span class="question-tools" style="margin-left:auto">${flagButton(q)}${bookmarkButton(q)}</span></div><div class="bar"><i style="width:${((quiz.index + 1) / quiz.ids.length) * 100}%"></i></div><div class="qmeta" style="margin-top:22px"><span>${esc(q.category)}</span><span>· ${dateLabel(q.session)}, nr ${q.number}</span></div><h2>${esc(q.question)}</h2><p class="quizhint">Pytanie wielokrotnego wyboru — jedna, dwie lub trzy odpowiedzi mogą być poprawne.</p><div class="options" role="group" aria-label="Odpowiedzi">${answerOrder(q, quiz).map((i, pos) => `<button class="option ${selected.includes(i) ? "selected" : ""} ${checked && q.correct.includes(i) ? "correct" : ""} ${checked && selected.includes(i) && !q.correct.includes(i) ? "wrong" : ""}" role="checkbox" aria-checked="${selected.includes(i)}" data-action="answer" data-value="${i}" ${checked ? "disabled" : ""}><span class="letter">${"ABC"[pos]}</span><span>${esc(q.options[i])}</span></button>`).join("")}</div>${checked ? feedback(q, quiz.checked[q.id], true, quiz) : ""}<div class="quizactions"><button class="btn secondary" data-action="quiz-prev" ${quiz.index === 0 ? "disabled" : ""}>← Wstecz</button>${!delayed && !checked ? `<button class="btn" data-action="check" ${!selected.length ? "disabled" : ""}>Sprawdź odpowiedź ${I("check")}</button>` : btn(quiz.index === quiz.ids.length - 1 ? (isExam ? "Zakończ egzamin" : isTest ? "Zakończ sprawdzian" : "Zakończ naukę") : "Następne pytanie", "quiz-next")}</div></section><aside class="quizside">${isExam ? `<p class="muted" style="font-size:14px">POZOSTAŁY CZAS</p><div class="timer" id="timer">${formatTime(quiz.deadline - Date.now())}</div><div class="bar" style="margin-bottom:20px"></div>` : ""}<h3>Twój zestaw pytań</h3>${quiz.scope === "all" ? '<p class="legend">Wylosowane z całej bazy · bez identycznych pytań</p>' : ""}<div class="qgrid">${quiz.ids.map((id, i) => `<button title="Pytanie ${i + 1}${(quiz.flags || []).includes(id) ? " — do przejrzenia" : ""}" aria-label="Pytanie ${i + 1}${(quiz.flags || []).includes(id) ? ", oznaczone do przejrzenia" : ""}" ${i === quiz.index ? 'aria-current="step"' : ""} data-action="quiz-jump" data-value="${i}" class="${i === quiz.index ? "current" : ""} ${(quiz.flags || []).includes(id) ? "flagged" : ""} ${(quiz.answers[id] || []).length ? "answered" : ""} ${!delayed && quiz.checked[id] === false ? "bad" : ""}">${i + 1}</button>`).join("")}</div><p class="legend">${answered} / ${quiz.ids.length} z zaznaczoną odpowiedzią${(quiz.flags || []).length ? ` · ${quiz.flags.length} do przejrzenia` : ""}</p><p class="keyboard-hint"><kbd>A</kbd><kbd>B</kbd><kbd>C</kbd> — odpowiedzi · <kbd>Enter</kbd> — dalej</p>${delayed ? `<button class="btn secondary" style="width:100%;margin-top:18px" data-action="finish-dialog">${isExam ? "Zakończ egzamin" : "Zakończ sprawdzian"}</button>` : ""}<p class="legend">${isExam ? "Czas biegnie także po zamknięciu strony. Egzamin zostanie rozliczony po upływie 90 minut." : isTest ? "Bez limitu czasu. Możesz zmieniać odpowiedzi. Poprawny zestaw i wynik poznasz po zakończeniu." : "Możesz wrócić do poprzednich pytań. Sprawdzone odpowiedzi pozostają zapisane."}</p></aside></div>`
   );
 }
 function legalURL(value) {
@@ -575,8 +594,9 @@ function legalOverview() {
   const c = legalMeta.counts;
   return `<section class="panel legal-overview"><h2>Podstawy prawne odpowiedzi</h2><p>Przy odpowiedziach w trybie nauki, w podglądzie pytania oraz po zakończeniu sprawdzianu i egzaminu znajdziesz przypisy z konkretnym artykułem lub paragrafem, nazwą aktu i odnośnikiem do oficjalnego tekstu.</p><div class="legal-counts"><span><b>${c.cited}</b> pytań z przypisem prawnym</span><span><b>${c.nonlegal}</b> pytań specjalistycznych lub obliczeniowych</span><span><b>${c.unresolved}</b> pytań z podstawą do dalszej weryfikacji</span></div><p>Każdy przypis wymagał sprawdzenia treści wskazanego przepisu. Nie oznacza to pełnej weryfikacji obowiązywania tego brzmienia w dniu każdej historycznej sesji ani aktualności na dziś. Datę i wersję sprawdzisz w źródłowym akcie. Wątpliwe przypisania są oznaczone zamiast uzupełniane domyślnym artykułem.</p><p class="muted">Data opracowania przypisów: ${esc(legalMeta.checkedAt)}. Odpowiedzi i punktacja nadal pochodzą z historycznych kluczy ministerstwa.</p></section>`;
 }
-function feedback(q, ok, showCorrectOptions = true) {
-  return `<div class="feedback ${ok ? "" : "error"}" role="status"><strong>${ok ? "✓ Dobra odpowiedź." : "↻ To pytanie warto powtórzyć."}</strong><p>Poprawny zestaw z klucza: <b>${q.correct.map((i) => "ABC"[i]).join(", ")}</b>.</p>${q.keyNote ? `<p class="legal-note">${esc(q.keyNote)}</p>` : ""}${showCorrectOptions ? q.correct.map((i) => `<p>${"ABC"[i]}. ${esc(q.options[i])}</p>`).join("") : ""}<p style="margin-top:9px;font-size:12px;color:#7f8773">Klucz historyczny — stan na ${dateLabel(q.session)}. Bez weryfikacji z obecnymi przepisami.</p><a href="${q.keySource}" target="_blank" rel="noopener">Oficjalny klucz PDF ↗</a> &nbsp; <a href="${q.source}" target="_blank" rel="noopener">Arkusz źródłowy PDF ↗</a>${legalBasis(q)}${commentFor(q)}${noteEditor(q)}</div>`;
+function feedback(q, ok, showCorrectOptions = true, session = null) {
+  const shuffled = answerOrder(q, session).some((v, i) => v !== i);
+  return `<div class="feedback ${ok ? "" : "error"}" role="status"><strong>${ok ? "✓ Dobra odpowiedź." : "↻ To pytanie warto powtórzyć."}</strong><p>Poprawny zestaw z klucza: <b>${lettersFor(q, q.correct, session)}</b>.${shuffled ? ` <span class="muted">(w arkuszu: ${q.correct.map((i) => "ABC"[i]).join(", ")})</span>` : ""}</p>${q.keyNote ? `<p class="legal-note">${esc(q.keyNote)}</p>` : ""}${showCorrectOptions ? answerOrder(q, session).filter((i) => q.correct.includes(i)).map((i) => `<p>${letterFor(q, i, session)}. ${esc(q.options[i])}</p>`).join("") : ""}<p style="margin-top:9px;font-size:12px;color:#7f8773">Klucz historyczny — stan na ${dateLabel(q.session)}. Bez weryfikacji z obecnymi przepisami.</p><a href="${q.keySource}" target="_blank" rel="noopener">Oficjalny klucz PDF ↗</a> &nbsp; <a href="${q.source}" target="_blank" rel="noopener">Arkusz źródłowy PDF ↗</a>${legalBasis(q)}${commentFor(q)}${noteEditor(q)}</div>`;
 }
 function finish() {
   if (!quiz) return;
@@ -635,12 +655,11 @@ function resultPage() {
   );
 }
 // A question earns a point only for the exact full answer set.
-function reviewAssessment(q, selected) {
+function reviewAssessment(q, selected, session = null) {
   const ok = exact(selected, q.correct);
   const missing = q.correct.filter((index) => !selected.includes(index));
   const extra = selected.filter((index) => !q.correct.includes(index));
-  const letters = (values) =>
-    values.map((index) => String.fromCharCode(65 + index)).join(", ");
+  const letters = (values) => lettersFor(q, values, session);
   const kind = ok
     ? "correct"
     : !selected.length
@@ -668,10 +687,11 @@ function reviewAssessment(q, selected) {
         .join(" ");
   return { ok, kind, title, explanation, missing, extra, points: ok ? 1 : 0 };
 }
-function reviewOptions(q, selected) {
-  const assessment = reviewAssessment(q, selected);
-  return `<ol class="review-options" aria-label="Wszystkie możliwe odpowiedzi">${q.options
-    .map((text, index) => {
+function reviewOptions(q, selected, session = null) {
+  const assessment = reviewAssessment(q, selected, session);
+  return `<ol class="review-options" aria-label="Wszystkie możliwe odpowiedzi">${answerOrder(q, session)
+    .map((index, pos) => {
+      const text = q.options[index];
       const correct = q.correct.includes(index),
         chosen = selected.includes(index);
       const status = correct
@@ -710,7 +730,7 @@ function reviewOptions(q, selected) {
                   ? "check"
                   : "close",
             );
-      return `<li class="review-option review-${status}${chosen ? " review-chosen" : ""}" data-answer-index="${index}"><span class="review-letter">${String.fromCharCode(65 + index)}</span><div class="review-option-content"><p class="review-option-text">${esc(text)}</p><div class="review-option-tags"><span class="review-verdict">${icon} ${verdict}</span>${selection ? `<span class="review-selection">${selection}</span>` : ""}</div></div></li>`;
+      return `<li class="review-option review-${status}${chosen ? " review-chosen" : ""}" data-answer-index="${index}"><span class="review-letter">${"ABC"[pos]}</span><div class="review-option-content"><p class="review-option-text">${esc(text)}</p><div class="review-option-tags"><span class="review-verdict">${icon} ${verdict}</span>${selection ? `<span class="review-selection">${selection}</span>` : ""}</div></div></li>`;
     })
     .join("")}</ol>`;
 }
@@ -725,8 +745,8 @@ function reviewPage() {
       .map((id) => {
         const q = byId[id],
           selected = review.answers[id] || [],
-          assessment = reviewAssessment(q, selected);
-        return `<article class="qrow review-question"><div class="qmeta"><span class="badge ${assessment.ok ? "review-result-correct" : "review-result-incorrect"}">${assessment.ok ? "✓" : "✕"} ${assessment.title}</span><span class="review-points ${assessment.ok ? "is-correct" : "is-incorrect"}">${assessment.points} / 1 pkt</span><span>${dateLabel(q.session)} · pytanie ${q.number}</span></div><h3>${esc(q.question)}</h3><p class="review-answer-summary">Twoja odpowiedź: <b>${selected.length ? selected.map((i) => String.fromCharCode(65 + i)).join(", ") : "Brak odpowiedzi"}</b></p><p class="review-assessment ${assessment.ok ? "is-correct" : "is-incorrect"}">${assessment.explanation}</p>${reviewOptions(q, selected)}${feedback(q, assessment.ok, false)}</article>`;
+          assessment = reviewAssessment(q, selected, review);
+        return `<article class="qrow review-question"><div class="qmeta"><span class="badge ${assessment.ok ? "review-result-correct" : "review-result-incorrect"}">${assessment.ok ? "✓" : "✕"} ${assessment.title}</span><span class="review-points ${assessment.ok ? "is-correct" : "is-incorrect"}">${assessment.points} / 1 pkt</span><span>${dateLabel(q.session)} · pytanie ${q.number}</span></div><h3>${esc(q.question)}</h3><p class="review-answer-summary">Twoja odpowiedź: <b>${selected.length ? lettersFor(q, selected, review) : "Brak odpowiedzi"}</b></p><p class="review-assessment ${assessment.ok ? "is-correct" : "is-incorrect"}">${assessment.explanation}</p>${reviewOptions(q, selected, review)}${feedback(q, assessment.ok, false, review)}</article>`;
       })
       .join("")}</div>`
   );
@@ -1097,6 +1117,7 @@ document.addEventListener("change", async (e) => {
     }
     try {
       let x = JSON.parse(await file.text());
+      pruneRemoved(x?.state);
       validateImport(x);
       window.pendingImport = x.state;
       showModal(
@@ -1118,6 +1139,23 @@ document.addEventListener("change", async (e) => {
     }
   }
 });
+// Questions can be withdrawn from the bank (e.g. 2018–2019 sessions). Saved progress
+// that refers to them is pruned instead of rejecting the whole backup.
+function pruneRemoved(s) {
+  if (!s || typeof s !== "object") return s;
+  const known = (id) => typeof id === "string" && Object.hasOwn(byId, id);
+  if (Array.isArray(s.bookmarks)) s.bookmarks = s.bookmarks.filter(known);
+  for (const key of ["answers", "notes"])
+    if (s[key] && typeof s[key] === "object" && !Array.isArray(s[key]))
+      for (const id of Object.keys(s[key])) if (!known(id)) delete s[key][id];
+  if (Array.isArray(s.history))
+    for (const h of s.history)
+      if (h && h.session !== undefined && !sessions.some((x) => x.date === h.session))
+        delete h.session;
+  if (s.active && (!Array.isArray(s.active.ids) || !s.active.ids.every(known)))
+    s.active = null;
+  return s;
+}
 function validateImport(x) {
   const s = x?.state;
   if (
@@ -1201,6 +1239,18 @@ function validateImport(x) {
         throw Error();
     for (let [id, v] of Object.entries(a.checked))
       if (!a.ids.includes(id) || typeof v !== "boolean") throw Error();
+    if (a.order !== undefined) {
+      if (!a.order || typeof a.order !== "object" || Array.isArray(a.order))
+        throw Error();
+      for (let [id, o] of Object.entries(a.order))
+        if (
+          !a.ids.includes(id) ||
+          !Array.isArray(o) ||
+          o.length !== byId[id].options.length ||
+          [...o].sort().join() !== byId[id].options.map((_, i) => i).join()
+        )
+          throw Error();
+    }
   }
 }
 document.addEventListener("keydown", (e) => {
@@ -1293,6 +1343,7 @@ Promise.all([
     sessions = data.sessions;
     byId = Object.fromEntries(Q.map((q) => [q.id, q]));
     try {
+      pruneRemoved(state);
       validateImport({ format: "pracownia-v1", state });
     } catch (e) {
       state = fresh();

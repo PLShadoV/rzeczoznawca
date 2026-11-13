@@ -1056,12 +1056,6 @@
   "after": "dostęp bezpośredni;"
  },
  {
-  "id": "2023-10-26-70",
-  "field": "question",
-  "before": "Ustawowa należność za wyłączenie gruntu leśnego wynosi równowartość 600 m3 drewna. Cena drewna podana przez Prezesa GUS wynosi 200 zł/m3. Na rynku lokalnym podobne grunty uzyskują cenę 10 zł/m2. Należność ustalona za wyłączenie 0,5 ha gruntu leśnego wyniesie:",
-  "after": "Ustawowa należność za wyłączenie gruntu leśnego wynosi równowartość 600 m3 drewna. Cena drewna podana przez Prezesa GUS wynosi 200 zł/m3. Na rynku lokalnym podobne grunty uzyskują cenę 10 zł/m2. Należność ustalona za wyłączenie 0,5 ha gruntu leśnego wyniesie:sie:"
- },
- {
   "id": "2023-10-26-79",
   "field": "question",
   "before": "Czy dla spółdzielczego własnościowego prawa do lokalu może być założona księga wieczysta ?",
@@ -1198,12 +1192,6 @@
   "field": "option c",
   "before": "wyłącznie od potencjalnych możliwosci aparatu wytwórczego.",
   "after": "wyłącznie od potencjalnych możliwości aparatu wytwórczego."
- },
- {
-  "id": "2023-03-23-65",
-  "field": "question",
-  "before": "Ustawowa należność za wyłączenie gruntu leśnego wynosi równowartość 600 m3 drewna. Cena drewna podana przez Prezesa GUS wynosi 200 zł/m3. Na rynku lokalnym podobne grunty uzyskują cenę 10 zł/m2. Należność ustalona za wyłączenie 0,5 ha gruntu leśnego wyniesie:",
-  "after": "Ustawowa należność za wyłączenie gruntu leśnego wynosi równowartość 600 m3 drewna. Cena drewna podana przez Prezesa GUS wynosi 200 zł/m3. Na rynku lokalnym podobne grunty uzyskują cenę 10 zł/m2. Należność ustalona za wyłączenie 0,5 ha gruntu leśnego wyniesie:sie:"
  },
  {
   "id": "2023-03-23-80",
@@ -1732,12 +1720,6 @@
   "field": "option b",
   "before": "miąższość części drzew o grubości w cieńszym końcu mierzonej z korą równej conajmniej 7cm;",
   "after": "miąższość części drzew o grubości w cieńszym końcu mierzonej z korą równej co najmniej 7cm;"
- },
- {
-  "id": "2022-06-02-77",
-  "field": "question",
-  "before": "Ustawowa należność za wyłączenie 1 ha gruntu leśnego wynosi równowartość 600 m3 drewna. Cena drewna podana przez Prezesa GUS wynosi 200 zł/m3. Na rynku lokalnym podobne grunty uzyskują cenę 10 zł/m2. Należność ustalona za wyłączenie 0,5 ha gruntu leśnego wyniesie:",
-  "after": "Ustawowa należność za wyłączenie 1 ha gruntu leśnego wynosi równowartość 600 m3 drewna. Cena drewna podana przez Prezesa GUS wynosi 200 zł/m3. Na rynku lokalnym podobne grunty uzyskują cenę 10 zł/m2. Należność ustalona za wyłączenie 0,5 ha gruntu leśnego wyniesie:sie:"
  },
  {
   "id": "2022-06-02-83",

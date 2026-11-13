@@ -87,7 +87,8 @@ PHRASES = {
 def fix_text(t):
     orig = t
     for a, b in PHRASES.items():
-        t = t.replace(a, b)
+        # Word-boundary match; the truncated 'wynie' rule only at the very end (idempotent).
+        t = re.sub(r'(?<![\w])' + re.escape(a) + (r'$' if a.endswith('wynie') else r'(?![\w])'), b, t)
     t = re.sub(r'[A-Za-zĄĆĘŁŃÓŚŹŻąćęłńóśźż]+', lambda m: WORDS.get(m[0], m[0]), t)
     # unify typographic quotes
     t = t.replace('„', '"').replace('”', '"').replace('“', '"')

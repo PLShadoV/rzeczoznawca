@@ -2,7 +2,7 @@
 
 // Optional personal tools. Historical questions, keys and grading remain in app.js.
 function defaultSettings() {
-  return { theme: "light", textSize: "normal", dailyGoal: 20, examDate: "" };
+  return { theme: "light", textSize: "normal", dailyGoal: 20, examDate: "", shuffleAnswers: true };
 }
 function preferences() {
   return { ...defaultSettings(), ...(state.settings || {}) };
@@ -28,6 +28,8 @@ function validateSettings(value) {
     throw Error("goal");
   if (value.examDate !== "" && !validCalendarDate(value.examDate))
     throw Error("date");
+  if (value.shuffleAnswers !== undefined && typeof value.shuffleAnswers !== "boolean")
+    throw Error("shuffle");
 }
 function applyPreferences() {
   const p = preferences();
@@ -64,7 +66,13 @@ function settingsDialog() {
           { value: "large", label: "Większy" },
         ],
         p.textSize,
-      )}</select></label></div><label>Cel dzienny — sprawdzone pytania<input type="number" name="dailyGoal" min="5" max="200" step="1" value="${p.dailyGoal}" required></label><label>Twój termin egzaminu (opcjonalnie)<input type="date" name="examDate" value="${esc(p.examDate)}"></label><p class="field-hint">To Twój własny plan, nie kalendarz ministerstwa. Obliczenia planu dotyczą pytań w arkuszach, w tym powtórzeń między sesjami.</p><div id="settings-error" role="alert"></div><div class="actions">${btn("Anuluj", "close-modal", "close", "secondary")}<button type="submit" class="btn">Zapisz ustawienia ${I("check")}</button></div></form>`,
+      )}</select></label></div><label>Kolejność odpowiedzi w nauce, sprawdzianach i egzaminach<select name="shuffleAnswers">${opts(
+        [
+          { value: "on", label: "Losowa — poprawna odpowiedź raz pod A, raz pod B lub C" },
+          { value: "off", label: "Jak w oryginalnym arkuszu" },
+        ],
+        p.shuffleAnswers ? "on" : "off",
+      )}</select></label><p class="field-hint">Losowanie zmienia tylko litery i kolejność wariantów — każda odpowiedź zachowuje swoją treść, a punktacja wynika z oficjalnego klucza. Dotyczy sesji rozpoczętych po zmianie.</p><label>Cel dzienny — sprawdzone pytania<input type="number" name="dailyGoal" min="5" max="200" step="1" value="${p.dailyGoal}" required></label><label>Twój termin egzaminu (opcjonalnie)<input type="date" name="examDate" value="${esc(p.examDate)}"></label><p class="field-hint">To Twój własny plan, nie kalendarz ministerstwa. Obliczenia planu dotyczą pytań w arkuszach, w tym powtórzeń między sesjami.</p><div id="settings-error" role="alert"></div><div class="actions">${btn("Anuluj", "close-modal", "close", "secondary")}<button type="submit" class="btn">Zapisz ustawienia ${I("check")}</button></div></form>`,
   );
 }
 function questionCount(n) {
@@ -239,6 +247,7 @@ document.addEventListener("submit", (e) => {
     textSize: f.get("textSize"),
     dailyGoal: Number(f.get("dailyGoal")),
     examDate: f.get("examDate") || "",
+    shuffleAnswers: f.get("shuffleAnswers") !== "off",
   };
   try {
     validateSettings(next);
@@ -279,7 +288,9 @@ document.addEventListener("keydown", (e) => {
     map = { a: 0, b: 1, c: 2, 1: 0, 2: 1, 3: 2 };
   if (Object.hasOwn(map, key)) {
     e.preventDefault();
-    onAction("answer", String(map[key]));
+    // Keys pick the displayed position; translate it to the original option index.
+    const q = byId[quiz.ids[quiz.index]];
+    onAction("answer", String(answerOrder(q, quiz)[map[key]]));
     return;
   }
   if (key === "f") {
