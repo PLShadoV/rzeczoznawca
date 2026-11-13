@@ -98,7 +98,11 @@ async function personalTools() {
       preventDefault() {},
     });
   key("a");
-  assert.equal(keys.run("quiz.answers[quiz.ids[0]].join()"), "0");
+  // "A" selects the first displayed variant (answer order may be randomised).
+  assert.equal(
+    keys.run("quiz.answers[quiz.ids[0]].join()"),
+    keys.run("String(answerOrder(byId[quiz.ids[0]],quiz)[0])"),
+  );
   key("f");
   assert.equal(keys.run("quiz.flags.length"), 1);
   key("Enter");

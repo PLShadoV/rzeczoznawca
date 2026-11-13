@@ -85,16 +85,16 @@ const legalFixture = fs.existsSync("dist/legal-bases.json")
   : {
       schemaVersion: 1,
       checkedAt: "2026-11-05",
-      counts: { cited: 0, nonlegal: 0, unresolved: 4950 },
+      counts: { cited: 0, nonlegal: 0, unresolved: 3600 },
       items: {},
     };
 const ready = () => new Promise((r) => setImmediate(r));
 async function runLogicChecks() {
   let t = setup();
   await ready();
-  assert.equal(t.run("Q.length"), 4950);
-  assert.equal(t.run("sessions.length"), 55);
-  assert.equal(t.run("yearsLabel()"), "2018–2026");
+  assert.equal(t.run("Q.length"), 3600);
+  assert.equal(t.run("sessions.length"), 40);
+  assert.equal(t.run("yearsLabel()"), "2020–2026");
   assert.match(t.nodes["#app"].innerHTML, /Twoje uprawnienia/);
   for (let view of [
     "home",
@@ -202,7 +202,7 @@ async function runLogicChecks() {
         "JSON.stringify([...new Set(uniqueQuestions(Q).map(q=>q.session.slice(0,4)))].sort())",
       ),
     ),
-    ["2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"],
+    ["2020", "2021", "2022", "2023", "2024", "2025", "2026"],
   );
   random.run(
     "quiz.answers[quiz.ids[0]]=[...byId[quiz.ids[0]].correct];onAction('check')",
@@ -317,8 +317,67 @@ async function runLogicChecks() {
   );
   legal.run("legalReady=false");
   assert.match(legal.run("legalBasis(Q[0])"), /Nie udało się wczytać/);
+  // Randomised answer order: letters move, texts stay attached to their option, keys unchanged.
+  const sh = setup();
+  await ready();
+  assert.equal(sh.run("preferences().shuffleAnswers"), true);
+  sh.run("startQuiz('test',Q.slice(0,300),100)");
+  assert.equal(
+    sh.run("quiz.ids.every(id=>[...quiz.order[id]].sort().join()==='0,1,2')"),
+    true,
+  );
+  const firstPos = JSON.parse(
+    sh.run("JSON.stringify([0,1,2].map(p=>quiz.ids.filter(id=>quiz.order[id][p]===byId[id].correct[0]).length))"),
+  );
+  assert.ok(firstPos.every((n) => n > 10), "correct answer lands on A, B and C");
+  const qi = sh.run("quiz.ids.findIndex(id=>quiz.order[id][0]!==0)");
+  sh.run(`quiz.index=${qi}`);
+  const q = JSON.parse(sh.run("JSON.stringify(byId[quiz.ids[quiz.index]])"));
+  const order = JSON.parse(sh.run("JSON.stringify(quiz.order[quiz.ids[quiz.index]])"));
+  const page = sh.run("quizPage()");
+  const positions = order.map((i) => page.indexOf(sh.run(`esc(byId[quiz.ids[quiz.index]].options[${i}])`)));
+  assert.deepEqual([...positions].sort((a, b) => a - b), positions, "options rendered in shuffled order");
+  assert.match(page, new RegExp(`data-value="${order[0]}"[^>]*><span class="letter">A</span>`));
+  sh.ctx.e = { key: "a", target: {}, preventDefault() {} };
+  sh.run("view='quiz'");
+  sh.events.keydown(sh.ctx.e);
+  assert.deepEqual(JSON.parse(sh.run("JSON.stringify(quiz.answers[quiz.ids[quiz.index]])")), [order[0]]);
+  sh.run(`quiz.ids.forEach(id=>quiz.answers[id]=[...byId[id].correct]);finish()`);
+  assert.equal(sh.run("review.score"), 100, "scoring uses original option indices");
+  assert.equal(sh.run("Object.keys(review.order).length"), 100);
+  const rev = sh.run("reviewPage()");
+  assert.ok(rev.includes(`Poprawny zestaw z klucza: <b>${q.correct.map((i) => "ABC"[order.indexOf(i)]).sort().join(", ")}</b>`));
+  sh.run("state.settings={...preferences(),shuffleAnswers:false};startQuiz('learn',Q,5)");
+  assert.equal(sh.run("quiz.order"), undefined);
+  sh.run("validateSettings({...preferences(),shuffleAnswers:true})");
+  assert.throws(() => sh.run("validateSettings({...preferences(),shuffleAnswers:'tak'})"));
+  sh.run("startQuiz('exam',Q.filter(q=>q.session===sessions[0].date),90,true)");
+  sh.run("state.settings={...preferences(),shuffleAnswers:true};startQuiz('exam',Q.filter(q=>q.session===sessions[0].date),90,true)");
+  sh.run("validateImport({format:'pracownia-v1',state})");
+  assert.throws(() => sh.run("state.active.order[state.active.ids[0]]=[0,0,1];validateImport({format:'pracownia-v1',state})"));
+  // Progress that refers to withdrawn 2018–2019 questions is pruned, not discarded.
+  const withdrawn = setup({
+    answers: { "2018-03-15-1": { correct: true, attempts: 1 }, [data.questions[0].id]: { correct: false, attempts: 2 } },
+    bookmarks: ["2019-03-21-5", data.questions[1].id],
+    history: [{ mode: "exam", scope: "selection", session: "2018-03-15", score: 70, total: 90, date: "2026-11-10T10:00:00Z" }],
+    days: { "2026-11-10": 5 },
+    active: { mode: "learn", ids: ["2018-04-12-3"], index: 0, answers: {}, checked: {} },
+    notes: { "2019-05-30-1": "x", [data.questions[2].id]: "moja notatka" },
+    settings: { theme: "light", textSize: "normal", dailyGoal: 20, examDate: "" },
+  });
+  await ready();
+  assert.deepEqual(JSON.parse(withdrawn.run("JSON.stringify(Object.keys(state.answers))")), [data.questions[0].id]);
+  assert.deepEqual(JSON.parse(withdrawn.run("JSON.stringify(state.bookmarks)")), [data.questions[1].id]);
+  assert.equal(withdrawn.run("state.history.length"), 1);
+  assert.equal(withdrawn.run("state.history[0].session"), undefined);
+  assert.equal(withdrawn.run("state.active"), null);
+  assert.equal(withdrawn.run("state.notes[Q.find(q=>q.id===" + JSON.stringify(data.questions[2].id) + ").id]"), "moja notatka");
+  assert.equal(withdrawn.run("preferences().shuffleAnswers"), true);
   console.log(
-    "PASS: 4950 questions / 55 sessions / 2018–2026; routes; exam 65/64 threshold; immediate learning; whole-base random selection and deduplication; deferred test scoring; persistence, import, and legacy backups.",
+    "PASS: randomised answer order (letters move, texts and keys stay), keyboard mapping, saved order validation, pruning of withdrawn questions.",
+  );
+  console.log(
+    "PASS: 3600 questions / 40 sessions / 2020–2026; routes; exam 65/64 threshold; immediate learning; whole-base random selection and deduplication; deferred test scoring; persistence, import, and legacy backups.",
   );
 }
 module.exports = { setup, ready, runLogicChecks };

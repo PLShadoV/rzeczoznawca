@@ -1,4 +1,4 @@
-# Kontrola wydania 1.2.0
+# Kontrola wydania 1.3.0
 
 ## Wykonane kontrole automatyczne
 
@@ -18,7 +18,9 @@
 - Spójność statusów przypisów i dopuszczone urzędowe odnośniki.
 - Klucze 3240 pytań z lat 2021–2026 ponownie porównane z kratkami w oryginalnych PDF-ach (`checks/keys.py`: 3240/3240 zgodnych). Treść tych pytań porównana z tekstem PDF-ów (0 rozbieżności przed korektą pisowni).
 - Korekta pisowni (493 pola w pytaniach 2021–2026) — wyłącznie ortografia i interpunkcja, log w `data/text-corrections.json`; klucze bez zmian.
-- 19 sesji archiwalnych 2018–03.2021: klucze odczytane automatycznie z kratek skanu i porównane wzrokowo; tekst z OCR z ręczną korektą pól z rozbieżnościami, liczbami i nieznanymi słowami (opis: `data/older/README.md`).
+- Losowa kolejność odpowiedzi: testy sprawdzają, że każdy wariant zachowuje treść, poprawna odpowiedź trafia na A, B i C, skróty klawiaturowe wybierają widoczną pozycję, punktacja i przegląd wyników używają oryginalnych wariantów, a zapisana kolejność jest walidowana przy imporcie.
+- Postęp z usuniętymi pytaniami (2018–2019) jest oczyszczany zamiast odrzucany (test na przykładowej kopii).
+- 4 sesje archiwalne 2020–03.2021 (sesje 2018–2019 wycofano w 1.3.0): klucze odczytane automatycznie z kratek skanu i porównane wzrokowo; tekst z OCR z ręczną korektą pól z rozbieżnościami, liczbami i nieznanymi słowami (opis: `data/older/README.md`).
 - Paczki dystrybucyjne nie zawierają konfiguracji Sites ani poświadczeń; dołączone manifesty pozwalają sprawdzić integralność.
 
 ## Granice potwierdzenia
@@ -27,7 +29,7 @@ W tym środowisku nie był dostępny obsługiwany podgląd przeglądarkowy. Nie 
 
 Po uruchomieniu na własnym GitHub Pages zalecany jest krótki przegląd: widok telefonu i komputera, jasny/nocny motyw, klawiatura i focus dialogu, notatka z eksportem/importem, egzamin po odświeżeniu oraz przejście offline po zakończonej instalacji cache. Nie stanowi to dodatkowego wymogu do zbudowania strony — jest jawnym zakresem niewykonanego sprawdzenia.
 
-Biblioteka jest historyczna. 2856 pytań ma przypis prawny, 652 oznaczenie wiedzy specjalistycznej lub obliczeń, a 1442 wymaga dalszej weryfikacji podstawy (głównie archiwalne pytania 2018–2021). Tekst pytań archiwalnych pochodzi z OCR skanów; pola zgodne we wszystkich przebiegach OCR nie były porównywane ze skanem znak po znaku. Potwierdzenie fragmentu w wskazanym tekście aktu nie oznacza pełnego audytu wszystkich historycznych wersji prawa ani zgodności z dzisiejszym egzaminem. Szczegóły w `data/legal/README.md`.
+Biblioteka jest historyczna. 2457 pytań ma przypis prawny, 571 oznaczenie wiedzy specjalistycznej lub obliczeń, a 572 wymaga dalszej weryfikacji podstawy. Tekst pytań archiwalnych pochodzi z OCR skanów; pola zgodne we wszystkich przebiegach OCR nie były porównywane ze skanem znak po znaku. Potwierdzenie fragmentu w wskazanym tekście aktu nie oznacza pełnego audytu wszystkich historycznych wersji prawa ani zgodności z dzisiejszym egzaminem. Szczegóły w `data/legal/README.md`.
 
 ## Komentarze do odpowiedzi
 

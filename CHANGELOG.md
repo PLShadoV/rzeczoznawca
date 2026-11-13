@@ -1,5 +1,12 @@
 # Historia zmian
 
+## 1.3.0 — 2026-11-13
+
+- Losowa kolejność odpowiedzi w nauce, sprawdzianach i egzaminach (domyślnie włączona, przełącznik w Ustawieniach). Zmieniają się tylko litery i pozycje wariantów; treść odpowiedzi, klucz i punktacja pozostają powiązane z oryginalnym wariantem. Przy kluczu pokazywana jest też litera z arkusza. Skróty A/B/C wybierają widoczną pozycję.
+- Usunięto sesje z lat 2018–2019 (15 sesji, 1350 pytań). Baza: 3600 pytań z 40 sesji (2020–2026).
+- Zapisany postęp odwołujący się do usuniętych pytań jest automatycznie oczyszczany (odpowiedzi, zakładki, notatki, przerwana sesja), zamiast resetowania całego postępu.
+- Naprawiono błąd korekty pisowni z wersji 1.2.0, który w 3 pytaniach (2022-06-02 nr 77, 2023-03-23 nr 65, 2023-10-26 nr 70) zamieniał „wyniesie:” na „wyniesie:sie:”.
+
 ## 1.2.0 — 2026-11-09
 
 - Dodano 19 archiwalnych sesji z lat 2018–2021 (15.03.2018 – 18.03.2021): 1710 pytań. Baza liczy teraz 4950 pytań z 55 sesji (2018–2026).

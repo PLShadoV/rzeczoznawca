@@ -1,4 +1,4 @@
-"""Merge the 2018-2021 archive sessions into dist/ and apply editorial spelling fixes.
+"""Merge the archive sessions (2020-2021; 2018-2019 withdrawn) into dist/ and apply editorial spelling fixes.
 
 Inputs (all in data/older/):
   final_text.json  - question and answer text after OCR + manual proofreading (built by assemble_older.py)
@@ -46,9 +46,12 @@ def sig(q):
 
 
 data = json.loads((ROOT / 'dist/questions.json').read_text())
+# Only sessions listed in sources-older.json are published (2018-2019 were withdrawn
+# from the bank on 2026-11-13). Previously merged archive sessions are always rebuilt.
 archive_dates = set(SRC)
-current = [q for q in data['questions'] if q['session'] not in archive_dates]
-sessions = [s for s in data['sessions'] if s['date'] not in archive_dates]
+previous_archive = {s['date'] for s in data['sessions'] if s.get('archive')} | archive_dates
+current = [q for q in data['questions'] if q['session'] not in previous_archive]
+sessions = [s for s in data['sessions'] if s['date'] not in previous_archive]
 
 # 1) Spelling fixes in the 2021-2026 text (logged).
 log = []
@@ -85,13 +88,14 @@ questions = sorted(current + archive, key=lambda q: (q['session'], -q['number'])
 sessions.sort(key=lambda s: s['date'], reverse=True)
 assert len({q['id'] for q in questions}) == len(questions)
 (ROOT / 'dist/questions.json').write_text(json.dumps({'questions': questions, 'sessions': sessions}, ensure_ascii=False))
-(ROOT / 'data/text-corrections.json').write_text(json.dumps(log, ensure_ascii=False, indent=1) + '\n')
+if log:  # a re-run on already corrected text finds nothing; keep the existing log
+    (ROOT / 'data/text-corrections.json').write_text(json.dumps(log, ensure_ascii=False, indent=1) + '\n')
 
 # 3) Legal layer and educational comments: reuse entries of identical 2021-2026 questions.
 legal = json.loads((ROOT / 'dist/legal-bases.json').read_text())
 expl = json.loads((ROOT / 'dist/explanations.json').read_text())
-items = {k: v for k, v in legal['items'].items() if k[:10] not in archive_dates}
-eitems = {k: v for k, v in expl['items'].items() if k[:10] not in archive_dates}
+items = {k: v for k, v in legal['items'].items() if k[:10] not in previous_archive}
+eitems = {k: v for k, v in expl['items'].items() if k[:10] not in previous_archive}
 by_sig = {}
 for q in current:
     by_sig.setdefault(sig(q), q['id'])
