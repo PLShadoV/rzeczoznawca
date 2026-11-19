@@ -1,0 +1,11729 @@
+{
+"reviewedAt": "2026-11-19",
+"scope": "pytania z sesji 2020–2023 (1759 unikalnych grup)",
+"groups": [
+{
+"group": 0,
+"ids": [
+"2021-04-22-9"
+]
+},
+{
+"group": 1,
+"ids": [
+"2023-09-14-18"
+]
+},
+{
+"group": 2,
+"ids": [
+"2023-04-20-35"
+]
+},
+{
+"group": 3,
+"ids": [
+"2021-03-18-18"
+]
+},
+{
+"group": 4,
+"ids": [
+"2023-06-22-17",
+"2022-07-07-22"
+]
+},
+{
+"group": 5,
+"ids": [
+"2021-06-24-46"
+],
+"verdict": "OK",
+"note": "art. 79 ust. 2 i 4 ustawy o AMW bez zmian: 95% pomniejszenia, maks. 200 tys. zł – wynik aktualny"
+},
+{
+"group": 6,
+"ids": [
+"2021-04-22-45"
+],
+"verdict": "OK",
+"note": "art. 79 ust. 2 i 4 ustawy o AMW bez zmian – wynik aktualny"
+},
+{
+"group": 7,
+"ids": [
+"2020-07-30-70"
+],
+"verdict": "OK",
+"note": "art. 79 ust. 2 i 4 ustawy o AMW bez zmian – wynik aktualny"
+},
+{
+"group": 8,
+"ids": [
+"2020-06-25-57"
+],
+"verdict": "OK",
+"note": "art. 79 ust. 2 i 4 ustawy o AMW bez zmian – wynik aktualny"
+},
+{
+"group": 9,
+"ids": [
+"2022-06-02-13"
+]
+},
+{
+"group": 10,
+"ids": [
+"2021-10-28-40"
+],
+"verdict": "CHG",
+"note": "studium zastąpione planem ogólnym (akt prawa miejscowego); odpowiedź A nadal poprawna"
+},
+{
+"group": 11,
+"ids": [
+"2021-03-18-10"
+]
+},
+{
+"group": 12,
+"ids": [
+"2022-09-15-4"
+]
+},
+{
+"group": 13,
+"ids": [
+"2022-04-28-88",
+"2020-06-25-25"
+]
+},
+{
+"group": 14,
+"ids": [
+"2021-09-09-86"
+]
+},
+{
+"group": 15,
+"ids": [
+"2021-06-24-50",
+"2021-04-22-89"
+]
+},
+{
+"group": 16,
+"ids": [
+"2020-07-30-54"
+]
+},
+{
+"group": 17,
+"ids": [
+"2023-04-20-79"
+]
+},
+{
+"group": 18,
+"ids": [
+"2023-10-26-24"
+]
+},
+{
+"group": 19,
+"ids": [
+"2023-04-20-23",
+"2022-03-24-31"
+]
+},
+{
+"group": 20,
+"ids": [
+"2021-10-28-28"
+]
+},
+{
+"group": 21,
+"ids": [
+"2022-09-15-11"
+]
+},
+{
+"group": 22,
+"ids": [
+"2022-03-24-13"
+]
+},
+{
+"group": 23,
+"ids": [
+"2023-06-22-64",
+"2022-12-01-72",
+"2021-06-24-73"
+]
+},
+{
+"group": 24,
+"ids": [
+"2022-12-01-4"
+]
+},
+{
+"group": 25,
+"ids": [
+"2021-09-09-5"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 26,
+"ids": [
+"2021-06-24-5",
+"2020-06-25-90"
+]
+},
+{
+"group": 27,
+"ids": [
+"2020-09-24-71"
+]
+},
+{
+"group": 28,
+"ids": [
+"2020-09-24-19"
+],
+"verdict": "UNC"
+},
+{
+"group": 29,
+"ids": [
+"2021-09-09-17"
+]
+},
+{
+"group": 30,
+"ids": [
+"2022-10-27-38"
+]
+},
+{
+"group": 31,
+"ids": [
+"2023-03-23-34"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 32,
+"ids": [
+"2022-07-07-26"
+]
+},
+{
+"group": 33,
+"ids": [
+"2020-09-24-79"
+]
+},
+{
+"group": 34,
+"ids": [
+"2022-07-07-14"
+]
+},
+{
+"group": 35,
+"ids": [
+"2023-03-23-20",
+"2022-09-15-25"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 36,
+"ids": [
+"2021-07-22-17"
+]
+},
+{
+"group": 37,
+"ids": [
+"2021-06-24-2"
+]
+},
+{
+"group": 38,
+"ids": [
+"2020-09-24-9"
+]
+},
+{
+"group": 39,
+"ids": [
+"2023-09-14-44",
+"2023-03-23-51"
+]
+},
+{
+"group": 40,
+"ids": [
+"2023-06-22-79"
+]
+},
+{
+"group": 41,
+"ids": [
+"2022-04-28-82"
+]
+},
+{
+"group": 42,
+"ids": [
+"2022-06-02-79"
+]
+},
+{
+"group": 43,
+"ids": [
+"2023-10-26-17"
+]
+},
+{
+"group": 44,
+"ids": [
+"2023-09-14-20"
+]
+},
+{
+"group": 45,
+"ids": [
+"2022-12-01-27"
+]
+},
+{
+"group": 46,
+"ids": [
+"2021-07-22-26"
+]
+},
+{
+"group": 47,
+"ids": [
+"2021-07-22-40"
+]
+},
+{
+"group": 48,
+"ids": [
+"2021-03-18-66"
+]
+},
+{
+"group": 49,
+"ids": [
+"2020-09-24-57"
+]
+},
+{
+"group": 50,
+"ids": [
+"2020-06-25-40"
+]
+},
+{
+"group": 51,
+"ids": [
+"2021-09-09-12"
+]
+},
+{
+"group": 52,
+"ids": [
+"2021-09-09-15"
+]
+},
+{
+"group": 53,
+"ids": [
+"2022-12-01-88"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 54,
+"ids": [
+"2021-05-27-77",
+"2020-07-30-15"
+]
+},
+{
+"group": 55,
+"ids": [
+"2022-10-27-50"
+]
+},
+{
+"group": 56,
+"ids": [
+"2021-03-18-59"
+]
+},
+{
+"group": 57,
+"ids": [
+"2022-09-15-45"
+]
+},
+{
+"group": 58,
+"ids": [
+"2021-09-09-20"
+]
+},
+{
+"group": 59,
+"ids": [
+"2023-03-23-67",
+"2022-06-02-72"
+]
+},
+{
+"group": 60,
+"ids": [
+"2022-09-15-75"
+]
+},
+{
+"group": 61,
+"ids": [
+"2021-12-02-76"
+]
+},
+{
+"group": 62,
+"ids": [
+"2020-07-30-48"
+]
+},
+{
+"group": 63,
+"ids": [
+"2023-10-26-11",
+"2022-06-02-20"
+]
+},
+{
+"group": 64,
+"ids": [
+"2023-09-14-76"
+]
+},
+{
+"group": 65,
+"ids": [
+"2021-04-22-78"
+]
+},
+{
+"group": 66,
+"ids": [
+"2022-10-27-35",
+"2021-03-18-68"
+]
+},
+{
+"group": 67,
+"ids": [
+"2022-12-01-78"
+]
+},
+{
+"group": 68,
+"ids": [
+"2022-06-02-32"
+]
+},
+{
+"group": 69,
+"ids": [
+"2023-06-22-87"
+]
+},
+{
+"group": 70,
+"ids": [
+"2021-07-22-87"
+]
+},
+{
+"group": 71,
+"ids": [
+"2020-06-25-85"
+]
+},
+{
+"group": 72,
+"ids": [
+"2020-07-30-13"
+]
+},
+{
+"group": 73,
+"ids": [
+"2020-07-30-8"
+]
+},
+{
+"group": 74,
+"ids": [
+"2022-12-01-21",
+"2021-05-27-30"
+]
+},
+{
+"group": 75,
+"ids": [
+"2021-03-18-22"
+]
+},
+{
+"group": 76,
+"ids": [
+"2020-06-25-77"
+]
+},
+{
+"group": 77,
+"ids": [
+"2020-07-30-7"
+],
+"verdict": "CHG",
+"note": "nowe § 21: wartość nieruchomości rolnej = Wsz × cena żyta × Σ(P × Wkbo); zadrzewienia śródpolne przez Wkbo w zał. 1 – odpowiedź aktualna"
+},
+{
+"group": 78,
+"ids": [
+"2021-03-18-36"
+],
+"verdict": "CHG",
+"note": "nowe § 21 ust. 3: cenę żyta przyjmuje się z rynku lokalnego – odpowiedź aktualna"
+},
+{
+"group": 79,
+"ids": [
+"2020-06-25-60"
+]
+},
+{
+"group": 80,
+"ids": [
+"2021-07-22-44"
+]
+},
+{
+"group": 81,
+"ids": [
+"2021-06-24-43",
+"2021-05-27-44"
+]
+},
+{
+"group": 82,
+"ids": [
+"2022-09-15-85",
+"2021-06-24-81",
+"2021-05-27-80"
+]
+},
+{
+"group": 83,
+"ids": [
+"2022-09-15-78"
+]
+},
+{
+"group": 84,
+"ids": [
+"2021-06-24-85"
+]
+},
+{
+"group": 85,
+"ids": [
+"2021-10-28-43"
+]
+},
+{
+"group": 86,
+"ids": [
+"2020-06-25-59"
+]
+},
+{
+"group": 87,
+"ids": [
+"2022-12-01-49"
+]
+},
+{
+"group": 88,
+"ids": [
+"2021-12-02-49"
+]
+},
+{
+"group": 89,
+"ids": [
+"2021-04-22-87"
+]
+},
+{
+"group": 90,
+"ids": [
+"2023-10-26-79"
+]
+},
+{
+"group": 91,
+"ids": [
+"2021-06-24-82",
+"2021-05-27-79"
+],
+"verdict": "CHG",
+"note": "nowe § 54 ust. 2: informacje o ryzykach stanowią załącznik do operatu – aktualne"
+},
+{
+"group": 92,
+"ids": [
+"2022-09-15-46"
+]
+},
+{
+"group": 93,
+"ids": [
+"2022-09-15-87"
+]
+},
+{
+"group": 94,
+"ids": [
+"2022-04-28-80"
+]
+},
+{
+"group": 95,
+"ids": [
+"2021-04-22-50"
+]
+},
+{
+"group": 96,
+"ids": [
+"2021-06-24-44"
+]
+},
+{
+"group": 97,
+"ids": [
+"2021-12-02-51"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 98,
+"ids": [
+"2023-03-23-47"
+]
+},
+{
+"group": 99,
+"ids": [
+"2021-07-22-81"
+]
+},
+{
+"group": 100,
+"ids": [
+"2023-10-26-81"
+]
+},
+{
+"group": 101,
+"ids": [
+"2023-04-20-50",
+"2022-04-28-46"
+]
+},
+{
+"group": 102,
+"ids": [
+"2022-06-02-85"
+]
+},
+{
+"group": 103,
+"ids": [
+"2023-03-23-52"
+]
+},
+{
+"group": 104,
+"ids": [
+"2022-12-01-42",
+"2022-06-02-49"
+]
+},
+{
+"group": 105,
+"ids": [
+"2021-05-27-82"
+]
+},
+{
+"group": 106,
+"ids": [
+"2022-03-24-50"
+]
+},
+{
+"group": 107,
+"ids": [
+"2022-03-24-30"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 108,
+"ids": [
+"2020-06-25-16"
+]
+},
+{
+"group": 109,
+"ids": [
+"2021-04-22-37",
+"2020-09-24-66"
+]
+},
+{
+"group": 110,
+"ids": [
+"2020-07-30-25"
+]
+},
+{
+"group": 111,
+"ids": [
+"2020-09-24-36"
+]
+},
+{
+"group": 112,
+"ids": [
+"2021-12-02-15"
+]
+},
+{
+"group": 113,
+"ids": [
+"2020-09-24-78"
+]
+},
+{
+"group": 114,
+"ids": [
+"2021-05-27-46"
+]
+},
+{
+"group": 115,
+"ids": [
+"2023-09-14-39",
+"2021-10-28-41"
+]
+},
+{
+"group": 116,
+"ids": [
+"2023-03-23-80"
+],
+"verdict": "OK",
+"note": "UGN art. 6 pkt 8 bez zmian merytorycznych – odpowiedź aktualna"
+},
+{
+"group": 117,
+"ids": [
+"2022-03-24-48"
+]
+},
+{
+"group": 118,
+"ids": [
+"2021-04-22-79"
+]
+},
+{
+"group": 119,
+"ids": [
+"2023-04-20-41",
+"2021-05-27-85"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 120,
+"ids": [
+"2022-09-15-30",
+"2022-04-28-89"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 121,
+"ids": [
+"2022-12-01-83"
+],
+"verdict": "OUT",
+"note": "studium utraciło moc (reforma 2023, termin 31.08.2026); dziś: plan miejscowy obowiązkowy tylko gdy wymagają tego przepisy odrębne (art. 14 ust. 7) – aktualna tylko B",
+"currentKey": [
+1
+]
+},
+{
+"group": 122,
+"ids": [
+"2022-10-27-81"
+]
+},
+{
+"group": 123,
+"ids": [
+"2021-10-28-45"
+]
+},
+{
+"group": 124,
+"ids": [
+"2023-11-30-43"
+]
+},
+{
+"group": 125,
+"ids": [
+"2023-04-20-45"
+],
+"verdict": "OK",
+"note": "odpowiedź aktualna (art. 124 ust. 1a)"
+},
+{
+"group": 126,
+"ids": [
+"2023-11-30-78"
+]
+},
+{
+"group": 127,
+"ids": [
+"2022-12-01-45"
+]
+},
+{
+"group": 128,
+"ids": [
+"2021-07-22-12"
+]
+},
+{
+"group": 129,
+"ids": [
+"2023-03-23-50"
+]
+},
+{
+"group": 130,
+"ids": [
+"2023-06-22-81"
+]
+},
+{
+"group": 131,
+"ids": [
+"2023-06-22-48"
+],
+"verdict": "OK",
+"note": "odpowiedź aktualna (art. 98a)"
+},
+{
+"group": 132,
+"ids": [
+"2022-12-01-82"
+]
+},
+{
+"group": 133,
+"ids": [
+"2022-03-24-46"
+]
+},
+{
+"group": 134,
+"ids": [
+"2022-10-27-79"
+]
+},
+{
+"group": 135,
+"ids": [
+"2022-12-01-44"
+]
+},
+{
+"group": 136,
+"ids": [
+"2021-05-27-43"
+]
+},
+{
+"group": 137,
+"ids": [
+"2021-09-09-46"
+]
+},
+{
+"group": 138,
+"ids": [
+"2023-11-30-41",
+"2022-09-15-53"
+]
+},
+{
+"group": 139,
+"ids": [
+"2023-11-30-72"
+]
+},
+{
+"group": 140,
+"ids": [
+"2020-07-30-86"
+]
+},
+{
+"group": 141,
+"ids": [
+"2022-04-28-85"
+]
+},
+{
+"group": 142,
+"ids": [
+"2022-03-24-83"
+]
+},
+{
+"group": 143,
+"ids": [
+"2023-03-23-44",
+"2021-07-22-51"
+]
+},
+{
+"group": 144,
+"ids": [
+"2023-10-26-48"
+]
+},
+{
+"group": 145,
+"ids": [
+"2022-09-15-84"
+]
+},
+{
+"group": 146,
+"ids": [
+"2022-12-01-81"
+]
+},
+{
+"group": 147,
+"ids": [
+"2022-09-15-50",
+"2021-06-24-47"
+]
+},
+{
+"group": 148,
+"ids": [
+"2021-12-02-18",
+"2020-06-25-31"
+]
+},
+{
+"group": 149,
+"ids": [
+"2021-06-24-15"
+]
+},
+{
+"group": 150,
+"ids": [
+"2023-10-26-32",
+"2020-06-25-10"
+]
+},
+{
+"group": 151,
+"ids": [
+"2020-06-25-11"
+]
+},
+{
+"group": 152,
+"ids": [
+"2021-09-09-23"
+]
+},
+{
+"group": 153,
+"ids": [
+"2021-06-24-51",
+"2021-05-27-48"
+]
+},
+{
+"group": 154,
+"ids": [
+"2022-04-28-72"
+]
+},
+{
+"group": 155,
+"ids": [
+"2022-12-01-17"
+]
+},
+{
+"group": 156,
+"ids": [
+"2023-03-23-71"
+]
+},
+{
+"group": 157,
+"ids": [
+"2022-04-28-53"
+]
+},
+{
+"group": 158,
+"ids": [
+"2023-04-20-89",
+"2021-07-22-82"
+]
+},
+{
+"group": 159,
+"ids": [
+"2020-07-30-38"
+]
+},
+{
+"group": 160,
+"ids": [
+"2020-09-24-61"
+]
+},
+{
+"group": 161,
+"ids": [
+"2021-12-02-62"
+]
+},
+{
+"group": 162,
+"ids": [
+"2021-04-22-56"
+]
+},
+{
+"group": 163,
+"ids": [
+"2021-07-22-60"
+],
+"verdict": "CHG",
+"note": "rozporządzenie EGiB z 2001 r. zastąpione rozporządzeniem z 27.07.2021 (t.j. Dz.U. 2024 poz. 219); § 18: dane budynku obejmują m.in. pole powierzchni zabudowy, funkcję (KŚT) i numer porządkowy – odpowiedź aktualna"
+},
+{
+"group": 164,
+"ids": [
+"2023-10-26-52"
+]
+},
+{
+"group": 165,
+"ids": [
+"2023-09-14-51"
+]
+},
+{
+"group": 166,
+"ids": [
+"2021-10-28-64"
+]
+},
+{
+"group": 167,
+"ids": [
+"2021-09-09-57"
+]
+},
+{
+"group": 168,
+"ids": [
+"2023-04-20-51"
+]
+},
+{
+"group": 169,
+"ids": [
+"2022-03-24-59"
+]
+},
+{
+"group": 170,
+"ids": [
+"2021-04-22-55"
+],
+"verdict": "OUT",
+"note": "EGiB 2021: dane lokalu nie obejmują liczby izb – B już niepoprawne. Dziś poprawne A i C.",
+"currentKey": [
+0,
+2
+]
+},
+{
+"group": 171,
+"ids": [
+"2022-12-01-57"
+]
+},
+{
+"group": 172,
+"ids": [
+"2020-06-25-78"
+]
+},
+{
+"group": 173,
+"ids": [
+"2021-07-22-78"
+],
+"verdict": "OK",
+"note": "art. 13 ust. 2a UGN – odpowiedź aktualna"
+},
+{
+"group": 174,
+"ids": [
+"2022-03-24-44"
+]
+},
+{
+"group": 175,
+"ids": [
+"2022-10-27-36",
+"2022-03-24-27"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 176,
+"ids": [
+"2022-06-02-1",
+"2021-05-27-4"
+]
+},
+{
+"group": 177,
+"ids": [
+"2022-12-01-59"
+]
+},
+{
+"group": 178,
+"ids": [
+"2021-07-22-58"
+]
+},
+{
+"group": 179,
+"ids": [
+"2021-03-18-44"
+]
+},
+{
+"group": 180,
+"ids": [
+"2020-07-30-79"
+]
+},
+{
+"group": 181,
+"ids": [
+"2023-03-23-68"
+]
+},
+{
+"group": 182,
+"ids": [
+"2021-05-27-61"
+],
+"verdict": "CHG",
+"note": "od 1.09.2026 decyzja o WZ wymaga też położenia na obszarze uzupełnienia zabudowy w planie ogólnym; brak planu miejscowego pozostaje warunkiem – odpowiedź B aktualna"
+},
+{
+"group": 183,
+"ids": [
+"2021-04-22-61"
+],
+"verdict": "CHG",
+"note": "od 1.09.2026 decyzja o WZ wymaga też położenia na obszarze uzupełnienia zabudowy w planie ogólnym; brak planu miejscowego pozostaje warunkiem – odpowiedź B aktualna"
+},
+{
+"group": 184,
+"ids": [
+"2023-10-26-85",
+"2021-12-02-56"
+],
+"verdict": "CHG",
+"note": "art. 60 UPZP: właściwość organów wydających decyzje o warunkach zabudowy bez zmian – odpowiedź aktualna (od 1.09.2026 dodatkowo wymagany obszar uzupełnienia zabudowy w planie ogólnym)"
+},
+{
+"group": 185,
+"ids": [
+"2022-03-24-57"
+],
+"verdict": "OK",
+"note": "art. 51 ust. 1 pkt 1 bez zmian"
+},
+{
+"group": 186,
+"ids": [
+"2021-10-28-62"
+],
+"verdict": "OK",
+"note": "art. 51 ust. 1 pkt 1 bez zmian"
+},
+{
+"group": 187,
+"ids": [
+"2022-10-27-78"
+]
+},
+{
+"group": 188,
+"ids": [
+"2021-06-24-79"
+]
+},
+{
+"group": 189,
+"ids": [
+"2020-07-30-47"
+]
+},
+{
+"group": 190,
+"ids": [
+"2021-03-18-47"
+],
+"verdict": "OK",
+"note": "art. 13 ust. 3 pkt 2 ustawy o lasach – starosta – bez zmian"
+},
+{
+"group": 191,
+"ids": [
+"2021-06-24-13"
+]
+},
+{
+"group": 192,
+"ids": [
+"2020-09-24-25"
+]
+},
+{
+"group": 193,
+"ids": [
+"2023-04-20-11",
+"2020-07-30-32"
+]
+},
+{
+"group": 194,
+"ids": [
+"2022-07-07-60"
+]
+},
+{
+"group": 195,
+"ids": [
+"2022-06-02-37"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 196,
+"ids": [
+"2021-09-09-31",
+"2021-06-24-29"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 197,
+"ids": [
+"2020-06-25-56"
+],
+"verdict": "OUT",
+"note": "EGiB 2021 (§ 8): 5 grup użytków (usunięto użytki ekologiczne) – żadna odpowiedź nie jest aktualna. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 198,
+"ids": [
+"2022-07-07-53"
+]
+},
+{
+"group": 199,
+"ids": [
+"2023-03-23-72",
+"2022-06-02-69"
+]
+},
+{
+"group": 200,
+"ids": [
+"2021-03-18-77"
+]
+},
+{
+"group": 201,
+"ids": [
+"2021-07-22-83",
+"2021-06-24-84"
+]
+},
+{
+"group": 202,
+"ids": [
+"2023-11-30-19"
+]
+},
+{
+"group": 203,
+"ids": [
+"2022-10-27-22"
+]
+},
+{
+"group": 204,
+"ids": [
+"2022-07-07-31"
+],
+"verdict": "CHG",
+"note": "nowe zał. 1: dla zadrzewień śródpolnych współczynnik korekcyjny 50% klasy IVb (dawny „wskaźnik”)"
+},
+{
+"group": 205,
+"ids": [
+"2020-06-25-13"
+]
+},
+{
+"group": 206,
+"ids": [
+"2023-09-14-78"
+]
+},
+{
+"group": 207,
+"ids": [
+"2020-09-24-63"
+]
+},
+{
+"group": 208,
+"ids": [
+"2023-04-20-16"
+]
+},
+{
+"group": 209,
+"ids": [
+"2023-10-26-72"
+]
+},
+{
+"group": 210,
+"ids": [
+"2023-10-26-80",
+"2022-06-02-84"
+]
+},
+{
+"group": 211,
+"ids": [
+"2023-10-26-22"
+]
+},
+{
+"group": 212,
+"ids": [
+"2021-07-22-30"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 213,
+"ids": [
+"2022-04-28-90"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 214,
+"ids": [
+"2022-03-24-65"
+]
+},
+{
+"group": 215,
+"ids": [
+"2020-07-30-84"
+]
+},
+{
+"group": 216,
+"ids": [
+"2023-11-30-31"
+]
+},
+{
+"group": 217,
+"ids": [
+"2021-05-27-18"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 218,
+"ids": [
+"2021-10-28-30",
+"2021-06-24-33"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 219,
+"ids": [
+"2020-07-30-85"
+]
+},
+{
+"group": 220,
+"ids": [
+"2021-10-28-17"
+]
+},
+{
+"group": 221,
+"ids": [
+"2023-06-22-27"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 222,
+"ids": [
+"2022-07-07-35"
+]
+},
+{
+"group": 223,
+"ids": [
+"2022-06-02-26"
+]
+},
+{
+"group": 224,
+"ids": [
+"2022-06-02-23",
+"2021-12-02-40"
+]
+},
+{
+"group": 225,
+"ids": [
+"2023-11-30-22"
+]
+},
+{
+"group": 226,
+"ids": [
+"2021-12-02-25"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 227,
+"ids": [
+"2023-11-30-24",
+"2022-09-15-34"
+]
+},
+{
+"group": 228,
+"ids": [
+"2021-07-22-21"
+]
+},
+{
+"group": 229,
+"ids": [
+"2023-10-26-3"
+],
+"verdict": "CHG",
+"note": "art. 64 ust. 3 PB: protokoły kontroli dołącza się do książki obiektu – aktualne"
+},
+{
+"group": 230,
+"ids": [
+"2022-12-01-29",
+"2020-06-25-32"
+]
+},
+{
+"group": 231,
+"ids": [
+"2022-09-15-3"
+],
+"verdict": "CHG",
+"note": "art. 64 ust. 3 Prawa budowlanego: protokoły kontroli i ekspertyzy dołącza się do książki obiektu budowlanego (dziś elektronicznej, art. 60a–60c) – odpowiedź aktualna"
+},
+{
+"group": 232,
+"ids": [
+"2023-04-20-47"
+]
+},
+{
+"group": 233,
+"ids": [
+"2022-06-02-66"
+]
+},
+{
+"group": 234,
+"ids": [
+"2021-05-27-14"
+]
+},
+{
+"group": 235,
+"ids": [
+"2020-07-30-78"
+]
+},
+{
+"group": 236,
+"ids": [
+"2023-11-30-66"
+]
+},
+{
+"group": 237,
+"ids": [
+"2021-12-02-50",
+"2021-07-22-47"
+],
+"verdict": "CHG",
+"note": "EGiB 2021, zał. nr 1 – kryteria gruntów ornych przeniesione; podstawa: rozporządzenie z 27.07.2021"
+},
+{
+"group": 238,
+"ids": [
+"2020-09-24-24"
+]
+},
+{
+"group": 239,
+"ids": [
+"2021-06-24-56",
+"2020-06-25-53"
+],
+"verdict": "CHG",
+"note": "EGiB 2021 § 9 ust. 1: grunty rolne obejmują R, N i Lzr – odpowiedź aktualna"
+},
+{
+"group": 240,
+"ids": [
+"2023-03-23-73",
+"2022-09-15-65",
+"2022-03-24-76"
+]
+},
+{
+"group": 241,
+"ids": [
+"2023-04-20-62"
+]
+},
+{
+"group": 242,
+"ids": [
+"2021-10-28-79"
+]
+},
+{
+"group": 243,
+"ids": [
+"2021-10-28-47"
+]
+},
+{
+"group": 244,
+"ids": [
+"2023-10-26-15"
+]
+},
+{
+"group": 245,
+"ids": [
+"2023-10-26-4"
+]
+},
+{
+"group": 246,
+"ids": [
+"2021-06-24-77"
+]
+},
+{
+"group": 247,
+"ids": [
+"2023-11-30-5",
+"2023-06-22-9"
+]
+},
+{
+"group": 248,
+"ids": [
+"2023-06-22-85"
+]
+},
+{
+"group": 249,
+"ids": [
+"2023-06-22-20"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 250,
+"ids": [
+"2022-12-01-16"
+]
+},
+{
+"group": 251,
+"ids": [
+"2023-06-22-16"
+]
+},
+{
+"group": 252,
+"ids": [
+"2022-03-24-18",
+"2021-05-27-10"
+]
+},
+{
+"group": 253,
+"ids": [
+"2022-04-28-11"
+]
+},
+{
+"group": 254,
+"ids": [
+"2021-06-24-16"
+]
+},
+{
+"group": 255,
+"ids": [
+"2023-10-26-68"
+]
+},
+{
+"group": 256,
+"ids": [
+"2021-04-22-70"
+],
+"verdict": "CHG",
+"note": "EGiB 2021, zał. nr 1 – kryteria sadu; podstawa: rozporządzenie z 27.07.2021"
+},
+{
+"group": 257,
+"ids": [
+"2021-05-27-65"
+],
+"verdict": "CHG",
+"note": "EGiB 2021, zał. nr 1 – kryteria sadu; podstawa: rozporządzenie z 27.07.2021"
+},
+{
+"group": 258,
+"ids": [
+"2022-09-15-77"
+]
+},
+{
+"group": 259,
+"ids": [
+"2023-11-30-64"
+]
+},
+{
+"group": 260,
+"ids": [
+"2023-04-20-69"
+]
+},
+{
+"group": 261,
+"ids": [
+"2022-10-27-59"
+]
+},
+{
+"group": 262,
+"ids": [
+"2021-03-18-32"
+]
+},
+{
+"group": 263,
+"ids": [
+"2022-09-15-72"
+]
+},
+{
+"group": 264,
+"ids": [
+"2021-12-02-77"
+]
+},
+{
+"group": 265,
+"ids": [
+"2022-09-15-57"
+]
+},
+{
+"group": 266,
+"ids": [
+"2022-09-15-10"
+],
+"verdict": "CHG",
+"note": "art. 33 ust. 2 PB: projekt w postaci papierowej (3 egz.) albo elektronicznej – A aktualna"
+},
+{
+"group": 267,
+"ids": [
+"2023-11-30-35",
+"2022-12-01-19"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 268,
+"ids": [
+"2022-04-28-9"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 269,
+"ids": [
+"2022-10-27-15"
+]
+},
+{
+"group": 270,
+"ids": [
+"2021-03-18-89"
+]
+},
+{
+"group": 271,
+"ids": [
+"2020-06-25-43"
+]
+},
+{
+"group": 272,
+"ids": [
+"2022-03-24-74"
+]
+},
+{
+"group": 273,
+"ids": [
+"2022-03-24-16"
+]
+},
+{
+"group": 274,
+"ids": [
+"2022-06-02-17"
+]
+},
+{
+"group": 275,
+"ids": [
+"2020-09-24-84"
+]
+},
+{
+"group": 276,
+"ids": [
+"2023-04-20-13"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 277,
+"ids": [
+"2021-06-24-11"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 278,
+"ids": [
+"2021-12-02-90"
+]
+},
+{
+"group": 279,
+"ids": [
+"2020-09-24-48"
+]
+},
+{
+"group": 280,
+"ids": [
+"2022-04-28-22"
+]
+},
+{
+"group": 281,
+"ids": [
+"2021-09-09-11"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 282,
+"ids": [
+"2021-07-22-18"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 283,
+"ids": [
+"2023-04-20-30",
+"2022-06-02-28"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 284,
+"ids": [
+"2020-09-24-49"
+]
+},
+{
+"group": 285,
+"ids": [
+"2021-12-02-45",
+"2021-06-24-30"
+]
+},
+{
+"group": 286,
+"ids": [
+"2020-07-30-88"
+]
+},
+{
+"group": 287,
+"ids": [
+"2023-10-26-30"
+]
+},
+{
+"group": 288,
+"ids": [
+"2021-03-18-88"
+]
+},
+{
+"group": 289,
+"ids": [
+"2023-09-14-31"
+]
+},
+{
+"group": 290,
+"ids": [
+"2022-12-01-26"
+]
+},
+{
+"group": 291,
+"ids": [
+"2023-10-26-64"
+]
+},
+{
+"group": 292,
+"ids": [
+"2023-06-22-38",
+"2020-06-25-71"
+]
+},
+{
+"group": 293,
+"ids": [
+"2021-10-28-76",
+"2021-07-22-67"
+]
+},
+{
+"group": 294,
+"ids": [
+"2021-07-22-14"
+]
+},
+{
+"group": 295,
+"ids": [
+"2021-09-09-18"
+]
+},
+{
+"group": 296,
+"ids": [
+"2023-11-30-8"
+]
+},
+{
+"group": 297,
+"ids": [
+"2022-10-27-62"
+]
+},
+{
+"group": 298,
+"ids": [
+"2021-07-22-76"
+]
+},
+{
+"group": 299,
+"ids": [
+"2022-09-15-70"
+]
+},
+{
+"group": 300,
+"ids": [
+"2022-03-24-2",
+"2020-09-24-18"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 301,
+"ids": [
+"2022-07-07-68",
+"2021-10-28-65",
+"2021-07-22-73",
+"2020-06-25-3"
+]
+},
+{
+"group": 302,
+"ids": [
+"2022-12-01-87"
+]
+},
+{
+"group": 303,
+"ids": [
+"2023-03-23-90",
+"2021-05-27-32"
+]
+},
+{
+"group": 304,
+"ids": [
+"2021-05-27-7"
+]
+},
+{
+"group": 305,
+"ids": [
+"2023-09-14-7"
+]
+},
+{
+"group": 306,
+"ids": [
+"2023-11-30-73"
+]
+},
+{
+"group": 307,
+"ids": [
+"2021-05-27-13"
+]
+},
+{
+"group": 308,
+"ids": [
+"2023-06-22-62"
+]
+},
+{
+"group": 309,
+"ids": [
+"2021-07-22-54",
+"2021-04-22-59",
+"2020-09-24-4"
+],
+"verdict": "CHG",
+"note": "EGiB 2021 § 7 ust. 5–6: liczba naturalna albo ułamek q/p – odpowiedź aktualna"
+},
+{
+"group": 310,
+"ids": [
+"2023-03-23-57"
+]
+},
+{
+"group": 311,
+"ids": [
+"2023-11-30-83",
+"2021-05-27-39",
+"2021-04-22-19"
+]
+},
+{
+"group": 312,
+"ids": [
+"2020-06-25-4"
+]
+},
+{
+"group": 313,
+"ids": [
+"2021-06-24-53"
+]
+},
+{
+"group": 314,
+"ids": [
+"2020-06-25-73"
+]
+},
+{
+"group": 315,
+"ids": [
+"2023-06-22-18",
+"2023-04-20-70",
+"2022-10-27-24"
+]
+},
+{
+"group": 316,
+"ids": [
+"2022-07-07-42"
+]
+},
+{
+"group": 317,
+"ids": [
+"2022-10-27-75"
+]
+},
+{
+"group": 318,
+"ids": [
+"2022-06-02-76"
+]
+},
+{
+"group": 319,
+"ids": [
+"2020-09-24-35"
+]
+},
+{
+"group": 320,
+"ids": [
+"2021-06-24-20"
+]
+},
+{
+"group": 321,
+"ids": [
+"2023-03-23-15",
+"2022-03-24-14"
+]
+},
+{
+"group": 322,
+"ids": [
+"2023-06-22-15"
+]
+},
+{
+"group": 323,
+"ids": [
+"2022-06-02-19"
+]
+},
+{
+"group": 324,
+"ids": [
+"2023-11-30-1"
+]
+},
+{
+"group": 325,
+"ids": [
+"2021-12-02-8"
+]
+},
+{
+"group": 326,
+"ids": [
+"2023-10-26-55",
+"2023-04-20-58"
+]
+},
+{
+"group": 327,
+"ids": [
+"2021-06-24-57"
+]
+},
+{
+"group": 328,
+"ids": [
+"2020-07-30-69"
+]
+},
+{
+"group": 329,
+"ids": [
+"2023-09-14-77"
+]
+},
+{
+"group": 330,
+"ids": [
+"2022-10-27-74",
+"2022-09-15-71"
+]
+},
+{
+"group": 331,
+"ids": [
+"2021-12-02-58"
+]
+},
+{
+"group": 332,
+"ids": [
+"2022-06-02-4"
+]
+},
+{
+"group": 333,
+"ids": [
+"2022-09-15-7"
+]
+},
+{
+"group": 334,
+"ids": [
+"2021-03-18-19"
+]
+},
+{
+"group": 335,
+"ids": [
+"2022-06-02-30"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 336,
+"ids": [
+"2023-04-20-34"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 337,
+"ids": [
+"2021-06-24-54",
+"2021-05-27-88",
+"2020-06-25-42"
+]
+},
+{
+"group": 338,
+"ids": [
+"2023-11-30-60"
+]
+},
+{
+"group": 339,
+"ids": [
+"2023-10-26-51"
+]
+},
+{
+"group": 340,
+"ids": [
+"2023-11-30-68"
+]
+},
+{
+"group": 341,
+"ids": [
+"2020-06-25-69"
+]
+},
+{
+"group": 342,
+"ids": [
+"2021-09-09-51"
+]
+},
+{
+"group": 343,
+"ids": [
+"2023-06-22-51"
+],
+"verdict": "CHG",
+"note": "art. 61 ust. 5a: 3× szerokość frontu, nie mniej niż 50 m i nie więcej niż 200 m – odpowiedź B aktualna"
+},
+{
+"group": 344,
+"ids": [
+"2022-04-28-48"
+]
+},
+{
+"group": 345,
+"ids": [
+"2022-10-27-67"
+]
+},
+{
+"group": 346,
+"ids": [
+"2022-06-02-68",
+"2021-03-18-49"
+]
+},
+{
+"group": 347,
+"ids": [
+"2022-06-02-65"
+]
+},
+{
+"group": 348,
+"ids": [
+"2021-12-02-67",
+"2021-07-22-63"
+]
+},
+{
+"group": 349,
+"ids": [
+"2021-05-27-67"
+]
+},
+{
+"group": 350,
+"ids": [
+"2020-07-30-20"
+]
+},
+{
+"group": 351,
+"ids": [
+"2022-04-28-68"
+]
+},
+{
+"group": 352,
+"ids": [
+"2023-09-14-47",
+"2022-07-07-63",
+"2021-12-02-60"
+]
+},
+{
+"group": 353,
+"ids": [
+"2022-06-02-67"
+]
+},
+{
+"group": 354,
+"ids": [
+"2022-12-01-74"
+]
+},
+{
+"group": 355,
+"ids": [
+"2022-03-24-70",
+"2021-09-09-48"
+]
+},
+{
+"group": 356,
+"ids": [
+"2020-09-24-30"
+]
+},
+{
+"group": 357,
+"ids": [
+"2021-12-02-65"
+]
+},
+{
+"group": 358,
+"ids": [
+"2023-10-26-63"
+]
+},
+{
+"group": 359,
+"ids": [
+"2022-04-28-57"
+]
+},
+{
+"group": 360,
+"ids": [
+"2021-12-02-2",
+"2021-05-27-6"
+]
+},
+{
+"group": 361,
+"ids": [
+"2023-04-20-4"
+]
+},
+{
+"group": 362,
+"ids": [
+"2023-09-14-59"
+]
+},
+{
+"group": 363,
+"ids": [
+"2022-07-07-12"
+]
+},
+{
+"group": 364,
+"ids": [
+"2023-09-14-70"
+]
+},
+{
+"group": 365,
+"ids": [
+"2022-10-27-45"
+]
+},
+{
+"group": 366,
+"ids": [
+"2022-10-27-43",
+"2022-04-28-45"
+]
+},
+{
+"group": 367,
+"ids": [
+"2022-06-02-51"
+]
+},
+{
+"group": 368,
+"ids": [
+"2023-10-26-46",
+"2023-03-23-43"
+]
+},
+{
+"group": 369,
+"ids": [
+"2023-03-23-83"
+]
+},
+{
+"group": 370,
+"ids": [
+"2020-07-30-63"
+]
+},
+{
+"group": 371,
+"ids": [
+"2023-06-22-41"
+]
+},
+{
+"group": 372,
+"ids": [
+"2021-12-02-33"
+]
+},
+{
+"group": 373,
+"ids": [
+"2021-09-09-85"
+]
+},
+{
+"group": 374,
+"ids": [
+"2021-06-24-48"
+]
+},
+{
+"group": 375,
+"ids": [
+"2021-12-02-10"
+]
+},
+{
+"group": 376,
+"ids": [
+"2023-11-30-26"
+]
+},
+{
+"group": 377,
+"ids": [
+"2023-06-22-90"
+]
+},
+{
+"group": 378,
+"ids": [
+"2023-03-23-32"
+]
+},
+{
+"group": 379,
+"ids": [
+"2021-12-02-87"
+]
+},
+{
+"group": 380,
+"ids": [
+"2021-09-09-87"
+]
+},
+{
+"group": 381,
+"ids": [
+"2022-04-28-10"
+]
+},
+{
+"group": 382,
+"ids": [
+"2022-12-01-62"
+]
+},
+{
+"group": 383,
+"ids": [
+"2022-09-15-73",
+"2020-09-24-42"
+]
+},
+{
+"group": 384,
+"ids": [
+"2021-09-09-8"
+],
+"verdict": "CHG",
+"note": "książka obiektu budowlanego – dziś art. 60a–60c PB (elektroniczna c-KOB)"
+},
+{
+"group": 385,
+"ids": [
+"2023-04-20-63",
+"2021-05-27-16"
+]
+},
+{
+"group": 386,
+"ids": [
+"2022-07-07-19"
+]
+},
+{
+"group": 387,
+"ids": [
+"2021-03-18-56"
+]
+},
+{
+"group": 388,
+"ids": [
+"2023-10-26-12"
+]
+},
+{
+"group": 389,
+"ids": [
+"2022-07-07-82"
+]
+},
+{
+"group": 390,
+"ids": [
+"2023-06-22-49"
+]
+},
+{
+"group": 391,
+"ids": [
+"2022-10-27-52"
+],
+"verdict": "CHG",
+"note": "art. 136 ust. 2–2b UGN: organ zawiadamia poprzedniego właściciela o zamiarze i możliwości zwrotu (lub przez ogłoszenie w prasie) – sens A aktualny"
+},
+{
+"group": 392,
+"ids": [
+"2021-04-22-80"
+]
+},
+{
+"group": 393,
+"ids": [
+"2021-04-22-49"
+]
+},
+{
+"group": 394,
+"ids": [
+"2021-07-22-84"
+]
+},
+{
+"group": 395,
+"ids": [
+"2021-05-27-50"
+]
+},
+{
+"group": 396,
+"ids": [
+"2021-09-09-44"
+]
+},
+{
+"group": 397,
+"ids": [
+"2022-09-15-14"
+]
+},
+{
+"group": 398,
+"ids": [
+"2022-09-15-64"
+]
+},
+{
+"group": 399,
+"ids": [
+"2022-09-15-36"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 400,
+"ids": [
+"2021-03-18-41"
+]
+},
+{
+"group": 401,
+"ids": [
+"2022-09-15-26",
+"2020-07-30-19"
+]
+},
+{
+"group": 402,
+"ids": [
+"2023-03-23-85"
+]
+},
+{
+"group": 403,
+"ids": [
+"2021-05-27-12"
+]
+},
+{
+"group": 404,
+"ids": [
+"2022-07-07-51"
+]
+},
+{
+"group": 405,
+"ids": [
+"2023-03-23-49",
+"2022-03-24-47"
+]
+},
+{
+"group": 406,
+"ids": [
+"2023-11-30-42",
+"2022-09-15-44"
+]
+},
+{
+"group": 407,
+"ids": [
+"2023-06-22-46"
+]
+},
+{
+"group": 408,
+"ids": [
+"2022-10-27-47"
+]
+},
+{
+"group": 409,
+"ids": [
+"2021-03-18-85"
+]
+},
+{
+"group": 410,
+"ids": [
+"2021-10-28-49"
+]
+},
+{
+"group": 411,
+"ids": [
+"2021-03-18-14"
+]
+},
+{
+"group": 412,
+"ids": [
+"2022-09-15-51"
+]
+},
+{
+"group": 413,
+"ids": [
+"2022-03-24-49"
+]
+},
+{
+"group": 414,
+"ids": [
+"2021-10-28-81"
+]
+},
+{
+"group": 415,
+"ids": [
+"2021-05-27-45"
+]
+},
+{
+"group": 416,
+"ids": [
+"2021-12-02-79"
+]
+},
+{
+"group": 417,
+"ids": [
+"2022-09-15-19"
+]
+},
+{
+"group": 418,
+"ids": [
+"2022-03-24-45"
+]
+},
+{
+"group": 419,
+"ids": [
+"2021-07-22-90"
+]
+},
+{
+"group": 420,
+"ids": [
+"2021-09-09-78"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 421,
+"ids": [
+"2023-04-20-3"
+]
+},
+{
+"group": 422,
+"ids": [
+"2021-03-18-2"
+]
+},
+{
+"group": 423,
+"ids": [
+"2023-06-22-80"
+]
+},
+{
+"group": 424,
+"ids": [
+"2022-10-27-80"
+]
+},
+{
+"group": 425,
+"ids": [
+"2023-11-30-46",
+"2022-09-15-48",
+"2021-10-28-44",
+"2020-07-30-43"
+]
+},
+{
+"group": 426,
+"ids": [
+"2023-11-30-86",
+"2022-03-24-90"
+]
+},
+{
+"group": 427,
+"ids": [
+"2022-10-27-39",
+"2020-07-30-24"
+]
+},
+{
+"group": 428,
+"ids": [
+"2022-12-01-35"
+]
+},
+{
+"group": 429,
+"ids": [
+"2021-10-28-24",
+"2021-05-27-37",
+"2020-09-24-65"
+]
+},
+{
+"group": 430,
+"ids": [
+"2021-12-02-53"
+]
+},
+{
+"group": 431,
+"ids": [
+"2022-10-27-48",
+"2020-06-25-82"
+]
+},
+{
+"group": 432,
+"ids": [
+"2023-04-20-78"
+]
+},
+{
+"group": 433,
+"ids": [
+"2023-03-23-46",
+"2022-06-02-45"
+]
+},
+{
+"group": 434,
+"ids": [
+"2022-03-24-84"
+]
+},
+{
+"group": 435,
+"ids": [
+"2023-06-22-47"
+]
+},
+{
+"group": 436,
+"ids": [
+"2020-09-24-1"
+]
+},
+{
+"group": 437,
+"ids": [
+"2022-06-02-81",
+"2021-04-22-82"
+]
+},
+{
+"group": 438,
+"ids": [
+"2020-06-25-68"
+]
+},
+{
+"group": 439,
+"ids": [
+"2022-04-28-50"
+]
+},
+{
+"group": 440,
+"ids": [
+"2021-05-27-47"
+]
+},
+{
+"group": 441,
+"ids": [
+"2021-06-24-45"
+]
+},
+{
+"group": 442,
+"ids": [
+"2022-07-07-9",
+"2021-10-28-3"
+]
+},
+{
+"group": 443,
+"ids": [
+"2023-09-14-41"
+]
+},
+{
+"group": 444,
+"ids": [
+"2023-04-20-77"
+]
+},
+{
+"group": 445,
+"ids": [
+"2021-09-09-77"
+]
+},
+{
+"group": 446,
+"ids": [
+"2022-06-02-47"
+]
+},
+{
+"group": 447,
+"ids": [
+"2022-03-24-82"
+]
+},
+{
+"group": 448,
+"ids": [
+"2021-10-28-83"
+]
+},
+{
+"group": 449,
+"ids": [
+"2021-10-28-46"
+]
+},
+{
+"group": 450,
+"ids": [
+"2023-06-22-42"
+]
+},
+{
+"group": 451,
+"ids": [
+"2020-06-25-70"
+]
+},
+{
+"group": 452,
+"ids": [
+"2022-06-02-83"
+]
+},
+{
+"group": 453,
+"ids": [
+"2023-10-26-45"
+]
+},
+{
+"group": 454,
+"ids": [
+"2021-07-22-46"
+]
+},
+{
+"group": 455,
+"ids": [
+"2021-03-18-50"
+]
+},
+{
+"group": 456,
+"ids": [
+"2023-11-30-90"
+]
+},
+{
+"group": 457,
+"ids": [
+"2021-03-18-40"
+]
+},
+{
+"group": 458,
+"ids": [
+"2021-05-27-86"
+]
+},
+{
+"group": 459,
+"ids": [
+"2021-12-02-54"
+]
+},
+{
+"group": 460,
+"ids": [
+"2021-03-18-48"
+]
+},
+{
+"group": 461,
+"ids": [
+"2021-12-02-82",
+"2021-07-22-89"
+]
+},
+{
+"group": 462,
+"ids": [
+"2021-07-22-57"
+]
+},
+{
+"group": 463,
+"ids": [
+"2021-03-18-5"
+]
+},
+{
+"group": 464,
+"ids": [
+"2022-03-24-58"
+]
+},
+{
+"group": 465,
+"ids": [
+"2020-07-30-30"
+]
+},
+{
+"group": 466,
+"ids": [
+"2023-11-30-62"
+]
+},
+{
+"group": 467,
+"ids": [
+"2020-06-25-80"
+]
+},
+{
+"group": 468,
+"ids": [
+"2022-12-01-61",
+"2022-04-28-61"
+]
+},
+{
+"group": 469,
+"ids": [
+"2022-09-15-62"
+]
+},
+{
+"group": 470,
+"ids": [
+"2023-06-22-58"
+]
+},
+{
+"group": 471,
+"ids": [
+"2021-05-27-34"
+]
+},
+{
+"group": 472,
+"ids": [
+"2021-03-18-83"
+]
+},
+{
+"group": 473,
+"ids": [
+"2023-10-26-40"
+]
+},
+{
+"group": 474,
+"ids": [
+"2022-09-15-20"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 475,
+"ids": [
+"2022-04-28-30"
+]
+},
+{
+"group": 476,
+"ids": [
+"2021-05-27-42",
+"2020-09-24-72"
+]
+},
+{
+"group": 477,
+"ids": [
+"2023-09-14-40",
+"2022-07-07-48"
+]
+},
+{
+"group": 478,
+"ids": [
+"2020-06-25-61"
+]
+},
+{
+"group": 479,
+"ids": [
+"2023-11-30-52"
+]
+},
+{
+"group": 480,
+"ids": [
+"2023-04-20-53",
+"2022-06-02-63"
+]
+},
+{
+"group": 481,
+"ids": [
+"2023-03-23-60"
+]
+},
+{
+"group": 482,
+"ids": [
+"2023-04-20-57",
+"2022-06-02-60"
+]
+},
+{
+"group": 483,
+"ids": [
+"2021-12-02-89"
+],
+"verdict": "OUT",
+"note": "nowe § 5 ust. 6 rozporządzenia z 2023 r.: ceny przetargowe – jeżeli ich rynkowy charakter nie budzi wątpliwości; reguły 20% już nie ma. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 484,
+"ids": [
+"2020-09-24-43"
+],
+"verdict": "OUT",
+"note": "nowe § 5 ust. 6 rozporządzenia z 2023 r.: ceny przetargowe – jeżeli ich rynkowy charakter nie budzi wątpliwości; reguły 20% już nie ma. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 485,
+"ids": [
+"2021-03-18-45"
+],
+"verdict": "OUT",
+"note": "nowe § 5 ust. 6 rozporządzenia z 2023 r.: ceny przetargowe – jeżeli ich rynkowy charakter nie budzi wątpliwości; reguły 20% już nie ma. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 486,
+"ids": [
+"2022-06-02-57"
+]
+},
+{
+"group": 487,
+"ids": [
+"2023-03-23-87"
+]
+},
+{
+"group": 488,
+"ids": [
+"2021-07-22-56"
+]
+},
+{
+"group": 489,
+"ids": [
+"2020-07-30-36"
+]
+},
+{
+"group": 490,
+"ids": [
+"2023-04-20-54"
+]
+},
+{
+"group": 491,
+"ids": [
+"2022-07-07-43",
+"2020-07-30-17"
+]
+},
+{
+"group": 492,
+"ids": [
+"2022-03-24-19"
+]
+},
+{
+"group": 493,
+"ids": [
+"2021-09-09-80"
+]
+},
+{
+"group": 494,
+"ids": [
+"2022-09-15-15"
+]
+},
+{
+"group": 495,
+"ids": [
+"2022-12-01-9"
+]
+},
+{
+"group": 496,
+"ids": [
+"2022-10-27-10"
+]
+},
+{
+"group": 497,
+"ids": [
+"2023-06-22-43"
+]
+},
+{
+"group": 498,
+"ids": [
+"2023-11-30-28"
+]
+},
+{
+"group": 499,
+"ids": [
+"2022-04-28-77"
+],
+"verdict": "OUT",
+"note": "studium uwarunkowań utraciło moc (reforma z 7.07.2023, termin 31.08.2026) – pytanie dotyczy nieistniejącego dokumentu; ustalenia planu ogólnego są aktem prawa miejscowego (art. 13a ust. 7). Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 500,
+"ids": [
+"2020-09-24-2"
+]
+},
+{
+"group": 501,
+"ids": [
+"2021-10-28-8"
+]
+},
+{
+"group": 502,
+"ids": [
+"2022-06-02-11"
+]
+},
+{
+"group": 503,
+"ids": [
+"2023-09-14-62"
+]
+},
+{
+"group": 504,
+"ids": [
+"2020-07-30-49"
+]
+},
+{
+"group": 505,
+"ids": [
+"2021-07-22-52"
+]
+},
+{
+"group": 506,
+"ids": [
+"2021-04-22-42"
+]
+},
+{
+"group": 507,
+"ids": [
+"2023-04-20-46"
+]
+},
+{
+"group": 508,
+"ids": [
+"2022-07-07-46",
+"2021-05-27-49"
+]
+},
+{
+"group": 509,
+"ids": [
+"2021-09-09-7"
+]
+},
+{
+"group": 510,
+"ids": [
+"2023-10-26-16"
+]
+},
+{
+"group": 511,
+"ids": [
+"2021-07-22-15"
+]
+},
+{
+"group": 512,
+"ids": [
+"2022-06-02-36"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 513,
+"ids": [
+"2022-07-07-66"
+]
+},
+{
+"group": 514,
+"ids": [
+"2021-05-27-89"
+]
+},
+{
+"group": 515,
+"ids": [
+"2020-06-25-64"
+]
+},
+{
+"group": 516,
+"ids": [
+"2023-03-23-61"
+]
+},
+{
+"group": 517,
+"ids": [
+"2023-03-23-54"
+]
+},
+{
+"group": 518,
+"ids": [
+"2023-09-14-60",
+"2022-04-28-73"
+]
+},
+{
+"group": 519,
+"ids": [
+"2021-04-22-13"
+]
+},
+{
+"group": 520,
+"ids": [
+"2023-03-23-6"
+]
+},
+{
+"group": 521,
+"ids": [
+"2023-03-23-48"
+]
+},
+{
+"group": 522,
+"ids": [
+"2021-05-27-11"
+]
+},
+{
+"group": 523,
+"ids": [
+"2022-04-28-12"
+]
+},
+{
+"group": 524,
+"ids": [
+"2022-03-24-15"
+]
+},
+{
+"group": 525,
+"ids": [
+"2023-04-20-56"
+]
+},
+{
+"group": 526,
+"ids": [
+"2021-12-02-59"
+]
+},
+{
+"group": 527,
+"ids": [
+"2020-09-24-88"
+]
+},
+{
+"group": 528,
+"ids": [
+"2023-11-30-81"
+]
+},
+{
+"group": 529,
+"ids": [
+"2020-09-24-80"
+]
+},
+{
+"group": 530,
+"ids": [
+"2021-12-02-86"
+]
+},
+{
+"group": 531,
+"ids": [
+"2021-04-22-84"
+]
+},
+{
+"group": 532,
+"ids": [
+"2021-12-02-78"
+]
+},
+{
+"group": 533,
+"ids": [
+"2021-03-18-11"
+]
+},
+{
+"group": 534,
+"ids": [
+"2023-11-30-49",
+"2021-03-18-63"
+]
+},
+{
+"group": 535,
+"ids": [
+"2020-06-25-58"
+],
+"verdict": "OUT",
+"note": "art. 175 UGN: standardy zawodowe ogłaszane przez ministra zostały usunięte z ustawy (brak definicji w art. 4 i ust. 6 w art. 175). Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 536,
+"ids": [
+"2023-04-20-49"
+]
+},
+{
+"group": 537,
+"ids": [
+"2020-07-30-33"
+]
+},
+{
+"group": 538,
+"ids": [
+"2023-06-22-34",
+"2020-07-30-35"
+]
+},
+{
+"group": 539,
+"ids": [
+"2021-03-18-57"
+],
+"verdict": "OUT",
+"note": "nowe § 5 ust. 6 rozporządzenia z 2023 r.: ceny przetargowe – jeżeli ich rynkowy charakter nie budzi wątpliwości; reguły 20% już nie ma. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 540,
+"ids": [
+"2022-07-07-80"
+]
+},
+{
+"group": 541,
+"ids": [
+"2023-11-30-61"
+]
+},
+{
+"group": 542,
+"ids": [
+"2023-03-23-59"
+]
+},
+{
+"group": 543,
+"ids": [
+"2023-09-14-82"
+]
+},
+{
+"group": 544,
+"ids": [
+"2023-06-22-44",
+"2022-12-01-43"
+]
+},
+{
+"group": 545,
+"ids": [
+"2021-10-28-2"
+]
+},
+{
+"group": 546,
+"ids": [
+"2020-06-25-29"
+]
+},
+{
+"group": 547,
+"ids": [
+"2022-10-27-51"
+]
+},
+{
+"group": 548,
+"ids": [
+"2022-09-15-82"
+]
+},
+{
+"group": 549,
+"ids": [
+"2023-10-26-43"
+]
+},
+{
+"group": 550,
+"ids": [
+"2022-07-07-13"
+]
+},
+{
+"group": 551,
+"ids": [
+"2022-07-07-41"
+]
+},
+{
+"group": 552,
+"ids": [
+"2021-10-28-89"
+]
+},
+{
+"group": 553,
+"ids": [
+"2022-10-27-37"
+]
+},
+{
+"group": 554,
+"ids": [
+"2023-11-30-85"
+]
+},
+{
+"group": 555,
+"ids": [
+"2023-09-14-13"
+]
+},
+{
+"group": 556,
+"ids": [
+"2023-09-14-43",
+"2021-06-24-17"
+]
+},
+{
+"group": 557,
+"ids": [
+"2021-07-22-50"
+]
+},
+{
+"group": 558,
+"ids": [
+"2023-11-30-47"
+]
+},
+{
+"group": 559,
+"ids": [
+"2023-04-20-48"
+]
+},
+{
+"group": 560,
+"ids": [
+"2023-06-22-82"
+]
+},
+{
+"group": 561,
+"ids": [
+"2022-04-28-76"
+]
+},
+{
+"group": 562,
+"ids": [
+"2022-07-07-6"
+]
+},
+{
+"group": 563,
+"ids": [
+"2023-03-23-2"
+]
+},
+{
+"group": 564,
+"ids": [
+"2022-12-01-3"
+]
+},
+{
+"group": 565,
+"ids": [
+"2021-05-27-8"
+]
+},
+{
+"group": 566,
+"ids": [
+"2023-11-30-80"
+]
+},
+{
+"group": 567,
+"ids": [
+"2022-12-01-80"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 568,
+"ids": [
+"2023-11-30-69",
+"2022-07-07-73",
+"2020-06-25-8"
+]
+},
+{
+"group": 569,
+"ids": [
+"2021-10-28-7",
+"2021-07-22-10"
+]
+},
+{
+"group": 570,
+"ids": [
+"2023-10-26-75"
+]
+},
+{
+"group": 571,
+"ids": [
+"2022-09-15-66"
+]
+},
+{
+"group": 572,
+"ids": [
+"2022-07-07-70",
+"2020-09-24-5"
+]
+},
+{
+"group": 573,
+"ids": [
+"2021-10-28-78",
+"2021-07-22-62",
+"2021-04-22-71"
+]
+},
+{
+"group": 574,
+"ids": [
+"2021-12-02-74"
+]
+},
+{
+"group": 575,
+"ids": [
+"2022-03-24-4"
+]
+},
+{
+"group": 576,
+"ids": [
+"2022-04-28-70",
+"2021-04-22-14"
+]
+},
+{
+"group": 577,
+"ids": [
+"2022-12-01-56"
+]
+},
+{
+"group": 578,
+"ids": [
+"2021-12-02-70",
+"2021-06-24-69"
+]
+},
+{
+"group": 579,
+"ids": [
+"2021-10-28-67",
+"2021-07-22-69"
+]
+},
+{
+"group": 580,
+"ids": [
+"2023-04-20-18",
+"2022-07-07-16"
+]
+},
+{
+"group": 581,
+"ids": [
+"2022-07-07-87"
+]
+},
+{
+"group": 582,
+"ids": [
+"2023-09-14-72"
+]
+},
+{
+"group": 583,
+"ids": [
+"2022-07-07-85"
+]
+},
+{
+"group": 584,
+"ids": [
+"2022-10-27-14"
+]
+},
+{
+"group": 585,
+"ids": [
+"2023-11-30-67"
+]
+},
+{
+"group": 586,
+"ids": [
+"2023-10-26-60"
+]
+},
+{
+"group": 587,
+"ids": [
+"2022-03-24-61"
+],
+"verdict": "OUT",
+"note": "EGiB 2021 § 26 ust. 2: skala mapy ewidencyjnej „zapewniająca czytelność” – brak katalogu skal. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 588,
+"ids": [
+"2021-07-22-59"
+],
+"verdict": "OUT",
+"note": "EGiB 2021 § 26 ust. 2: mapę ewidencyjną generuje się w skali zapewniającej czytelność – katalog skal usunięto. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 589,
+"ids": [
+"2021-12-02-64"
+]
+},
+{
+"group": 590,
+"ids": [
+"2022-04-28-67"
+]
+},
+{
+"group": 591,
+"ids": [
+"2023-04-20-67"
+]
+},
+{
+"group": 592,
+"ids": [
+"2023-11-30-40"
+]
+},
+{
+"group": 593,
+"ids": [
+"2020-09-24-76"
+]
+},
+{
+"group": 594,
+"ids": [
+"2023-03-23-26",
+"2022-06-02-44",
+"2020-06-25-62"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 595,
+"ids": [
+"2022-06-02-25",
+"2021-07-22-35",
+"2021-04-22-28"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 596,
+"ids": [
+"2022-09-15-21"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 597,
+"ids": [
+"2020-06-25-76"
+]
+},
+{
+"group": 598,
+"ids": [
+"2022-12-01-40"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 599,
+"ids": [
+"2022-07-07-29",
+"2021-09-09-35"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 600,
+"ids": [
+"2021-12-02-31",
+"2021-07-22-23",
+"2021-04-22-17"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 601,
+"ids": [
+"2022-09-15-35"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 602,
+"ids": [
+"2022-04-28-87",
+"2022-03-24-24",
+"2021-06-24-36",
+"2021-05-27-23"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 603,
+"ids": [
+"2021-09-09-13"
+]
+},
+{
+"group": 604,
+"ids": [
+"2022-03-24-11"
+]
+},
+{
+"group": 605,
+"ids": [
+"2023-09-14-49",
+"2023-04-20-83"
+]
+},
+{
+"group": 606,
+"ids": [
+"2023-03-23-62"
+]
+},
+{
+"group": 607,
+"ids": [
+"2020-06-25-1"
+]
+},
+{
+"group": 608,
+"ids": [
+"2020-06-25-86"
+]
+},
+{
+"group": 609,
+"ids": [
+"2020-07-30-16"
+]
+},
+{
+"group": 610,
+"ids": [
+"2023-03-23-84",
+"2022-09-15-79"
+]
+},
+{
+"group": 611,
+"ids": [
+"2020-09-24-59"
+]
+},
+{
+"group": 612,
+"ids": [
+"2021-06-24-58"
+]
+},
+{
+"group": 613,
+"ids": [
+"2023-06-22-52"
+]
+},
+{
+"group": 614,
+"ids": [
+"2022-12-01-6"
+]
+},
+{
+"group": 615,
+"ids": [
+"2021-12-02-13"
+]
+},
+{
+"group": 616,
+"ids": [
+"2020-06-25-79"
+]
+},
+{
+"group": 617,
+"ids": [
+"2022-04-28-60"
+]
+},
+{
+"group": 618,
+"ids": [
+"2022-12-01-50"
+]
+},
+{
+"group": 619,
+"ids": [
+"2021-10-28-85"
+]
+},
+{
+"group": 620,
+"ids": [
+"2022-03-24-87"
+]
+},
+{
+"group": 621,
+"ids": [
+"2021-03-18-39"
+]
+},
+{
+"group": 622,
+"ids": [
+"2023-03-23-3",
+"2021-06-24-1"
+]
+},
+{
+"group": 623,
+"ids": [
+"2022-04-28-52"
+]
+},
+{
+"group": 624,
+"ids": [
+"2021-05-27-52"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 625,
+"ids": [
+"2021-03-18-86"
+]
+},
+{
+"group": 626,
+"ids": [
+"2021-07-22-75"
+]
+},
+{
+"group": 627,
+"ids": [
+"2021-06-24-27"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 628,
+"ids": [
+"2021-10-28-80"
+]
+},
+{
+"group": 629,
+"ids": [
+"2021-03-18-8"
+]
+},
+{
+"group": 630,
+"ids": [
+"2022-07-07-75"
+]
+},
+{
+"group": 631,
+"ids": [
+"2023-11-30-45"
+]
+},
+{
+"group": 632,
+"ids": [
+"2020-07-30-4"
+]
+},
+{
+"group": 633,
+"ids": [
+"2021-05-27-33"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 634,
+"ids": [
+"2023-10-26-33"
+]
+},
+{
+"group": 635,
+"ids": [
+"2021-12-02-39"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 636,
+"ids": [
+"2022-10-27-27"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 637,
+"ids": [
+"2022-04-28-38",
+"2021-12-02-24"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 638,
+"ids": [
+"2023-09-14-28"
+]
+},
+{
+"group": 639,
+"ids": [
+"2022-06-02-27"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 640,
+"ids": [
+"2022-06-02-46"
+]
+},
+{
+"group": 641,
+"ids": [
+"2023-06-22-24"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 642,
+"ids": [
+"2023-03-23-89"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 643,
+"ids": [
+"2023-10-26-88"
+]
+},
+{
+"group": 644,
+"ids": [
+"2022-12-01-89",
+"2021-09-09-38"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 645,
+"ids": [
+"2021-10-28-18"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 646,
+"ids": [
+"2021-06-24-89",
+"2021-05-27-87"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 647,
+"ids": [
+"2023-11-30-30",
+"2021-05-27-9"
+]
+},
+{
+"group": 648,
+"ids": [
+"2021-06-24-88"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 649,
+"ids": [
+"2023-09-14-45"
+]
+},
+{
+"group": 650,
+"ids": [
+"2022-04-28-83",
+"2021-03-18-7"
+]
+},
+{
+"group": 651,
+"ids": [
+"2021-12-02-46",
+"2021-07-22-49"
+]
+},
+{
+"group": 652,
+"ids": [
+"2021-09-09-19"
+]
+},
+{
+"group": 653,
+"ids": [
+"2023-09-14-85"
+]
+},
+{
+"group": 654,
+"ids": [
+"2023-06-22-61"
+]
+},
+{
+"group": 655,
+"ids": [
+"2022-10-27-53"
+]
+},
+{
+"group": 656,
+"ids": [
+"2021-10-28-87"
+]
+},
+{
+"group": 657,
+"ids": [
+"2021-04-22-62"
+]
+},
+{
+"group": 658,
+"ids": [
+"2023-10-26-57"
+]
+},
+{
+"group": 659,
+"ids": [
+"2022-06-02-55"
+]
+},
+{
+"group": 660,
+"ids": [
+"2023-03-23-76",
+"2022-09-15-80"
+]
+},
+{
+"group": 661,
+"ids": [
+"2023-06-22-10"
+]
+},
+{
+"group": 662,
+"ids": [
+"2022-04-28-33",
+"2020-07-30-26"
+]
+},
+{
+"group": 663,
+"ids": [
+"2022-03-24-22"
+]
+},
+{
+"group": 664,
+"ids": [
+"2023-04-20-29"
+]
+},
+{
+"group": 665,
+"ids": [
+"2023-10-26-71",
+"2023-04-20-66"
+]
+},
+{
+"group": 666,
+"ids": [
+"2023-04-20-64"
+]
+},
+{
+"group": 667,
+"ids": [
+"2022-09-15-68"
+]
+},
+{
+"group": 668,
+"ids": [
+"2022-04-28-63"
+]
+},
+{
+"group": 669,
+"ids": [
+"2021-07-22-72"
+]
+},
+{
+"group": 670,
+"ids": [
+"2023-06-22-71",
+"2022-03-24-75"
+]
+},
+{
+"group": 671,
+"ids": [
+"2022-07-07-67"
+]
+},
+{
+"group": 672,
+"ids": [
+"2020-09-24-83"
+]
+},
+{
+"group": 673,
+"ids": [
+"2022-03-24-85"
+]
+},
+{
+"group": 674,
+"ids": [
+"2020-07-30-23"
+]
+},
+{
+"group": 675,
+"ids": [
+"2022-12-01-30",
+"2022-03-24-41",
+"2021-09-09-27"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 676,
+"ids": [
+"2022-04-28-75"
+]
+},
+{
+"group": 677,
+"ids": [
+"2023-06-22-65"
+]
+},
+{
+"group": 678,
+"ids": [
+"2023-09-14-14",
+"2021-05-27-26"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 679,
+"ids": [
+"2023-09-14-66"
+]
+},
+{
+"group": 680,
+"ids": [
+"2021-03-18-31"
+]
+},
+{
+"group": 681,
+"ids": [
+"2023-04-20-68"
+]
+},
+{
+"group": 682,
+"ids": [
+"2021-06-24-62"
+]
+},
+{
+"group": 683,
+"ids": [
+"2023-10-26-41",
+"2022-06-02-53"
+]
+},
+{
+"group": 684,
+"ids": [
+"2023-09-14-81"
+]
+},
+{
+"group": 685,
+"ids": [
+"2023-03-23-63"
+]
+},
+{
+"group": 686,
+"ids": [
+"2022-06-02-80",
+"2020-09-24-62"
+]
+},
+{
+"group": 687,
+"ids": [
+"2023-04-20-38"
+]
+},
+{
+"group": 688,
+"ids": [
+"2022-06-02-74"
+]
+},
+{
+"group": 689,
+"ids": [
+"2021-06-24-12"
+]
+},
+{
+"group": 690,
+"ids": [
+"2023-03-23-45"
+]
+},
+{
+"group": 691,
+"ids": [
+"2021-06-24-25"
+]
+},
+{
+"group": 692,
+"ids": [
+"2023-10-26-50"
+],
+"verdict": "CHG",
+"note": "art. 32 UGN: dodano zakaz sprzedaży użytkownikowi wieczystemu przed upływem 10 lat od oddania – odpowiedź C aktualna"
+},
+{
+"group": 693,
+"ids": [
+"2023-10-26-35"
+]
+},
+{
+"group": 694,
+"ids": [
+"2021-05-27-36"
+]
+},
+{
+"group": 695,
+"ids": [
+"2021-04-22-26"
+]
+},
+{
+"group": 696,
+"ids": [
+"2021-12-02-69"
+]
+},
+{
+"group": 697,
+"ids": [
+"2022-12-01-84"
+],
+"verdict": "CHG",
+"note": "art. 68 ust. 3 UGN: bonifikata 50% dla zabytków udzielana na wniosek nabywcy – wynik bez zmian"
+},
+{
+"group": 698,
+"ids": [
+"2021-07-22-77"
+]
+},
+{
+"group": 699,
+"ids": [
+"2020-09-24-77"
+]
+},
+{
+"group": 700,
+"ids": [
+"2021-03-18-87"
+]
+},
+{
+"group": 701,
+"ids": [
+"2023-03-23-23"
+]
+},
+{
+"group": 702,
+"ids": [
+"2023-06-22-53",
+"2022-04-28-59"
+]
+},
+{
+"group": 703,
+"ids": [
+"2021-06-24-55"
+]
+},
+{
+"group": 704,
+"ids": [
+"2023-04-20-19"
+]
+},
+{
+"group": 705,
+"ids": [
+"2022-07-07-74"
+]
+},
+{
+"group": 706,
+"ids": [
+"2022-09-15-23"
+]
+},
+{
+"group": 707,
+"ids": [
+"2020-09-24-87"
+]
+},
+{
+"group": 708,
+"ids": [
+"2020-07-30-42"
+]
+},
+{
+"group": 709,
+"ids": [
+"2023-11-30-3"
+]
+},
+{
+"group": 710,
+"ids": [
+"2022-09-15-6"
+]
+},
+{
+"group": 711,
+"ids": [
+"2020-09-24-73"
+]
+},
+{
+"group": 712,
+"ids": [
+"2021-06-24-59"
+],
+"verdict": "OK",
+"note": "art. 15 ust. 2 pkt 3a, 11, 12 – aktualne"
+},
+{
+"group": 713,
+"ids": [
+"2023-09-14-2"
+]
+},
+{
+"group": 714,
+"ids": [
+"2023-09-14-12"
+]
+},
+{
+"group": 715,
+"ids": [
+"2023-10-26-87"
+]
+},
+{
+"group": 716,
+"ids": [
+"2022-12-01-5"
+],
+"verdict": "CHG",
+"note": "obowiązek książki obiektu budowlanego przeniesiony do art. 60b PB (c-KOB); wyłączenia bez zmian"
+},
+{
+"group": 717,
+"ids": [
+"2021-04-22-81"
+]
+},
+{
+"group": 718,
+"ids": [
+"2022-10-27-76"
+]
+},
+{
+"group": 719,
+"ids": [
+"2023-10-26-83"
+]
+},
+{
+"group": 720,
+"ids": [
+"2020-09-24-29"
+]
+},
+{
+"group": 721,
+"ids": [
+"2022-06-02-59"
+]
+},
+{
+"group": 722,
+"ids": [
+"2023-11-30-51"
+]
+},
+{
+"group": 723,
+"ids": [
+"2022-06-02-56"
+]
+},
+{
+"group": 724,
+"ids": [
+"2021-12-02-68"
+]
+},
+{
+"group": 725,
+"ids": [
+"2022-06-02-29"
+]
+},
+{
+"group": 726,
+"ids": [
+"2021-06-24-60"
+]
+},
+{
+"group": 727,
+"ids": [
+"2022-03-24-71"
+]
+},
+{
+"group": 728,
+"ids": [
+"2021-04-22-73"
+]
+},
+{
+"group": 729,
+"ids": [
+"2023-03-23-4"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 730,
+"ids": [
+"2022-06-02-82"
+]
+},
+{
+"group": 731,
+"ids": [
+"2022-04-28-23",
+"2021-09-09-41",
+"2021-04-22-20"
+]
+},
+{
+"group": 732,
+"ids": [
+"2022-12-01-70"
+]
+},
+{
+"group": 733,
+"ids": [
+"2023-06-22-83"
+]
+},
+{
+"group": 734,
+"ids": [
+"2021-04-22-90"
+]
+},
+{
+"group": 735,
+"ids": [
+"2021-12-02-48",
+"2021-05-27-51"
+]
+},
+{
+"group": 736,
+"ids": [
+"2023-10-26-9"
+]
+},
+{
+"group": 737,
+"ids": [
+"2020-09-24-74"
+]
+},
+{
+"group": 738,
+"ids": [
+"2023-11-30-11",
+"2022-06-02-15"
+]
+},
+{
+"group": 739,
+"ids": [
+"2021-12-02-9"
+]
+},
+{
+"group": 740,
+"ids": [
+"2021-09-09-22",
+"2021-07-22-37",
+"2021-04-22-30"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 741,
+"ids": [
+"2021-09-09-30"
+]
+},
+{
+"group": 742,
+"ids": [
+"2023-04-20-37"
+]
+},
+{
+"group": 743,
+"ids": [
+"2022-10-27-40",
+"2021-09-09-37",
+"2021-04-22-40",
+"2020-07-30-76"
+]
+},
+{
+"group": 744,
+"ids": [
+"2022-03-24-39"
+]
+},
+{
+"group": 745,
+"ids": [
+"2021-10-28-21"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 746,
+"ids": [
+"2021-06-24-34"
+]
+},
+{
+"group": 747,
+"ids": [
+"2021-05-27-17"
+]
+},
+{
+"group": 748,
+"ids": [
+"2023-09-14-16"
+]
+},
+{
+"group": 749,
+"ids": [
+"2020-09-24-14"
+]
+},
+{
+"group": 750,
+"ids": [
+"2021-03-18-21"
+]
+},
+{
+"group": 751,
+"ids": [
+"2022-09-15-24"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 752,
+"ids": [
+"2023-11-30-84"
+]
+},
+{
+"group": 753,
+"ids": [
+"2022-09-15-88"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 754,
+"ids": [
+"2023-09-14-32"
+]
+},
+{
+"group": 755,
+"ids": [
+"2023-11-30-37",
+"2022-07-07-25",
+"2021-05-27-25"
+]
+},
+{
+"group": 756,
+"ids": [
+"2020-09-24-51"
+]
+},
+{
+"group": 757,
+"ids": [
+"2023-03-23-41"
+]
+},
+{
+"group": 758,
+"ids": [
+"2023-09-14-22"
+]
+},
+{
+"group": 759,
+"ids": [
+"2020-06-25-14"
+]
+},
+{
+"group": 760,
+"ids": [
+"2021-12-02-22"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 761,
+"ids": [
+"2021-04-22-88"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 762,
+"ids": [
+"2023-10-26-76",
+"2022-06-02-71"
+]
+},
+{
+"group": 763,
+"ids": [
+"2021-09-09-73",
+"2021-06-24-70"
+]
+},
+{
+"group": 764,
+"ids": [
+"2020-06-25-38"
+]
+},
+{
+"group": 765,
+"ids": [
+"2022-10-27-85"
+]
+},
+{
+"group": 766,
+"ids": [
+"2022-04-28-79"
+]
+},
+{
+"group": 767,
+"ids": [
+"2021-09-09-76"
+]
+},
+{
+"group": 768,
+"ids": [
+"2021-07-22-28"
+]
+},
+{
+"group": 769,
+"ids": [
+"2021-04-22-85"
+]
+},
+{
+"group": 770,
+"ids": [
+"2023-10-26-53"
+]
+},
+{
+"group": 771,
+"ids": [
+"2022-04-28-41",
+"2021-06-24-31"
+]
+},
+{
+"group": 772,
+"ids": [
+"2020-09-24-89"
+]
+},
+{
+"group": 773,
+"ids": [
+"2021-06-24-52",
+"2021-05-27-53"
+]
+},
+{
+"group": 774,
+"ids": [
+"2022-03-24-9"
+]
+},
+{
+"group": 775,
+"ids": [
+"2022-03-24-78"
+]
+},
+{
+"group": 776,
+"ids": [
+"2020-06-25-37"
+]
+},
+{
+"group": 777,
+"ids": [
+"2022-06-02-6"
+]
+},
+{
+"group": 778,
+"ids": [
+"2021-12-02-52"
+]
+},
+{
+"group": 779,
+"ids": [
+"2023-09-14-58",
+"2022-12-01-69",
+"2022-07-07-76"
+]
+},
+{
+"group": 780,
+"ids": [
+"2023-09-14-46",
+"2021-09-09-50"
+]
+},
+{
+"group": 781,
+"ids": [
+"2021-09-09-33"
+]
+},
+{
+"group": 782,
+"ids": [
+"2020-07-30-12"
+]
+},
+{
+"group": 783,
+"ids": [
+"2023-04-20-2"
+]
+},
+{
+"group": 784,
+"ids": [
+"2021-07-22-66"
+]
+},
+{
+"group": 785,
+"ids": [
+"2023-09-14-89"
+]
+},
+{
+"group": 786,
+"ids": [
+"2023-11-30-82"
+]
+},
+{
+"group": 787,
+"ids": [
+"2021-09-09-83"
+]
+},
+{
+"group": 788,
+"ids": [
+"2022-06-02-42",
+"2020-06-25-83"
+]
+},
+{
+"group": 789,
+"ids": [
+"2021-10-28-82"
+]
+},
+{
+"group": 790,
+"ids": [
+"2023-03-23-75"
+]
+},
+{
+"group": 791,
+"ids": [
+"2020-07-30-9"
+]
+},
+{
+"group": 792,
+"ids": [
+"2021-12-02-71"
+]
+},
+{
+"group": 793,
+"ids": [
+"2022-03-24-73"
+]
+},
+{
+"group": 794,
+"ids": [
+"2021-05-27-66"
+]
+},
+{
+"group": 795,
+"ids": [
+"2020-09-24-7"
+]
+},
+{
+"group": 796,
+"ids": [
+"2021-04-22-63",
+"2021-03-18-3"
+]
+},
+{
+"group": 797,
+"ids": [
+"2023-10-26-73"
+]
+},
+{
+"group": 798,
+"ids": [
+"2021-07-22-61"
+]
+},
+{
+"group": 799,
+"ids": [
+"2023-09-14-55"
+]
+},
+{
+"group": 800,
+"ids": [
+"2022-04-28-55"
+]
+},
+{
+"group": 801,
+"ids": [
+"2022-10-27-57"
+],
+"verdict": "OUT",
+"note": "art. 20 ust. 1: plan miejscowy uchwala się po stwierdzeniu zgodności z ustaleniami planu ogólnego (studium utraciło moc). Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 802,
+"ids": [
+"2021-12-02-63"
+],
+"verdict": "OUT",
+"note": "art. 20 ust. 1: plan miejscowy uchwala się po stwierdzeniu zgodności z ustaleniami planu ogólnego (studium utraciło moc). Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 803,
+"ids": [
+"2021-03-18-84"
+],
+"verdict": "OUT",
+"note": "art. 20 ust. 1 UPZP: dziś zgodność z planem ogólnym (studium utraciło moc). Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 804,
+"ids": [
+"2023-04-20-82"
+]
+},
+{
+"group": 805,
+"ids": [
+"2021-10-28-52"
+]
+},
+{
+"group": 806,
+"ids": [
+"2020-06-25-87"
+]
+},
+{
+"group": 807,
+"ids": [
+"2023-06-22-75",
+"2021-05-27-70"
+]
+},
+{
+"group": 808,
+"ids": [
+"2023-10-26-69"
+]
+},
+{
+"group": 809,
+"ids": [
+"2021-06-24-64"
+]
+},
+{
+"group": 810,
+"ids": [
+"2023-11-30-55"
+]
+},
+{
+"group": 811,
+"ids": [
+"2022-03-24-81"
+]
+},
+{
+"group": 812,
+"ids": [
+"2023-06-22-76",
+"2022-10-27-70"
+]
+},
+{
+"group": 813,
+"ids": [
+"2023-09-14-90"
+]
+},
+{
+"group": 814,
+"ids": [
+"2022-09-15-90"
+]
+},
+{
+"group": 815,
+"ids": [
+"2021-10-28-20"
+]
+},
+{
+"group": 816,
+"ids": [
+"2020-06-25-27"
+]
+},
+{
+"group": 817,
+"ids": [
+"2023-06-22-32"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 818,
+"ids": [
+"2022-09-15-61"
+]
+},
+{
+"group": 819,
+"ids": [
+"2021-03-18-33"
+]
+},
+{
+"group": 820,
+"ids": [
+"2020-07-30-14"
+]
+},
+{
+"group": 821,
+"ids": [
+"2021-12-02-12"
+]
+},
+{
+"group": 822,
+"ids": [
+"2023-06-22-54"
+]
+},
+{
+"group": 823,
+"ids": [
+"2022-12-01-52"
+]
+},
+{
+"group": 824,
+"ids": [
+"2021-05-27-56"
+]
+},
+{
+"group": 825,
+"ids": [
+"2023-09-14-17"
+]
+},
+{
+"group": 826,
+"ids": [
+"2020-06-25-9"
+]
+},
+{
+"group": 827,
+"ids": [
+"2021-03-18-53"
+]
+},
+{
+"group": 828,
+"ids": [
+"2023-04-20-17"
+]
+},
+{
+"group": 829,
+"ids": [
+"2022-04-28-26"
+]
+},
+{
+"group": 830,
+"ids": [
+"2021-09-09-29"
+]
+},
+{
+"group": 831,
+"ids": [
+"2022-12-01-10",
+"2022-09-15-8"
+]
+},
+{
+"group": 832,
+"ids": [
+"2023-04-20-44",
+"2022-03-24-53"
+]
+},
+{
+"group": 833,
+"ids": [
+"2023-09-14-57"
+],
+"verdict": "OUT",
+"note": "EGiB § 6 ust. 5 (od 5.05.2023): podziału na obręby dokonuje starosta w uzgodnieniu z Głównym Geodetą Kraju, po zasięgnięciu opinii jednostki statystyki publicznej – dziś poprawna jest C",
+"currentKey": [
+2
+]
+},
+{
+"group": 834,
+"ids": [
+"2022-03-24-68"
+]
+},
+{
+"group": 835,
+"ids": [
+"2023-06-22-29"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 836,
+"ids": [
+"2022-04-28-28"
+]
+},
+{
+"group": 837,
+"ids": [
+"2022-10-27-87"
+]
+},
+{
+"group": 838,
+"ids": [
+"2023-03-23-40"
+]
+},
+{
+"group": 839,
+"ids": [
+"2023-04-20-55"
+]
+},
+{
+"group": 840,
+"ids": [
+"2022-12-01-58"
+],
+"verdict": "OUT",
+"note": "po reformie z 2023 r. polityka przestrzenna gminy jest określona w strategii rozwoju gminy lub strategii rozwoju ponadlokalnego (art. 13b pkt 1, art. 15 ust. 1); studium utraciło moc. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 841,
+"ids": [
+"2020-07-30-39"
+],
+"verdict": "OUT",
+"note": "koncepcja przestrzennego zagospodarowania kraju została wyeliminowana z UPZP; art. 3 ust. 4: politykę przestrzenną państwa prowadzi Rada Ministrów (dokumenty strategiczne wg ustawy o zasadach prowadzenia polityki rozwoju). Politykę przestrzenną państwa określają dziś dokumenty strategiczne, przede wszystkim średniookresowa strategia rozwoju kraju – za aktualną uznano A.",
+"currentKey": [
+0
+]
+},
+{
+"group": 842,
+"ids": [
+"2023-09-14-68"
+]
+},
+{
+"group": 843,
+"ids": [
+"2022-12-01-64"
+]
+},
+{
+"group": 844,
+"ids": [
+"2022-04-28-7"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 845,
+"ids": [
+"2023-09-14-1",
+"2023-03-23-7"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 846,
+"ids": [
+"2023-09-14-74"
+]
+},
+{
+"group": 847,
+"ids": [
+"2021-12-02-4"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 848,
+"ids": [
+"2023-10-26-8"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 849,
+"ids": [
+"2021-10-28-77",
+"2021-09-09-75",
+"2020-06-25-35"
+]
+},
+{
+"group": 850,
+"ids": [
+"2023-04-20-14"
+]
+},
+{
+"group": 851,
+"ids": [
+"2022-10-27-12"
+]
+},
+{
+"group": 852,
+"ids": [
+"2022-09-15-47",
+"2021-07-22-79"
+]
+},
+{
+"group": 853,
+"ids": [
+"2021-04-22-43"
+]
+},
+{
+"group": 854,
+"ids": [
+"2023-11-30-48"
+]
+},
+{
+"group": 855,
+"ids": [
+"2022-10-27-55"
+],
+"verdict": "OUT",
+"note": "art. 62 ust. 1: zawieszenie postępowania w sprawie WZ – maks. 18 miesięcy (nie 9). Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 856,
+"ids": [
+"2022-10-27-42"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 857,
+"ids": [
+"2021-07-22-19"
+]
+},
+{
+"group": 858,
+"ids": [
+"2023-03-23-21"
+]
+},
+{
+"group": 859,
+"ids": [
+"2023-11-30-89"
+]
+},
+{
+"group": 860,
+"ids": [
+"2020-07-30-44"
+]
+},
+{
+"group": 861,
+"ids": [
+"2023-03-23-88"
+]
+},
+{
+"group": 862,
+"ids": [
+"2021-03-18-52"
+]
+},
+{
+"group": 863,
+"ids": [
+"2022-07-07-27"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 864,
+"ids": [
+"2021-10-28-10"
+]
+},
+{
+"group": 865,
+"ids": [
+"2021-04-22-22"
+]
+},
+{
+"group": 866,
+"ids": [
+"2023-06-22-23",
+"2022-12-01-23"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 867,
+"ids": [
+"2022-07-07-72",
+"2021-10-28-66"
+]
+},
+{
+"group": 868,
+"ids": [
+"2021-03-18-78"
+]
+},
+{
+"group": 869,
+"ids": [
+"2023-10-26-65"
+]
+},
+{
+"group": 870,
+"ids": [
+"2021-07-22-55"
+]
+},
+{
+"group": 871,
+"ids": [
+"2021-06-24-86"
+]
+},
+{
+"group": 872,
+"ids": [
+"2021-07-22-48"
+]
+},
+{
+"group": 873,
+"ids": [
+"2021-10-28-69",
+"2021-06-24-65"
+]
+},
+{
+"group": 874,
+"ids": [
+"2022-03-24-10"
+]
+},
+{
+"group": 875,
+"ids": [
+"2023-11-30-13"
+]
+},
+{
+"group": 876,
+"ids": [
+"2020-07-30-72"
+]
+},
+{
+"group": 877,
+"ids": [
+"2021-09-09-49"
+]
+},
+{
+"group": 878,
+"ids": [
+"2023-10-26-82"
+]
+},
+{
+"group": 879,
+"ids": [
+"2023-04-20-43",
+"2022-03-24-51"
+]
+},
+{
+"group": 880,
+"ids": [
+"2023-11-30-54"
+]
+},
+{
+"group": 881,
+"ids": [
+"2021-03-18-42"
+]
+},
+{
+"group": 882,
+"ids": [
+"2022-03-24-79"
+]
+},
+{
+"group": 883,
+"ids": [
+"2022-03-24-88"
+]
+},
+{
+"group": 884,
+"ids": [
+"2021-07-22-27",
+"2021-05-27-19"
+]
+},
+{
+"group": 885,
+"ids": [
+"2020-07-30-31"
+]
+},
+{
+"group": 886,
+"ids": [
+"2021-09-09-79"
+]
+},
+{
+"group": 887,
+"ids": [
+"2021-06-24-32"
+]
+},
+{
+"group": 888,
+"ids": [
+"2021-12-02-84"
+]
+},
+{
+"group": 889,
+"ids": [
+"2022-06-02-2"
+]
+},
+{
+"group": 890,
+"ids": [
+"2021-10-28-53"
+],
+"verdict": "CHG",
+"note": "art. 47a PGiK: gmina ustala numery porządkowe i prowadzi ewidencję miejscowości, ulic i adresów (EMUiA) – odpowiedź B aktualna co do istoty"
+},
+{
+"group": 891,
+"ids": [
+"2020-09-24-68"
+]
+},
+{
+"group": 892,
+"ids": [
+"2022-10-27-71",
+"2021-05-27-68"
+]
+},
+{
+"group": 893,
+"ids": [
+"2022-09-15-9",
+"2022-07-07-5",
+"2021-12-02-6"
+]
+},
+{
+"group": 894,
+"ids": [
+"2023-06-22-30"
+]
+},
+{
+"group": 895,
+"ids": [
+"2022-04-28-27"
+]
+},
+{
+"group": 896,
+"ids": [
+"2021-09-09-32"
+]
+},
+{
+"group": 897,
+"ids": [
+"2023-09-14-67",
+"2022-03-24-72"
+]
+},
+{
+"group": 898,
+"ids": [
+"2021-10-28-38"
+]
+},
+{
+"group": 899,
+"ids": [
+"2021-05-27-38"
+]
+},
+{
+"group": 900,
+"ids": [
+"2021-12-02-16"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 901,
+"ids": [
+"2023-04-20-33"
+]
+},
+{
+"group": 902,
+"ids": [
+"2022-03-24-23",
+"2020-07-30-77"
+]
+},
+{
+"group": 903,
+"ids": [
+"2022-10-27-46"
+]
+},
+{
+"group": 904,
+"ids": [
+"2022-07-07-44"
+]
+},
+{
+"group": 905,
+"ids": [
+"2020-09-24-53"
+]
+},
+{
+"group": 906,
+"ids": [
+"2023-03-23-11"
+]
+},
+{
+"group": 907,
+"ids": [
+"2023-10-26-38"
+]
+},
+{
+"group": 908,
+"ids": [
+"2021-09-09-14"
+]
+},
+{
+"group": 909,
+"ids": [
+"2022-12-01-18"
+]
+},
+{
+"group": 910,
+"ids": [
+"2023-06-22-11"
+]
+},
+{
+"group": 911,
+"ids": [
+"2023-06-22-4"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 912,
+"ids": [
+"2023-10-26-56"
+]
+},
+{
+"group": 913,
+"ids": [
+"2023-03-23-9",
+"2022-04-28-3"
+]
+},
+{
+"group": 914,
+"ids": [
+"2021-07-22-34"
+]
+},
+{
+"group": 915,
+"ids": [
+"2022-06-02-14"
+]
+},
+{
+"group": 916,
+"ids": [
+"2022-03-24-8"
+]
+},
+{
+"group": 917,
+"ids": [
+"2021-09-09-3"
+]
+},
+{
+"group": 918,
+"ids": [
+"2023-10-26-49"
+]
+},
+{
+"group": 919,
+"ids": [
+"2022-04-28-47"
+]
+},
+{
+"group": 920,
+"ids": [
+"2022-06-02-50"
+]
+},
+{
+"group": 921,
+"ids": [
+"2023-11-30-71",
+"2022-06-02-75"
+]
+},
+{
+"group": 922,
+"ids": [
+"2021-12-02-34",
+"2021-04-22-27"
+]
+},
+{
+"group": 923,
+"ids": [
+"2021-03-18-72"
+]
+},
+{
+"group": 924,
+"ids": [
+"2023-09-14-36",
+"2022-07-07-20",
+"2021-06-24-21"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 925,
+"ids": [
+"2023-10-26-34",
+"2022-07-07-38"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 926,
+"ids": [
+"2021-07-22-22",
+"2020-06-25-52"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 927,
+"ids": [
+"2023-04-20-90"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 928,
+"ids": [
+"2021-03-18-17"
+]
+},
+{
+"group": 929,
+"ids": [
+"2022-07-07-88",
+"2022-06-02-88"
+]
+},
+{
+"group": 930,
+"ids": [
+"2021-12-02-43"
+]
+},
+{
+"group": 931,
+"ids": [
+"2020-07-30-67"
+]
+},
+{
+"group": 932,
+"ids": [
+"2021-09-09-34"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 933,
+"ids": [
+"2023-06-22-67"
+]
+},
+{
+"group": 934,
+"ids": [
+"2022-03-24-21",
+"2020-07-30-5"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 935,
+"ids": [
+"2023-03-23-22",
+"2021-06-24-37",
+"2021-04-22-31"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 936,
+"ids": [
+"2022-03-24-40"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 937,
+"ids": [
+"2020-07-30-21"
+]
+},
+{
+"group": 938,
+"ids": [
+"2023-11-30-20"
+]
+},
+{
+"group": 939,
+"ids": [
+"2023-10-26-20"
+]
+},
+{
+"group": 940,
+"ids": [
+"2023-04-20-36",
+"2022-04-28-31"
+]
+},
+{
+"group": 941,
+"ids": [
+"2022-10-27-29",
+"2021-10-28-22"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 942,
+"ids": [
+"2022-09-15-39"
+]
+},
+{
+"group": 943,
+"ids": [
+"2021-05-27-40"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 944,
+"ids": [
+"2021-04-22-15",
+"2020-09-24-20"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 945,
+"ids": [
+"2020-09-24-69"
+]
+},
+{
+"group": 946,
+"ids": [
+"2020-06-25-21"
+]
+},
+{
+"group": 947,
+"ids": [
+"2023-04-20-21"
+]
+},
+{
+"group": 948,
+"ids": [
+"2023-03-23-27"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 949,
+"ids": [
+"2022-12-01-36"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 950,
+"ids": [
+"2023-06-22-33"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 951,
+"ids": [
+"2023-11-30-33"
+]
+},
+{
+"group": 952,
+"ids": [
+"2023-09-14-79"
+]
+},
+{
+"group": 953,
+"ids": [
+"2023-04-20-28"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 954,
+"ids": [
+"2022-09-15-41"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 955,
+"ids": [
+"2021-09-09-88"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 956,
+"ids": [
+"2020-07-30-34"
+],
+"verdict": "OUT",
+"note": "reforma UPZP z 2023 r. usunęła prognozę skutków finansowych uchwalenia planu; uzasadnienie planu przedstawia wpływ na finanse publiczne (art. 15 ust. 1 pkt 3). Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 957,
+"ids": [
+"2023-11-30-18",
+"2021-03-18-37"
+]
+},
+{
+"group": 958,
+"ids": [
+"2023-04-20-72",
+"2021-10-28-72"
+],
+"verdict": "CHG",
+"note": "typ siedliskowy nadal wynika z planu urządzenia lasu (B aktualna), ale nowe rozporządzenie o wycenie (§ 22) nie używa go do wskaźnika szacunkowego"
+},
+{
+"group": 959,
+"ids": [
+"2022-12-01-28"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 960,
+"ids": [
+"2022-06-02-22",
+"2021-07-22-33"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 961,
+"ids": [
+"2020-06-25-54"
+]
+},
+{
+"group": 962,
+"ids": [
+"2023-09-14-24"
+]
+},
+{
+"group": 963,
+"ids": [
+"2022-04-28-40",
+"2021-03-18-13"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 964,
+"ids": [
+"2022-06-02-89"
+]
+},
+{
+"group": 965,
+"ids": [
+"2022-06-02-34",
+"2021-10-28-25",
+"2020-09-24-50"
+]
+},
+{
+"group": 966,
+"ids": [
+"2021-12-02-27"
+]
+},
+{
+"group": 967,
+"ids": [
+"2023-11-30-36",
+"2021-12-02-72"
+]
+},
+{
+"group": 968,
+"ids": [
+"2021-10-28-68",
+"2021-09-09-65",
+"2021-04-22-76",
+"2020-07-30-51"
+]
+},
+{
+"group": 969,
+"ids": [
+"2021-09-09-26",
+"2021-07-22-41"
+]
+},
+{
+"group": 970,
+"ids": [
+"2021-06-24-71"
+]
+},
+{
+"group": 971,
+"ids": [
+"2021-04-22-66"
+]
+},
+{
+"group": 972,
+"ids": [
+"2021-04-22-72"
+]
+},
+{
+"group": 973,
+"ids": [
+"2021-07-22-25"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 974,
+"ids": [
+"2023-10-26-25",
+"2021-05-27-21"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 975,
+"ids": [
+"2023-10-26-27"
+]
+},
+{
+"group": 976,
+"ids": [
+"2023-10-26-54"
+]
+},
+{
+"group": 977,
+"ids": [
+"2023-03-23-33"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 978,
+"ids": [
+"2021-03-18-81"
+]
+},
+{
+"group": 979,
+"ids": [
+"2020-07-30-1"
+]
+},
+{
+"group": 980,
+"ids": [
+"2023-03-23-28"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 981,
+"ids": [
+"2023-11-30-7",
+"2023-04-20-5",
+"2022-03-24-6"
+]
+},
+{
+"group": 982,
+"ids": [
+"2022-12-01-37",
+"2020-09-24-41"
+]
+},
+{
+"group": 983,
+"ids": [
+"2023-11-30-17"
+]
+},
+{
+"group": 984,
+"ids": [
+"2022-10-27-1",
+"2022-07-07-2"
+]
+},
+{
+"group": 985,
+"ids": [
+"2021-09-09-1"
+]
+},
+{
+"group": 986,
+"ids": [
+"2023-06-22-36"
+]
+},
+{
+"group": 987,
+"ids": [
+"2023-10-26-18",
+"2023-03-23-36"
+]
+},
+{
+"group": 988,
+"ids": [
+"2021-03-18-54"
+],
+"verdict": "OUT",
+"note": "reforma UPZP z 2023 r. usunęła prognozę skutków finansowych uchwalenia planu; uzasadnienie planu przedstawia wpływ na finanse publiczne (art. 15 ust. 1 pkt 3). Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 989,
+"ids": [
+"2022-12-01-71"
+]
+},
+{
+"group": 990,
+"ids": [
+"2023-11-30-88"
+]
+},
+{
+"group": 991,
+"ids": [
+"2023-06-22-88"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 992,
+"ids": [
+"2022-12-01-12",
+"2022-03-24-17"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 993,
+"ids": [
+"2023-11-30-23"
+]
+},
+{
+"group": 994,
+"ids": [
+"2023-06-22-25"
+]
+},
+{
+"group": 995,
+"ids": [
+"2023-04-20-40",
+"2021-09-09-40",
+"2021-07-22-36"
+]
+},
+{
+"group": 996,
+"ids": [
+"2022-10-27-20"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 997,
+"ids": [
+"2021-03-18-67"
+]
+},
+{
+"group": 998,
+"ids": [
+"2021-03-18-34"
+]
+},
+{
+"group": 999,
+"ids": [
+"2021-12-02-35"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1000,
+"ids": [
+"2022-12-01-34"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1001,
+"ids": [
+"2021-07-22-24",
+"2021-04-22-29"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1002,
+"ids": [
+"2023-10-26-67",
+"2022-10-27-72"
+]
+},
+{
+"group": 1003,
+"ids": [
+"2022-06-02-41"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1004,
+"ids": [
+"2023-06-22-31"
+]
+},
+{
+"group": 1005,
+"ids": [
+"2020-06-25-88"
+]
+},
+{
+"group": 1006,
+"ids": [
+"2021-09-09-59"
+]
+},
+{
+"group": 1007,
+"ids": [
+"2023-04-20-61"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1008,
+"ids": [
+"2020-07-30-22"
+]
+},
+{
+"group": 1009,
+"ids": [
+"2020-09-24-32"
+]
+},
+{
+"group": 1010,
+"ids": [
+"2022-07-07-77"
+]
+},
+{
+"group": 1011,
+"ids": [
+"2021-09-09-72",
+"2021-07-22-71",
+"2021-05-27-74"
+]
+},
+{
+"group": 1012,
+"ids": [
+"2021-09-09-36",
+"2021-07-22-32",
+"2021-04-22-39"
+]
+},
+{
+"group": 1013,
+"ids": [
+"2021-04-22-23"
+]
+},
+{
+"group": 1014,
+"ids": [
+"2020-07-30-52"
+]
+},
+{
+"group": 1015,
+"ids": [
+"2021-12-02-19",
+"2021-07-22-20"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1016,
+"ids": [
+"2023-06-22-26",
+"2023-04-20-84",
+"2022-03-24-29"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1017,
+"ids": [
+"2021-05-27-24",
+"2021-04-22-33"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1018,
+"ids": [
+"2021-10-28-12"
+]
+},
+{
+"group": 1019,
+"ids": [
+"2023-09-14-35",
+"2023-03-23-29"
+]
+},
+{
+"group": 1020,
+"ids": [
+"2023-04-20-39"
+]
+},
+{
+"group": 1021,
+"ids": [
+"2022-09-15-42"
+]
+},
+{
+"group": 1022,
+"ids": [
+"2023-06-22-56",
+"2022-07-07-61"
+]
+},
+{
+"group": 1023,
+"ids": [
+"2022-09-15-54",
+"2020-09-24-15"
+]
+},
+{
+"group": 1024,
+"ids": [
+"2022-07-07-59"
+]
+},
+{
+"group": 1025,
+"ids": [
+"2023-09-14-11"
+]
+},
+{
+"group": 1026,
+"ids": [
+"2022-06-02-16"
+]
+},
+{
+"group": 1027,
+"ids": [
+"2023-11-30-44",
+"2022-04-28-44"
+]
+},
+{
+"group": 1028,
+"ids": [
+"2023-03-23-10"
+]
+},
+{
+"group": 1029,
+"ids": [
+"2022-09-15-18"
+]
+},
+{
+"group": 1030,
+"ids": [
+"2023-10-26-1"
+]
+},
+{
+"group": 1031,
+"ids": [
+"2023-09-14-64",
+"2022-10-27-77"
+]
+},
+{
+"group": 1032,
+"ids": [
+"2023-10-26-10"
+]
+},
+{
+"group": 1033,
+"ids": [
+"2020-07-30-64"
+]
+},
+{
+"group": 1034,
+"ids": [
+"2022-07-07-37"
+]
+},
+{
+"group": 1035,
+"ids": [
+"2023-11-30-10"
+]
+},
+{
+"group": 1036,
+"ids": [
+"2021-10-28-54"
+]
+},
+{
+"group": 1037,
+"ids": [
+"2022-10-27-63",
+"2022-03-24-56"
+]
+},
+{
+"group": 1038,
+"ids": [
+"2023-11-30-59",
+"2023-06-22-50"
+]
+},
+{
+"group": 1039,
+"ids": [
+"2020-09-24-16"
+]
+},
+{
+"group": 1040,
+"ids": [
+"2021-04-22-53"
+],
+"verdict": "CHG",
+"note": "EGiB 2021 – zakres danych rejestru gruntów przeniesiony; podstawa: rozporządzenie z 27.07.2021"
+},
+{
+"group": 1041,
+"ids": [
+"2023-09-14-54"
+]
+},
+{
+"group": 1042,
+"ids": [
+"2023-04-20-60"
+]
+},
+{
+"group": 1043,
+"ids": [
+"2022-07-07-56",
+"2021-10-28-59",
+"2021-05-27-57"
+]
+},
+{
+"group": 1044,
+"ids": [
+"2022-12-01-11",
+"2022-07-07-15"
+]
+},
+{
+"group": 1045,
+"ids": [
+"2023-10-26-78",
+"2022-09-15-81"
+]
+},
+{
+"group": 1046,
+"ids": [
+"2023-09-14-9",
+"2022-12-01-41"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1047,
+"ids": [
+"2022-03-24-42",
+"2021-12-02-37"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1048,
+"ids": [
+"2021-10-28-26",
+"2020-09-24-12"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1049,
+"ids": [
+"2021-10-28-90"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1050,
+"ids": [
+"2021-07-22-39",
+"2021-05-27-20"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1051,
+"ids": [
+"2022-12-01-39",
+"2022-04-28-43"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1052,
+"ids": [
+"2020-06-25-51"
+]
+},
+{
+"group": 1053,
+"ids": [
+"2023-10-26-23",
+"2022-04-28-21"
+]
+},
+{
+"group": 1054,
+"ids": [
+"2021-09-09-62"
+]
+},
+{
+"group": 1055,
+"ids": [
+"2022-09-15-55"
+]
+},
+{
+"group": 1056,
+"ids": [
+"2022-10-27-13"
+]
+},
+{
+"group": 1057,
+"ids": [
+"2023-06-22-21",
+"2021-09-09-39"
+],
+"verdict": "CHG",
+"note": "akt nosi dziś tytuł „w sprawie szczegółowych zasad wyceny nieruchomości” (MRiT 2023); zakres § 1 podobny"
+},
+{
+"group": 1058,
+"ids": [
+"2023-04-20-25"
+],
+"verdict": "CHG",
+"note": "akt nosi dziś tytuł „w sprawie szczegółowych zasad wyceny nieruchomości” (MRiT 2023)"
+},
+{
+"group": 1059,
+"ids": [
+"2021-10-28-19"
+],
+"verdict": "UNC",
+"note": "nowe § 54 reguluje wycenę na potrzeby oceny zdolności kredytowej (Prawo bankowe, kredyt hipoteczny) – odp. C może być dziś uznana za poprawną"
+},
+{
+"group": 1060,
+"ids": [
+"2022-10-27-88"
+],
+"verdict": "UNC",
+"note": "nowe § 54 reguluje wycenę na potrzeby oceny zdolności kredytowej (Prawo bankowe, kredyt hipoteczny) – odp. C może być dziś uznana za poprawną"
+},
+{
+"group": 1061,
+"ids": [
+"2020-06-25-7"
+]
+},
+{
+"group": 1062,
+"ids": [
+"2023-06-22-86"
+]
+},
+{
+"group": 1063,
+"ids": [
+"2021-07-22-85"
+]
+},
+{
+"group": 1064,
+"ids": [
+"2023-11-30-76",
+"2023-06-22-84"
+]
+},
+{
+"group": 1065,
+"ids": [
+"2022-12-01-13"
+]
+},
+{
+"group": 1066,
+"ids": [
+"2021-12-02-20"
+]
+},
+{
+"group": 1067,
+"ids": [
+"2022-04-28-16"
+]
+},
+{
+"group": 1068,
+"ids": [
+"2021-07-22-16"
+]
+},
+{
+"group": 1069,
+"ids": [
+"2023-04-20-27"
+]
+},
+{
+"group": 1070,
+"ids": [
+"2023-11-30-79"
+]
+},
+{
+"group": 1071,
+"ids": [
+"2023-10-26-90"
+]
+},
+{
+"group": 1072,
+"ids": [
+"2023-04-20-86"
+],
+"verdict": "OUT",
+"note": "art. 175 ust. 1 UGN w obecnym brzmieniu nie odsyła do standardów zawodowych (usunięte) – C już niepoprawna. Dziś poprawne A i B.",
+"currentKey": [
+0,
+1
+]
+},
+{
+"group": 1073,
+"ids": [
+"2023-11-30-87"
+]
+},
+{
+"group": 1074,
+"ids": [
+"2020-07-30-11"
+]
+},
+{
+"group": 1075,
+"ids": [
+"2022-06-02-64",
+"2020-06-25-24"
+]
+},
+{
+"group": 1076,
+"ids": [
+"2023-03-23-16"
+]
+},
+{
+"group": 1077,
+"ids": [
+"2021-07-22-42"
+]
+},
+{
+"group": 1078,
+"ids": [
+"2020-09-24-44"
+]
+},
+{
+"group": 1079,
+"ids": [
+"2023-11-30-34"
+]
+},
+{
+"group": 1080,
+"ids": [
+"2020-07-30-90"
+]
+},
+{
+"group": 1081,
+"ids": [
+"2023-09-14-61",
+"2022-09-15-69"
+]
+},
+{
+"group": 1082,
+"ids": [
+"2021-09-09-42",
+"2021-06-24-90"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1083,
+"ids": [
+"2020-09-24-60"
+]
+},
+{
+"group": 1084,
+"ids": [
+"2021-09-09-68"
+]
+},
+{
+"group": 1085,
+"ids": [
+"2023-04-20-24",
+"2021-07-22-38"
+]
+},
+{
+"group": 1086,
+"ids": [
+"2021-04-22-21"
+]
+},
+{
+"group": 1087,
+"ids": [
+"2022-06-02-90"
+]
+},
+{
+"group": 1088,
+"ids": [
+"2021-04-22-51"
+]
+},
+{
+"group": 1089,
+"ids": [
+"2022-07-07-45"
+]
+},
+{
+"group": 1090,
+"ids": [
+"2023-06-22-39"
+]
+},
+{
+"group": 1091,
+"ids": [
+"2020-06-25-41"
+]
+},
+{
+"group": 1092,
+"ids": [
+"2021-09-09-28",
+"2021-05-27-27"
+]
+},
+{
+"group": 1093,
+"ids": [
+"2021-03-18-24"
+]
+},
+{
+"group": 1094,
+"ids": [
+"2021-12-02-26",
+"2021-04-22-41"
+]
+},
+{
+"group": 1095,
+"ids": [
+"2020-07-30-46"
+]
+},
+{
+"group": 1096,
+"ids": [
+"2021-05-27-28"
+]
+},
+{
+"group": 1097,
+"ids": [
+"2020-09-24-55"
+]
+},
+{
+"group": 1098,
+"ids": [
+"2021-05-27-35"
+]
+},
+{
+"group": 1099,
+"ids": [
+"2021-12-02-47"
+]
+},
+{
+"group": 1100,
+"ids": [
+"2021-10-28-48"
+],
+"verdict": "CHG",
+"note": "art. 7 ustawy o KW: „decyzji organu administracji rządowej albo samorządu” (zamiast „państwowej”) – odpowiedzi aktualne"
+},
+{
+"group": 1101,
+"ids": [
+"2021-10-28-33"
+]
+},
+{
+"group": 1102,
+"ids": [
+"2022-03-24-86"
+]
+},
+{
+"group": 1103,
+"ids": [
+"2022-03-24-54"
+]
+},
+{
+"group": 1104,
+"ids": [
+"2021-04-22-83"
+]
+},
+{
+"group": 1105,
+"ids": [
+"2023-04-20-81"
+]
+},
+{
+"group": 1106,
+"ids": [
+"2023-11-30-74",
+"2023-09-14-53",
+"2023-06-22-89",
+"2021-10-28-57",
+"2021-09-09-58"
+]
+},
+{
+"group": 1107,
+"ids": [
+"2023-11-30-56",
+"2022-07-07-54"
+]
+},
+{
+"group": 1108,
+"ids": [
+"2021-06-24-14"
+]
+},
+{
+"group": 1109,
+"ids": [
+"2023-10-26-14"
+]
+},
+{
+"group": 1110,
+"ids": [
+"2022-10-27-73"
+]
+},
+{
+"group": 1111,
+"ids": [
+"2022-07-07-52"
+]
+},
+{
+"group": 1112,
+"ids": [
+"2021-06-24-42"
+]
+},
+{
+"group": 1113,
+"ids": [
+"2021-10-28-16"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1114,
+"ids": [
+"2022-04-28-2"
+]
+},
+{
+"group": 1115,
+"ids": [
+"2021-07-22-1"
+]
+},
+{
+"group": 1116,
+"ids": [
+"2020-07-30-40"
+],
+"verdict": "OUT",
+"note": "standardy zawodowe ogłaszane przez ministra usunięto z UGN (art. 175 ust. 6 i art. 4) – pytanie nieaktualne. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 1117,
+"ids": [
+"2023-06-22-55"
+]
+},
+{
+"group": 1118,
+"ids": [
+"2021-06-24-63"
+]
+},
+{
+"group": 1119,
+"ids": [
+"2022-09-15-59"
+]
+},
+{
+"group": 1120,
+"ids": [
+"2023-03-23-69"
+]
+},
+{
+"group": 1121,
+"ids": [
+"2022-03-24-77"
+]
+},
+{
+"group": 1122,
+"ids": [
+"2021-04-22-77"
+]
+},
+{
+"group": 1123,
+"ids": [
+"2020-09-24-85"
+]
+},
+{
+"group": 1124,
+"ids": [
+"2023-10-26-31"
+]
+},
+{
+"group": 1125,
+"ids": [
+"2023-03-23-24",
+"2022-09-15-37"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1126,
+"ids": [
+"2021-05-27-22"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1127,
+"ids": [
+"2022-10-27-11"
+]
+},
+{
+"group": 1128,
+"ids": [
+"2022-09-15-29"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1129,
+"ids": [
+"2022-04-28-36"
+]
+},
+{
+"group": 1130,
+"ids": [
+"2021-12-02-88"
+]
+},
+{
+"group": 1131,
+"ids": [
+"2022-04-28-18"
+]
+},
+{
+"group": 1132,
+"ids": [
+"2022-07-07-11"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1133,
+"ids": [
+"2022-04-28-15"
+]
+},
+{
+"group": 1134,
+"ids": [
+"2022-09-15-17"
+]
+},
+{
+"group": 1135,
+"ids": [
+"2020-09-24-8"
+]
+},
+{
+"group": 1136,
+"ids": [
+"2021-07-22-8"
+]
+},
+{
+"group": 1137,
+"ids": [
+"2020-09-24-17"
+]
+},
+{
+"group": 1138,
+"ids": [
+"2023-11-30-32",
+"2022-04-28-29"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1139,
+"ids": [
+"2023-09-14-10"
+]
+},
+{
+"group": 1140,
+"ids": [
+"2021-04-22-3"
+],
+"verdict": "CHG",
+"note": "art. 60b ust. 2 PB (c-KOB) – wyłączenia bez zmian"
+},
+{
+"group": 1141,
+"ids": [
+"2020-07-30-80"
+]
+},
+{
+"group": 1142,
+"ids": [
+"2023-06-22-37"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1143,
+"ids": [
+"2021-03-18-62"
+]
+},
+{
+"group": 1144,
+"ids": [
+"2021-06-24-23"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1145,
+"ids": [
+"2023-04-20-26",
+"2022-10-27-33"
+]
+},
+{
+"group": 1146,
+"ids": [
+"2021-06-24-72",
+"2021-05-27-64"
+],
+"verdict": "CHG",
+"note": "nowy mechanizm: reguły dla stawów, sadów, gruntów zabudowanych i zadrzewień śródpolnych przeniesiono do współczynnika korekcyjnego Wkbo (zał. 1 rozporządzenia z 2023 r.); liczby z treści pytania ilustrują dawną tabelę wskaźników"
+},
+{
+"group": 1147,
+"ids": [
+"2020-09-24-22"
+]
+},
+{
+"group": 1148,
+"ids": [
+"2021-07-22-29"
+]
+},
+{
+"group": 1149,
+"ids": [
+"2020-09-24-75"
+]
+},
+{
+"group": 1150,
+"ids": [
+"2021-06-24-41"
+]
+},
+{
+"group": 1151,
+"ids": [
+"2023-04-20-1"
+]
+},
+{
+"group": 1152,
+"ids": [
+"2023-09-14-4"
+]
+},
+{
+"group": 1153,
+"ids": [
+"2022-10-27-4"
+]
+},
+{
+"group": 1154,
+"ids": [
+"2021-12-02-3"
+]
+},
+{
+"group": 1155,
+"ids": [
+"2022-09-15-1"
+]
+},
+{
+"group": 1156,
+"ids": [
+"2022-03-24-3"
+]
+},
+{
+"group": 1157,
+"ids": [
+"2023-09-14-8"
+]
+},
+{
+"group": 1158,
+"ids": [
+"2021-10-28-14"
+]
+},
+{
+"group": 1159,
+"ids": [
+"2020-06-25-81"
+]
+},
+{
+"group": 1160,
+"ids": [
+"2023-03-23-53"
+]
+},
+{
+"group": 1161,
+"ids": [
+"2021-12-02-57"
+]
+},
+{
+"group": 1162,
+"ids": [
+"2021-09-09-56",
+"2021-04-22-52"
+],
+"verdict": "OK",
+"note": "EGiB 2021 § 9 ust. 3 pkt 7 lit. d – Tp bez zmian"
+},
+{
+"group": 1163,
+"ids": [
+"2021-03-18-4"
+]
+},
+{
+"group": 1164,
+"ids": [
+"2023-11-30-53"
+]
+},
+{
+"group": 1165,
+"ids": [
+"2023-06-22-73",
+"2021-03-18-51"
+]
+},
+{
+"group": 1166,
+"ids": [
+"2022-06-02-38"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1167,
+"ids": [
+"2022-06-02-35"
+]
+},
+{
+"group": 1168,
+"ids": [
+"2021-03-18-90"
+]
+},
+{
+"group": 1169,
+"ids": [
+"2022-06-02-54"
+]
+},
+{
+"group": 1170,
+"ids": [
+"2020-07-30-81"
+]
+},
+{
+"group": 1171,
+"ids": [
+"2023-09-14-42"
+]
+},
+{
+"group": 1172,
+"ids": [
+"2023-10-26-47",
+"2020-09-24-67"
+]
+},
+{
+"group": 1173,
+"ids": [
+"2022-06-02-8"
+]
+},
+{
+"group": 1174,
+"ids": [
+"2021-07-22-7"
+]
+},
+{
+"group": 1175,
+"ids": [
+"2023-09-14-88"
+]
+},
+{
+"group": 1176,
+"ids": [
+"2021-10-28-36"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1177,
+"ids": [
+"2022-07-07-40",
+"2020-07-30-71"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1178,
+"ids": [
+"2023-06-22-28"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1179,
+"ids": [
+"2021-12-02-21"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1180,
+"ids": [
+"2023-11-30-63"
+]
+},
+{
+"group": 1181,
+"ids": [
+"2022-09-15-58"
+]
+},
+{
+"group": 1182,
+"ids": [
+"2023-11-30-58"
+]
+},
+{
+"group": 1183,
+"ids": [
+"2021-10-28-60",
+"2021-09-09-61"
+]
+},
+{
+"group": 1184,
+"ids": [
+"2023-11-30-14"
+]
+},
+{
+"group": 1185,
+"ids": [
+"2022-07-07-49"
+]
+},
+{
+"group": 1186,
+"ids": [
+"2020-09-24-6"
+]
+},
+{
+"group": 1187,
+"ids": [
+"2022-06-02-62"
+],
+"verdict": "OK",
+"note": "art. 17: termin składania wniosków nie krótszy niż 21 dni – aktualne"
+},
+{
+"group": 1188,
+"ids": [
+"2021-07-22-43"
+]
+},
+{
+"group": 1189,
+"ids": [
+"2022-04-28-14"
+]
+},
+{
+"group": 1190,
+"ids": [
+"2022-10-27-60"
+]
+},
+{
+"group": 1191,
+"ids": [
+"2022-03-24-63"
+]
+},
+{
+"group": 1192,
+"ids": [
+"2021-09-09-55",
+"2021-05-27-59"
+],
+"verdict": "CHG",
+"note": "EGiB 2021 – treść mapy ewidencyjnej; odpowiedź aktualna"
+},
+{
+"group": 1193,
+"ids": [
+"2021-10-28-51"
+]
+},
+{
+"group": 1194,
+"ids": [
+"2023-09-14-50"
+]
+},
+{
+"group": 1195,
+"ids": [
+"2022-09-15-63"
+]
+},
+{
+"group": 1196,
+"ids": [
+"2023-09-14-65"
+]
+},
+{
+"group": 1197,
+"ids": [
+"2022-04-28-84"
+]
+},
+{
+"group": 1198,
+"ids": [
+"2023-09-14-37"
+]
+},
+{
+"group": 1199,
+"ids": [
+"2023-11-30-4",
+"2022-04-28-4"
+]
+},
+{
+"group": 1200,
+"ids": [
+"2022-09-15-76"
+]
+},
+{
+"group": 1201,
+"ids": [
+"2021-03-18-12"
+],
+"verdict": "CHG",
+"note": "typ siedliskowy nadal w planie urządzenia lasu, ale nowe rozporządzenie o wycenie (§ 22) nie używa go do wskaźnika szacunkowego"
+},
+{
+"group": 1202,
+"ids": [
+"2022-07-07-30"
+]
+},
+{
+"group": 1203,
+"ids": [
+"2022-04-28-58"
+]
+},
+{
+"group": 1204,
+"ids": [
+"2023-04-20-59"
+],
+"verdict": "CHG",
+"note": "art. 14: dodatkowo obywatelska inicjatywa uchwałodawcza – odpowiedzi aktualne"
+},
+{
+"group": 1205,
+"ids": [
+"2023-06-22-8"
+]
+},
+{
+"group": 1206,
+"ids": [
+"2022-12-01-86",
+"2021-12-02-5",
+"2021-06-24-7"
+]
+},
+{
+"group": 1207,
+"ids": [
+"2023-03-23-78",
+"2020-06-25-18"
+]
+},
+{
+"group": 1208,
+"ids": [
+"2023-04-20-10"
+]
+},
+{
+"group": 1209,
+"ids": [
+"2021-06-24-40"
+]
+},
+{
+"group": 1210,
+"ids": [
+"2022-09-15-52"
+]
+},
+{
+"group": 1211,
+"ids": [
+"2022-10-27-49"
+]
+},
+{
+"group": 1212,
+"ids": [
+"2020-07-30-6"
+]
+},
+{
+"group": 1213,
+"ids": [
+"2022-03-24-52"
+]
+},
+{
+"group": 1214,
+"ids": [
+"2023-03-23-37"
+]
+},
+{
+"group": 1215,
+"ids": [
+"2022-03-24-69",
+"2021-10-28-74",
+"2021-06-24-76"
+]
+},
+{
+"group": 1216,
+"ids": [
+"2021-05-27-69",
+"2021-04-22-74",
+"2020-06-25-39"
+]
+},
+{
+"group": 1217,
+"ids": [
+"2023-03-23-64"
+]
+},
+{
+"group": 1218,
+"ids": [
+"2022-09-15-49"
+]
+},
+{
+"group": 1219,
+"ids": [
+"2023-04-20-8",
+"2022-04-28-5"
+]
+},
+{
+"group": 1220,
+"ids": [
+"2020-09-24-27"
+]
+},
+{
+"group": 1221,
+"ids": [
+"2022-06-02-24"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1222,
+"ids": [
+"2021-06-24-18"
+]
+},
+{
+"group": 1223,
+"ids": [
+"2022-10-27-18"
+]
+},
+{
+"group": 1224,
+"ids": [
+"2023-03-23-55",
+"2022-07-07-57"
+],
+"verdict": "CHG",
+"note": "przeznaczenie terenu ustala plan miejscowy; studium utraciło moc (dziś plan ogólny wyznacza strefy planistyczne)"
+},
+{
+"group": 1225,
+"ids": [
+"2021-10-28-9"
+]
+},
+{
+"group": 1226,
+"ids": [
+"2022-10-27-61"
+]
+},
+{
+"group": 1227,
+"ids": [
+"2023-09-14-25"
+]
+},
+{
+"group": 1228,
+"ids": [
+"2023-09-14-75"
+]
+},
+{
+"group": 1229,
+"ids": [
+"2021-10-28-84"
+]
+},
+{
+"group": 1230,
+"ids": [
+"2021-04-22-68"
+]
+},
+{
+"group": 1231,
+"ids": [
+"2022-10-27-66",
+"2022-03-24-55"
+]
+},
+{
+"group": 1232,
+"ids": [
+"2022-07-07-55"
+]
+},
+{
+"group": 1233,
+"ids": [
+"2021-12-02-36"
+]
+},
+{
+"group": 1234,
+"ids": [
+"2021-09-09-89"
+]
+},
+{
+"group": 1235,
+"ids": [
+"2021-05-27-55"
+]
+},
+{
+"group": 1236,
+"ids": [
+"2021-03-18-27"
+]
+},
+{
+"group": 1237,
+"ids": [
+"2020-09-24-13"
+]
+},
+{
+"group": 1238,
+"ids": [
+"2022-06-02-77"
+]
+},
+{
+"group": 1239,
+"ids": [
+"2021-04-22-64"
+]
+},
+{
+"group": 1240,
+"ids": [
+"2023-09-14-63"
+]
+},
+{
+"group": 1241,
+"ids": [
+"2021-10-28-73"
+]
+},
+{
+"group": 1242,
+"ids": [
+"2021-09-09-67",
+"2021-06-24-66"
+]
+},
+{
+"group": 1243,
+"ids": [
+"2023-10-26-70",
+"2023-03-23-65"
+]
+},
+{
+"group": 1244,
+"ids": [
+"2022-03-24-67",
+"2021-05-27-76"
+]
+},
+{
+"group": 1245,
+"ids": [
+"2023-11-30-16"
+]
+},
+{
+"group": 1246,
+"ids": [
+"2021-04-22-54"
+],
+"verdict": "CHG",
+"note": "tryb planistyczny po reformie: konsultacje społeczne (art. 8g–8k); uwagi może zgłosić każdy – sens odpowiedzi aktualny"
+},
+{
+"group": 1247,
+"ids": [
+"2021-09-09-54"
+]
+},
+{
+"group": 1248,
+"ids": [
+"2021-09-09-74"
+]
+},
+{
+"group": 1249,
+"ids": [
+"2022-12-01-47"
+]
+},
+{
+"group": 1250,
+"ids": [
+"2022-04-28-81"
+]
+},
+{
+"group": 1251,
+"ids": [
+"2022-06-02-40"
+]
+},
+{
+"group": 1252,
+"ids": [
+"2022-04-28-78"
+]
+},
+{
+"group": 1253,
+"ids": [
+"2021-10-28-1",
+"2021-06-24-10"
+]
+},
+{
+"group": 1254,
+"ids": [
+"2020-06-25-46"
+]
+},
+{
+"group": 1255,
+"ids": [
+"2021-09-09-70",
+"2021-06-24-74",
+"2020-07-30-45"
+]
+},
+{
+"group": 1256,
+"ids": [
+"2021-05-27-71"
+]
+},
+{
+"group": 1257,
+"ids": [
+"2022-06-02-10"
+]
+},
+{
+"group": 1258,
+"ids": [
+"2021-03-18-46"
+]
+},
+{
+"group": 1259,
+"ids": [
+"2022-07-07-34",
+"2020-07-30-68"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1260,
+"ids": [
+"2023-03-23-35"
+]
+},
+{
+"group": 1261,
+"ids": [
+"2021-06-24-24"
+]
+},
+{
+"group": 1262,
+"ids": [
+"2020-09-24-56"
+]
+},
+{
+"group": 1263,
+"ids": [
+"2023-10-26-29"
+]
+},
+{
+"group": 1264,
+"ids": [
+"2022-04-28-49"
+]
+},
+{
+"group": 1265,
+"ids": [
+"2023-04-20-80"
+]
+},
+{
+"group": 1266,
+"ids": [
+"2022-09-15-12"
+]
+},
+{
+"group": 1267,
+"ids": [
+"2023-04-20-65"
+]
+},
+{
+"group": 1268,
+"ids": [
+"2021-10-28-50",
+"2020-06-25-22"
+]
+},
+{
+"group": 1269,
+"ids": [
+"2023-06-22-60"
+]
+},
+{
+"group": 1270,
+"ids": [
+"2021-07-22-53"
+],
+"verdict": "CHG",
+"note": "EGiB 2021 § 9 ust. 4: Wm, Wp, Ws; Wsr należy do użytków rolnych – odpowiedź aktualna"
+},
+{
+"group": 1271,
+"ids": [
+"2021-04-22-57"
+],
+"verdict": "CHG",
+"note": "EGiB 2021 § 9 ust. 3: Bz i dr – zabudowane; Br – użytki rolne – odpowiedź aktualna"
+},
+{
+"group": 1272,
+"ids": [
+"2021-05-27-54"
+],
+"verdict": "CHG",
+"note": "EGiB 2021, zał. nr 1 – tereny przemysłowe Ba; podstawa: rozporządzenie z 27.07.2021"
+},
+{
+"group": 1273,
+"ids": [
+"2023-10-26-61",
+"2022-10-27-54"
+]
+},
+{
+"group": 1274,
+"ids": [
+"2021-12-02-61"
+]
+},
+{
+"group": 1275,
+"ids": [
+"2021-10-28-56"
+]
+},
+{
+"group": 1276,
+"ids": [
+"2020-09-24-47"
+],
+"verdict": "OUT",
+"note": "EGiB 2021 (§ 18): materiału ścian budynku nie wykazuje się – dziś poprawne byłoby „nie wykazuje się”. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 1277,
+"ids": [
+"2021-10-28-61"
+]
+},
+{
+"group": 1278,
+"ids": [
+"2023-06-22-68"
+]
+},
+{
+"group": 1279,
+"ids": [
+"2022-10-27-69"
+]
+},
+{
+"group": 1280,
+"ids": [
+"2021-12-02-55"
+]
+},
+{
+"group": 1281,
+"ids": [
+"2021-12-02-73"
+]
+},
+{
+"group": 1282,
+"ids": [
+"2021-09-09-63",
+"2021-07-22-70"
+]
+},
+{
+"group": 1283,
+"ids": [
+"2020-06-25-66"
+]
+},
+{
+"group": 1284,
+"ids": [
+"2021-04-22-47"
+]
+},
+{
+"group": 1285,
+"ids": [
+"2021-03-18-38"
+]
+},
+{
+"group": 1286,
+"ids": [
+"2023-03-23-79",
+"2021-09-09-81"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1287,
+"ids": [
+"2022-06-02-86"
+]
+},
+{
+"group": 1288,
+"ids": [
+"2022-12-01-79"
+]
+},
+{
+"group": 1289,
+"ids": [
+"2022-10-27-44"
+]
+},
+{
+"group": 1290,
+"ids": [
+"2022-10-27-84"
+]
+},
+{
+"group": 1291,
+"ids": [
+"2023-09-14-34",
+"2022-09-15-43"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1292,
+"ids": [
+"2021-09-09-45"
+]
+},
+{
+"group": 1293,
+"ids": [
+"2021-03-18-75"
+]
+},
+{
+"group": 1294,
+"ids": [
+"2022-12-01-38",
+"2022-04-28-37"
+]
+},
+{
+"group": 1295,
+"ids": [
+"2023-09-14-69",
+"2021-06-24-83"
+]
+},
+{
+"group": 1296,
+"ids": [
+"2020-07-30-27"
+]
+},
+{
+"group": 1297,
+"ids": [
+"2023-06-22-40"
+]
+},
+{
+"group": 1298,
+"ids": [
+"2022-12-01-46"
+]
+},
+{
+"group": 1299,
+"ids": [
+"2022-03-24-80"
+]
+},
+{
+"group": 1300,
+"ids": [
+"2021-05-27-78"
+]
+},
+{
+"group": 1301,
+"ids": [
+"2022-07-07-83",
+"2021-03-18-71"
+]
+},
+{
+"group": 1302,
+"ids": [
+"2023-03-23-77"
+]
+},
+{
+"group": 1303,
+"ids": [
+"2020-09-24-34"
+]
+},
+{
+"group": 1304,
+"ids": [
+"2023-09-14-71"
+]
+},
+{
+"group": 1305,
+"ids": [
+"2021-12-02-83"
+]
+},
+{
+"group": 1306,
+"ids": [
+"2023-09-14-83"
+]
+},
+{
+"group": 1307,
+"ids": [
+"2022-07-07-47"
+]
+},
+{
+"group": 1308,
+"ids": [
+"2021-09-09-52"
+]
+},
+{
+"group": 1309,
+"ids": [
+"2023-06-22-45"
+]
+},
+{
+"group": 1310,
+"ids": [
+"2023-11-30-77"
+]
+},
+{
+"group": 1311,
+"ids": [
+"2022-07-07-18"
+]
+},
+{
+"group": 1312,
+"ids": [
+"2023-10-26-77"
+]
+},
+{
+"group": 1313,
+"ids": [
+"2023-09-14-73"
+]
+},
+{
+"group": 1314,
+"ids": [
+"2023-11-30-9"
+]
+},
+{
+"group": 1315,
+"ids": [
+"2022-07-07-50"
+]
+},
+{
+"group": 1316,
+"ids": [
+"2021-07-22-88"
+]
+},
+{
+"group": 1317,
+"ids": [
+"2023-09-14-80"
+]
+},
+{
+"group": 1318,
+"ids": [
+"2021-04-22-46"
+]
+},
+{
+"group": 1319,
+"ids": [
+"2023-11-30-39"
+]
+},
+{
+"group": 1320,
+"ids": [
+"2022-04-28-20"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1321,
+"ids": [
+"2021-12-02-41"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1322,
+"ids": [
+"2021-09-09-90"
+]
+},
+{
+"group": 1323,
+"ids": [
+"2020-07-30-66"
+]
+},
+{
+"group": 1324,
+"ids": [
+"2022-10-27-34"
+]
+},
+{
+"group": 1325,
+"ids": [
+"2022-10-27-19"
+]
+},
+{
+"group": 1326,
+"ids": [
+"2022-07-07-71"
+]
+},
+{
+"group": 1327,
+"ids": [
+"2021-04-22-65"
+]
+},
+{
+"group": 1328,
+"ids": [
+"2023-09-14-29",
+"2022-09-15-40"
+]
+},
+{
+"group": 1329,
+"ids": [
+"2023-10-26-66"
+]
+},
+{
+"group": 1330,
+"ids": [
+"2023-09-14-56"
+]
+},
+{
+"group": 1331,
+"ids": [
+"2022-10-27-64",
+"2022-06-02-61"
+]
+},
+{
+"group": 1332,
+"ids": [
+"2023-10-26-58"
+]
+},
+{
+"group": 1333,
+"ids": [
+"2022-06-02-58"
+],
+"verdict": "OUT",
+"note": "definicja „obszaru przestrzeni publicznej” (dawny art. 2 pkt 6) uchylona reformą z 2023 r. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 1334,
+"ids": [
+"2021-06-24-19",
+"2020-09-24-28"
+],
+"verdict": "OUT",
+"note": "definicja „obszaru przestrzeni publicznej” (dawny art. 2 pkt 6) uchylona reformą z 2023 r. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 1335,
+"ids": [
+"2021-04-22-16"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1336,
+"ids": [
+"2023-06-22-19"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1337,
+"ids": [
+"2020-06-25-47"
+]
+},
+{
+"group": 1338,
+"ids": [
+"2023-09-14-23",
+"2022-10-27-31"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1339,
+"ids": [
+"2023-09-14-33"
+]
+},
+{
+"group": 1340,
+"ids": [
+"2022-07-07-90",
+"2021-03-18-82"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1341,
+"ids": [
+"2021-12-02-66",
+"2021-04-22-75"
+],
+"verdict": "CHG",
+"note": "nowe § 22 ust. 3: cena drewna z nadleśnictwa właściwego lub sąsiednich, średnia ważona z 3 lat"
+},
+{
+"group": 1342,
+"ids": [
+"2021-04-22-69"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1343,
+"ids": [
+"2020-09-24-86"
+]
+},
+{
+"group": 1344,
+"ids": [
+"2022-12-01-22"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1345,
+"ids": [
+"2021-07-22-11"
+]
+},
+{
+"group": 1346,
+"ids": [
+"2020-06-25-19"
+]
+},
+{
+"group": 1347,
+"ids": [
+"2023-03-23-39"
+]
+},
+{
+"group": 1348,
+"ids": [
+"2023-10-26-39"
+]
+},
+{
+"group": 1349,
+"ids": [
+"2021-09-09-60",
+"2021-04-22-58"
+],
+"verdict": "OUT",
+"note": "art. 154 ust. 2–3 UGN: przy braku planu miejscowego – decyzja o WZ, a przy jej braku faktyczny sposób użytkowania lub ustalenia planu ogólnego; studium usunięto. Dziś poprawna tylko C.",
+"currentKey": [
+2
+]
+},
+{
+"group": 1350,
+"ids": [
+"2022-09-15-32"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1351,
+"ids": [
+"2023-11-30-29",
+"2021-03-18-25"
+]
+},
+{
+"group": 1352,
+"ids": [
+"2023-11-30-70"
+]
+},
+{
+"group": 1353,
+"ids": [
+"2021-07-22-31"
+]
+},
+{
+"group": 1354,
+"ids": [
+"2022-10-27-32"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1355,
+"ids": [
+"2023-09-14-26"
+]
+},
+{
+"group": 1356,
+"ids": [
+"2022-10-27-83"
+]
+},
+{
+"group": 1357,
+"ids": [
+"2020-09-24-40"
+]
+},
+{
+"group": 1358,
+"ids": [
+"2021-12-02-29"
+]
+},
+{
+"group": 1359,
+"ids": [
+"2021-10-28-23",
+"2021-04-22-32"
+]
+},
+{
+"group": 1360,
+"ids": [
+"2023-03-23-86"
+]
+},
+{
+"group": 1361,
+"ids": [
+"2020-07-30-65"
+]
+},
+{
+"group": 1362,
+"ids": [
+"2021-10-28-42",
+"2020-06-25-26"
+]
+},
+{
+"group": 1363,
+"ids": [
+"2021-06-24-61"
+]
+},
+{
+"group": 1364,
+"ids": [
+"2022-03-24-62"
+]
+},
+{
+"group": 1365,
+"ids": [
+"2021-10-28-55",
+"2021-05-27-62"
+]
+},
+{
+"group": 1366,
+"ids": [
+"2022-12-01-77"
+]
+},
+{
+"group": 1367,
+"ids": [
+"2021-10-28-63"
+]
+},
+{
+"group": 1368,
+"ids": [
+"2021-12-02-7"
+]
+},
+{
+"group": 1369,
+"ids": [
+"2020-06-25-74"
+]
+},
+{
+"group": 1370,
+"ids": [
+"2022-12-01-53"
+],
+"verdict": "OUT",
+"note": "art. 7 ust. 2 pkt 1 ustawy o ochronie gruntów: zgoda ministra dla użytków rolnych kl. I–III bez progu 0,5 ha (wyjątek – obszar uzupełnienia zabudowy, ust. 2a); wyłączenie miast (art. 5b) uchylone. Dziś zgoda dotyczy kl. I–III także w miastach i niezależnie od powierzchni – poprawne A i B.",
+"currentKey": [
+0,
+1
+]
+},
+{
+"group": 1371,
+"ids": [
+"2021-07-22-68"
+],
+"verdict": "OUT",
+"note": "art. 7 ust. 2 pkt 1 ustawy o ochronie gruntów: zgoda ministra dla użytków rolnych kl. I–III bez progu 0,5 ha (wyjątek – obszar uzupełnienia zabudowy, ust. 2a); wyłączenie miast (art. 5b) uchylone. Dziś poprawne A i B (zgoda także w miastach, bez progu 0,5 ha).",
+"currentKey": [
+0,
+1
+]
+},
+{
+"group": 1372,
+"ids": [
+"2023-06-22-69"
+]
+},
+{
+"group": 1373,
+"ids": [
+"2021-03-18-30"
+]
+},
+{
+"group": 1374,
+"ids": [
+"2022-09-15-13",
+"2022-03-24-20",
+"2020-09-24-11"
+]
+},
+{
+"group": 1375,
+"ids": [
+"2022-12-01-63"
+]
+},
+{
+"group": 1376,
+"ids": [
+"2023-03-23-58",
+"2020-07-30-89"
+]
+},
+{
+"group": 1377,
+"ids": [
+"2022-10-27-58"
+]
+},
+{
+"group": 1378,
+"ids": [
+"2021-10-28-86",
+"2021-05-27-81"
+]
+},
+{
+"group": 1379,
+"ids": [
+"2021-06-24-80"
+]
+},
+{
+"group": 1380,
+"ids": [
+"2021-05-27-58"
+]
+},
+{
+"group": 1381,
+"ids": [
+"2022-07-07-23"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1382,
+"ids": [
+"2021-03-18-35"
+]
+},
+{
+"group": 1383,
+"ids": [
+"2023-10-26-36",
+"2023-03-23-25"
+]
+},
+{
+"group": 1384,
+"ids": [
+"2022-03-24-60",
+"2021-10-28-58"
+]
+},
+{
+"group": 1385,
+"ids": [
+"2022-04-28-17"
+]
+},
+{
+"group": 1386,
+"ids": [
+"2023-10-26-13"
+]
+},
+{
+"group": 1387,
+"ids": [
+"2021-12-02-75"
+]
+},
+{
+"group": 1388,
+"ids": [
+"2021-10-28-71"
+]
+},
+{
+"group": 1389,
+"ids": [
+"2021-07-22-6",
+"2021-06-24-9",
+"2020-07-30-56"
+]
+},
+{
+"group": 1390,
+"ids": [
+"2021-12-02-1"
+]
+},
+{
+"group": 1391,
+"ids": [
+"2022-07-07-4"
+]
+},
+{
+"group": 1392,
+"ids": [
+"2020-07-30-2"
+]
+},
+{
+"group": 1393,
+"ids": [
+"2023-04-20-6"
+]
+},
+{
+"group": 1394,
+"ids": [
+"2022-12-01-8"
+]
+},
+{
+"group": 1395,
+"ids": [
+"2023-11-30-6"
+]
+},
+{
+"group": 1396,
+"ids": [
+"2023-10-26-2"
+]
+},
+{
+"group": 1397,
+"ids": [
+"2022-07-07-10"
+]
+},
+{
+"group": 1398,
+"ids": [
+"2021-04-22-8"
+]
+},
+{
+"group": 1399,
+"ids": [
+"2022-10-27-5"
+]
+},
+{
+"group": 1400,
+"ids": [
+"2021-07-22-5",
+"2021-03-18-23"
+]
+},
+{
+"group": 1401,
+"ids": [
+"2020-09-24-3"
+]
+},
+{
+"group": 1402,
+"ids": [
+"2023-06-22-1"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1403,
+"ids": [
+"2022-12-01-1"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1404,
+"ids": [
+"2022-07-07-8"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1405,
+"ids": [
+"2021-10-28-11"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1406,
+"ids": [
+"2023-10-26-5"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1407,
+"ids": [
+"2023-10-26-6"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1408,
+"ids": [
+"2023-09-14-5"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1409,
+"ids": [
+"2023-06-22-6",
+"2022-10-27-7"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1410,
+"ids": [
+"2023-06-22-7"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1411,
+"ids": [
+"2023-04-20-7"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1412,
+"ids": [
+"2023-03-23-1"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1413,
+"ids": [
+"2022-12-01-7"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1414,
+"ids": [
+"2022-10-27-2"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1415,
+"ids": [
+"2022-10-27-3"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1416,
+"ids": [
+"2022-07-07-1"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1417,
+"ids": [
+"2022-07-07-3",
+"2021-10-28-6",
+"2020-06-25-6"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1418,
+"ids": [
+"2022-07-07-7"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1419,
+"ids": [
+"2022-06-02-5",
+"2021-10-28-4"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1420,
+"ids": [
+"2022-06-02-7"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1421,
+"ids": [
+"2022-04-28-1"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1422,
+"ids": [
+"2022-03-24-1"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1423,
+"ids": [
+"2022-03-24-5"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1424,
+"ids": [
+"2021-12-02-14",
+"2020-06-25-45"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1425,
+"ids": [
+"2021-10-28-5",
+"2021-06-24-6",
+"2021-05-27-1",
+"2021-04-22-2"
+]
+},
+{
+"group": 1426,
+"ids": [
+"2021-07-22-2"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1427,
+"ids": [
+"2021-04-22-1"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1428,
+"ids": [
+"2021-04-22-4"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1429,
+"ids": [
+"2021-04-22-5"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1430,
+"ids": [
+"2021-03-18-60"
+]
+},
+{
+"group": 1431,
+"ids": [
+"2021-03-18-73"
+]
+},
+{
+"group": 1432,
+"ids": [
+"2020-09-24-58"
+]
+},
+{
+"group": 1433,
+"ids": [
+"2020-06-25-12"
+]
+},
+{
+"group": 1434,
+"ids": [
+"2022-10-27-8"
+]
+},
+{
+"group": 1435,
+"ids": [
+"2020-09-24-54"
+]
+},
+{
+"group": 1436,
+"ids": [
+"2022-09-15-86"
+]
+},
+{
+"group": 1437,
+"ids": [
+"2022-06-02-78"
+]
+},
+{
+"group": 1438,
+"ids": [
+"2023-11-30-75",
+"2023-10-26-7"
+]
+},
+{
+"group": 1439,
+"ids": [
+"2022-12-01-2"
+]
+},
+{
+"group": 1440,
+"ids": [
+"2022-12-01-76"
+]
+},
+{
+"group": 1441,
+"ids": [
+"2021-03-18-9"
+]
+},
+{
+"group": 1442,
+"ids": [
+"2022-07-07-21"
+]
+},
+{
+"group": 1443,
+"ids": [
+"2021-04-22-36"
+]
+},
+{
+"group": 1444,
+"ids": [
+"2022-03-24-25"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1445,
+"ids": [
+"2023-09-14-21"
+]
+},
+{
+"group": 1446,
+"ids": [
+"2022-03-24-38"
+]
+},
+{
+"group": 1447,
+"ids": [
+"2020-06-25-15"
+]
+},
+{
+"group": 1448,
+"ids": [
+"2021-03-18-15"
+]
+},
+{
+"group": 1449,
+"ids": [
+"2022-06-02-12"
+]
+},
+{
+"group": 1450,
+"ids": [
+"2021-05-27-73"
+]
+},
+{
+"group": 1451,
+"ids": [
+"2022-04-28-54"
+]
+},
+{
+"group": 1452,
+"ids": [
+"2021-03-18-6"
+]
+},
+{
+"group": 1453,
+"ids": [
+"2022-12-01-75",
+"2022-04-28-69"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1454,
+"ids": [
+"2023-04-20-31"
+]
+},
+{
+"group": 1455,
+"ids": [
+"2022-09-15-28"
+]
+},
+{
+"group": 1456,
+"ids": [
+"2022-12-01-20"
+]
+},
+{
+"group": 1457,
+"ids": [
+"2020-06-25-67"
+]
+},
+{
+"group": 1458,
+"ids": [
+"2023-06-22-78"
+]
+},
+{
+"group": 1459,
+"ids": [
+"2021-12-02-80"
+]
+},
+{
+"group": 1460,
+"ids": [
+"2021-03-18-58"
+]
+},
+{
+"group": 1461,
+"ids": [
+"2021-12-02-23"
+]
+},
+{
+"group": 1462,
+"ids": [
+"2021-10-28-29",
+"2021-06-24-38",
+"2021-03-18-55"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1463,
+"ids": [
+"2023-06-22-35",
+"2020-06-25-55"
+]
+},
+{
+"group": 1464,
+"ids": [
+"2021-10-28-37"
+]
+},
+{
+"group": 1465,
+"ids": [
+"2021-04-22-24"
+]
+},
+{
+"group": 1466,
+"ids": [
+"2020-09-24-64"
+]
+},
+{
+"group": 1467,
+"ids": [
+"2023-10-26-37",
+"2022-06-02-39"
+]
+},
+{
+"group": 1468,
+"ids": [
+"2022-07-07-28"
+]
+},
+{
+"group": 1469,
+"ids": [
+"2022-07-07-86"
+]
+},
+{
+"group": 1470,
+"ids": [
+"2020-07-30-59"
+]
+},
+{
+"group": 1471,
+"ids": [
+"2022-03-24-36"
+],
+"verdict": "CHG",
+"note": "nowe § 80: pełne złote; zaokrąglenie do dziesiątek, setek lub tysięcy zł"
+},
+{
+"group": 1472,
+"ids": [
+"2023-09-14-19"
+]
+},
+{
+"group": 1473,
+"ids": [
+"2023-04-20-15"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1474,
+"ids": [
+"2021-06-24-39"
+],
+"verdict": "CHG",
+"note": "nowe § 80: pełne złote; zaokrąglenie do dziesiątek, setek lub tysięcy zł"
+},
+{
+"group": 1475,
+"ids": [
+"2022-10-27-23"
+]
+},
+{
+"group": 1476,
+"ids": [
+"2023-04-20-42"
+]
+},
+{
+"group": 1477,
+"ids": [
+"2023-03-23-18"
+]
+},
+{
+"group": 1478,
+"ids": [
+"2021-05-27-31",
+"2021-04-22-34",
+"2020-07-30-57"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1479,
+"ids": [
+"2021-10-28-32"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1480,
+"ids": [
+"2022-10-27-90"
+]
+},
+{
+"group": 1481,
+"ids": [
+"2022-10-27-9",
+"2022-04-28-19"
+]
+},
+{
+"group": 1482,
+"ids": [
+"2020-07-30-55"
+]
+},
+{
+"group": 1483,
+"ids": [
+"2022-07-07-36"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1484,
+"ids": [
+"2020-07-30-74"
+]
+},
+{
+"group": 1485,
+"ids": [
+"2021-03-18-70"
+]
+},
+{
+"group": 1486,
+"ids": [
+"2023-03-23-31"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1487,
+"ids": [
+"2022-04-28-34"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1488,
+"ids": [
+"2020-07-30-29"
+]
+},
+{
+"group": 1489,
+"ids": [
+"2022-03-24-34"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1490,
+"ids": [
+"2020-06-25-30"
+]
+},
+{
+"group": 1491,
+"ids": [
+"2021-04-22-38"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1492,
+"ids": [
+"2023-06-22-22"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1493,
+"ids": [
+"2020-07-30-58"
+]
+},
+{
+"group": 1494,
+"ids": [
+"2022-12-01-24",
+"2020-06-25-50"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1495,
+"ids": [
+"2022-03-24-43"
+]
+},
+{
+"group": 1496,
+"ids": [
+"2023-03-23-17"
+]
+},
+{
+"group": 1497,
+"ids": [
+"2022-07-07-79"
+]
+},
+{
+"group": 1498,
+"ids": [
+"2023-04-20-32",
+"2021-12-02-42"
+]
+},
+{
+"group": 1499,
+"ids": [
+"2022-09-15-89"
+]
+},
+{
+"group": 1500,
+"ids": [
+"2021-03-18-16"
+]
+},
+{
+"group": 1501,
+"ids": [
+"2023-04-20-87",
+"2021-12-02-17"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1502,
+"ids": [
+"2021-09-09-10"
+]
+},
+{
+"group": 1503,
+"ids": [
+"2020-09-24-38"
+]
+},
+{
+"group": 1504,
+"ids": [
+"2023-11-30-38",
+"2020-07-30-82"
+]
+},
+{
+"group": 1505,
+"ids": [
+"2023-09-14-87",
+"2021-05-27-41",
+"2020-06-25-28"
+]
+},
+{
+"group": 1506,
+"ids": [
+"2022-12-01-33"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1507,
+"ids": [
+"2022-09-15-33",
+"2021-09-09-82",
+"2020-06-25-48"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1508,
+"ids": [
+"2022-06-02-87"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1509,
+"ids": [
+"2022-03-24-89"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1510,
+"ids": [
+"2021-10-28-35"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1511,
+"ids": [
+"2022-04-28-66"
+]
+},
+{
+"group": 1512,
+"ids": [
+"2023-04-20-20",
+"2022-09-15-38",
+"2022-03-24-32",
+"2021-12-02-38",
+"2020-06-25-49"
+]
+},
+{
+"group": 1513,
+"ids": [
+"2022-07-07-24"
+],
+"verdict": "OUT",
+"note": "nowe § 21: wskaźnik szacunkowy gruntu rolnego = 10× średni krajowy plon żyta (GUS); klasa i okręg wpływają przez współczynnik korekcyjny Wkbo, rodzaj użytku też tylko przez Wkbo. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 1514,
+"ids": [
+"2020-06-25-34"
+],
+"verdict": "OUT",
+"note": "nowe § 21: wskaźnik szacunkowy = 10× krajowy plon żyta (GUS); rodzaj użytku działa przez współczynnik korekcyjny. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 1515,
+"ids": [
+"2021-07-22-13"
+],
+"verdict": "OUT",
+"note": "nowe § 21: wskaźnik szacunkowy = 10× średni krajowy plon żyta (GUS); klasa bonitacyjna i rodzaj użytku działają przez współczynnik korekcyjny Wkbo (§ 23, zał. 1). Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 1516,
+"ids": [
+"2023-04-20-12"
+]
+},
+{
+"group": 1517,
+"ids": [
+"2022-10-27-25"
+]
+},
+{
+"group": 1518,
+"ids": [
+"2022-07-07-17"
+]
+},
+{
+"group": 1519,
+"ids": [
+"2023-06-22-74"
+]
+},
+{
+"group": 1520,
+"ids": [
+"2022-04-28-13"
+]
+},
+{
+"group": 1521,
+"ids": [
+"2023-04-20-52"
+],
+"verdict": "CHG",
+"note": "art. 7 ust. 2a ustawy o ochronie gruntów: wyjątek dla obszaru uzupełnienia zabudowy; zasada (zgoda ministra) aktualna"
+},
+{
+"group": 1522,
+"ids": [
+"2022-09-15-2",
+"2021-05-27-5",
+"2021-04-22-7"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1523,
+"ids": [
+"2023-03-23-74"
+]
+},
+{
+"group": 1524,
+"ids": [
+"2021-10-28-70"
+]
+},
+{
+"group": 1525,
+"ids": [
+"2023-04-20-71"
+]
+},
+{
+"group": 1526,
+"ids": [
+"2022-10-27-6"
+]
+},
+{
+"group": 1527,
+"ids": [
+"2020-07-30-60"
+]
+},
+{
+"group": 1528,
+"ids": [
+"2023-06-22-59",
+"2022-07-07-65",
+"2022-04-28-86",
+"2021-03-18-65"
+]
+},
+{
+"group": 1529,
+"ids": [
+"2020-06-25-17"
+]
+},
+{
+"group": 1530,
+"ids": [
+"2023-09-14-3"
+]
+},
+{
+"group": 1531,
+"ids": [
+"2022-06-02-3"
+]
+},
+{
+"group": 1532,
+"ids": [
+"2021-05-27-3"
+]
+},
+{
+"group": 1533,
+"ids": [
+"2023-11-30-2",
+"2023-06-22-2"
+]
+},
+{
+"group": 1534,
+"ids": [
+"2023-04-20-76"
+]
+},
+{
+"group": 1535,
+"ids": [
+"2023-03-23-8",
+"2022-09-15-5"
+]
+},
+{
+"group": 1536,
+"ids": [
+"2021-09-09-2",
+"2021-07-22-4"
+]
+},
+{
+"group": 1537,
+"ids": [
+"2023-03-23-12",
+"2020-09-24-37"
+]
+},
+{
+"group": 1538,
+"ids": [
+"2022-03-24-7"
+]
+},
+{
+"group": 1539,
+"ids": [
+"2023-03-23-82"
+]
+},
+{
+"group": 1540,
+"ids": [
+"2022-12-01-68",
+"2022-04-28-62"
+]
+},
+{
+"group": 1541,
+"ids": [
+"2021-04-22-67"
+]
+},
+{
+"group": 1542,
+"ids": [
+"2021-09-09-53",
+"2021-05-27-60"
+]
+},
+{
+"group": 1543,
+"ids": [
+"2021-09-09-43",
+"2021-06-24-49"
+]
+},
+{
+"group": 1544,
+"ids": [
+"2021-03-18-80"
+]
+},
+{
+"group": 1545,
+"ids": [
+"2022-10-27-89"
+]
+},
+{
+"group": 1546,
+"ids": [
+"2021-07-22-45"
+],
+"verdict": "CHG",
+"note": "EGiB 2021, zał. nr 1 – kryteria sadu; podstawa: rozporządzenie z 27.07.2021"
+},
+{
+"group": 1547,
+"ids": [
+"2022-12-01-73"
+]
+},
+{
+"group": 1548,
+"ids": [
+"2023-11-30-25",
+"2021-03-18-1"
+]
+},
+{
+"group": 1549,
+"ids": [
+"2022-03-24-12"
+]
+},
+{
+"group": 1550,
+"ids": [
+"2023-06-22-72",
+"2021-10-28-13"
+],
+"verdict": "OUT",
+"note": "nowe § 22: wskaźnik dla lasów zależy od wieku rębności, głównego gatunku lasotwórczego i klasy bonitacyjnej drzewostanu – nie od typu siedliskowego. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 1551,
+"ids": [
+"2022-04-28-74"
+],
+"verdict": "OUT",
+"note": "nowe § 22: wskaźnik dla lasów zależy od wieku rębności, głównego gatunku lasotwórczego i klasy bonitacyjnej drzewostanu – nie od typu siedliskowego. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 1552,
+"ids": [
+"2021-05-27-72",
+"2020-09-24-39"
+],
+"verdict": "OUT",
+"note": "nowe § 22: wskaźnik dla lasów zależy od wieku rębności, głównego gatunku lasotwórczego i klasy bonitacyjnej drzewostanu – nie od typu siedliskowego. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 1553,
+"ids": [
+"2023-06-22-63"
+],
+"verdict": "CHG",
+"note": "nowy mechanizm: reguły dla stawów, sadów, gruntów zabudowanych i zadrzewień śródpolnych przeniesiono do współczynnika korekcyjnego Wkbo (zał. 1 rozporządzenia z 2023 r.); liczby z treści pytania ilustrują dawną tabelę wskaźników"
+},
+{
+"group": 1554,
+"ids": [
+"2022-10-27-30"
+],
+"verdict": "CHG",
+"note": "nowy mechanizm: reguły dla stawów, sadów, gruntów zabudowanych i zadrzewień śródpolnych przeniesiono do współczynnika korekcyjnego Wkbo (zał. 1 rozporządzenia z 2023 r.); liczby z treści pytania ilustrują dawną tabelę wskaźników"
+},
+{
+"group": 1555,
+"ids": [
+"2020-07-30-3"
+],
+"verdict": "CHG",
+"note": "reguła zadrzewień śródpolnych przeniesiona do współczynnika korekcyjnego (zał. 1 do rozporządzenia z 2023 r.)"
+},
+{
+"group": 1556,
+"ids": [
+"2022-09-15-31"
+],
+"verdict": "CHG",
+"note": "nowy mechanizm: reguły dla stawów, sadów, gruntów zabudowanych i zadrzewień śródpolnych przeniesiono do współczynnika korekcyjnego Wkbo (zał. 1 rozporządzenia z 2023 r.); liczby z treści pytania ilustrują dawną tabelę wskaźników"
+},
+{
+"group": 1557,
+"ids": [
+"2023-10-26-89"
+]
+},
+{
+"group": 1558,
+"ids": [
+"2021-09-09-66",
+"2021-07-22-64"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1559,
+"ids": [
+"2021-10-28-31",
+"2021-05-27-90"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1560,
+"ids": [
+"2020-09-24-45"
+]
+},
+{
+"group": 1561,
+"ids": [
+"2022-09-15-27"
+],
+"verdict": "CHG",
+"note": "nowy mechanizm: reguły dla stawów, sadów, gruntów zabudowanych i zadrzewień śródpolnych przeniesiono do współczynnika korekcyjnego Wkbo (zał. 1 rozporządzenia z 2023 r.); liczby z treści pytania ilustrują dawną tabelę wskaźników"
+},
+{
+"group": 1562,
+"ids": [
+"2021-05-27-75"
+],
+"verdict": "OUT",
+"note": "nowe § 21: wskaźnik szacunkowy = 10× średni krajowy plon żyta (GUS); okręg podatkowy i klasa – przez współczynnik korekcyjny Wkbo. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 1563,
+"ids": [
+"2023-03-23-66"
+],
+"verdict": "CHG",
+"note": "nowy mechanizm: reguły dla stawów, sadów, gruntów zabudowanych i zadrzewień śródpolnych przeniesiono do współczynnika korekcyjnego Wkbo (zał. 1 rozporządzenia z 2023 r.); liczby z treści pytania ilustrują dawną tabelę wskaźników"
+},
+{
+"group": 1564,
+"ids": [
+"2022-12-01-67",
+"2022-06-02-73"
+],
+"verdict": "CHG",
+"note": "dziś to „współczynnik korekcyjny” (Wkbo) zależny od okręgu i klasy – jak w pytaniu 2023-10-26-74"
+},
+{
+"group": 1565,
+"ids": [
+"2021-06-24-68"
+],
+"verdict": "CHG",
+"note": "nowy mechanizm: reguły dla stawów, sadów, gruntów zabudowanych i zadrzewień śródpolnych przeniesiono do współczynnika korekcyjnego Wkbo (zał. 1 rozporządzenia z 2023 r.); liczby z treści pytania ilustrują dawną tabelę wskaźników"
+},
+{
+"group": 1566,
+"ids": [
+"2023-04-20-73",
+"2022-09-15-67"
+],
+"verdict": "OUT",
+"note": "nowe § 22: brak typu siedliskowego i okręgu podatkowego; kryteria: wiek rębności, gatunek, klasa bonitacyjna drzewostanu. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 1567,
+"ids": [
+"2023-03-23-30"
+],
+"verdict": "CHG",
+"note": "nowy mechanizm: reguły dla stawów, sadów, gruntów zabudowanych i zadrzewień śródpolnych przeniesiono do współczynnika korekcyjnego Wkbo (zał. 1 rozporządzenia z 2023 r.); liczby z treści pytania ilustrują dawną tabelę wskaźników"
+},
+{
+"group": 1568,
+"ids": [
+"2022-06-02-21"
+],
+"verdict": "CHG",
+"note": "nowy mechanizm: reguły dla stawów, sadów, gruntów zabudowanych i zadrzewień śródpolnych przeniesiono do współczynnika korekcyjnego Wkbo (zał. 1 rozporządzenia z 2023 r.); liczby z treści pytania ilustrują dawną tabelę wskaźników"
+},
+{
+"group": 1569,
+"ids": [
+"2022-04-28-42",
+"2021-09-09-69",
+"2021-06-24-67"
+],
+"verdict": "CHG",
+"note": "nowy mechanizm: reguły dla stawów, sadów, gruntów zabudowanych i zadrzewień śródpolnych przeniesiono do współczynnika korekcyjnego Wkbo (zał. 1 rozporządzenia z 2023 r.); liczby z treści pytania ilustrują dawną tabelę wskaźników"
+},
+{
+"group": 1570,
+"ids": [
+"2021-09-09-64"
+],
+"verdict": "CHG",
+"note": "nowy mechanizm: reguły dla stawów, sadów, gruntów zabudowanych i zadrzewień śródpolnych przeniesiono do współczynnika korekcyjnego Wkbo (zał. 1 rozporządzenia z 2023 r.); liczby z treści pytania ilustrują dawną tabelę wskaźników"
+},
+{
+"group": 1571,
+"ids": [
+"2020-09-24-46"
+],
+"verdict": "CHG",
+"note": "reguła zadrzewień śródpolnych przeniesiona do współczynnika korekcyjnego (zał. 1 do rozporządzenia z 2023 r.)"
+},
+{
+"group": 1572,
+"ids": [
+"2022-12-01-32"
+],
+"verdict": "CHG",
+"note": "nowy mechanizm: reguły dla stawów, sadów, gruntów zabudowanych i zadrzewień śródpolnych przeniesiono do współczynnika korekcyjnego Wkbo (zał. 1 rozporządzenia z 2023 r.); liczby z treści pytania ilustrują dawną tabelę wskaźników"
+},
+{
+"group": 1573,
+"ids": [
+"2021-03-18-29"
+],
+"verdict": "OUT",
+"note": "nowe § 22: wskaźnik dla lasów zależy od wieku rębności, gatunku i klasy bonitacyjnej drzewostanu (nie od typu siedliskowego ani okręgu). Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 1574,
+"ids": [
+"2022-10-27-26",
+"2022-06-02-31"
+],
+"verdict": "OUT",
+"note": "nowe § 21: wskaźnik szacunkowy = 10× średni krajowy plon żyta (GUS); rodzaj użytku – przez współczynnik korekcyjny Wkbo. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 1575,
+"ids": [
+"2022-03-24-26"
+],
+"verdict": "OUT",
+"note": "dziś wskaźnik wynika z danych GUS (§ 21), a współczynniki korekcyjne podaje zał. 1 do rozporządzenia MRiT z 2023 r. (nie RM). Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 1576,
+"ids": [
+"2023-03-23-70"
+],
+"verdict": "CHG",
+"note": "nowy mechanizm: reguły dla stawów, sadów, gruntów zabudowanych i zadrzewień śródpolnych przeniesiono do współczynnika korekcyjnego Wkbo (zał. 1 rozporządzenia z 2023 r.); liczby z treści pytania ilustrują dawną tabelę wskaźników"
+},
+{
+"group": 1577,
+"ids": [
+"2021-10-28-75",
+"2021-07-22-65"
+],
+"verdict": "CHG",
+"note": "nowy mechanizm: reguły dla stawów, sadów, gruntów zabudowanych i zadrzewień śródpolnych przeniesiono do współczynnika korekcyjnego Wkbo (zał. 1 rozporządzenia z 2023 r.); liczby z treści pytania ilustrują dawną tabelę wskaźników"
+},
+{
+"group": 1578,
+"ids": [
+"2021-03-18-43"
+],
+"verdict": "CHG",
+"note": "grunty rolne zabudowane – współczynnik jak dla kl. I gruntów ornych (zał. 1 do rozporządzenia z 2023 r.)"
+},
+{
+"group": 1579,
+"ids": [
+"2021-05-27-29"
+],
+"verdict": "CHG",
+"note": "nowy mechanizm: reguły dla stawów, sadów, gruntów zabudowanych i zadrzewień śródpolnych przeniesiono do współczynnika korekcyjnego Wkbo (zał. 1 rozporządzenia z 2023 r.); liczby z treści pytania ilustrują dawną tabelę wskaźników"
+},
+{
+"group": 1580,
+"ids": [
+"2021-12-02-81"
+]
+},
+{
+"group": 1581,
+"ids": [
+"2021-07-22-86"
+]
+},
+{
+"group": 1582,
+"ids": [
+"2023-11-30-15"
+]
+},
+{
+"group": 1583,
+"ids": [
+"2020-06-25-63"
+]
+},
+{
+"group": 1584,
+"ids": [
+"2022-06-02-48",
+"2021-04-22-44"
+]
+},
+{
+"group": 1585,
+"ids": [
+"2020-09-24-10"
+]
+},
+{
+"group": 1586,
+"ids": [
+"2021-05-27-15"
+]
+},
+{
+"group": 1587,
+"ids": [
+"2023-03-23-19"
+]
+},
+{
+"group": 1588,
+"ids": [
+"2022-09-15-16"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1589,
+"ids": [
+"2022-04-28-39",
+"2021-06-24-28"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1590,
+"ids": [
+"2022-06-02-33"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1591,
+"ids": [
+"2021-09-09-9"
+]
+},
+{
+"group": 1592,
+"ids": [
+"2021-04-22-11"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1593,
+"ids": [
+"2021-03-18-69"
+]
+},
+{
+"group": 1594,
+"ids": [
+"2023-10-26-74"
+]
+},
+{
+"group": 1595,
+"ids": [
+"2022-07-07-39"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1596,
+"ids": [
+"2021-10-28-39"
+]
+},
+{
+"group": 1597,
+"ids": [
+"2022-12-01-51"
+]
+},
+{
+"group": 1598,
+"ids": [
+"2021-04-22-25"
+]
+},
+{
+"group": 1599,
+"ids": [
+"2021-09-09-16"
+]
+},
+{
+"group": 1600,
+"ids": [
+"2023-10-26-21"
+]
+},
+{
+"group": 1601,
+"ids": [
+"2021-10-28-27"
+]
+},
+{
+"group": 1602,
+"ids": [
+"2023-09-14-86",
+"2022-12-01-25",
+"2020-06-25-89"
+]
+},
+{
+"group": 1603,
+"ids": [
+"2021-10-28-34"
+]
+},
+{
+"group": 1604,
+"ids": [
+"2022-03-24-66"
+]
+},
+{
+"group": 1605,
+"ids": [
+"2020-09-24-81"
+]
+},
+{
+"group": 1606,
+"ids": [
+"2022-10-27-68"
+]
+},
+{
+"group": 1607,
+"ids": [
+"2021-12-02-28"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1608,
+"ids": [
+"2023-09-14-15",
+"2022-12-01-31"
+]
+},
+{
+"group": 1609,
+"ids": [
+"2022-10-27-41"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1610,
+"ids": [
+"2022-07-07-33"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1611,
+"ids": [
+"2021-06-24-22"
+]
+},
+{
+"group": 1612,
+"ids": [
+"2022-03-24-37"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1613,
+"ids": [
+"2023-04-20-88"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1614,
+"ids": [
+"2022-10-27-17"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1615,
+"ids": [
+"2022-09-15-22"
+]
+},
+{
+"group": 1616,
+"ids": [
+"2020-06-25-36"
+]
+},
+{
+"group": 1617,
+"ids": [
+"2023-11-30-27",
+"2022-07-07-89",
+"2022-04-28-24"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1618,
+"ids": [
+"2021-05-27-84"
+]
+},
+{
+"group": 1619,
+"ids": [
+"2023-10-26-62"
+],
+"verdict": "CHG",
+"note": "art. 61 ust. 1: dodano warunek położenia na obszarze uzupełnienia zabudowy (pkt 1a, stosowany po wejściu w życie planu ogólnego); odpowiedź aktualna"
+},
+{
+"group": 1620,
+"ids": [
+"2021-04-22-60"
+],
+"verdict": "CHG",
+"note": "art. 61 ust. 1: dodano warunek położenia na obszarze uzupełnienia zabudowy (pkt 1a, stosowany po wejściu w życie planu ogólnego); odpowiedź aktualna"
+},
+{
+"group": 1621,
+"ids": [
+"2020-09-24-70"
+]
+},
+{
+"group": 1622,
+"ids": [
+"2022-09-15-60"
+]
+},
+{
+"group": 1623,
+"ids": [
+"2021-12-02-30"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1624,
+"ids": [
+"2022-12-01-66",
+"2022-04-28-71",
+"2021-06-24-75"
+]
+},
+{
+"group": 1625,
+"ids": [
+"2020-07-30-37"
+]
+},
+{
+"group": 1626,
+"ids": [
+"2022-07-07-64"
+]
+},
+{
+"group": 1627,
+"ids": [
+"2022-10-27-21",
+"2022-03-24-28"
+]
+},
+{
+"group": 1628,
+"ids": [
+"2020-06-25-23"
+]
+},
+{
+"group": 1629,
+"ids": [
+"2020-06-25-72"
+]
+},
+{
+"group": 1630,
+"ids": [
+"2023-06-22-13"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1631,
+"ids": [
+"2022-12-01-60",
+"2022-07-07-62"
+]
+},
+{
+"group": 1632,
+"ids": [
+"2022-04-28-35"
+]
+},
+{
+"group": 1633,
+"ids": [
+"2020-09-24-26"
+]
+},
+{
+"group": 1634,
+"ids": [
+"2020-07-30-28"
+]
+},
+{
+"group": 1635,
+"ids": [
+"2022-10-27-82"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1636,
+"ids": [
+"2021-03-18-79"
+]
+},
+{
+"group": 1637,
+"ids": [
+"2020-09-24-23"
+]
+},
+{
+"group": 1638,
+"ids": [
+"2020-06-25-5"
+]
+},
+{
+"group": 1639,
+"ids": [
+"2023-09-14-48"
+]
+},
+{
+"group": 1640,
+"ids": [
+"2022-10-27-65"
+]
+},
+{
+"group": 1641,
+"ids": [
+"2022-10-27-56"
+]
+},
+{
+"group": 1642,
+"ids": [
+"2021-09-09-25"
+]
+},
+{
+"group": 1643,
+"ids": [
+"2020-06-25-44"
+]
+},
+{
+"group": 1644,
+"ids": [
+"2020-09-24-33"
+]
+},
+{
+"group": 1645,
+"ids": [
+"2023-10-26-26",
+"2022-06-02-43"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1646,
+"ids": [
+"2023-09-14-30"
+]
+},
+{
+"group": 1647,
+"ids": [
+"2023-09-14-84"
+]
+},
+{
+"group": 1648,
+"ids": [
+"2023-04-20-85"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1649,
+"ids": [
+"2022-03-24-35",
+"2021-12-02-44",
+"2021-04-22-35",
+"2020-06-25-84"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1650,
+"ids": [
+"2022-06-02-70"
+]
+},
+{
+"group": 1651,
+"ids": [
+"2021-03-18-61"
+]
+},
+{
+"group": 1652,
+"ids": [
+"2023-04-20-75"
+]
+},
+{
+"group": 1653,
+"ids": [
+"2022-03-24-64"
+]
+},
+{
+"group": 1654,
+"ids": [
+"2020-09-24-21"
+]
+},
+{
+"group": 1655,
+"ids": [
+"2022-12-01-90"
+]
+},
+{
+"group": 1656,
+"ids": [
+"2022-12-01-14"
+]
+},
+{
+"group": 1657,
+"ids": [
+"2021-04-22-10"
+]
+},
+{
+"group": 1658,
+"ids": [
+"2023-10-26-44",
+"2022-04-28-51"
+]
+},
+{
+"group": 1659,
+"ids": [
+"2021-03-18-26"
+]
+},
+{
+"group": 1660,
+"ids": [
+"2021-09-09-47"
+]
+},
+{
+"group": 1661,
+"ids": [
+"2020-07-30-73"
+]
+},
+{
+"group": 1662,
+"ids": [
+"2022-04-28-65"
+]
+},
+{
+"group": 1663,
+"ids": [
+"2022-12-01-65"
+]
+},
+{
+"group": 1664,
+"ids": [
+"2022-07-07-84"
+]
+},
+{
+"group": 1665,
+"ids": [
+"2023-06-22-70",
+"2020-07-30-50"
+],
+"verdict": "OUT",
+"note": "nowe § 22 ust. 3: cenę drewna przyjmuje się z nadleśnictwa właściwego lub sąsiednich (średnia ważona z 3 lat); „z rynku lokalnego” już nie. Dziś poprawna tylko B.",
+"currentKey": [
+1
+]
+},
+{
+"group": 1666,
+"ids": [
+"2020-06-25-2"
+]
+},
+{
+"group": 1667,
+"ids": [
+"2021-09-09-24"
+]
+},
+{
+"group": 1668,
+"ids": [
+"2023-11-30-21",
+"2021-03-18-20"
+]
+},
+{
+"group": 1669,
+"ids": [
+"2023-09-14-38",
+"2022-06-02-52"
+]
+},
+{
+"group": 1670,
+"ids": [
+"2023-04-20-9"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1671,
+"ids": [
+"2022-06-02-9"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1672,
+"ids": [
+"2020-07-30-83"
+]
+},
+{
+"group": 1673,
+"ids": [
+"2023-10-26-84"
+]
+},
+{
+"group": 1674,
+"ids": [
+"2023-11-30-65",
+"2023-04-20-74"
+]
+},
+{
+"group": 1675,
+"ids": [
+"2021-09-09-71"
+]
+},
+{
+"group": 1676,
+"ids": [
+"2020-07-30-53"
+]
+},
+{
+"group": 1677,
+"ids": [
+"2020-07-30-75"
+]
+},
+{
+"group": 1678,
+"ids": [
+"2023-09-14-27",
+"2022-04-28-32"
+]
+},
+{
+"group": 1679,
+"ids": [
+"2020-09-24-52"
+]
+},
+{
+"group": 1680,
+"ids": [
+"2021-07-22-80",
+"2021-06-24-87"
+]
+},
+{
+"group": 1681,
+"ids": [
+"2023-06-22-77"
+]
+},
+{
+"group": 1682,
+"ids": [
+"2022-07-07-81"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1683,
+"ids": [
+"2022-07-07-58"
+]
+},
+{
+"group": 1684,
+"ids": [
+"2023-10-26-19"
+]
+},
+{
+"group": 1685,
+"ids": [
+"2021-04-22-48"
+]
+},
+{
+"group": 1686,
+"ids": [
+"2023-06-22-66"
+]
+},
+{
+"group": 1687,
+"ids": [
+"2023-11-30-50",
+"2021-07-22-74",
+"2021-05-27-63"
+]
+},
+{
+"group": 1688,
+"ids": [
+"2022-10-27-28"
+],
+"verdict": "OUT",
+"note": "nowe § 22: nie są potrzebne ani klasa gruntu z katastru, ani typ siedliskowy, ani okręg podatkowy – pytanie traci sens. Dziś żadna z tych danych nie jest wymagana – poprawne A, B i C.",
+"currentKey": [
+0,
+1,
+2
+]
+},
+{
+"group": 1689,
+"ids": [
+"2023-03-23-42"
+]
+},
+{
+"group": 1690,
+"ids": [
+"2021-03-18-64"
+]
+},
+{
+"group": 1691,
+"ids": [
+"2023-04-20-22"
+],
+"verdict": "CHG",
+"note": "rozporządzenie RM z 21.09.2004 uchylone; od 9.09.2023 rozporządzenie MRiT z 5.09.2023 w sprawie szczegółowych zasad wyceny nieruchomości (Dz.U. 2023 poz. 1832) – reguła przeniesiona, odpowiedź aktualna"
+},
+{
+"group": 1692,
+"ids": [
+"2021-12-02-32"
+]
+},
+{
+"group": 1693,
+"ids": [
+"2023-06-22-3",
+"2020-07-30-61"
+]
+},
+{
+"group": 1694,
+"ids": [
+"2022-10-27-86"
+]
+},
+{
+"group": 1695,
+"ids": [
+"2022-07-07-69"
+]
+},
+{
+"group": 1696,
+"ids": [
+"2020-07-30-41"
+]
+},
+{
+"group": 1697,
+"ids": [
+"2021-06-24-8"
+]
+},
+{
+"group": 1698,
+"ids": [
+"2022-12-01-55"
+]
+},
+{
+"group": 1699,
+"ids": [
+"2023-10-26-59",
+"2022-04-28-64"
+]
+},
+{
+"group": 1700,
+"ids": [
+"2020-07-30-62"
+],
+"verdict": "OUT",
+"note": "art. 5b (wyłączenie gruntów w granicach miast) uchylony – zgoda ministra dla kl. I–III wymagana także w miastach. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+},
+{
+"group": 1701,
+"ids": [
+"2023-06-22-57"
+]
+},
+{
+"group": 1702,
+"ids": [
+"2021-07-22-3",
+"2021-05-27-2"
+]
+},
+{
+"group": 1703,
+"ids": [
+"2023-10-26-42",
+"2022-12-01-48"
+]
+},
+{
+"group": 1704,
+"ids": [
+"2021-04-22-12"
+]
+},
+{
+"group": 1705,
+"ids": [
+"2021-09-09-6"
+]
+},
+{
+"group": 1706,
+"ids": [
+"2022-04-28-6"
+]
+},
+{
+"group": 1707,
+"ids": [
+"2022-04-28-8"
+]
+},
+{
+"group": 1708,
+"ids": [
+"2021-09-09-4",
+"2021-03-18-28"
+]
+},
+{
+"group": 1709,
+"ids": [
+"2021-03-18-76"
+]
+},
+{
+"group": 1710,
+"ids": [
+"2023-03-23-5"
+]
+},
+{
+"group": 1711,
+"ids": [
+"2022-09-15-83"
+]
+},
+{
+"group": 1712,
+"ids": [
+"2022-12-01-85"
+]
+},
+{
+"group": 1713,
+"ids": [
+"2022-07-07-32"
+],
+"verdict": "CHG",
+"note": "nowe § 5 ust. 1: brak terminu maksymalnego, ale okres badania cen dłuższy niż 2 lata wymaga uzasadnienia w operacie"
+},
+{
+"group": 1714,
+"ids": [
+"2021-10-28-15"
+]
+},
+{
+"group": 1715,
+"ids": [
+"2021-07-22-9"
+]
+},
+{
+"group": 1716,
+"ids": [
+"2020-09-24-90"
+]
+},
+{
+"group": 1717,
+"ids": [
+"2023-06-22-5"
+]
+},
+{
+"group": 1718,
+"ids": [
+"2021-06-24-3"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1719,
+"ids": [
+"2021-06-24-4"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1720,
+"ids": [
+"2020-07-30-10"
+]
+},
+{
+"group": 1721,
+"ids": [
+"2023-09-14-6"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1722,
+"ids": [
+"2021-04-22-6"
+],
+"verdict": "UNC",
+"note": "rozporządzenie MI z 12.04.2002 w sprawie warunków technicznych (budynki) – według ISAP „uznane za uchylone” z dniem 21.09.2026 (art. 66 ustawy z 19.07.2019 o zapewnianiu dostępności); w Dz.U. nie odnaleziono nowego rozporządzenia dla budynków – odpowiedź zgodna z ostatnim brzmieniem WT, stan prawny do potwierdzenia"
+},
+{
+"group": 1723,
+"ids": [
+"2023-11-30-57"
+]
+},
+{
+"group": 1724,
+"ids": [
+"2023-10-26-86"
+]
+},
+{
+"group": 1725,
+"ids": [
+"2023-03-23-81",
+"2022-07-07-78",
+"2021-10-28-88"
+]
+},
+{
+"group": 1726,
+"ids": [
+"2022-04-28-25"
+]
+},
+{
+"group": 1727,
+"ids": [
+"2021-12-02-85"
+]
+},
+{
+"group": 1728,
+"ids": [
+"2021-09-09-21"
+]
+},
+{
+"group": 1729,
+"ids": [
+"2021-05-27-83"
+]
+},
+{
+"group": 1730,
+"ids": [
+"2021-04-22-18",
+"2020-06-25-20"
+]
+},
+{
+"group": 1731,
+"ids": [
+"2020-09-24-82"
+]
+},
+{
+"group": 1732,
+"ids": [
+"2020-06-25-33"
+]
+},
+{
+"group": 1733,
+"ids": [
+"2023-09-14-52"
+]
+},
+{
+"group": 1734,
+"ids": [
+"2023-03-23-56"
+]
+},
+{
+"group": 1735,
+"ids": [
+"2023-03-23-13"
+]
+},
+{
+"group": 1736,
+"ids": [
+"2022-06-02-18"
+]
+},
+{
+"group": 1737,
+"ids": [
+"2021-09-09-84",
+"2021-06-24-78"
+]
+},
+{
+"group": 1738,
+"ids": [
+"2023-11-30-12"
+]
+},
+{
+"group": 1739,
+"ids": [
+"2023-06-22-14"
+]
+},
+{
+"group": 1740,
+"ids": [
+"2020-06-25-65"
+]
+},
+{
+"group": 1741,
+"ids": [
+"2022-12-01-15"
+]
+},
+{
+"group": 1742,
+"ids": [
+"2022-10-27-16"
+]
+},
+{
+"group": 1743,
+"ids": [
+"2020-07-30-18"
+]
+},
+{
+"group": 1744,
+"ids": [
+"2023-06-22-12"
+]
+},
+{
+"group": 1745,
+"ids": [
+"2023-03-23-14"
+]
+},
+{
+"group": 1746,
+"ids": [
+"2023-03-23-38",
+"2022-03-24-33"
+],
+"verdict": "CHG",
+"note": "standardy zawodowe nie są już ogłaszane przez ministra; dziś § 54 ust. 2 rozporządzenia z 2023 r.: rzeczoznawca wskazuje obszary ryzyka w załączniku – C aktualna co do treści"
+},
+{
+"group": 1747,
+"ids": [
+"2021-06-24-35"
+],
+"verdict": "CHG",
+"note": "standard zawodowy nie obowiązuje jako akt ministra; zasada oceny ryzyka przez wierzyciela aktualna"
+},
+{
+"group": 1748,
+"ids": [
+"2022-09-15-56"
+]
+},
+{
+"group": 1749,
+"ids": [
+"2022-09-15-74"
+]
+},
+{
+"group": 1750,
+"ids": [
+"2022-12-01-54"
+],
+"verdict": "OK",
+"note": "art. 22 ust. 2 PGiK – aktualne"
+},
+{
+"group": 1751,
+"ids": [
+"2021-03-18-74"
+]
+},
+{
+"group": 1752,
+"ids": [
+"2021-12-02-11"
+]
+},
+{
+"group": 1753,
+"ids": [
+"2020-09-24-31"
+]
+},
+{
+"group": 1754,
+"ids": [
+"2022-04-28-56"
+]
+},
+{
+"group": 1755,
+"ids": [
+"2020-06-25-75"
+]
+},
+{
+"group": 1756,
+"ids": [
+"2023-10-26-28"
+]
+},
+{
+"group": 1757,
+"ids": [
+"2021-06-24-26",
+"2020-07-30-87"
+],
+"verdict": "OUT",
+"note": "nowe § 5 ust. 6: reguła 20% dla cen przetargowych usunięta (A nieaktualna). Dziś poprawne B i C.",
+"currentKey": [
+1,
+2
+]
+},
+{
+"group": 1758,
+"ids": [
+"2021-04-22-86"
+],
+"verdict": "OUT",
+"note": "nowe § 5 ust. 6 rozporządzenia z 2023 r.: ceny przetargowe – jeżeli ich rynkowy charakter nie budzi wątpliwości; limit 20% usunięto. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
+}
+]
+}

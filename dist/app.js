@@ -92,11 +92,13 @@ let explanations = {};
 let legalBases = {},
   legalMeta = null,
   legalReady = false;
+let lawStatus = {},
+  lawMeta = null;
 let Q = [],
   sessions = [],
   byId = {},
   view = "home",
-  filter = { search: "", category: "", session: "", status: "", legal: "" },
+  filter = { search: "", category: "", session: "", status: "", legal: "", law: "" },
   page = 1,
   quiz = null,
   review = null,
@@ -161,7 +163,7 @@ function shell(content) {
     review: "Przegląd odpowiedzi",
   };
   $("#app").innerHTML =
-    `<div class="shell"><aside class="sidebar"><a href="#home" class="brand"><span class="brandmark">${I("building")}</span><span>Pracownia<br>Rzeczoznawcy<small>TWOJA PRZESTRZEŃ DO NAUKI</small></span></a><div class="navlabel">TWOJA PRACOWNIA</div><nav aria-label="Menu główne">${nav.map(([v, i, t]) => `<a href="#${v}" title="${t}" ${view === v ? 'aria-current="page"' : ""} class="${view === v ? "active" : ""}">${I(i)}<span>${t}</span>${v === "base" ? `<span class="count">${Q.length}</span>` : ""}</a>`).join("")}</nav><div class="sidebottom"><div class="sidehelp">${I("bulb")}<h3>Małe kroki. Duży postęp.</h3><p>Nawet 15 minut nauki dziennie przybliża Cię do celu.</p><button data-action="learn-config">Zacznij krótką sesję ↗</button></div><div class="local"><span class="dot"></span>Bez konta. W Twoim tempie.</div></div></aside><main class="main" id="main-content" tabindex="-1"><header class="topbar"><div class="crumb">Twoja pracownia <span>/ &nbsp; ${titles[view] || "Pulpit"}</span></div><a class="mobilebrand" href="#home">Pracownia Rzeczoznawcy</a><div class="topright">${networkBadge()}<span class="date">Przestrzeń do dobrego przygotowania</span><span class="pill">${I("shield")} Bez logowania</span><div class="toolbar"><button class="iconbtn" data-action="theme" aria-label="${preferences().theme === "dark" ? "Włącz jasny wygląd" : "Włącz tryb nocny"}" title="Zmień wygląd">${I(preferences().theme === "dark" ? "sun" : "moon")}</button><button class="iconbtn" data-action="help" aria-label="Pomoc i skróty klawiaturowe" title="Pomoc">${I("help")}</button><button class="iconbtn" data-action="settings" aria-label="Ustawienia i plan nauki" title="Ustawienia pracowni">${I("settings")}</button></div></div></header><div class="content">${!storageOK ? '<div id="storage-warn" class="notice">Zapis lokalny jest niedostępny. Zachowaj postęp, pobierając kopię w Statystykach.</div>' : ""}${content}<footer class="foot"><span>© ${new Date().getFullYear()} Pracownia Rzeczoznawcy · Wersja 1.3.0 · Ucz się świadomie.</span><span><button data-action="help">Pomoc i skróty</button> &nbsp; · &nbsp; Postęp na tym urządzeniu &nbsp; · &nbsp; <button data-action="sources">Źródła i zasady</button></span></footer></div></main></div>`;
+    `<div class="shell"><aside class="sidebar"><a href="#home" class="brand"><span class="brandmark">${I("building")}</span><span>Pracownia<br>Rzeczoznawcy<small>TWOJA PRZESTRZEŃ DO NAUKI</small></span></a><div class="navlabel">TWOJA PRACOWNIA</div><nav aria-label="Menu główne">${nav.map(([v, i, t]) => `<a href="#${v}" title="${t}" ${view === v ? 'aria-current="page"' : ""} class="${view === v ? "active" : ""}">${I(i)}<span>${t}</span>${v === "base" ? `<span class="count">${Q.length}</span>` : ""}</a>`).join("")}</nav><div class="sidebottom"><div class="sidehelp">${I("bulb")}<h3>Małe kroki. Duży postęp.</h3><p>Nawet 15 minut nauki dziennie przybliża Cię do celu.</p><button data-action="learn-config">Zacznij krótką sesję ↗</button></div><div class="local"><span class="dot"></span>Bez konta. W Twoim tempie.</div></div></aside><main class="main" id="main-content" tabindex="-1"><header class="topbar"><div class="crumb">Twoja pracownia <span>/ &nbsp; ${titles[view] || "Pulpit"}</span></div><a class="mobilebrand" href="#home">Pracownia Rzeczoznawcy</a><div class="topright">${networkBadge()}<span class="date">Przestrzeń do dobrego przygotowania</span><span class="pill">${I("shield")} Bez logowania</span><div class="toolbar"><button class="iconbtn" data-action="theme" aria-label="${preferences().theme === "dark" ? "Włącz jasny wygląd" : "Włącz tryb nocny"}" title="Zmień wygląd">${I(preferences().theme === "dark" ? "sun" : "moon")}</button><button class="iconbtn" data-action="help" aria-label="Pomoc i skróty klawiaturowe" title="Pomoc">${I("help")}</button><button class="iconbtn" data-action="settings" aria-label="Ustawienia i plan nauki" title="Ustawienia pracowni">${I("settings")}</button></div></div></header><div class="content">${!storageOK ? '<div id="storage-warn" class="notice">Zapis lokalny jest niedostępny. Zachowaj postęp, pobierając kopię w Statystykach.</div>' : ""}${content}<footer class="foot"><span>© ${new Date().getFullYear()} Pracownia Rzeczoznawcy · Wersja 1.4.0 · Ucz się świadomie.</span><span><button data-action="help">Pomoc i skróty</button> &nbsp; · &nbsp; Postęp na tym urządzeniu &nbsp; · &nbsp; <button data-action="sources">Źródła i zasady</button></span></footer></div></main></div>`;
 }
 const head = (h, p, extra = "") =>
   `<div class="pagehead"><div><h1>${h}</h1><p>${p}</p></div>${extra}</div>`;
@@ -295,6 +297,7 @@ function filtered() {
           .toLocaleLowerCase("pl-PL")
           .includes(term)) &&
       (!filter.legal || legalBases[q.id]?.status === filter.legal) &&
+      (!filter.law || lawStatus[q.id]?.status === filter.law) &&
       (!filter.status ||
         (filter.status === "new"
           ? !state.answers[q.id]
@@ -341,7 +344,15 @@ function basePage() {
         { value: "unresolved", label: "Podstawa do weryfikacji" },
       ],
       filter.legal,
-    )}</select></div><div class="sectiontitle"><p>Znaleziono ${found.length} pytań${filter.search || filter.category || filter.session || filter.status || filter.legal ? ' · <button class="textlink" data-action="clear-filters">Wyczyść filtry</button>' : ""}</p>${found.length ? `<button class="textlink" data-action="learn-filtered">Ucz się z tego wyboru ${I("arrow")}</button>` : ""}</div>${
+    )}</select>${lawMeta ? `<label class="sr" for="lawfilter">Stan prawny</label><select id="lawfilter"><option value="">Każdy stan prawny</option>${opts(
+      [
+        { value: "outdated", label: "Nieaktualne po zmianie przepisów" },
+        { value: "uncertain", label: "Stan prawny do potwierdzenia" },
+        { value: "changed", label: "Zmieniona podstawa, odpowiedź aktualna" },
+        { value: "current", label: "Bez stwierdzonych zmian" },
+      ],
+      filter.law,
+    )}</select>` : ""}</div><div class="sectiontitle"><p>Znaleziono ${found.length} pytań${filter.search || filter.category || filter.session || filter.status || filter.legal || filter.law ? ' · <button class="textlink" data-action="clear-filters">Wyczyść filtry</button>' : ""}</p>${found.length ? `<button class="textlink" data-action="learn-filtered">Ucz się z tego wyboru ${I("arrow")}</button>` : ""}</div>${
       found.length
         ? `<div class="questions">${found
             .slice((page - 1) * 12, page * 12)
@@ -358,7 +369,7 @@ function bookmarkButton(q) {
   return `<button class="iconbtn ${b ? "saved" : ""}" aria-label="${b ? "Usuń z zapisanych" : "Zapisz pytanie"}" aria-pressed="${b}" data-action="bookmark" data-value="${q.id}">${I("bookmark")}</button>`;
 }
 function qRow(q, r) {
-  return `<article class="qrow"><div class="qmeta"><span class="badge">${esc(q.category)}</span><span>${dateLabel(q.session)} · pytanie ${q.number}</span>${r !== undefined ? `<span class="badge">${r ? "Poprawnie" : "Do powtórki"}</span>` : state.answers[q.id] ? `<span>${correct(q) ? "✓ Poprawnie" : "↻ Do powtórki"}</span>` : ""}</div><h3>${esc(q.question)}</h3><div class="qrow-foot"><button class="textlink" data-action="detail" data-value="${q.id}">Zobacz odpowiedzi ${I("arrow")}</button>${bookmarkButton(q)}</div></article>`;
+  return `<article class="qrow"><div class="qmeta"><span class="badge">${esc(q.category)}</span><span>${dateLabel(q.session)} · pytanie ${q.number}</span>${lawBadge(q)}${r !== undefined ? `<span class="badge">${r ? "Poprawnie" : "Do powtórki"}</span>` : state.answers[q.id] ? `<span>${correct(q) ? "✓ Poprawnie" : "↻ Do powtórki"}</span>` : ""}</div><h3>${esc(q.question)}</h3><div class="qrow-foot"><button class="textlink" data-action="detail" data-value="${q.id}">Zobacz odpowiedzi ${I("arrow")}</button>${bookmarkButton(q)}</div></article>`;
 }
 function sourcesPage() {
   return (
@@ -515,7 +526,7 @@ function startQuiz(mode, list, limit = 20, ordered = false, wholeBase = false) {
 function markLearn(q) {
   const previousDaily = state.days[today()] || 0;
   let selected = quiz.answers[q.id] || [];
-  let ok = exact(selected, q.correct);
+  let ok = isRight(q, selected);
   quiz.checked[q.id] = ok;
   let old = state.answers[q.id];
   state.answers[q.id] = {
@@ -550,7 +561,7 @@ function quizPage() {
         : "Zaznacz wszystkie odpowiedzi, które uważasz za poprawne.",
       `<button class="btn secondary" data-action="leave-quiz">${isExam ? "Wyjdź z egzaminu" : "Zapisz i wyjdź"}</button>`,
     ) +
-    `<div class="quizlayout"><section class="quizcard"><div class="qmeta"><span class="badge">${modeLabel(quiz.mode, quiz.scope).toLocaleUpperCase("pl-PL")}</span><span>Pytanie ${quiz.index + 1} z ${quiz.ids.length}</span><span class="question-tools" style="margin-left:auto">${flagButton(q)}${bookmarkButton(q)}</span></div><div class="bar"><i style="width:${((quiz.index + 1) / quiz.ids.length) * 100}%"></i></div><div class="qmeta" style="margin-top:22px"><span>${esc(q.category)}</span><span>· ${dateLabel(q.session)}, nr ${q.number}</span></div><h2>${esc(q.question)}</h2><p class="quizhint">Pytanie wielokrotnego wyboru — jedna, dwie lub trzy odpowiedzi mogą być poprawne.</p><div class="options" role="group" aria-label="Odpowiedzi">${answerOrder(q, quiz).map((i, pos) => `<button class="option ${selected.includes(i) ? "selected" : ""} ${checked && q.correct.includes(i) ? "correct" : ""} ${checked && selected.includes(i) && !q.correct.includes(i) ? "wrong" : ""}" role="checkbox" aria-checked="${selected.includes(i)}" data-action="answer" data-value="${i}" ${checked ? "disabled" : ""}><span class="letter">${"ABC"[pos]}</span><span>${esc(q.options[i])}</span></button>`).join("")}</div>${checked ? feedback(q, quiz.checked[q.id], true, quiz) : ""}<div class="quizactions"><button class="btn secondary" data-action="quiz-prev" ${quiz.index === 0 ? "disabled" : ""}>← Wstecz</button>${!delayed && !checked ? `<button class="btn" data-action="check" ${!selected.length ? "disabled" : ""}>Sprawdź odpowiedź ${I("check")}</button>` : btn(quiz.index === quiz.ids.length - 1 ? (isExam ? "Zakończ egzamin" : isTest ? "Zakończ sprawdzian" : "Zakończ naukę") : "Następne pytanie", "quiz-next")}</div></section><aside class="quizside">${isExam ? `<p class="muted" style="font-size:14px">POZOSTAŁY CZAS</p><div class="timer" id="timer">${formatTime(quiz.deadline - Date.now())}</div><div class="bar" style="margin-bottom:20px"></div>` : ""}<h3>Twój zestaw pytań</h3>${quiz.scope === "all" ? '<p class="legend">Wylosowane z całej bazy · bez identycznych pytań</p>' : ""}<div class="qgrid">${quiz.ids.map((id, i) => `<button title="Pytanie ${i + 1}${(quiz.flags || []).includes(id) ? " — do przejrzenia" : ""}" aria-label="Pytanie ${i + 1}${(quiz.flags || []).includes(id) ? ", oznaczone do przejrzenia" : ""}" ${i === quiz.index ? 'aria-current="step"' : ""} data-action="quiz-jump" data-value="${i}" class="${i === quiz.index ? "current" : ""} ${(quiz.flags || []).includes(id) ? "flagged" : ""} ${(quiz.answers[id] || []).length ? "answered" : ""} ${!delayed && quiz.checked[id] === false ? "bad" : ""}">${i + 1}</button>`).join("")}</div><p class="legend">${answered} / ${quiz.ids.length} z zaznaczoną odpowiedzią${(quiz.flags || []).length ? ` · ${quiz.flags.length} do przejrzenia` : ""}</p><p class="keyboard-hint"><kbd>A</kbd><kbd>B</kbd><kbd>C</kbd> — odpowiedzi · <kbd>Enter</kbd> — dalej</p>${delayed ? `<button class="btn secondary" style="width:100%;margin-top:18px" data-action="finish-dialog">${isExam ? "Zakończ egzamin" : "Zakończ sprawdzian"}</button>` : ""}<p class="legend">${isExam ? "Czas biegnie także po zamknięciu strony. Egzamin zostanie rozliczony po upływie 90 minut." : isTest ? "Bez limitu czasu. Możesz zmieniać odpowiedzi. Poprawny zestaw i wynik poznasz po zakończeniu." : "Możesz wrócić do poprzednich pytań. Sprawdzone odpowiedzi pozostają zapisane."}</p></aside></div>`
+    `<div class="quizlayout"><section class="quizcard"><div class="qmeta"><span class="badge">${modeLabel(quiz.mode, quiz.scope).toLocaleUpperCase("pl-PL")}</span><span>Pytanie ${quiz.index + 1} z ${quiz.ids.length}</span><span class="question-tools" style="margin-left:auto">${flagButton(q)}${bookmarkButton(q)}</span></div><div class="bar"><i style="width:${((quiz.index + 1) / quiz.ids.length) * 100}%"></i></div><div class="qmeta" style="margin-top:22px"><span>${esc(q.category)}</span><span>· ${dateLabel(q.session)}, nr ${q.number}</span>${lawBadge(q)}</div><h2>${esc(q.question)}</h2>${quizLawNote(q)}<p class="quizhint">Pytanie wielokrotnego wyboru — jedna, dwie lub trzy odpowiedzi mogą być poprawne.</p><div class="options" role="group" aria-label="Odpowiedzi">${answerOrder(q, quiz).map((i, pos) => `<button class="option ${selected.includes(i) ? "selected" : ""} ${checked && q.correct.includes(i) ? "correct" : ""} ${checked && selected.includes(i) && !q.correct.includes(i) ? "wrong" : ""}" role="checkbox" aria-checked="${selected.includes(i)}" data-action="answer" data-value="${i}" ${checked ? "disabled" : ""}><span class="letter">${"ABC"[pos]}</span><span>${esc(q.options[i])}</span></button>`).join("")}</div>${checked ? feedback(q, quiz.checked[q.id], true, quiz) : ""}<div class="quizactions"><button class="btn secondary" data-action="quiz-prev" ${quiz.index === 0 ? "disabled" : ""}>← Wstecz</button>${!delayed && !checked ? `<button class="btn" data-action="check" ${!selected.length ? "disabled" : ""}>Sprawdź odpowiedź ${I("check")}</button>` : btn(quiz.index === quiz.ids.length - 1 ? (isExam ? "Zakończ egzamin" : isTest ? "Zakończ sprawdzian" : "Zakończ naukę") : "Następne pytanie", "quiz-next")}</div></section><aside class="quizside">${isExam ? `<p class="muted" style="font-size:14px">POZOSTAŁY CZAS</p><div class="timer" id="timer">${formatTime(quiz.deadline - Date.now())}</div><div class="bar" style="margin-bottom:20px"></div>` : ""}<h3>Twój zestaw pytań</h3>${quiz.scope === "all" ? '<p class="legend">Wylosowane z całej bazy · bez identycznych pytań</p>' : ""}<div class="qgrid">${quiz.ids.map((id, i) => `<button title="Pytanie ${i + 1}${(quiz.flags || []).includes(id) ? " — do przejrzenia" : ""}" aria-label="Pytanie ${i + 1}${(quiz.flags || []).includes(id) ? ", oznaczone do przejrzenia" : ""}" ${i === quiz.index ? 'aria-current="step"' : ""} data-action="quiz-jump" data-value="${i}" class="${i === quiz.index ? "current" : ""} ${(quiz.flags || []).includes(id) ? "flagged" : ""} ${(quiz.answers[id] || []).length ? "answered" : ""} ${!delayed && quiz.checked[id] === false ? "bad" : ""}">${i + 1}</button>`).join("")}</div><p class="legend">${answered} / ${quiz.ids.length} z zaznaczoną odpowiedzią${(quiz.flags || []).length ? ` · ${quiz.flags.length} do przejrzenia` : ""}</p><p class="keyboard-hint"><kbd>A</kbd><kbd>B</kbd><kbd>C</kbd> — odpowiedzi · <kbd>Enter</kbd> — dalej</p>${delayed ? `<button class="btn secondary" style="width:100%;margin-top:18px" data-action="finish-dialog">${isExam ? "Zakończ egzamin" : "Zakończ sprawdzian"}</button>` : ""}<p class="legend">${isExam ? "Czas biegnie także po zamknięciu strony. Egzamin zostanie rozliczony po upływie 90 minut." : isTest ? "Bez limitu czasu. Możesz zmieniać odpowiedzi. Poprawny zestaw i wynik poznasz po zakończeniu." : "Możesz wrócić do poprzednich pytań. Sprawdzone odpowiedzi pozostają zapisane."}</p></aside></div>`
   );
 }
 function legalURL(value) {
@@ -576,7 +587,70 @@ function commentFor(q) {
   });
   return `<section class="legal-basis educational-comment"><h3>${I("bulb")} Komentarz do odpowiedzi</h3><p>${esc(entry.text).replace(/\n/g, "<br>")}</p>${entry.caveat ? `<div class="comment-caveat"><strong>Uwaga przy interpretacji klucza</strong><p>${esc(entry.caveat)}</p></div>` : ""}<div class="comment-sources"><strong>Źródła komentarza</strong>${sources.map((s) => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)} ↗</a>`).join("")}</div><p class="legal-caption">Komentarz dydaktyczny; punktacja według historycznego klucza. Sprawdzono: 5 listopada 2026 r.</p></section>`;
 }
+const LAW_LABELS = {
+  outdated: "Nieaktualne po zmianie przepisów",
+  uncertain: "Stan prawny do potwierdzenia",
+  changed: "Zmieniona podstawa prawna, odpowiedź aktualna",
+  current: "Bez stwierdzonych zmian w przepisach",
+};
+// Scoring follows the law in force on the review date. The sheet's key stays
+// visible as q.historicalCorrect; annulled questions give everyone the point.
+function applyCurrentLaw() {
+  for (const q of Q) {
+    const e = lawStatus[q.id];
+    if (!e || e.status !== "outdated" || q.historicalCorrect) continue;
+    if (e.annulled) {
+      q.historicalCorrect = q.correct;
+      q.correct = [];
+      q.annulled = true;
+    } else if (Array.isArray(e.currentCorrect) && e.currentCorrect.length) {
+      q.historicalCorrect = q.correct;
+      q.correct = [...e.currentCorrect];
+    }
+  }
+}
+function isRight(q, selected) {
+  return !!q.annulled || exact(selected, q.correct);
+}
+function lawDate() {
+  return lawMeta ? dateLabel(lawMeta.checkedAt) : "";
+}
+function lawBadge(q) {
+  const s = lawStatus[q.id]?.status;
+  return s === "outdated" || s === "uncertain"
+    ? `<span class="badge law-badge law-${s}">${s === "outdated" ? "Nieaktualne prawnie" : "Stan prawny do potwierdzenia"}</span>`
+    : "";
+}
+// Shown before answering in learning, tests and exams.
+function quizLawNote(q) {
+  const s = lawStatus[q.id]?.status;
+  if (s === "outdated")
+    return `<p class="quiz-law-note law-outdated">${I("shield")} ${q.annulled ? "Pytanie nieaktualne po zmianie przepisów — żaden wariant nie jest dziś poprawny, więc punkt otrzymasz niezależnie od odpowiedzi." : "Pytanie nieaktualne po zmianie przepisów — odpowiadaj według obecnego stanu prawnego; tak też jest punktowane."}</p>`;
+  if (s === "uncertain")
+    return `<p class="quiz-law-note law-uncertain">${I("shield")} Stan prawny do potwierdzenia — punktowane według klucza z arkusza.</p>`;
+  return "";
+}
+// Current-law layer: the badge and box explain how the question is scored today.
+function lawBox(q) {
+  const entry = lawStatus[q.id];
+  if (!entry) return "";
+  const s = entry.status;
+  if (s === "current")
+    return `<p class="law-current">${I("check")} Stan prawny sprawdzony na ${lawDate()}: nie stwierdzono zmian przepisów, które zmieniałyby tę odpowiedź.</p>`;
+  const lead =
+    s === "outdated"
+      ? entry.annulled
+        ? "Klucz z tej sesji nie odpowiada już obowiązującym przepisom, a żaden wariant nie jest dziś poprawny. Pytanie jest traktowane jak unieważnione — punkt otrzymuje każdy."
+        : "Klucz z tej sesji nie odpowiada już obowiązującym przepisom. Punkty liczą się według obecnego stanu prawnego; klucz z arkusza widać obok poprawnego zestawu."
+      : s === "uncertain"
+        ? "Obowiązywanie przepisu, na którym oparto odpowiedź, jest niepewne. Traktuj odpowiedź jako wiedzę techniczną, dopóki nie zostanie potwierdzony aktualny akt."
+        : "Przepis, na którym oparto odpowiedź, został zastąpiony lub przeniesiony, ale odpowiedź z klucza pozostaje zgodna z obecnym prawem.";
+  return `<section class="legal-basis law-status law-${s}"><h3>${I(s === "changed" ? "scale" : "shield")} ${LAW_LABELS[s]}</h3><p>${lead}</p>${entry.note ? `<p class="law-note">${esc(entry.note)}</p>` : ""}<p class="legal-caption">Weryfikacja stanu prawnego na ${lawDate()}${s === "outdated" ? " · punktacja według obecnych przepisów" : " · klucz z arkusza bez zmian"}.</p></section>`;
+}
 function legalBasis(q) {
+  return lawBox(q) + legalBasisCore(q);
+}
+function legalBasisCore(q) {
   const entry = legalBases[q.id];
   if (!legalReady)
     return `<section class="legal-basis legal-pending"><h3>${I("scale")} Podstawa prawna</h3><p>Nie udało się wczytać przypisów prawnych. Odśwież stronę; pytania i postęp nadal działają.</p></section>`;
@@ -592,11 +666,11 @@ function legalBasis(q) {
 function legalOverview() {
   if (!legalMeta) return "";
   const c = legalMeta.counts;
-  return `<section class="panel legal-overview"><h2>Podstawy prawne odpowiedzi</h2><p>Przy odpowiedziach w trybie nauki, w podglądzie pytania oraz po zakończeniu sprawdzianu i egzaminu znajdziesz przypisy z konkretnym artykułem lub paragrafem, nazwą aktu i odnośnikiem do oficjalnego tekstu.</p><div class="legal-counts"><span><b>${c.cited}</b> pytań z przypisem prawnym</span><span><b>${c.nonlegal}</b> pytań specjalistycznych lub obliczeniowych</span><span><b>${c.unresolved}</b> pytań z podstawą do dalszej weryfikacji</span></div><p>Każdy przypis wymagał sprawdzenia treści wskazanego przepisu. Nie oznacza to pełnej weryfikacji obowiązywania tego brzmienia w dniu każdej historycznej sesji ani aktualności na dziś. Datę i wersję sprawdzisz w źródłowym akcie. Wątpliwe przypisania są oznaczone zamiast uzupełniane domyślnym artykułem.</p><p class="muted">Data opracowania przypisów: ${esc(legalMeta.checkedAt)}. Odpowiedzi i punktacja nadal pochodzą z historycznych kluczy ministerstwa.</p></section>`;
+  return `<section class="panel legal-overview"><h2>Podstawy prawne odpowiedzi</h2><p>Przy odpowiedziach w trybie nauki, w podglądzie pytania oraz po zakończeniu sprawdzianu i egzaminu znajdziesz przypisy z konkretnym artykułem lub paragrafem, nazwą aktu i odnośnikiem do oficjalnego tekstu.</p><div class="legal-counts"><span><b>${c.cited}</b> pytań z przypisem prawnym</span><span><b>${c.nonlegal}</b> pytań specjalistycznych lub obliczeniowych</span><span><b>${c.unresolved}</b> pytań z podstawą do dalszej weryfikacji</span></div><p>Każdy przypis wymagał sprawdzenia treści wskazanego przepisu. Nie oznacza to pełnej weryfikacji obowiązywania tego brzmienia w dniu każdej historycznej sesji ani aktualności na dziś. Datę i wersję sprawdzisz w źródłowym akcie. Wątpliwe przypisania są oznaczone zamiast uzupełniane domyślnym artykułem.</p><p class="muted">Data opracowania przypisów: ${esc(legalMeta.checkedAt)}. Odpowiedzi i punktacja nadal pochodzą z historycznych kluczy ministerstwa.</p>${lawMeta ? `<h3>Aktualny stan prawny</h3><p>Pytania z sesji 2020–2023 porównano z przepisami obowiązującymi na ${lawDate()}: m.in. z rozporządzeniem o wycenie z 2023 r. (zastąpiło rozporządzenie z 2004 r.), reformą planowania przestrzennego z 2023 r. (plan ogólny zamiast studium) i rozporządzeniem o ewidencji gruntów z 2021 r.</p><div class="legal-counts"><span><b>${lawMeta.counts.outdated}</b> pytań nieaktualnych po zmianie przepisów</span><span><b>${lawMeta.counts.uncertain}</b> pytań ze stanem prawnym do potwierdzenia</span><span><b>${lawMeta.counts.changed}</b> pytań ze zmienioną podstawą, ale aktualną odpowiedzią</span></div><p class="muted">W pytaniach nieaktualnych punkty liczą się według obecnych przepisów (a gdy żaden wariant nie jest dziś poprawny — punkt otrzymuje każdy). Klucz z arkusza pozostaje widoczny przy odpowiedzi.</p>` : ""}</section>`;
 }
 function feedback(q, ok, showCorrectOptions = true, session = null) {
   const shuffled = answerOrder(q, session).some((v, i) => v !== i);
-  return `<div class="feedback ${ok ? "" : "error"}" role="status"><strong>${ok ? "✓ Dobra odpowiedź." : "↻ To pytanie warto powtórzyć."}</strong><p>Poprawny zestaw z klucza: <b>${lettersFor(q, q.correct, session)}</b>.${shuffled ? ` <span class="muted">(w arkuszu: ${q.correct.map((i) => "ABC"[i]).join(", ")})</span>` : ""}</p>${q.keyNote ? `<p class="legal-note">${esc(q.keyNote)}</p>` : ""}${showCorrectOptions ? answerOrder(q, session).filter((i) => q.correct.includes(i)).map((i) => `<p>${letterFor(q, i, session)}. ${esc(q.options[i])}</p>`).join("") : ""}<p style="margin-top:9px;font-size:12px;color:#7f8773">Klucz historyczny — stan na ${dateLabel(q.session)}. Bez weryfikacji z obecnymi przepisami.</p><a href="${q.keySource}" target="_blank" rel="noopener">Oficjalny klucz PDF ↗</a> &nbsp; <a href="${q.source}" target="_blank" rel="noopener">Arkusz źródłowy PDF ↗</a>${legalBasis(q)}${commentFor(q)}${noteEditor(q)}</div>`;
+  return `<div class="feedback ${ok ? "" : "error"}" role="status"><strong>${ok ? "✓ Dobra odpowiedź." : "↻ To pytanie warto powtórzyć."}</strong>${q.annulled ? `<p>Pytanie unieważnione według stanu prawnego na ${lawDate()}: żaden wariant nie jest dziś poprawny, punkt otrzymuje każdy. <span class="muted">(klucz z arkusza: ${q.historicalCorrect.map((i) => "ABC"[i]).join(", ")})</span></p>` : `<p>Poprawny zestaw${q.historicalCorrect ? ` według obecnych przepisów` : " z klucza"}: <b>${lettersFor(q, q.correct, session)}</b>.${shuffled ? ` <span class="muted">(w arkuszu: ${q.correct.map((i) => "ABC"[i]).join(", ")})</span>` : ""}${q.historicalCorrect ? ` <span class="muted">Klucz z arkusza: ${q.historicalCorrect.map((i) => "ABC"[i]).join(", ")}.</span>` : ""}</p>`}${q.keyNote ? `<p class="legal-note">${esc(q.keyNote)}</p>` : ""}${showCorrectOptions ? answerOrder(q, session).filter((i) => q.correct.includes(i)).map((i) => `<p>${letterFor(q, i, session)}. ${esc(q.options[i])}</p>`).join("") : ""}<p style="margin-top:9px;font-size:12px;color:#7f8773">Klucz historyczny — stan na ${dateLabel(q.session)}. ${lawStatus[q.id] ? `Stan prawny sprawdzono na ${lawDate()} — szczegóły poniżej.` : "Bez weryfikacji z obecnymi przepisami."}</p><a href="${q.keySource}" target="_blank" rel="noopener">Oficjalny klucz PDF ↗</a> &nbsp; <a href="${q.source}" target="_blank" rel="noopener">Arkusz źródłowy PDF ↗</a>${legalBasis(q)}${commentFor(q)}${noteEditor(q)}</div>`;
 }
 function finish() {
   if (!quiz) return;
@@ -604,7 +678,7 @@ function finish() {
   let score = 0;
   for (let id of quiz.ids) {
     let q = byId[id],
-      ok = exact(quiz.answers[id] || [], q.correct);
+      ok = isRight(q, quiz.answers[id] || []);
     if (ok) score++;
     if (
       quiz.mode !== "learn" ||
@@ -656,7 +730,7 @@ function resultPage() {
 }
 // A question earns a point only for the exact full answer set.
 function reviewAssessment(q, selected, session = null) {
-  const ok = exact(selected, q.correct);
+  const ok = isRight(q, selected);
   const missing = q.correct.filter((index) => !selected.includes(index));
   const extra = selected.filter((index) => !q.correct.includes(index));
   const letters = (values) => lettersFor(q, values, session);
@@ -667,14 +741,18 @@ function reviewAssessment(q, selected, session = null) {
       : missing.length && !extra.length
         ? "incomplete"
         : "incorrect";
-  const title = ok
+  const title = q.annulled
+    ? "Pytanie unieważnione — punkt przyznany"
+    : ok
     ? "Poprawna odpowiedź"
     : kind === "unanswered"
       ? "Brak odpowiedzi"
       : kind === "incomplete"
         ? "Błąd — niepełna odpowiedź"
         : "Błędna odpowiedź";
-  const explanation = ok
+  const explanation = q.annulled
+    ? "Według obecnych przepisów żaden wariant nie jest poprawny, więc punkt otrzymuje każdy."
+    : ok
     ? "Zaznaczono cały poprawny zestaw."
     : [
         missing.length
@@ -756,7 +834,7 @@ function showDetail(id) {
   let q = detail;
   showModal(
     modalHead("Pytanie z bazy") +
-      `<div class="qmeta"><span class="badge">${esc(q.category)}</span><span>${dateLabel(q.session)} · nr ${q.number}</span></div><h3 style="line-height:1.8;margin-bottom:18px">${esc(q.question)}</h3><div class="options">${q.options.map((o, i) => `<div class="option"><span class="letter">${"ABC"[i]}</span><span>${esc(o)}</span></div>`).join("")}</div><div id="detail-key" hidden>${feedback(q, true).replace("✓ Dobra odpowiedź.", "Odpowiedzi według oficjalnego klucza")}</div><div class="actions">${bookmarkButton(q)}${btn("Pokaż poprawne odpowiedzi", "reveal-key", "check")}${btn("Ucz się tego pytania", "learn-one", "arrow", "secondary")}</div>`,
+      `<div class="qmeta"><span class="badge">${esc(q.category)}</span><span>${dateLabel(q.session)} · nr ${q.number}</span>${lawBadge(q)}</div><h3 style="line-height:1.8;margin-bottom:18px">${esc(q.question)}</h3><div class="options">${q.options.map((o, i) => `<div class="option"><span class="letter">${"ABC"[i]}</span><span>${esc(o)}</span></div>`).join("")}</div><div id="detail-key" hidden>${feedback(q, true).replace("✓ Dobra odpowiedź.", q.historicalCorrect ? "Odpowiedzi według obecnych przepisów" : "Odpowiedzi według oficjalnego klucza")}</div><div class="actions">${bookmarkButton(q)}${btn("Pokaż poprawne odpowiedzi", "reveal-key", "check")}${btn("Ucz się tego pytania", "learn-one", "arrow", "secondary")}</div>`,
   );
 }
 function navigate(v) {
@@ -874,7 +952,7 @@ function onAction(a, v) {
       navigate("home");
       break;
     case "go-base":
-      filter = { search: "", category: "", session: "", status: "", legal: "" };
+      filter = { search: "", category: "", session: "", status: "", legal: "", law: "" };
       navigate("base");
       break;
     case "bookmark": {
@@ -906,7 +984,7 @@ function onAction(a, v) {
       } else startQuiz("learn", [detail], 1);
       break;
     case "clear-filters":
-      filter = { search: "", category: "", session: "", status: "", legal: "" };
+      filter = { search: "", category: "", session: "", status: "", legal: "", law: "" };
       page = 1;
       render();
       break;
@@ -995,7 +1073,7 @@ function onAction(a, v) {
       break;
     case "repeat-wrong": {
       let wrong = review.ids.filter(
-        (id) => !exact(review.answers[id] || [], byId[id].correct),
+        (id) => !isRight(byId[id], review.answers[id] || []),
       );
       if (!wrong.length)
         toast("Wszystkie odpowiedzi są poprawne. Wybierz nowy zestaw!");
@@ -1102,6 +1180,7 @@ document.addEventListener("change", async (e) => {
     sessionfilter: "session",
     statusfilter: "status",
     legalfilter: "legal",
+    lawfilter: "law",
   };
   if (map[e.target.id]) {
     filter[map[e.target.id]] = e.target.value;
@@ -1331,8 +1410,13 @@ Promise.all([
     })
     .catch(() => null),
   fetch("explanations.json").then(r => r.ok ? r.json() : null).catch(() => null),
+  fetch("law-status.json").then(r => r.ok ? r.json() : null).catch(() => null),
 ])
-  .then(([data, legal, comments]) => {
+  .then(([data, legal, comments, law]) => {
+    if (law?.schemaVersion === 1 && law.items && law.counts) {
+      lawStatus = law.items;
+      lawMeta = law;
+    }
     if (comments?.schemaVersion === 1) explanations = comments.items || {};
     if (legal?.schemaVersion === 1 && legal.items && legal.counts) {
       legalBases = legal.items;
@@ -1342,6 +1426,7 @@ Promise.all([
     Q = data.questions;
     sessions = data.sessions;
     byId = Object.fromEntries(Q.map((q) => [q.id, q]));
+    applyCurrentLaw();
     try {
       pruneRemoved(state);
       validateImport({ format: "pracownia-v1", state });

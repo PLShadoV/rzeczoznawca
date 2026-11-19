@@ -30,6 +30,8 @@ function validateSettings(value) {
     throw Error("date");
   if (value.shuffleAnswers !== undefined && typeof value.shuffleAnswers !== "boolean")
     throw Error("shuffle");
+  if (value.skipOutdated !== undefined && typeof value.skipOutdated !== "boolean")
+    throw Error("outdated");
 }
 function applyPreferences() {
   const p = preferences();

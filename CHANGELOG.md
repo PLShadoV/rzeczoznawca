@@ -1,5 +1,14 @@
 # Historia zmian
 
+## 1.4.0 — 2026-11-19
+
+- Weryfikacja stanu prawnego wszystkich 1759 unikalnych pytań z sesji 2020–2023 na dzień 19.11.2026: porównanie powołanych artykułów ze starszymi tekstami jednolitymi (2020–2022) i obecnymi tekstami w Dz.U., przegląd pytań bez przypisu oraz opartych na uchylonych rozporządzeniach.
+- Nowa warstwa `dist/law-status.json` (źródło: `data/law/review-2020-2023.json`, budowa: `data/law/assemble.py`): 52 wystąpień pytań nieaktualnych, 93 ze stanem prawnym do potwierdzenia, 337 ze zmienioną podstawą przy aktualnej odpowiedzi, 1406 bez stwierdzonych zmian.
+- **Punktacja według obecnego stanu prawnego:** pytania nieaktualne są oceniane nowym kluczem (14 wystąpień) albo traktowane jak unieważnione, gdy żaden wariant nie jest dziś poprawny (38 wystąpień — punkt dla każdego). Klucz z arkusza jest wyświetlany obok. `questions.json` zachowuje klucze historyczne.
+- Najważniejsze źródła zmian: rozporządzenie MRiT z 5.09.2023 r. w sprawie szczegółowych zasad wyceny nieruchomości (nowe wskaźniki szacunkowe gruntów rolnych i leśnych, brak reguły 20% dla cen przetargowych), reforma planowania z 7.07.2023 r. (studium → plan ogólny, obszar uzupełnienia zabudowy, 18 miesięcy zawieszenia WZ, usunięte definicje), rozporządzenie EGiB z 2021 r. (5 grup użytków, brak liczby izb, skala mapy, uzgodnienie podziału na obręby), usunięcie standardów zawodowych z UGN, zmiany ustawy o ochronie gruntów rolnych.
+- Rozporządzenie w sprawie warunków technicznych dla budynków z 2002 r. według ISAP utraciło moc 21.09.2026 r.; pytania na nim oparte (także z lat 2024–2026) mają status „stan prawny do potwierdzenia”.
+- Oznaczenie „Nieaktualne prawnie” (lub „Stan prawny do potwierdzenia”) widoczne przy pytaniu już przed udzieleniem odpowiedzi — w nauce, sprawdzianie i egzaminie — z informacją, jak pytanie jest punktowane. Oznaczenia także przy odpowiedzi, w podglądzie pytania, na liście w Bazie i w przeglądzie wyników; nowy filtr „Stan prawny”. Pytania nieaktualne nie są ukrywane w żadnym trybie.
+
 ## 1.3.0 — 2026-11-13
 
 - Losowa kolejność odpowiedzi w nauce, sprawdzianach i egzaminach (domyślnie włączona, przełącznik w Ustawieniach). Zmieniają się tylko litery i pozycje wariantów; treść odpowiedzi, klucz i punktacja pozostają powiązane z oryginalnym wariantem. Przy kluczu pokazywana jest też litera z arkusza. Skróty A/B/C wybierają widoczną pozycję.

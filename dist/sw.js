@@ -1,6 +1,6 @@
 "use strict";
 // Increment this version whenever a release changes the offline asset set.
-const VERSION = "1.3.0";
+const VERSION = "1.4.0";
 const PREFIX = "pracownia:" + new URL(self.registration.scope).pathname + ":";
 const CACHE = PREFIX + VERSION;
 const CORE = [
@@ -15,6 +15,7 @@ const CORE = [
   "./questions.json",
   "./legal-bases.json",
   "./explanations.json",
+  "./law-status.json",
   "./manifest.webmanifest",
   "./assets/favicon.svg",
   "./assets/blueprint.svg",
