@@ -402,6 +402,20 @@ async function runLogicChecks() {
   const osession = keyedId.slice(0, 10);
   lw.events.submit({ target: { id: "config-form", values: { mode: "learn", scope: "", session: osession, category: "", pool: "all", limit: "100" } }, preventDefault() {} });
   assert.equal(lw.run(`quiz.ids.includes(${JSON.stringify(keyedId)})`), true, "outdated questions are not hidden");
+  for (const mode of ["learn", "test"]) {
+    lw.run(`state.active=null;startQuiz(${JSON.stringify(mode)},[byId[${JSON.stringify(keyedId)}]],1)`);
+    const page = lw.run("quizPage()");
+    assert.match(page, /Nieaktualne prawnie/, `badge before answering (${mode})`);
+    assert.match(page, /odpowiadaj według obecnego stanu prawnego/);
+  }
+  lw.run(`state.active=null;startQuiz("learn",[byId[${JSON.stringify(annulledId)}]],1)`);
+  assert.match(lw.run("quizPage()"), /punkt otrzymasz niezależnie od odpowiedzi/);
+  lw.run(`state.active=null;quiz=null`);
+  lw.events.submit({ target: { id: "config-form", values: { mode: "exam", scope: "", session: osession, category: "", pool: "all", limit: "90" } }, preventDefault() {} });
+  lw.run(`quiz.index=quiz.ids.indexOf(${JSON.stringify(keyedId)})`);
+  assert.match(lw.run("quizPage()"), /Nieaktualne prawnie/, "badge in exam");
+  lw.run(`state.active=null;quiz=null`);
+  lw.events.submit({ target: { id: "config-form", values: { mode: "learn", scope: "", session: osession, category: "", pool: "all", limit: "100" } }, preventDefault() {} });
   lw.run(`quiz.ids.forEach(id=>quiz.answers[id]=[...byId[id].correct]);finish()`);
   assert.equal(lw.run("review.score"), lw.run("review.total"), "full marks with current-law answers");
   assert.match(lw.run("reviewPage()"), /według obecnych przepisów|Poprawna odpowiedź/);

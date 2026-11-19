@@ -1802,3 +1802,34 @@ kbd {
 [data-theme="dark"] .law-current {
   color: #a9c79c;
 }
+.quiz-law-note {
+  display: flex;
+  gap: 8px;
+  align-items: flex-start;
+  margin: 10px 0 4px;
+  padding: 9px 12px;
+  border-radius: 6px;
+  font-size: 13px;
+  line-height: 1.6;
+  border: 1px solid;
+}
+.quiz-law-note.law-outdated {
+  background: #fbf1ee;
+  border-color: #e7c4b8;
+  color: #9c4a36;
+}
+.quiz-law-note.law-uncertain {
+  background: #fcf7ea;
+  border-color: #e9dbb3;
+  color: #85692a;
+}
+[data-theme="dark"] .quiz-law-note.law-outdated {
+  background: #3d2a25;
+  border-color: #6d4538;
+  color: #f0b9a6;
+}
+[data-theme="dark"] .quiz-law-note.law-uncertain {
+  background: #3b3829;
+  border-color: #625c3d;
+  color: #dfce9c;
+}
