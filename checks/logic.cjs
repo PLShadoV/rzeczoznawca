@@ -61,7 +61,7 @@ function setup(saved, options = {}) {
     },
     fetch: async (path) => ({
       ok: true,
-      json: async () => (path === "legal-bases.json" ? legalFixture : path === "explanations.json" ? JSON.parse(fs.readFileSync("dist/explanations.json","utf8")) : data),
+      json: async () => (path === "legal-bases.json" ? legalFixture : path === "explanations.json" ? JSON.parse(fs.readFileSync("dist/explanations.json","utf8")) : path === "law-status.json" ? lawFixture : data),
     }),
     setInterval() {},
     setTimeout() {},
@@ -88,6 +88,7 @@ const legalFixture = fs.existsSync("dist/legal-bases.json")
       counts: { cited: 0, nonlegal: 0, unresolved: 3600 },
       items: {},
     };
+const lawFixture = JSON.parse(fs.readFileSync("dist/law-status.json", "utf8"));
 const ready = () => new Promise((r) => setImmediate(r));
 async function runLogicChecks() {
   let t = setup();
@@ -373,6 +374,35 @@ async function runLogicChecks() {
   assert.equal(withdrawn.run("state.active"), null);
   assert.equal(withdrawn.run("state.notes[Q.find(q=>q.id===" + JSON.stringify(data.questions[2].id) + ").id]"), "moja notatka");
   assert.equal(withdrawn.run("preferences().shuffleAnswers"), true);
+  // Current-law layer: flags questions, never changes keys or scores.
+  const lw = setup();
+  await ready();
+  const outdatedIds = Object.keys(lawFixture.items).filter((id) => lawFixture.items[id].status === "outdated");
+  assert.ok(outdatedIds.length >= 40, "outdated questions are flagged");
+  const oid = outdatedIds[0];
+  const oq = JSON.parse(lw.run(`JSON.stringify(byId[${JSON.stringify(oid)}])`));
+  assert.deepEqual(oq.correct, data.questions.find((q) => q.id === oid).correct, "historical key unchanged");
+  const fb = lw.run(`feedback(byId[${JSON.stringify(oid)}], true)`);
+  assert.match(fb, /Nieaktualne po zmianie przepisów/);
+  assert.ok(fb.includes(lw.run(`esc(lawStatus[${JSON.stringify(oid)}].note)`)));
+  assert.match(lw.run(`qRow(byId[${JSON.stringify(oid)}])`), /Nieaktualne prawnie/);
+  lw.run("view='base';filter.law='outdated'");
+  assert.equal(Number(lw.run("filtered().length")), outdatedIds.filter((id) => data.questions.some((q) => q.id === id)).length);
+  assert.match(lw.run("basePage()"), /id="lawfilter"/);
+  const osession = oid.slice(0, 10);
+  lw.events.submit({ target: { id: "config-form", values: { mode: "learn", scope: "", session: osession, category: "", pool: "all", limit: "100" } }, preventDefault() {} });
+  assert.equal(lw.run(`quiz.ids.includes(${JSON.stringify(oid)})`), false, "outdated skipped in learning");
+  lw.run("state.active=null;quiz=null");
+  lw.events.submit({ target: { id: "config-form", values: { mode: "exam", scope: "", session: osession, category: "", pool: "all", limit: "90" } }, preventDefault() {} });
+  assert.equal(lw.run("quiz.ids.length"), 90, "historical sheet keeps all questions");
+  assert.equal(lw.run(`quiz.ids.includes(${JSON.stringify(oid)})`), true);
+  lw.run("state.active=null;quiz=null;state.settings={...preferences(),skipOutdated:false}");
+  lw.events.submit({ target: { id: "config-form", values: { mode: "learn", scope: "", session: osession, category: "", pool: "all", limit: "100" } }, preventDefault() {} });
+  assert.equal(lw.run(`quiz.ids.includes(${JSON.stringify(oid)})`), true, "can include outdated");
+  assert.throws(() => lw.run("validateSettings({...preferences(),skipOutdated:'tak'})"));
+  const cur = Object.keys(lawFixture.items).find((id) => lawFixture.items[id].status === "current");
+  assert.match(lw.run(`feedback(byId[${JSON.stringify(cur)}], true)`), /nie stwierdzono zmian/);
+  console.log("PASS: current-law layer – outdated/uncertain flags, base filter, skipping in random sets, full historical sheets, unchanged keys.");
   console.log(
     "PASS: randomised answer order (letters move, texts and keys stay), keyboard mapping, saved order validation, pruning of withdrawn questions.",
   );

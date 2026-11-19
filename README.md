@@ -2,7 +2,7 @@
 
 # Pracownia Rzeczoznawcy
 
-**Wersja 1.3.0.** Gotowa, samodzielna aplikacja do nauki na egzamin na rzeczoznawcę majątkowego. Działa bez konta i backendu. Możesz opublikować ją na **GitHub Pages** lub dowolnym hostingu statycznym. Wszystkie pliki strony są w `dist/`.
+**Wersja 1.4.0.** Gotowa, samodzielna aplikacja do nauki na egzamin na rzeczoznawcę majątkowego. Działa bez konta i backendu. Możesz opublikować ją na **GitHub Pages** lub dowolnym hostingu statycznym. Wszystkie pliki strony są w `dist/`.
 
 ## Szybki start
 
@@ -22,6 +22,7 @@ npm test
 
 ## Co znajduje się w aplikacji
 
+- **Aktualny stan prawny:** wszystkie pytania z sesji 2020–2023 porównano z przepisami obowiązującymi 19.11.2026 (m.in. rozporządzenie o wycenie z 2023 r., reforma planowania z 2023 r., ewidencja gruntów z 2021 r.). Przy odpowiedzi widać, czy pytanie jest **nieaktualne** (56 wystąpień), ma **stan prawny do potwierdzenia** (93, głównie warunki techniczne budynków), czy tylko **zmieniła się podstawa** przy aktualnej odpowiedzi (333). W Bazie jest filtr „Stan prawny”, a nieaktualne pytania są domyślnie pomijane w losowych zestawach i powtórkach (Ustawienia). Klucz i punktacja pozostają historyczne. Lista: [data/law/REPORT.md](data/law/REPORT.md).
 - **Losowa kolejność odpowiedzi:** w nauce, sprawdzianach i egzaminach warianty A/B/C są tasowane osobno dla każdego pytania, więc poprawna odpowiedź nie stoi zawsze pod tą samą literą. Treść każdego wariantu pozostaje przypisana do niego, a punktacja wynika z oficjalnego klucza (przy kluczu widać też literę z arkusza). Można wyłączyć w Ustawieniach.
 - **Nauka:** wybór tematu, sesji, liczby i statusu pytań; poprawny komplet odpowiedzi po sprawdzeniu pytania.
 - **Losowa nauka i sprawdzian:** 10, 20, 30, 50, 90 lub 100 pytań z całej bazy. Bez identycznych pytań w jednym zestawie; wybierana jest najnowsza wersja powtórzonej treści. Sprawdzian pokazuje wynik dopiero na końcu.

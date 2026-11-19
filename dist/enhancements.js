@@ -2,7 +2,7 @@
 
 // Optional personal tools. Historical questions, keys and grading remain in app.js.
 function defaultSettings() {
-  return { theme: "light", textSize: "normal", dailyGoal: 20, examDate: "", shuffleAnswers: true };
+  return { theme: "light", textSize: "normal", dailyGoal: 20, examDate: "", shuffleAnswers: true, skipOutdated: true };
 }
 function preferences() {
   return { ...defaultSettings(), ...(state.settings || {}) };
@@ -30,6 +30,8 @@ function validateSettings(value) {
     throw Error("date");
   if (value.shuffleAnswers !== undefined && typeof value.shuffleAnswers !== "boolean")
     throw Error("shuffle");
+  if (value.skipOutdated !== undefined && typeof value.skipOutdated !== "boolean")
+    throw Error("outdated");
 }
 function applyPreferences() {
   const p = preferences();
@@ -72,7 +74,13 @@ function settingsDialog() {
           { value: "off", label: "Jak w oryginalnym arkuszu" },
         ],
         p.shuffleAnswers ? "on" : "off",
-      )}</select></label><p class="field-hint">Losowanie zmienia tylko litery i kolejność wariantów — każda odpowiedź zachowuje swoją treść, a punktacja wynika z oficjalnego klucza. Dotyczy sesji rozpoczętych po zmianie.</p><label>Cel dzienny — sprawdzone pytania<input type="number" name="dailyGoal" min="5" max="200" step="1" value="${p.dailyGoal}" required></label><label>Twój termin egzaminu (opcjonalnie)<input type="date" name="examDate" value="${esc(p.examDate)}"></label><p class="field-hint">To Twój własny plan, nie kalendarz ministerstwa. Obliczenia planu dotyczą pytań w arkuszach, w tym powtórzeń między sesjami.</p><div id="settings-error" role="alert"></div><div class="actions">${btn("Anuluj", "close-modal", "close", "secondary")}<button type="submit" class="btn">Zapisz ustawienia ${I("check")}</button></div></form>`,
+      )}</select></label><p class="field-hint">Losowanie zmienia tylko litery i kolejność wariantów — każda odpowiedź zachowuje swoją treść, a punktacja wynika z oficjalnego klucza. Dotyczy sesji rozpoczętych po zmianie.</p><label>Pytania nieaktualne po zmianie przepisów<select name="skipOutdated">${opts(
+        [
+          { value: "on", label: "Pomijaj w losowych zestawach i powtórkach" },
+          { value: "off", label: "Uwzględniaj (z ostrzeżeniem przy odpowiedzi)" },
+        ],
+        p.skipOutdated ? "on" : "off",
+      )}</select></label><p class="field-hint">Dotyczy nauki, sprawdzianów, losowego egzaminu i powtórek. Historyczne arkusze zawsze zawierają wszystkie 90 pytań.</p><label>Cel dzienny — sprawdzone pytania<input type="number" name="dailyGoal" min="5" max="200" step="1" value="${p.dailyGoal}" required></label><label>Twój termin egzaminu (opcjonalnie)<input type="date" name="examDate" value="${esc(p.examDate)}"></label><p class="field-hint">To Twój własny plan, nie kalendarz ministerstwa. Obliczenia planu dotyczą pytań w arkuszach, w tym powtórzeń między sesjami.</p><div id="settings-error" role="alert"></div><div class="actions">${btn("Anuluj", "close-modal", "close", "secondary")}<button type="submit" class="btn">Zapisz ustawienia ${I("check")}</button></div></form>`,
   );
 }
 function questionCount(n) {
@@ -151,8 +159,9 @@ function smartReview(replace = false) {
     quiz = null;
     save();
   }
-  const wrong = wrongQuestions();
-  const unseen = Q.filter((q) => !state.answers[q.id]);
+  const usable = (q) => !preferences().skipOutdated || lawStatus[q.id]?.status !== "outdated";
+  const wrong = wrongQuestions().filter(usable);
+  const unseen = Q.filter((q) => !state.answers[q.id] && usable(q));
   startQuiz(
     "learn",
     wrong.length ? wrong : unseen.length ? unseen : Q,
@@ -248,6 +257,7 @@ document.addEventListener("submit", (e) => {
     dailyGoal: Number(f.get("dailyGoal")),
     examDate: f.get("examDate") || "",
     shuffleAnswers: f.get("shuffleAnswers") !== "off",
+    skipOutdated: f.get("skipOutdated") !== "off",
   };
   try {
     validateSettings(next);
