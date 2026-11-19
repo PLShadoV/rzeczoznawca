@@ -793,7 +793,10 @@
 "2022-12-01-83"
 ],
 "verdict": "OUT",
-"note": "studium utraciło moc (reforma 2023, termin 31.08.2026); dziś: plan miejscowy obowiązkowy tylko gdy wymagają tego przepisy odrębne (art. 14 ust. 7) – aktualna tylko B"
+"note": "studium utraciło moc (reforma 2023, termin 31.08.2026); dziś: plan miejscowy obowiązkowy tylko gdy wymagają tego przepisy odrębne (art. 14 ust. 7) – aktualna tylko B",
+"currentKey": [
+1
+]
 },
 {
 "group": 122,
@@ -1102,7 +1105,11 @@
 "2021-04-22-55"
 ],
 "verdict": "OUT",
-"note": "EGiB 2021: dane lokalu nie obejmują liczby izb – B już niepoprawne"
+"note": "EGiB 2021: dane lokalu nie obejmują liczby izb – B już niepoprawne. Dziś poprawne A i C.",
+"currentKey": [
+0,
+2
+]
 },
 {
 "group": 171,
@@ -1181,16 +1188,16 @@
 "ids": [
 "2021-05-27-61"
 ],
-"verdict": "OUT",
-"note": "od 1.09.2026 (po utracie mocy studiów) WZ wymaga obszaru uzupełnienia zabudowy w planie ogólnym; zasada „brak planu miejscowego” nadal, ale nie wystarcza"
+"verdict": "CHG",
+"note": "od 1.09.2026 decyzja o WZ wymaga też położenia na obszarze uzupełnienia zabudowy w planie ogólnym; brak planu miejscowego pozostaje warunkiem – odpowiedź B aktualna"
 },
 {
 "group": 183,
 "ids": [
 "2021-04-22-61"
 ],
-"verdict": "OUT",
-"note": "od 1.09.2026 (po utracie mocy studiów) WZ wymaga obszaru uzupełnienia zabudowy w planie ogólnym; zasada „brak planu miejscowego” nadal, ale nie wystarcza"
+"verdict": "CHG",
+"note": "od 1.09.2026 decyzja o WZ wymaga też położenia na obszarze uzupełnienia zabudowy w planie ogólnym; brak planu miejscowego pozostaje warunkiem – odpowiedź B aktualna"
 },
 {
 "group": 184,
@@ -1291,7 +1298,8 @@
 "2020-06-25-56"
 ],
 "verdict": "OUT",
-"note": "EGiB 2021 (§ 8): 5 grup użytków (usunięto użytki ekologiczne) – żadna odpowiedź nie jest aktualna"
+"note": "EGiB 2021 (§ 8): 5 grup użytków (usunięto użytki ekologiczne) – żadna odpowiedź nie jest aktualna. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 198,
@@ -3137,7 +3145,8 @@
 "2021-12-02-89"
 ],
 "verdict": "OUT",
-"note": "nowe § 5 ust. 6 rozporządzenia z 2023 r.: ceny przetargowe – jeżeli ich rynkowy charakter nie budzi wątpliwości; reguły 20% już nie ma"
+"note": "nowe § 5 ust. 6 rozporządzenia z 2023 r.: ceny przetargowe – jeżeli ich rynkowy charakter nie budzi wątpliwości; reguły 20% już nie ma. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 484,
@@ -3145,7 +3154,8 @@
 "2020-09-24-43"
 ],
 "verdict": "OUT",
-"note": "nowe § 5 ust. 6 rozporządzenia z 2023 r.: ceny przetargowe – jeżeli ich rynkowy charakter nie budzi wątpliwości; reguły 20% już nie ma"
+"note": "nowe § 5 ust. 6 rozporządzenia z 2023 r.: ceny przetargowe – jeżeli ich rynkowy charakter nie budzi wątpliwości; reguły 20% już nie ma. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 485,
@@ -3153,7 +3163,8 @@
 "2021-03-18-45"
 ],
 "verdict": "OUT",
-"note": "nowe § 5 ust. 6 rozporządzenia z 2023 r.: ceny przetargowe – jeżeli ich rynkowy charakter nie budzi wątpliwości; reguły 20% już nie ma"
+"note": "nowe § 5 ust. 6 rozporządzenia z 2023 r.: ceny przetargowe – jeżeli ich rynkowy charakter nie budzi wątpliwości; reguły 20% już nie ma. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 486,
@@ -3240,7 +3251,8 @@
 "2022-04-28-77"
 ],
 "verdict": "OUT",
-"note": "studium uwarunkowań utraciło moc (reforma z 7.07.2023, termin 31.08.2026) – pytanie dotyczy nieistniejącego dokumentu; ustalenia planu ogólnego są aktem prawa miejscowego (art. 13a ust. 7)"
+"note": "studium uwarunkowań utraciło moc (reforma z 7.07.2023, termin 31.08.2026) – pytanie dotyczy nieistniejącego dokumentu; ustalenia planu ogólnego są aktem prawa miejscowego (art. 13a ust. 7). Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 500,
@@ -3463,7 +3475,8 @@
 "2020-06-25-58"
 ],
 "verdict": "OUT",
-"note": "art. 175 UGN: standardy zawodowe ogłaszane przez ministra zostały usunięte z ustawy (brak definicji w art. 4 i ust. 6 w art. 175)"
+"note": "art. 175 UGN: standardy zawodowe ogłaszane przez ministra zostały usunięte z ustawy (brak definicji w art. 4 i ust. 6 w art. 175). Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 536,
@@ -3490,7 +3503,8 @@
 "2021-03-18-57"
 ],
 "verdict": "OUT",
-"note": "nowe § 5 ust. 6 rozporządzenia z 2023 r.: ceny przetargowe – jeżeli ich rynkowy charakter nie budzi wątpliwości; reguły 20% już nie ma"
+"note": "nowe § 5 ust. 6 rozporządzenia z 2023 r.: ceny przetargowe – jeżeli ich rynkowy charakter nie budzi wątpliwości; reguły 20% już nie ma. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 540,
@@ -3794,7 +3808,8 @@
 "2022-03-24-61"
 ],
 "verdict": "OUT",
-"note": "EGiB 2021 § 26 ust. 2: skala mapy ewidencyjnej „zapewniająca czytelność” – brak katalogu skal"
+"note": "EGiB 2021 § 26 ust. 2: skala mapy ewidencyjnej „zapewniająca czytelność” – brak katalogu skal. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 588,
@@ -3802,7 +3817,8 @@
 "2021-07-22-59"
 ],
 "verdict": "OUT",
-"note": "EGiB 2021 § 26 ust. 2: mapę ewidencyjną generuje się w skali zapewniającej czytelność – katalog skal usunięto"
+"note": "EGiB 2021 § 26 ust. 2: mapę ewidencyjną generuje się w skali zapewniającej czytelność – katalog skal usunięto. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 589,
@@ -5199,7 +5215,8 @@
 "2022-10-27-57"
 ],
 "verdict": "OUT",
-"note": "art. 20 ust. 1: plan miejscowy uchwala się po stwierdzeniu zgodności z ustaleniami planu ogólnego (studium utraciło moc)"
+"note": "art. 20 ust. 1: plan miejscowy uchwala się po stwierdzeniu zgodności z ustaleniami planu ogólnego (studium utraciło moc). Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 802,
@@ -5207,7 +5224,8 @@
 "2021-12-02-63"
 ],
 "verdict": "OUT",
-"note": "art. 20 ust. 1: plan miejscowy uchwala się po stwierdzeniu zgodności z ustaleniami planu ogólnego (studium utraciło moc)"
+"note": "art. 20 ust. 1: plan miejscowy uchwala się po stwierdzeniu zgodności z ustaleniami planu ogólnego (studium utraciło moc). Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 803,
@@ -5215,7 +5233,8 @@
 "2021-03-18-84"
 ],
 "verdict": "OUT",
-"note": "art. 20 ust. 1 UPZP: dziś zgodność z planem ogólnym (studium utraciło moc)"
+"note": "art. 20 ust. 1 UPZP: dziś zgodność z planem ogólnym (studium utraciło moc). Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 804,
@@ -5403,7 +5422,10 @@
 "2023-09-14-57"
 ],
 "verdict": "OUT",
-"note": "EGiB § 6 ust. 5 (od 5.05.2023): podziału na obręby dokonuje starosta w uzgodnieniu z Głównym Geodetą Kraju, po zasięgnięciu opinii jednostki statystyki publicznej – dziś poprawna jest C"
+"note": "EGiB § 6 ust. 5 (od 5.05.2023): podziału na obręby dokonuje starosta w uzgodnieniu z Głównym Geodetą Kraju, po zasięgnięciu opinii jednostki statystyki publicznej – dziś poprawna jest C",
+"currentKey": [
+2
+]
 },
 {
 "group": 834,
@@ -5449,7 +5471,8 @@
 "2022-12-01-58"
 ],
 "verdict": "OUT",
-"note": "po reformie z 2023 r. polityka przestrzenna gminy jest określona w strategii rozwoju gminy lub strategii rozwoju ponadlokalnego (art. 13b pkt 1, art. 15 ust. 1); studium utraciło moc"
+"note": "po reformie z 2023 r. polityka przestrzenna gminy jest określona w strategii rozwoju gminy lub strategii rozwoju ponadlokalnego (art. 13b pkt 1, art. 15 ust. 1); studium utraciło moc. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 841,
@@ -5457,7 +5480,10 @@
 "2020-07-30-39"
 ],
 "verdict": "OUT",
-"note": "koncepcja przestrzennego zagospodarowania kraju została wyeliminowana z UPZP; art. 3 ust. 4: politykę przestrzenną państwa prowadzi Rada Ministrów (dokumenty strategiczne wg ustawy o zasadach prowadzenia polityki rozwoju)"
+"note": "koncepcja przestrzennego zagospodarowania kraju została wyeliminowana z UPZP; art. 3 ust. 4: politykę przestrzenną państwa prowadzi Rada Ministrów (dokumenty strategiczne wg ustawy o zasadach prowadzenia polityki rozwoju). Politykę przestrzenną państwa określają dziś dokumenty strategiczne, przede wszystkim średniookresowa strategia rozwoju kraju – za aktualną uznano A.",
+"currentKey": [
+0
+]
 },
 {
 "group": 842,
@@ -5555,7 +5581,8 @@
 "2022-10-27-55"
 ],
 "verdict": "OUT",
-"note": "art. 62 ust. 1: zawieszenie postępowania w sprawie WZ – maks. 18 miesięcy (nie 9)"
+"note": "art. 62 ust. 1: zawieszenie postępowania w sprawie WZ – maks. 18 miesięcy (nie 9). Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 856,
@@ -6233,7 +6260,8 @@
 "2020-07-30-34"
 ],
 "verdict": "OUT",
-"note": "reforma UPZP z 2023 r. usunęła prognozę skutków finansowych uchwalenia planu; uzasadnienie planu przedstawia wpływ na finanse publiczne (art. 15 ust. 1 pkt 3)"
+"note": "reforma UPZP z 2023 r. usunęła prognozę skutków finansowych uchwalenia planu; uzasadnienie planu przedstawia wpływ na finanse publiczne (art. 15 ust. 1 pkt 3). Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 957,
@@ -6248,8 +6276,8 @@
 "2023-04-20-72",
 "2021-10-28-72"
 ],
-"verdict": "OUT",
-"note": "nowe § 22 ust. 4: z planów urządzenia lasu bierze się gatunek, klasę bonitacyjną drzewostanu i wiek rębności; typ siedliskowy nie jest już używany"
+"verdict": "CHG",
+"note": "typ siedliskowy nadal wynika z planu urządzenia lasu (B aktualna), ale nowe rozporządzenie o wycenie (§ 22) nie używa go do wskaźnika szacunkowego"
 },
 {
 "group": 959,
@@ -6460,7 +6488,8 @@
 "2021-03-18-54"
 ],
 "verdict": "OUT",
-"note": "reforma UPZP z 2023 r. usunęła prognozę skutków finansowych uchwalenia planu; uzasadnienie planu przedstawia wpływ na finanse publiczne (art. 15 ust. 1 pkt 3)"
+"note": "reforma UPZP z 2023 r. usunęła prognozę skutków finansowych uchwalenia planu; uzasadnienie planu przedstawia wpływ na finanse publiczne (art. 15 ust. 1 pkt 3). Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 989,
@@ -7042,7 +7071,11 @@
 "2023-04-20-86"
 ],
 "verdict": "OUT",
-"note": "art. 175 ust. 1 UGN w obecnym brzmieniu nie odsyła do standardów zawodowych (usunięte) – C już niepoprawna"
+"note": "art. 175 ust. 1 UGN w obecnym brzmieniu nie odsyła do standardów zawodowych (usunięte) – C już niepoprawna. Dziś poprawne A i B.",
+"currentKey": [
+0,
+1
+]
 },
 {
 "group": 1073,
@@ -7325,7 +7358,8 @@
 "2020-07-30-40"
 ],
 "verdict": "OUT",
-"note": "standardy zawodowe ogłaszane przez ministra usunięto z UGN (art. 175 ust. 6 i art. 4) – pytanie nieaktualne"
+"note": "standardy zawodowe ogłaszane przez ministra usunięto z UGN (art. 175 ust. 6 i art. 4) – pytanie nieaktualne. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 1117,
@@ -8369,7 +8403,8 @@
 "2020-09-24-47"
 ],
 "verdict": "OUT",
-"note": "EGiB 2021 (§ 18): materiału ścian budynku nie wykazuje się – dziś poprawne byłoby „nie wykazuje się”"
+"note": "EGiB 2021 (§ 18): materiału ścian budynku nie wykazuje się – dziś poprawne byłoby „nie wykazuje się”. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 1277,
@@ -8729,7 +8764,8 @@
 "2022-06-02-58"
 ],
 "verdict": "OUT",
-"note": "definicja „obszaru przestrzeni publicznej” (dawny art. 2 pkt 6) uchylona reformą z 2023 r."
+"note": "definicja „obszaru przestrzeni publicznej” (dawny art. 2 pkt 6) uchylona reformą z 2023 r. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 1334,
@@ -8738,7 +8774,8 @@
 "2020-09-24-28"
 ],
 "verdict": "OUT",
-"note": "definicja „obszaru przestrzeni publicznej” (dawny art. 2 pkt 6) uchylona reformą z 2023 r."
+"note": "definicja „obszaru przestrzeni publicznej” (dawny art. 2 pkt 6) uchylona reformą z 2023 r. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 1335,
@@ -8848,7 +8885,10 @@
 "2021-04-22-58"
 ],
 "verdict": "OUT",
-"note": "art. 154 ust. 2–3 UGN: przy braku planu miejscowego – decyzja o WZ, a przy jej braku faktyczny sposób użytkowania lub ustalenia planu ogólnego; studium usunięto"
+"note": "art. 154 ust. 2–3 UGN: przy braku planu miejscowego – decyzja o WZ, a przy jej braku faktyczny sposób użytkowania lub ustalenia planu ogólnego; studium usunięto. Dziś poprawna tylko C.",
+"currentKey": [
+2
+]
 },
 {
 "group": 1350,
@@ -8984,7 +9024,11 @@
 "2022-12-01-53"
 ],
 "verdict": "OUT",
-"note": "art. 7 ust. 2 pkt 1 ustawy o ochronie gruntów: zgoda ministra dla użytków rolnych kl. I–III bez progu 0,5 ha (wyjątek – obszar uzupełnienia zabudowy, ust. 2a); wyłączenie miast (art. 5b) uchylone"
+"note": "art. 7 ust. 2 pkt 1 ustawy o ochronie gruntów: zgoda ministra dla użytków rolnych kl. I–III bez progu 0,5 ha (wyjątek – obszar uzupełnienia zabudowy, ust. 2a); wyłączenie miast (art. 5b) uchylone. Dziś zgoda dotyczy kl. I–III także w miastach i niezależnie od powierzchni – poprawne A i B.",
+"currentKey": [
+0,
+1
+]
 },
 {
 "group": 1371,
@@ -8992,7 +9036,11 @@
 "2021-07-22-68"
 ],
 "verdict": "OUT",
-"note": "art. 7 ust. 2 pkt 1 ustawy o ochronie gruntów: zgoda ministra dla użytków rolnych kl. I–III bez progu 0,5 ha (wyjątek – obszar uzupełnienia zabudowy, ust. 2a); wyłączenie miast (art. 5b) uchylone"
+"note": "art. 7 ust. 2 pkt 1 ustawy o ochronie gruntów: zgoda ministra dla użytków rolnych kl. I–III bez progu 0,5 ha (wyjątek – obszar uzupełnienia zabudowy, ust. 2a); wyłączenie miast (art. 5b) uchylone. Dziś poprawne A i B (zgoda także w miastach, bez progu 0,5 ha).",
+"currentKey": [
+0,
+1
+]
 },
 {
 "group": 1372,
@@ -9982,7 +10030,8 @@
 "2022-07-07-24"
 ],
 "verdict": "OUT",
-"note": "nowe § 21: wskaźnik szacunkowy gruntu rolnego = 10× średni krajowy plon żyta (GUS); klasa i okręg wpływają przez współczynnik korekcyjny Wkbo, rodzaj użytku też tylko przez Wkbo"
+"note": "nowe § 21: wskaźnik szacunkowy gruntu rolnego = 10× średni krajowy plon żyta (GUS); klasa i okręg wpływają przez współczynnik korekcyjny Wkbo, rodzaj użytku też tylko przez Wkbo. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 1514,
@@ -9990,7 +10039,8 @@
 "2020-06-25-34"
 ],
 "verdict": "OUT",
-"note": "nowe § 21: wskaźnik szacunkowy = 10× krajowy plon żyta (GUS); rodzaj użytku działa przez współczynnik korekcyjny"
+"note": "nowe § 21: wskaźnik szacunkowy = 10× krajowy plon żyta (GUS); rodzaj użytku działa przez współczynnik korekcyjny. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 1515,
@@ -9998,7 +10048,8 @@
 "2021-07-22-13"
 ],
 "verdict": "OUT",
-"note": "nowe § 21: wskaźnik szacunkowy = 10× średni krajowy plon żyta (GUS); klasa bonitacyjna i rodzaj użytku działają przez współczynnik korekcyjny Wkbo (§ 23, zał. 1)"
+"note": "nowe § 21: wskaźnik szacunkowy = 10× średni krajowy plon żyta (GUS); klasa bonitacyjna i rodzaj użytku działają przez współczynnik korekcyjny Wkbo (§ 23, zał. 1). Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 1516,
@@ -10230,7 +10281,8 @@
 "2021-10-28-13"
 ],
 "verdict": "OUT",
-"note": "nowe § 22: wskaźnik dla lasów zależy od wieku rębności, głównego gatunku lasotwórczego i klasy bonitacyjnej drzewostanu – nie od typu siedliskowego"
+"note": "nowe § 22: wskaźnik dla lasów zależy od wieku rębności, głównego gatunku lasotwórczego i klasy bonitacyjnej drzewostanu – nie od typu siedliskowego. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 1551,
@@ -10238,7 +10290,8 @@
 "2022-04-28-74"
 ],
 "verdict": "OUT",
-"note": "nowe § 22: wskaźnik dla lasów zależy od wieku rębności, głównego gatunku lasotwórczego i klasy bonitacyjnej drzewostanu – nie od typu siedliskowego"
+"note": "nowe § 22: wskaźnik dla lasów zależy od wieku rębności, głównego gatunku lasotwórczego i klasy bonitacyjnej drzewostanu – nie od typu siedliskowego. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 1552,
@@ -10247,7 +10300,8 @@
 "2020-09-24-39"
 ],
 "verdict": "OUT",
-"note": "nowe § 22: wskaźnik dla lasów zależy od wieku rębności, głównego gatunku lasotwórczego i klasy bonitacyjnej drzewostanu – nie od typu siedliskowego"
+"note": "nowe § 22: wskaźnik dla lasów zależy od wieku rębności, głównego gatunku lasotwórczego i klasy bonitacyjnej drzewostanu – nie od typu siedliskowego. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 1553,
@@ -10325,7 +10379,8 @@
 "2021-05-27-75"
 ],
 "verdict": "OUT",
-"note": "nowe § 21: wskaźnik szacunkowy = 10× średni krajowy plon żyta (GUS); okręg podatkowy i klasa – przez współczynnik korekcyjny Wkbo"
+"note": "nowe § 21: wskaźnik szacunkowy = 10× średni krajowy plon żyta (GUS); okręg podatkowy i klasa – przez współczynnik korekcyjny Wkbo. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 1563,
@@ -10359,7 +10414,8 @@
 "2022-09-15-67"
 ],
 "verdict": "OUT",
-"note": "nowe § 22: brak typu siedliskowego i okręgu podatkowego; kryteria: wiek rębności, gatunek, klasa bonitacyjna drzewostanu"
+"note": "nowe § 22: brak typu siedliskowego i okręgu podatkowego; kryteria: wiek rębności, gatunek, klasa bonitacyjna drzewostanu. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 1567,
@@ -10417,7 +10473,8 @@
 "2021-03-18-29"
 ],
 "verdict": "OUT",
-"note": "nowe § 22: wskaźnik dla lasów zależy od wieku rębności, gatunku i klasy bonitacyjnej drzewostanu (nie od typu siedliskowego ani okręgu)"
+"note": "nowe § 22: wskaźnik dla lasów zależy od wieku rębności, gatunku i klasy bonitacyjnej drzewostanu (nie od typu siedliskowego ani okręgu). Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 1574,
@@ -10426,7 +10483,8 @@
 "2022-06-02-31"
 ],
 "verdict": "OUT",
-"note": "nowe § 21: wskaźnik szacunkowy = 10× średni krajowy plon żyta (GUS); rodzaj użytku – przez współczynnik korekcyjny Wkbo"
+"note": "nowe § 21: wskaźnik szacunkowy = 10× średni krajowy plon żyta (GUS); rodzaj użytku – przez współczynnik korekcyjny Wkbo. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 1575,
@@ -10434,7 +10492,8 @@
 "2022-03-24-26"
 ],
 "verdict": "OUT",
-"note": "dziś wskaźnik wynika z danych GUS (§ 21), a współczynniki korekcyjne podaje zał. 1 do rozporządzenia MRiT z 2023 r. (nie RM)"
+"note": "dziś wskaźnik wynika z danych GUS (§ 21), a współczynniki korekcyjne podaje zał. 1 do rozporządzenia MRiT z 2023 r. (nie RM). Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 1576,
@@ -11042,7 +11101,10 @@
 "2020-07-30-50"
 ],
 "verdict": "OUT",
-"note": "nowe § 22 ust. 3: cenę drewna przyjmuje się z nadleśnictwa właściwego lub sąsiednich (średnia ważona z 3 lat); „z rynku lokalnego” już nie"
+"note": "nowe § 22 ust. 3: cenę drewna przyjmuje się z nadleśnictwa właściwego lub sąsiednich (średnia ważona z 3 lat); „z rynku lokalnego” już nie. Dziś poprawna tylko B.",
+"currentKey": [
+1
+]
 },
 {
 "group": 1666,
@@ -11195,7 +11257,12 @@
 "2022-10-27-28"
 ],
 "verdict": "OUT",
-"note": "nowe § 22: nie są potrzebne ani klasa gruntu z katastru, ani typ siedliskowy, ani okręg podatkowy – pytanie traci sens"
+"note": "nowe § 22: nie są potrzebne ani klasa gruntu z katastru, ani typ siedliskowy, ani okręg podatkowy – pytanie traci sens. Dziś żadna z tych danych nie jest wymagana – poprawne A, B i C.",
+"currentKey": [
+0,
+1,
+2
+]
 },
 {
 "group": 1689,
@@ -11273,7 +11340,8 @@
 "2020-07-30-62"
 ],
 "verdict": "OUT",
-"note": "art. 5b (wyłączenie gruntów w granicach miast) uchylony – zgoda ministra dla kl. I–III wymagana także w miastach"
+"note": "art. 5b (wyłączenie gruntów w granicach miast) uchylony – zgoda ministra dla kl. I–III wymagana także w miastach. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 },
 {
 "group": 1701,
@@ -11642,7 +11710,11 @@
 "2020-07-30-87"
 ],
 "verdict": "OUT",
-"note": "nowe § 5 ust. 6: reguła 20% dla cen przetargowych usunięta (A nieaktualna)"
+"note": "nowe § 5 ust. 6: reguła 20% dla cen przetargowych usunięta (A nieaktualna). Dziś poprawne B i C.",
+"currentKey": [
+1,
+2
+]
 },
 {
 "group": 1758,
@@ -11650,7 +11722,8 @@
 "2021-04-22-86"
 ],
 "verdict": "OUT",
-"note": "nowe § 5 ust. 6 rozporządzenia z 2023 r.: ceny przetargowe – jeżeli ich rynkowy charakter nie budzi wątpliwości; limit 20% usunięto"
+"note": "nowe § 5 ust. 6 rozporządzenia z 2023 r.: ceny przetargowe – jeżeli ich rynkowy charakter nie budzi wątpliwości; limit 20% usunięto. Żaden wariant nie jest poprawny według obecnych przepisów – pytanie unieważnione, punkt przyznawany każdemu.",
+"currentKey": null
 }
 ]
 }

@@ -526,7 +526,7 @@ function startQuiz(mode, list, limit = 20, ordered = false, wholeBase = false) {
 function markLearn(q) {
   const previousDaily = state.days[today()] || 0;
   let selected = quiz.answers[q.id] || [];
-  let ok = exact(selected, q.correct);
+  let ok = isRight(q, selected);
   quiz.checked[q.id] = ok;
   let old = state.answers[q.id];
   state.answers[q.id] = {
@@ -593,6 +593,25 @@ const LAW_LABELS = {
   changed: "Zmieniona podstawa prawna, odpowiedź aktualna",
   current: "Bez stwierdzonych zmian w przepisach",
 };
+// Scoring follows the law in force on the review date. The sheet's key stays
+// visible as q.historicalCorrect; annulled questions give everyone the point.
+function applyCurrentLaw() {
+  for (const q of Q) {
+    const e = lawStatus[q.id];
+    if (!e || e.status !== "outdated" || q.historicalCorrect) continue;
+    if (e.annulled) {
+      q.historicalCorrect = q.correct;
+      q.correct = [];
+      q.annulled = true;
+    } else if (Array.isArray(e.currentCorrect) && e.currentCorrect.length) {
+      q.historicalCorrect = q.correct;
+      q.correct = [...e.currentCorrect];
+    }
+  }
+}
+function isRight(q, selected) {
+  return !!q.annulled || exact(selected, q.correct);
+}
 function lawDate() {
   return lawMeta ? dateLabel(lawMeta.checkedAt) : "";
 }
@@ -611,11 +630,13 @@ function lawBox(q) {
     return `<p class="law-current">${I("check")} Stan prawny sprawdzony na ${lawDate()}: nie stwierdzono zmian przepisów, które zmieniałyby tę odpowiedź.</p>`;
   const lead =
     s === "outdated"
-      ? "Klucz z tej sesji nie odpowiada już obowiązującym przepisom. Punktacja nadal liczy się według historycznego klucza — ucz się aktualnej reguły opisanej niżej."
+      ? entry.annulled
+        ? "Klucz z tej sesji nie odpowiada już obowiązującym przepisom, a żaden wariant nie jest dziś poprawny. Pytanie jest traktowane jak unieważnione — punkt otrzymuje każdy."
+        : "Klucz z tej sesji nie odpowiada już obowiązującym przepisom. Punkty liczą się według obecnego stanu prawnego; klucz z arkusza widać obok poprawnego zestawu."
       : s === "uncertain"
         ? "Obowiązywanie przepisu, na którym oparto odpowiedź, jest niepewne. Traktuj odpowiedź jako wiedzę techniczną, dopóki nie zostanie potwierdzony aktualny akt."
         : "Przepis, na którym oparto odpowiedź, został zastąpiony lub przeniesiony, ale odpowiedź z klucza pozostaje zgodna z obecnym prawem.";
-  return `<section class="legal-basis law-status law-${s}"><h3>${I(s === "changed" ? "scale" : "shield")} ${LAW_LABELS[s]}</h3><p>${lead}</p>${entry.note ? `<p class="law-note">${esc(entry.note)}</p>` : ""}<p class="legal-caption">Weryfikacja stanu prawnego na ${lawDate()} · nie jest częścią oficjalnego klucza.</p></section>`;
+  return `<section class="legal-basis law-status law-${s}"><h3>${I(s === "changed" ? "scale" : "shield")} ${LAW_LABELS[s]}</h3><p>${lead}</p>${entry.note ? `<p class="law-note">${esc(entry.note)}</p>` : ""}<p class="legal-caption">Weryfikacja stanu prawnego na ${lawDate()}${s === "outdated" ? " · punktacja według obecnych przepisów" : " · klucz z arkusza bez zmian"}.</p></section>`;
 }
 function legalBasis(q) {
   return lawBox(q) + legalBasisCore(q);
@@ -636,11 +657,11 @@ function legalBasisCore(q) {
 function legalOverview() {
   if (!legalMeta) return "";
   const c = legalMeta.counts;
-  return `<section class="panel legal-overview"><h2>Podstawy prawne odpowiedzi</h2><p>Przy odpowiedziach w trybie nauki, w podglądzie pytania oraz po zakończeniu sprawdzianu i egzaminu znajdziesz przypisy z konkretnym artykułem lub paragrafem, nazwą aktu i odnośnikiem do oficjalnego tekstu.</p><div class="legal-counts"><span><b>${c.cited}</b> pytań z przypisem prawnym</span><span><b>${c.nonlegal}</b> pytań specjalistycznych lub obliczeniowych</span><span><b>${c.unresolved}</b> pytań z podstawą do dalszej weryfikacji</span></div><p>Każdy przypis wymagał sprawdzenia treści wskazanego przepisu. Nie oznacza to pełnej weryfikacji obowiązywania tego brzmienia w dniu każdej historycznej sesji ani aktualności na dziś. Datę i wersję sprawdzisz w źródłowym akcie. Wątpliwe przypisania są oznaczone zamiast uzupełniane domyślnym artykułem.</p><p class="muted">Data opracowania przypisów: ${esc(legalMeta.checkedAt)}. Odpowiedzi i punktacja nadal pochodzą z historycznych kluczy ministerstwa.</p>${lawMeta ? `<h3>Aktualny stan prawny</h3><p>Pytania z sesji 2020–2023 porównano z przepisami obowiązującymi na ${lawDate()}: m.in. z rozporządzeniem o wycenie z 2023 r. (zastąpiło rozporządzenie z 2004 r.), reformą planowania przestrzennego z 2023 r. (plan ogólny zamiast studium) i rozporządzeniem o ewidencji gruntów z 2021 r.</p><div class="legal-counts"><span><b>${lawMeta.counts.outdated}</b> pytań nieaktualnych po zmianie przepisów</span><span><b>${lawMeta.counts.uncertain}</b> pytań ze stanem prawnym do potwierdzenia</span><span><b>${lawMeta.counts.changed}</b> pytań ze zmienioną podstawą, ale aktualną odpowiedzią</span></div><p class="muted">Oznaczenia nie zmieniają klucza ani punktacji. W ustawieniach możesz pominąć pytania nieaktualne w losowych zestawach.</p>` : ""}</section>`;
+  return `<section class="panel legal-overview"><h2>Podstawy prawne odpowiedzi</h2><p>Przy odpowiedziach w trybie nauki, w podglądzie pytania oraz po zakończeniu sprawdzianu i egzaminu znajdziesz przypisy z konkretnym artykułem lub paragrafem, nazwą aktu i odnośnikiem do oficjalnego tekstu.</p><div class="legal-counts"><span><b>${c.cited}</b> pytań z przypisem prawnym</span><span><b>${c.nonlegal}</b> pytań specjalistycznych lub obliczeniowych</span><span><b>${c.unresolved}</b> pytań z podstawą do dalszej weryfikacji</span></div><p>Każdy przypis wymagał sprawdzenia treści wskazanego przepisu. Nie oznacza to pełnej weryfikacji obowiązywania tego brzmienia w dniu każdej historycznej sesji ani aktualności na dziś. Datę i wersję sprawdzisz w źródłowym akcie. Wątpliwe przypisania są oznaczone zamiast uzupełniane domyślnym artykułem.</p><p class="muted">Data opracowania przypisów: ${esc(legalMeta.checkedAt)}. Odpowiedzi i punktacja nadal pochodzą z historycznych kluczy ministerstwa.</p>${lawMeta ? `<h3>Aktualny stan prawny</h3><p>Pytania z sesji 2020–2023 porównano z przepisami obowiązującymi na ${lawDate()}: m.in. z rozporządzeniem o wycenie z 2023 r. (zastąpiło rozporządzenie z 2004 r.), reformą planowania przestrzennego z 2023 r. (plan ogólny zamiast studium) i rozporządzeniem o ewidencji gruntów z 2021 r.</p><div class="legal-counts"><span><b>${lawMeta.counts.outdated}</b> pytań nieaktualnych po zmianie przepisów</span><span><b>${lawMeta.counts.uncertain}</b> pytań ze stanem prawnym do potwierdzenia</span><span><b>${lawMeta.counts.changed}</b> pytań ze zmienioną podstawą, ale aktualną odpowiedzią</span></div><p class="muted">W pytaniach nieaktualnych punkty liczą się według obecnych przepisów (a gdy żaden wariant nie jest dziś poprawny — punkt otrzymuje każdy). Klucz z arkusza pozostaje widoczny przy odpowiedzi.</p>` : ""}</section>`;
 }
 function feedback(q, ok, showCorrectOptions = true, session = null) {
   const shuffled = answerOrder(q, session).some((v, i) => v !== i);
-  return `<div class="feedback ${ok ? "" : "error"}" role="status"><strong>${ok ? "✓ Dobra odpowiedź." : "↻ To pytanie warto powtórzyć."}</strong><p>Poprawny zestaw z klucza: <b>${lettersFor(q, q.correct, session)}</b>.${shuffled ? ` <span class="muted">(w arkuszu: ${q.correct.map((i) => "ABC"[i]).join(", ")})</span>` : ""}</p>${q.keyNote ? `<p class="legal-note">${esc(q.keyNote)}</p>` : ""}${showCorrectOptions ? answerOrder(q, session).filter((i) => q.correct.includes(i)).map((i) => `<p>${letterFor(q, i, session)}. ${esc(q.options[i])}</p>`).join("") : ""}<p style="margin-top:9px;font-size:12px;color:#7f8773">Klucz historyczny — stan na ${dateLabel(q.session)}. ${lawStatus[q.id] ? `Stan prawny sprawdzono na ${lawDate()} — szczegóły poniżej.` : "Bez weryfikacji z obecnymi przepisami."}</p><a href="${q.keySource}" target="_blank" rel="noopener">Oficjalny klucz PDF ↗</a> &nbsp; <a href="${q.source}" target="_blank" rel="noopener">Arkusz źródłowy PDF ↗</a>${legalBasis(q)}${commentFor(q)}${noteEditor(q)}</div>`;
+  return `<div class="feedback ${ok ? "" : "error"}" role="status"><strong>${ok ? "✓ Dobra odpowiedź." : "↻ To pytanie warto powtórzyć."}</strong>${q.annulled ? `<p>Pytanie unieważnione według stanu prawnego na ${lawDate()}: żaden wariant nie jest dziś poprawny, punkt otrzymuje każdy. <span class="muted">(klucz z arkusza: ${q.historicalCorrect.map((i) => "ABC"[i]).join(", ")})</span></p>` : `<p>Poprawny zestaw${q.historicalCorrect ? ` według obecnych przepisów` : " z klucza"}: <b>${lettersFor(q, q.correct, session)}</b>.${shuffled ? ` <span class="muted">(w arkuszu: ${q.correct.map((i) => "ABC"[i]).join(", ")})</span>` : ""}${q.historicalCorrect ? ` <span class="muted">Klucz z arkusza: ${q.historicalCorrect.map((i) => "ABC"[i]).join(", ")}.</span>` : ""}</p>`}${q.keyNote ? `<p class="legal-note">${esc(q.keyNote)}</p>` : ""}${showCorrectOptions ? answerOrder(q, session).filter((i) => q.correct.includes(i)).map((i) => `<p>${letterFor(q, i, session)}. ${esc(q.options[i])}</p>`).join("") : ""}<p style="margin-top:9px;font-size:12px;color:#7f8773">Klucz historyczny — stan na ${dateLabel(q.session)}. ${lawStatus[q.id] ? `Stan prawny sprawdzono na ${lawDate()} — szczegóły poniżej.` : "Bez weryfikacji z obecnymi przepisami."}</p><a href="${q.keySource}" target="_blank" rel="noopener">Oficjalny klucz PDF ↗</a> &nbsp; <a href="${q.source}" target="_blank" rel="noopener">Arkusz źródłowy PDF ↗</a>${legalBasis(q)}${commentFor(q)}${noteEditor(q)}</div>`;
 }
 function finish() {
   if (!quiz) return;
@@ -648,7 +669,7 @@ function finish() {
   let score = 0;
   for (let id of quiz.ids) {
     let q = byId[id],
-      ok = exact(quiz.answers[id] || [], q.correct);
+      ok = isRight(q, quiz.answers[id] || []);
     if (ok) score++;
     if (
       quiz.mode !== "learn" ||
@@ -700,7 +721,7 @@ function resultPage() {
 }
 // A question earns a point only for the exact full answer set.
 function reviewAssessment(q, selected, session = null) {
-  const ok = exact(selected, q.correct);
+  const ok = isRight(q, selected);
   const missing = q.correct.filter((index) => !selected.includes(index));
   const extra = selected.filter((index) => !q.correct.includes(index));
   const letters = (values) => lettersFor(q, values, session);
@@ -711,14 +732,18 @@ function reviewAssessment(q, selected, session = null) {
       : missing.length && !extra.length
         ? "incomplete"
         : "incorrect";
-  const title = ok
+  const title = q.annulled
+    ? "Pytanie unieważnione — punkt przyznany"
+    : ok
     ? "Poprawna odpowiedź"
     : kind === "unanswered"
       ? "Brak odpowiedzi"
       : kind === "incomplete"
         ? "Błąd — niepełna odpowiedź"
         : "Błędna odpowiedź";
-  const explanation = ok
+  const explanation = q.annulled
+    ? "Według obecnych przepisów żaden wariant nie jest poprawny, więc punkt otrzymuje każdy."
+    : ok
     ? "Zaznaczono cały poprawny zestaw."
     : [
         missing.length
@@ -800,7 +825,7 @@ function showDetail(id) {
   let q = detail;
   showModal(
     modalHead("Pytanie z bazy") +
-      `<div class="qmeta"><span class="badge">${esc(q.category)}</span><span>${dateLabel(q.session)} · nr ${q.number}</span>${lawBadge(q)}</div><h3 style="line-height:1.8;margin-bottom:18px">${esc(q.question)}</h3><div class="options">${q.options.map((o, i) => `<div class="option"><span class="letter">${"ABC"[i]}</span><span>${esc(o)}</span></div>`).join("")}</div><div id="detail-key" hidden>${feedback(q, true).replace("✓ Dobra odpowiedź.", "Odpowiedzi według oficjalnego klucza")}</div><div class="actions">${bookmarkButton(q)}${btn("Pokaż poprawne odpowiedzi", "reveal-key", "check")}${btn("Ucz się tego pytania", "learn-one", "arrow", "secondary")}</div>`,
+      `<div class="qmeta"><span class="badge">${esc(q.category)}</span><span>${dateLabel(q.session)} · nr ${q.number}</span>${lawBadge(q)}</div><h3 style="line-height:1.8;margin-bottom:18px">${esc(q.question)}</h3><div class="options">${q.options.map((o, i) => `<div class="option"><span class="letter">${"ABC"[i]}</span><span>${esc(o)}</span></div>`).join("")}</div><div id="detail-key" hidden>${feedback(q, true).replace("✓ Dobra odpowiedź.", q.historicalCorrect ? "Odpowiedzi według obecnych przepisów" : "Odpowiedzi według oficjalnego klucza")}</div><div class="actions">${bookmarkButton(q)}${btn("Pokaż poprawne odpowiedzi", "reveal-key", "check")}${btn("Ucz się tego pytania", "learn-one", "arrow", "secondary")}</div>`,
   );
 }
 function navigate(v) {
@@ -1039,7 +1064,7 @@ function onAction(a, v) {
       break;
     case "repeat-wrong": {
       let wrong = review.ids.filter(
-        (id) => !exact(review.answers[id] || [], byId[id].correct),
+        (id) => !isRight(byId[id], review.answers[id] || []),
       );
       if (!wrong.length)
         toast("Wszystkie odpowiedzi są poprawne. Wybierz nowy zestaw!");
@@ -1117,8 +1142,6 @@ document.addEventListener("submit", (e) => {
         (pool === "wrong" && state.answers[q.id] && !correct(q)) ||
         (pool === "saved" && state.bookmarks.includes(q.id))),
   );
-  if (!(mode === "exam" && session) && preferences().skipOutdated)
-    list = list.filter((q) => lawStatus[q.id]?.status !== "outdated");
   if (!list.length) {
     $("#config-error").innerHTML =
       '<p style="color:#a14e4e">W tym zakresie nie ma pytań. Wybierz inny zakres.</p>';
@@ -1394,6 +1417,7 @@ Promise.all([
     Q = data.questions;
     sessions = data.sessions;
     byId = Object.fromEntries(Q.map((q) => [q.id, q]));
+    applyCurrentLaw();
     try {
       pruneRemoved(state);
       validateImport({ format: "pracownia-v1", state });

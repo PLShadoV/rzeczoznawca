@@ -158,7 +158,8 @@ async function runLogicChecks() {
   let expired = setup(t.getStore());
   await ready();
   assert.equal(expired.run("state.active"), null);
-  assert.equal(expired.run("review.score"), 0);
+  // Unanswered: only annulled questions (point for everyone) score.
+  assert.equal(expired.run("review.score"), expired.run("review.ids.filter(id=>byId[id].annulled).length"));
   assert.equal(expired.run("state.history.length"), 3);
   // Dedicated whole-base actions and the form must ignore previous browsing filters.
   let random = setup();
@@ -245,10 +246,11 @@ async function runLogicChecks() {
   random.run(
     "quiz.answers={};quiz.ids.slice(0,12).forEach(id=>quiz.answers[id]=[...byId[id].correct]);finish()",
   );
-  assert.equal(random.run("review.score"), 12);
+  const randomScore = 12 + Number(random.run("review.ids.slice(12).filter(id=>byId[id].annulled).length"));
+  assert.equal(random.run("review.score"), randomScore);
   assert.equal(random.run("state.history[0].mode"), "test");
   assert.equal(random.run("Object.keys(state.answers).length"), 30);
-  assert.match(random.run("resultPage()"), /12 z 30 \(40%\)/);
+  assert.match(random.run("resultPage()"), new RegExp(`${randomScore} z 30 \\(${Math.round((randomScore / 30) * 100)}%\\)`));
   assert.doesNotMatch(random.run("resultPage()"), /Próg zaliczenia/);
   assert.match(random.run("reviewPage()"), /Poprawny zestaw z klucza/);
   assert.match(random.run("statsPage()"), /Losowy sprawdzian/);
@@ -374,35 +376,38 @@ async function runLogicChecks() {
   assert.equal(withdrawn.run("state.active"), null);
   assert.equal(withdrawn.run("state.notes[Q.find(q=>q.id===" + JSON.stringify(data.questions[2].id) + ").id]"), "moja notatka");
   assert.equal(withdrawn.run("preferences().shuffleAnswers"), true);
-  // Current-law layer: flags questions, never changes keys or scores.
+  // Current-law layer: outdated questions are scored by current law and never hidden.
   const lw = setup();
   await ready();
   const outdatedIds = Object.keys(lawFixture.items).filter((id) => lawFixture.items[id].status === "outdated");
   assert.ok(outdatedIds.length >= 40, "outdated questions are flagged");
-  const oid = outdatedIds[0];
-  const oq = JSON.parse(lw.run(`JSON.stringify(byId[${JSON.stringify(oid)}])`));
-  assert.deepEqual(oq.correct, data.questions.find((q) => q.id === oid).correct, "historical key unchanged");
-  const fb = lw.run(`feedback(byId[${JSON.stringify(oid)}], true)`);
+  const keyedId = outdatedIds.find((id) => lawFixture.items[id].currentCorrect);
+  const annulledId = outdatedIds.find((id) => lawFixture.items[id].annulled);
+  const sheet = JSON.parse(fs.readFileSync("dist/questions.json", "utf8")).questions;
+  const hist = sheet.find((q) => q.id === keyedId).correct;
+  assert.deepEqual(JSON.parse(lw.run(`JSON.stringify(byId[${JSON.stringify(keyedId)}].historicalCorrect)`)), hist, "sheet key kept for display");
+  assert.deepEqual(JSON.parse(lw.run(`JSON.stringify(byId[${JSON.stringify(keyedId)}].correct)`)), lawFixture.items[keyedId].currentCorrect, "current-law key used");
+  assert.equal(lw.run(`isRight(byId[${JSON.stringify(keyedId)}], ${JSON.stringify(lawFixture.items[keyedId].currentCorrect)})`), true);
+  if (JSON.stringify(hist) !== JSON.stringify(lawFixture.items[keyedId].currentCorrect))
+    assert.equal(lw.run(`isRight(byId[${JSON.stringify(keyedId)}], ${JSON.stringify(hist)})`), false, "old key no longer scores");
+  assert.equal(lw.run(`isRight(byId[${JSON.stringify(annulledId)}], [])`), true, "annulled: point for everyone");
+  assert.match(lw.run(`feedback(byId[${JSON.stringify(annulledId)}], true)`), /Pytanie unieważnione/);
+  const fb = lw.run(`feedback(byId[${JSON.stringify(keyedId)}], true)`);
   assert.match(fb, /Nieaktualne po zmianie przepisów/);
-  assert.ok(fb.includes(lw.run(`esc(lawStatus[${JSON.stringify(oid)}].note)`)));
-  assert.match(lw.run(`qRow(byId[${JSON.stringify(oid)}])`), /Nieaktualne prawnie/);
+  assert.match(fb, /według obecnych przepisów/);
+  assert.match(fb, /Klucz z arkusza/);
+  assert.match(lw.run(`qRow(byId[${JSON.stringify(keyedId)}])`), /Nieaktualne prawnie/);
   lw.run("view='base';filter.law='outdated'");
   assert.equal(Number(lw.run("filtered().length")), outdatedIds.filter((id) => data.questions.some((q) => q.id === id)).length);
-  assert.match(lw.run("basePage()"), /id="lawfilter"/);
-  const osession = oid.slice(0, 10);
+  const osession = keyedId.slice(0, 10);
   lw.events.submit({ target: { id: "config-form", values: { mode: "learn", scope: "", session: osession, category: "", pool: "all", limit: "100" } }, preventDefault() {} });
-  assert.equal(lw.run(`quiz.ids.includes(${JSON.stringify(oid)})`), false, "outdated skipped in learning");
-  lw.run("state.active=null;quiz=null");
-  lw.events.submit({ target: { id: "config-form", values: { mode: "exam", scope: "", session: osession, category: "", pool: "all", limit: "90" } }, preventDefault() {} });
-  assert.equal(lw.run("quiz.ids.length"), 90, "historical sheet keeps all questions");
-  assert.equal(lw.run(`quiz.ids.includes(${JSON.stringify(oid)})`), true);
-  lw.run("state.active=null;quiz=null;state.settings={...preferences(),skipOutdated:false}");
-  lw.events.submit({ target: { id: "config-form", values: { mode: "learn", scope: "", session: osession, category: "", pool: "all", limit: "100" } }, preventDefault() {} });
-  assert.equal(lw.run(`quiz.ids.includes(${JSON.stringify(oid)})`), true, "can include outdated");
-  assert.throws(() => lw.run("validateSettings({...preferences(),skipOutdated:'tak'})"));
+  assert.equal(lw.run(`quiz.ids.includes(${JSON.stringify(keyedId)})`), true, "outdated questions are not hidden");
+  lw.run(`quiz.ids.forEach(id=>quiz.answers[id]=[...byId[id].correct]);finish()`);
+  assert.equal(lw.run("review.score"), lw.run("review.total"), "full marks with current-law answers");
+  assert.match(lw.run("reviewPage()"), /według obecnych przepisów|Poprawna odpowiedź/);
   const cur = Object.keys(lawFixture.items).find((id) => lawFixture.items[id].status === "current");
   assert.match(lw.run(`feedback(byId[${JSON.stringify(cur)}], true)`), /nie stwierdzono zmian/);
-  console.log("PASS: current-law layer – outdated/uncertain flags, base filter, skipping in random sets, full historical sheets, unchanged keys.");
+  console.log("PASS: current-law layer – scoring by current law (historical key shown), annulled questions, no hidden questions, base filter.");
   console.log(
     "PASS: randomised answer order (letters move, texts and keys stay), keyboard mapping, saved order validation, pruning of withdrawn questions.",
   );

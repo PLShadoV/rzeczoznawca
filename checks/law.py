@@ -13,6 +13,10 @@ for qid, e in items.items():
     assert e['status'] in ('outdated', 'uncertain', 'changed', 'current'), qid
     if e['status'] != 'current':
         assert len(e.get('note', '')) >= 30, f'{qid}: status without explanation'
+    if e['status'] == 'outdated':
+        assert e.get('annulled') is True or (e.get('currentCorrect') and set(e['currentCorrect']) <= {0, 1, 2}), f'{qid}: outdated without current-law key'
+    else:
+        assert 'currentCorrect' not in e and 'annulled' not in e, qid
 counts = {s: sum(1 for e in items.values() if e['status'] == s) for s in law['counts']}
 assert counts == law['counts'], 'counts out of date – run data/law/assemble.py'
 missing = [qid for qid, q in questions.items()

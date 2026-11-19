@@ -9,9 +9,12 @@ Statuses (per question id):
   uncertain – the legal state of the underlying act is unclear (e.g. lapsed regulation without a successor)
   changed   – the legal basis changed (new act / renumbered provision) but the keyed answer still holds
   current   – reviewed, no change affecting the answer was found
+Outdated questions carry `currentCorrect` (the scoring key under current law) or
+`annulled: true` (no option is correct today; everyone gets the point, as with
+an annulled exam question).
 Questions classified as non-legal (calculations, technology, economics) get no status.
 
-The historical keys and grading are never modified. Run from the repository root:
+dist/questions.json keeps the historical keys; the app scores by current law. Run from the repository root:
   python3 data/law/assemble.py
 """
 import json
@@ -32,12 +35,16 @@ WT_NOTE = ('Rozporządzenie Ministra Infrastruktury z 12.04.2002 r. w sprawie wa
 items = {}
 
 
-def put(qid, status, note=None):
+def put(qid, status, note=None, key='missing'):
     if qid not in QUESTIONS:
         return
     entry = {'status': status}
     if note:
         entry['note'] = note
+    if key is None:
+        entry['annulled'] = True          # no option is right under current law: point for everyone
+    elif key != 'missing':
+        entry['currentCorrect'] = key     # scoring key under current law
     items[qid] = entry
 
 
@@ -45,7 +52,7 @@ for group in REVIEW['groups']:
     verdict = group.get('verdict')
     for qid in group['ids']:
         if verdict:
-            put(qid, STATUS[verdict], group.get('note'))
+            put(qid, STATUS[verdict], group.get('note'), group.get('currentKey', 'missing'))
         elif LEGAL.get(qid, {}).get('status') != 'nonlegal':
             put(qid, 'current')
 
@@ -78,7 +85,7 @@ def date_pl(d):
 
 
 lines = [f'# Raport stanu prawnego pytań 2020–2023 (stan na {date_pl(REVIEW["reviewedAt"])})', '',
-         'Plik generowany przez `data/law/assemble.py`. Klucze i punktacja się nie zmieniają — to warstwa informacyjna.', '']
+         'Plik generowany przez `data/law/assemble.py`. Aplikacja liczy punkty według obecnego stanu prawnego (klucz „dziś”); klucz historyczny pozostaje widoczny.', '']
 labels = {'outdated': 'Nieaktualne po zmianie przepisów', 'uncertain': 'Stan prawny do potwierdzenia (lista 2020–2023; liczba wystąpień obejmuje też pytania 2024–2026 oparte na warunkach technicznych)'}
 for status in ('outdated', 'uncertain'):
     seen = set()
@@ -90,6 +97,11 @@ for status in ('outdated', 'uncertain'):
         seen.add(group['group'])
         q = QUESTIONS[ids[0]]
         keyed = ', '.join('ABC'[i] for i in q['correct'])
+        e = items[ids[0]]
+        if e.get('annulled'):
+            keyed += ' → dziś: pytanie unieważnione'
+        elif 'currentCorrect' in e:
+            keyed += ' → dziś: ' + ', '.join('ABC'[i] for i in e['currentCorrect'])
         rows.append(f"- **{q['question']}** — klucz: {keyed}; sesje: {', '.join(sorted(ids))}.  \n  {items[ids[0]]['note']}")
     lines += [f'## {labels[status]} ({len(rows)} pytań, {counts[status]} wystąpień w arkuszach)', ''] + rows + ['']
 (ROOT / 'data/law/REPORT.md').write_text('\n'.join(lines))
