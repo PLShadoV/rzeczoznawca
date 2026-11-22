@@ -48,7 +48,8 @@ def sig(q):
 data = json.loads((ROOT / 'dist/questions.json').read_text())
 # Only sessions listed in sources-older.json are published (2018-2019 were withdrawn
 # from the bank on 2026-11-13). Previously merged archive sessions are always rebuilt.
-archive_dates = set(SRC)
+# All archive sessions (2020-03.2021) were withdrawn in 1.5.0 – nothing older than 2022 is published.
+archive_dates = {d for d in SRC if d >= '2022-01-01'}
 previous_archive = {s['date'] for s in data['sessions'] if s.get('archive')} | archive_dates
 current = [q for q in data['questions'] if q['session'] not in previous_archive]
 sessions = [s for s in data['sessions'] if s['date'] not in previous_archive]

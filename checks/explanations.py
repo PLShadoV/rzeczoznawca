@@ -21,4 +21,4 @@ for key,item in e['items'].items():
   assert u.scheme=='https' and u.hostname and not u.username and s['title'],(key,s)
  assert '<script' not in item['text'].lower(),key
 arch=[i for i in e['items'] if i[:10] in archive]
-print('PASS: all',len(required),'non-cited 2021-2026 questions have substantive comments with HTTPS sources;',len(arch),'archive questions reuse comments of identical questions. Official keys remain a separate layer.')
+print('PASS: all',len(required),'non-cited 2022-2026 questions have substantive comments with HTTPS sources;',len(arch),'archive questions reuse comments of identical questions. Official keys remain a separate layer.')

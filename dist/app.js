@@ -64,7 +64,12 @@ const CATS = [
   "Rolnictwo i leśnictwo",
 ];
 const CAT_ICONS = ["building", "scale", "map", "building", "chart", "leaf"];
+// Bump to start everyone's statistics from scratch on their next visit
+// (answers, history, activity days, unfinished session). Settings, notes and
+// bookmarks are kept. Imported backups are stamped with the current epoch.
+const STATS_EPOCH = "2026-11-22";
 const fresh = () => ({
+  statsEpoch: STATS_EPOCH,
   answers: {},
   bookmarks: [],
   history: [],
@@ -84,7 +89,16 @@ try {
     Array.isArray(x.history) &&
     x.days
   )
-    state = { ...fresh(), ...x };
+    state =
+      x.statsEpoch === STATS_EPOCH
+        ? { ...fresh(), ...x }
+        : {
+            ...fresh(),
+            bookmarks: x.bookmarks,
+            notes: x.notes && typeof x.notes === "object" ? x.notes : {},
+            settings: { ...defaultSettings(), ...(x.settings || {}) },
+            statsReset: true,
+          };
 } catch (e) {
   storageOK = false;
 }
@@ -163,7 +177,7 @@ function shell(content) {
     review: "Przegląd odpowiedzi",
   };
   $("#app").innerHTML =
-    `<div class="shell"><aside class="sidebar"><a href="#home" class="brand"><span class="brandmark">${I("building")}</span><span>Pracownia<br>Rzeczoznawcy<small>TWOJA PRZESTRZEŃ DO NAUKI</small></span></a><div class="navlabel">TWOJA PRACOWNIA</div><nav aria-label="Menu główne">${nav.map(([v, i, t]) => `<a href="#${v}" title="${t}" ${view === v ? 'aria-current="page"' : ""} class="${view === v ? "active" : ""}">${I(i)}<span>${t}</span>${v === "base" ? `<span class="count">${Q.length}</span>` : ""}</a>`).join("")}</nav><div class="sidebottom"><div class="sidehelp">${I("bulb")}<h3>Małe kroki. Duży postęp.</h3><p>Nawet 15 minut nauki dziennie przybliża Cię do celu.</p><button data-action="learn-config">Zacznij krótką sesję ↗</button></div><div class="local"><span class="dot"></span>Bez konta. W Twoim tempie.</div></div></aside><main class="main" id="main-content" tabindex="-1"><header class="topbar"><div class="crumb">Twoja pracownia <span>/ &nbsp; ${titles[view] || "Pulpit"}</span></div><a class="mobilebrand" href="#home">Pracownia Rzeczoznawcy</a><div class="topright">${networkBadge()}<span class="date">Przestrzeń do dobrego przygotowania</span><span class="pill">${I("shield")} Bez logowania</span><div class="toolbar"><button class="iconbtn" data-action="theme" aria-label="${preferences().theme === "dark" ? "Włącz jasny wygląd" : "Włącz tryb nocny"}" title="Zmień wygląd">${I(preferences().theme === "dark" ? "sun" : "moon")}</button><button class="iconbtn" data-action="help" aria-label="Pomoc i skróty klawiaturowe" title="Pomoc">${I("help")}</button><button class="iconbtn" data-action="settings" aria-label="Ustawienia i plan nauki" title="Ustawienia pracowni">${I("settings")}</button></div></div></header><div class="content">${!storageOK ? '<div id="storage-warn" class="notice">Zapis lokalny jest niedostępny. Zachowaj postęp, pobierając kopię w Statystykach.</div>' : ""}${content}<footer class="foot"><span>© ${new Date().getFullYear()} Pracownia Rzeczoznawcy · Wersja 1.4.0 · Ucz się świadomie.</span><span><button data-action="help">Pomoc i skróty</button> &nbsp; · &nbsp; Postęp na tym urządzeniu &nbsp; · &nbsp; <button data-action="sources">Źródła i zasady</button></span></footer></div></main></div>`;
+    `<div class="shell"><aside class="sidebar"><a href="#home" class="brand"><span class="brandmark">${I("building")}</span><span>Pracownia<br>Rzeczoznawcy<small>TWOJA PRZESTRZEŃ DO NAUKI</small></span></a><div class="navlabel">TWOJA PRACOWNIA</div><nav aria-label="Menu główne">${nav.map(([v, i, t]) => `<a href="#${v}" title="${t}" ${view === v ? 'aria-current="page"' : ""} class="${view === v ? "active" : ""}">${I(i)}<span>${t}</span>${v === "base" ? `<span class="count">${Q.length}</span>` : ""}</a>`).join("")}</nav><div class="sidebottom"><div class="sidehelp">${I("bulb")}<h3>Małe kroki. Duży postęp.</h3><p>Nawet 15 minut nauki dziennie przybliża Cię do celu.</p><button data-action="learn-config">Zacznij krótką sesję ↗</button></div><div class="local"><span class="dot"></span>Bez konta. W Twoim tempie.</div></div></aside><main class="main" id="main-content" tabindex="-1"><header class="topbar"><div class="crumb">Twoja pracownia <span>/ &nbsp; ${titles[view] || "Pulpit"}</span></div><a class="mobilebrand" href="#home">Pracownia Rzeczoznawcy</a><div class="topright">${networkBadge()}<span class="date">Przestrzeń do dobrego przygotowania</span><span class="pill">${I("shield")} Bez logowania</span><div class="toolbar"><button class="iconbtn" data-action="theme" aria-label="${preferences().theme === "dark" ? "Włącz jasny wygląd" : "Włącz tryb nocny"}" title="Zmień wygląd">${I(preferences().theme === "dark" ? "sun" : "moon")}</button><button class="iconbtn" data-action="help" aria-label="Pomoc i skróty klawiaturowe" title="Pomoc">${I("help")}</button><button class="iconbtn" data-action="settings" aria-label="Ustawienia i plan nauki" title="Ustawienia pracowni">${I("settings")}</button></div></div></header><div class="content">${!storageOK ? '<div id="storage-warn" class="notice">Zapis lokalny jest niedostępny. Zachowaj postęp, pobierając kopię w Statystykach.</div>' : ""}${content}<footer class="foot"><span>© ${new Date().getFullYear()} Pracownia Rzeczoznawcy · Wersja 1.5.0 · Ucz się świadomie.</span><span><button data-action="help">Pomoc i skróty</button> &nbsp; · &nbsp; Postęp na tym urządzeniu &nbsp; · &nbsp; <button data-action="sources">Źródła i zasady</button></span></footer></div></main></div>`;
 }
 const head = (h, p, extra = "") =>
   `<div class="pagehead"><div><h1>${h}</h1><p>${p}</p></div>${extra}</div>`;
@@ -666,7 +680,7 @@ function legalBasisCore(q) {
 function legalOverview() {
   if (!legalMeta) return "";
   const c = legalMeta.counts;
-  return `<section class="panel legal-overview"><h2>Podstawy prawne odpowiedzi</h2><p>Przy odpowiedziach w trybie nauki, w podglądzie pytania oraz po zakończeniu sprawdzianu i egzaminu znajdziesz przypisy z konkretnym artykułem lub paragrafem, nazwą aktu i odnośnikiem do oficjalnego tekstu.</p><div class="legal-counts"><span><b>${c.cited}</b> pytań z przypisem prawnym</span><span><b>${c.nonlegal}</b> pytań specjalistycznych lub obliczeniowych</span><span><b>${c.unresolved}</b> pytań z podstawą do dalszej weryfikacji</span></div><p>Każdy przypis wymagał sprawdzenia treści wskazanego przepisu. Nie oznacza to pełnej weryfikacji obowiązywania tego brzmienia w dniu każdej historycznej sesji ani aktualności na dziś. Datę i wersję sprawdzisz w źródłowym akcie. Wątpliwe przypisania są oznaczone zamiast uzupełniane domyślnym artykułem.</p><p class="muted">Data opracowania przypisów: ${esc(legalMeta.checkedAt)}. Odpowiedzi i punktacja nadal pochodzą z historycznych kluczy ministerstwa.</p>${lawMeta ? `<h3>Aktualny stan prawny</h3><p>Pytania z sesji 2020–2023 porównano z przepisami obowiązującymi na ${lawDate()}: m.in. z rozporządzeniem o wycenie z 2023 r. (zastąpiło rozporządzenie z 2004 r.), reformą planowania przestrzennego z 2023 r. (plan ogólny zamiast studium) i rozporządzeniem o ewidencji gruntów z 2021 r.</p><div class="legal-counts"><span><b>${lawMeta.counts.outdated}</b> pytań nieaktualnych po zmianie przepisów</span><span><b>${lawMeta.counts.uncertain}</b> pytań ze stanem prawnym do potwierdzenia</span><span><b>${lawMeta.counts.changed}</b> pytań ze zmienioną podstawą, ale aktualną odpowiedzią</span></div><p class="muted">W pytaniach nieaktualnych punkty liczą się według obecnych przepisów (a gdy żaden wariant nie jest dziś poprawny — punkt otrzymuje każdy). Klucz z arkusza pozostaje widoczny przy odpowiedzi.</p>` : ""}</section>`;
+  return `<section class="panel legal-overview"><h2>Podstawy prawne odpowiedzi</h2><p>Przy odpowiedziach w trybie nauki, w podglądzie pytania oraz po zakończeniu sprawdzianu i egzaminu znajdziesz przypisy z konkretnym artykułem lub paragrafem, nazwą aktu i odnośnikiem do oficjalnego tekstu.</p><div class="legal-counts"><span><b>${c.cited}</b> pytań z przypisem prawnym</span><span><b>${c.nonlegal}</b> pytań specjalistycznych lub obliczeniowych</span><span><b>${c.unresolved}</b> pytań z podstawą do dalszej weryfikacji</span></div><p>Każdy przypis wymagał sprawdzenia treści wskazanego przepisu. Nie oznacza to pełnej weryfikacji obowiązywania tego brzmienia w dniu każdej historycznej sesji ani aktualności na dziś. Datę i wersję sprawdzisz w źródłowym akcie. Wątpliwe przypisania są oznaczone zamiast uzupełniane domyślnym artykułem.</p><p class="muted">Data opracowania przypisów: ${esc(legalMeta.checkedAt)}. Odpowiedzi i punktacja nadal pochodzą z historycznych kluczy ministerstwa.</p>${lawMeta ? `<h3>Aktualny stan prawny</h3><p>Pytania z sesji 2022–2023 porównano z przepisami obowiązującymi na ${lawDate()}: m.in. z rozporządzeniem o wycenie z 2023 r. (zastąpiło rozporządzenie z 2004 r.), reformą planowania przestrzennego z 2023 r. (plan ogólny zamiast studium) i rozporządzeniem o ewidencji gruntów z 2021 r.</p><div class="legal-counts"><span><b>${lawMeta.counts.outdated}</b> pytań nieaktualnych po zmianie przepisów</span><span><b>${lawMeta.counts.uncertain}</b> pytań ze stanem prawnym do potwierdzenia</span><span><b>${lawMeta.counts.changed}</b> pytań ze zmienioną podstawą, ale aktualną odpowiedzią</span></div><p class="muted">W pytaniach nieaktualnych punkty liczą się według obecnych przepisów (a gdy żaden wariant nie jest dziś poprawny — punkt otrzymuje każdy). Klucz z arkusza pozostaje widoczny przy odpowiedzi.</p>` : ""}</section>`;
 }
 function feedback(q, ok, showCorrectOptions = true, session = null) {
   const shuffled = answerOrder(q, session).some((v, i) => v !== i);
@@ -1204,7 +1218,7 @@ document.addEventListener("change", async (e) => {
           `<p>Wczytanie zastąpi obecne odpowiedzi, historię i zakładki na tym urządzeniu. Kopia zawiera ${Object.keys(x.state.answers).length} odpowiedzi i ${x.state.history.length} sesji.</p><div class="actions">${btn("Anuluj", "close-modal", "close", "secondary")}<button class="btn" id="confirm-import">Zastąp obecny postęp</button></div>`,
       );
       $("#confirm-import").onclick = () => {
-        state = window.pendingImport;
+        state = { ...window.pendingImport, statsEpoch: STATS_EPOCH };
         delete window.pendingImport;
         quiz = null;
         review = null;
@@ -1440,6 +1454,11 @@ Promise.all([
       if (!quiz) view = "home";
     }
     if (["result", "review"].includes(view)) view = "stats";
+    if (state.statsReset) {
+      delete state.statsReset;
+      save();
+      setTimeout(() => toast("Statystyki zostały wyzerowane — baza zawiera teraz pytania z lat 2022–2026. Zakładki, notatki i ustawienia zostały zachowane."), 0);
+    }
     render();
     if (state.active?.mode === "exam" && state.active.deadline <= Date.now()) {
       quiz = state.active;

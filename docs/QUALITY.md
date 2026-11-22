@@ -1,4 +1,4 @@
-# Kontrola wydania 1.4.0
+# Kontrola wydania 1.5.0
 
 ## Wykonane kontrole automatyczne
 
@@ -21,7 +21,8 @@
 - Losowa kolejność odpowiedzi: testy sprawdzają, że każdy wariant zachowuje treść, poprawna odpowiedź trafia na A, B i C, skróty klawiaturowe wybierają widoczną pozycję, punktacja i przegląd wyników używają oryginalnych wariantów, a zapisana kolejność jest walidowana przy imporcie.
 - Postęp z usuniętymi pytaniami (2018–2019) jest oczyszczany zamiast odrzucany (test na przykładowej kopii).
 - 4 sesje archiwalne 2020–03.2021 (sesje 2018–2019 wycofano w 1.3.0): klucze odczytane automatycznie z kratek skanu i porównane wzrokowo; tekst z OCR z ręczną korektą pól z rozbieżnościami, liczbami i nieznanymi słowami (opis: `data/older/README.md`).
-- Stan prawny (1.4.0): `checks/law.py` sprawdza, że każde pytanie prawne z lat 2020–2023 ma status, statusy inne niż „bez zmian” mają uzasadnienie, a liczniki są aktualne; każde pytanie nieaktualne ma klucz według obecnych przepisów albo status unieważnionego; testy logiki sprawdzają punktację według obecnego stanu prawnego, punkt za pytania unieważnione, widoczny klucz z arkusza, filtr i to, że pytania nie są ukrywane.
+- Stan prawny (1.4.0): `checks/law.py` sprawdza, że każde pytanie prawne z lat 2022–2023 ma status, statusy inne niż „bez zmian” mają uzasadnienie, a liczniki są aktualne; każde pytanie nieaktualne ma klucz według obecnych przepisów albo status unieważnionego; testy logiki sprawdzają punktację według obecnego stanu prawnego, punkt za pytania unieważnione, widoczny klucz z arkusza, filtr i to, że pytania nie są ukrywane.
+- 1.5.0: brak pytań sprzed 2022 r. (test logiki), klucze 2610/2610 zgodne z kratkami PDF (`checks/keys.py`), jednorazowy reset statystyk z zachowaniem zakładek, notatek i ustawień oraz zachowanie postępu po resecie (testy logiki).
 - Paczki dystrybucyjne nie zawierają konfiguracji Sites ani poświadczeń; dołączone manifesty pozwalają sprawdzić integralność.
 
 ## Granice potwierdzenia
@@ -30,7 +31,7 @@ W tym środowisku nie był dostępny obsługiwany podgląd przeglądarkowy. Nie 
 
 Po uruchomieniu na własnym GitHub Pages zalecany jest krótki przegląd: widok telefonu i komputera, jasny/nocny motyw, klawiatura i focus dialogu, notatka z eksportem/importem, egzamin po odświeżeniu oraz przejście offline po zakończonej instalacji cache. Nie stanowi to dodatkowego wymogu do zbudowania strony — jest jawnym zakresem niewykonanego sprawdzenia.
 
-Biblioteka jest historyczna. 2457 pytań ma przypis prawny, 571 oznaczenie wiedzy specjalistycznej lub obliczeń, a 572 wymaga dalszej weryfikacji podstawy. Tekst pytań archiwalnych pochodzi z OCR skanów; pola zgodne we wszystkich przebiegach OCR nie były porównywane ze skanem znak po znaku. Potwierdzenie fragmentu w wskazanym tekście aktu nie oznacza pełnego audytu wszystkich historycznych wersji prawa ani zgodności z dzisiejszym egzaminem. Szczegóły w `data/legal/README.md`. Weryfikacja aktualności (stan na 19.11.2026) dotyczy pytań z lat 2020–2023 oraz pytań opartych na warunkach technicznych z 2002 r.; pytania z lat 2024–2026 nie były ponownie sprawdzane pod kątem zmian po dacie sesji. Opis metody: `data/law/README.md`.
+Biblioteka jest historyczna. 1900 pytań ma przypis prawny, 467 oznaczenie wiedzy specjalistycznej lub obliczeń, a 243 wymaga dalszej weryfikacji podstawy. Tekst pytań archiwalnych pochodzi z OCR skanów; pola zgodne we wszystkich przebiegach OCR nie były porównywane ze skanem znak po znaku. Potwierdzenie fragmentu w wskazanym tekście aktu nie oznacza pełnego audytu wszystkich historycznych wersji prawa ani zgodności z dzisiejszym egzaminem. Szczegóły w `data/legal/README.md`. Weryfikacja aktualności (stan na 19.11.2026) dotyczy pytań z lat 2020–2023 oraz pytań opartych na warunkach technicznych z 2002 r.; pytania z lat 2024–2026 nie były ponownie sprawdzane pod kątem zmian po dacie sesji. Opis metody: `data/law/README.md`.
 
 ## Komentarze do odpowiedzi
 

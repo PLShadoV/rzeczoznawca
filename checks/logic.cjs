@@ -85,7 +85,7 @@ const legalFixture = fs.existsSync("dist/legal-bases.json")
   : {
       schemaVersion: 1,
       checkedAt: "2026-11-05",
-      counts: { cited: 0, nonlegal: 0, unresolved: 3600 },
+      counts: { cited: 0, nonlegal: 0, unresolved: 2610 },
       items: {},
     };
 const lawFixture = JSON.parse(fs.readFileSync("dist/law-status.json", "utf8"));
@@ -93,9 +93,10 @@ const ready = () => new Promise((r) => setImmediate(r));
 async function runLogicChecks() {
   let t = setup();
   await ready();
-  assert.equal(t.run("Q.length"), 3600);
-  assert.equal(t.run("sessions.length"), 40);
-  assert.equal(t.run("yearsLabel()"), "2020–2026");
+  assert.equal(t.run("Q.length"), 2610);
+  assert.equal(t.run("sessions.length"), 29);
+  assert.equal(t.run("Q.some(q=>q.session<'2022-01-01')"), false, "no sessions before 2022");
+  assert.equal(t.run("yearsLabel()"), "2022–2026");
   assert.match(t.nodes["#app"].innerHTML, /Twoje uprawnienia/);
   for (let view of [
     "home",
@@ -204,7 +205,7 @@ async function runLogicChecks() {
         "JSON.stringify([...new Set(uniqueQuestions(Q).map(q=>q.session.slice(0,4)))].sort())",
       ),
     ),
-    ["2020", "2021", "2022", "2023", "2024", "2025", "2026"],
+    ["2022", "2023", "2024", "2025", "2026"],
   );
   random.run(
     "quiz.answers[quiz.ids[0]]=[...byId[quiz.ids[0]].correct];onAction('check')",
@@ -257,7 +258,7 @@ async function runLogicChecks() {
   // Most recent copy wins when a question recurs, independent of input ordering.
   assert.equal(
     random.run(
-      "uniqueQuestions([{question:'Pytanie',options:['A','B','C'],session:'2021-01-01',id:'old'},{question:'Pytanie',options:['A','B','C'],session:'2026-01-01',id:'new'}])[0].id",
+      "uniqueQuestions([{question:'Pytanie',options:['A','B','C'],session:'2022-01-01',id:'old'},{question:'Pytanie',options:['A','B','C'],session:'2026-01-01',id:'new'}])[0].id",
     ),
     "new",
   );
@@ -280,10 +281,30 @@ async function runLogicChecks() {
         deadline: null,
       },
     };
-  let legacy = setup(oldState);
+  let legacy = setup({ ...oldState, statsEpoch: "2026-11-22" });
   await ready();
   assert.equal(legacy.run('state.answers["2026-09-09-1"].attempts'), 2);
   assert.equal(legacy.run("state.active.ids[0]"), oldId);
+  // A save from before the 1.5.0 reset starts statistics from scratch on every device,
+  // keeping bookmarks, notes and settings.
+  let reset = setup({ ...oldState, notes: { [oldId]: "moja notatka" }, settings: { theme: "dark", textSize: "normal", dailyGoal: 40, examDate: "" } });
+  await ready();
+  assert.equal(reset.run("Object.keys(state.answers).length"), 0);
+  assert.equal(reset.run("state.history.length"), 0);
+  assert.equal(reset.run("Object.keys(state.days).length"), 0);
+  assert.equal(reset.run("state.active"), null);
+  assert.equal(reset.run("state.bookmarks[0]"), oldId);
+  assert.equal(reset.run(`state.notes[${JSON.stringify(oldId)}]`), "moja notatka");
+  assert.equal(reset.run("preferences().theme"), "dark");
+  assert.equal(reset.run("state.statsEpoch"), "2026-11-22");
+  assert.equal(reset.getStore().statsEpoch, "2026-11-22", "reset is persisted, so it happens once");
+  assert.equal(reset.getStore().statsReset, undefined);
+  const again = setup(reset.getStore());
+  await ready();
+  again.run("state.answers[Q[0].id]={correct:true,attempts:1,last:1};save()");
+  const third = setup(again.getStore());
+  await ready();
+  assert.equal(third.run("Object.keys(state.answers).length"), 1, "progress after the reset is kept");
   // References appear alongside revealed answers but cannot reveal answers during an exam/test.
   const legal = setup();
   await ready();
@@ -360,6 +381,7 @@ async function runLogicChecks() {
   assert.throws(() => sh.run("state.active.order[state.active.ids[0]]=[0,0,1];validateImport({format:'pracownia-v1',state})"));
   // Progress that refers to withdrawn 2018–2019 questions is pruned, not discarded.
   const withdrawn = setup({
+    statsEpoch: "2026-11-22",
     answers: { "2018-03-15-1": { correct: true, attempts: 1 }, [data.questions[0].id]: { correct: false, attempts: 2 } },
     bookmarks: ["2019-03-21-5", data.questions[1].id],
     history: [{ mode: "exam", scope: "selection", session: "2018-03-15", score: 70, total: 90, date: "2026-11-10T10:00:00Z" }],
@@ -380,7 +402,7 @@ async function runLogicChecks() {
   const lw = setup();
   await ready();
   const outdatedIds = Object.keys(lawFixture.items).filter((id) => lawFixture.items[id].status === "outdated");
-  assert.ok(outdatedIds.length >= 40, "outdated questions are flagged");
+  assert.ok(outdatedIds.length >= 15, "outdated questions are flagged");
   const keyedId = outdatedIds.find((id) => lawFixture.items[id].currentCorrect);
   const annulledId = outdatedIds.find((id) => lawFixture.items[id].annulled);
   const sheet = JSON.parse(fs.readFileSync("dist/questions.json", "utf8")).questions;
@@ -423,10 +445,10 @@ async function runLogicChecks() {
   assert.match(lw.run(`feedback(byId[${JSON.stringify(cur)}], true)`), /nie stwierdzono zmian/);
   console.log("PASS: current-law layer – scoring by current law (historical key shown), annulled questions, no hidden questions, base filter.");
   console.log(
-    "PASS: randomised answer order (letters move, texts and keys stay), keyboard mapping, saved order validation, pruning of withdrawn questions.",
+    "PASS: one-time statistics reset (bookmarks, notes and settings kept). PASS: randomised answer order (letters move, texts and keys stay), keyboard mapping, saved order validation, pruning of withdrawn questions.",
   );
   console.log(
-    "PASS: 3600 questions / 40 sessions / 2020–2026; routes; exam 65/64 threshold; immediate learning; whole-base random selection and deduplication; deferred test scoring; persistence, import, and legacy backups.",
+    "PASS: 2610 questions / 29 sessions / 2022–2026; routes; exam 65/64 threshold; immediate learning; whole-base random selection and deduplication; deferred test scoring; persistence, import, and legacy backups.",
   );
 }
 module.exports = { setup, ready, runLogicChecks };

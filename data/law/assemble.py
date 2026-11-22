@@ -84,9 +84,9 @@ def date_pl(d):
     return f'{int(day)} {months[int(m) - 1]} {y}'
 
 
-lines = [f'# Raport stanu prawnego pytań 2020–2023 (stan na {date_pl(REVIEW["reviewedAt"])})', '',
+lines = [f'# Raport stanu prawnego pytań 2022–2023 (stan na {date_pl(REVIEW["reviewedAt"])})', '',
          'Plik generowany przez `data/law/assemble.py`. Aplikacja liczy punkty według obecnego stanu prawnego (klucz „dziś”); klucz historyczny pozostaje widoczny.', '']
-labels = {'outdated': 'Nieaktualne po zmianie przepisów', 'uncertain': 'Stan prawny do potwierdzenia (lista 2020–2023; liczba wystąpień obejmuje też pytania 2024–2026 oparte na warunkach technicznych)'}
+labels = {'outdated': 'Nieaktualne po zmianie przepisów', 'uncertain': 'Stan prawny do potwierdzenia (lista 2022–2023; liczba wystąpień obejmuje też pytania 2024–2026 oparte na warunkach technicznych)'}
 for status in ('outdated', 'uncertain'):
     seen = set()
     rows = []
