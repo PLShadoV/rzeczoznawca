@@ -1,3 +1,5 @@
+> **Wycofane w 1.5.0:** żadna z sesji archiwalnych (2020–03.2021) nie jest już publikowana w aplikacji. Materiały zostają jako dokumentacja.
+
 # Archiwalne sesje 2020–2021 (skany)
 
 4 pełne sesje: 25.06.2020, 30.07.2020, 24.09.2020 i 18.03.2021 (360 pytań). Sesje z lat 2018–2019 zostały odczytane tą samą metodą, ale w wersji 1.3.0 wycofano je z bazy (w `final_text.json` i `keys.json` nadal są surowe wyniki; `merge_into_dist.py` publikuje tylko sesje z `sources-older.json`). Ministerstwo opublikowało je jako **skany PDF z kluczem** (test + kratki klucza w jednym pliku), bez warstwy tekstowej. Linki do oryginałów: `sources-older.json` (pole `pdf`) i `list.txt`.

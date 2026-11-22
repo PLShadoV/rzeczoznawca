@@ -2,7 +2,7 @@
 
 # Pracownia Rzeczoznawcy
 
-**Wersja 1.4.0.** Gotowa, samodzielna aplikacja do nauki na egzamin na rzeczoznawcę majątkowego. Działa bez konta i backendu. Możesz opublikować ją na **GitHub Pages** lub dowolnym hostingu statycznym. Wszystkie pliki strony są w `dist/`.
+**Wersja 1.5.0.** Gotowa, samodzielna aplikacja do nauki na egzamin na rzeczoznawcę majątkowego. Działa bez konta i backendu. Możesz opublikować ją na **GitHub Pages** lub dowolnym hostingu statycznym. Wszystkie pliki strony są w `dist/`.
 
 ## Szybki start
 
@@ -22,7 +22,7 @@ npm test
 
 ## Co znajduje się w aplikacji
 
-- **Aktualny stan prawny:** wszystkie pytania z sesji 2020–2023 porównano z przepisami obowiązującymi 19.11.2026 (m.in. rozporządzenie o wycenie z 2023 r., reforma planowania z 2023 r., ewidencja gruntów z 2021 r.). **Punkty liczą się według obecnych przepisów:** w 14 wystąpieniach pytań nieaktualnych obowiązuje nowy poprawny zestaw (klucz z arkusza jest pokazany obok), a w 38, gdzie żaden wariant nie jest dziś poprawny, pytanie traktowane jest jak unieważnione — punkt otrzymuje każdy. Pytania nie są ukrywane. Przy odpowiedzi widać też status „stan prawny do potwierdzenia” (93, głównie warunki techniczne budynków — tu klucz z arkusza) oraz „zmieniona podstawa” (337). W Bazie jest filtr „Stan prawny”. Lista: [data/law/REPORT.md](data/law/REPORT.md).
+- **Aktualny stan prawny:** wszystkie pytania z sesji 2022–2023 porównano z przepisami obowiązującymi 19.11.2026 (m.in. rozporządzenie o wycenie z 2023 r., reforma planowania z 2023 r., ewidencja gruntów z 2021 r.). **Punkty liczą się według obecnych przepisów:** w 6 wystąpieniach pytań nieaktualnych obowiązuje nowy poprawny zestaw (klucz z arkusza jest pokazany obok), a w 14, gdzie żaden wariant nie jest dziś poprawny, pytanie traktowane jest jak unieważnione — punkt otrzymuje każdy. Oznaczenie widać już przed udzieleniem odpowiedzi. Pytania nie są ukrywane. Status „stan prawny do potwierdzenia” (73) dotyczy głównie warunków technicznych budynków — tu obowiązuje klucz z arkusza. Lista: [data/law/REPORT.md](data/law/REPORT.md).
 - **Losowa kolejność odpowiedzi:** w nauce, sprawdzianach i egzaminach warianty A/B/C są tasowane osobno dla każdego pytania, więc poprawna odpowiedź nie stoi zawsze pod tą samą literą. Treść każdego wariantu pozostaje przypisana do niego, a punktacja wynika z oficjalnego klucza (przy kluczu widać też literę z arkusza). Można wyłączyć w Ustawieniach.
 - **Nauka:** wybór tematu, sesji, liczby i statusu pytań; poprawny komplet odpowiedzi po sprawdzeniu pytania.
 - **Losowa nauka i sprawdzian:** 10, 20, 30, 50, 90 lub 100 pytań z całej bazy. Bez identycznych pytań w jednym zestawie; wybierana jest najnowsza wersja powtórzonej treści. Sprawdzian pokazuje wynik dopiero na końcu.
@@ -38,11 +38,11 @@ npm test
 
 ## Dane i zakres weryfikacji
 
-Baza zawiera **3600 pytań z 40 pełnych sesji z lat 2020–2026**, od czerwca 2020 do września 2026. Sesje 2020–03.2021 (4 sesje, 360 pytań) zostały odczytane ze skanów ministerstwa (OCR + ręczna korekta ze skanem, klucze odczytane z kratek i sprawdzone wzrokowo, z uwzględnieniem dwóch oficjalnych sprostowań) — szczegóły w [data/older/README.md](data/older/README.md). To pytania z arkuszy, więc treści mogą powtarzać się między sesjami. Nie jest to kompletny zbiór wszystkich egzaminów. Każdy rekord zachowuje datę sesji, oryginalny numer, warianty, oficjalny klucz i odnośniki do źródeł.
+Baza zawiera **2610 pytań z 29 pełnych sesji z lat 2022–2026**, od marca 2022 do września 2026. Sesje sprzed 2022 r. (2020–2021, w tym odczytane ze skanów) wycofano w wersji 1.5.0; skrypt `data/prune_sessions.py` pilnuje, by nie wróciły przy przebudowie danych. To pytania z arkuszy, więc treści mogą powtarzać się między sesjami. Nie jest to kompletny zbiór wszystkich egzaminów. Każdy rekord zachowuje datę sesji, oryginalny numer, warianty, oficjalny klucz i odnośniki do źródeł.
 
 Źródło arkuszy i kluczy: [oficjalna strona ministerstwa dla kandydatów na rzeczoznawców](https://www.gov.pl/web/rozwoj-technologia/jak-zostac-rzeczoznawca-majatkowym). Podział tematyczny jest pomocniczy. Projekt jest niezależny od ministerstwa i InfoGeoTech.
 
-Warstwa przypisów zawiera **2457 pytań z potwierdzonymi powiązaniami z przepisami**, **571 oznaczeń zagadnień specjalistycznych lub obliczeniowych** i **572 pozycje wymagające dalszej weryfikacji** (w tym 235 pytań archiwalnych 2020–2021, dla których przypisów jeszcze nie opracowano; 125 pytań archiwalnych identycznych z późniejszymi dziedziczy ich przypis). Obejmuje wskazany tekst aktu, a nie automatyczne potwierdzenie jego aktualności na dziś lub brzmienia w każdej historycznej dacie. Rozbieżności kluczy z przepisami są oznaczane; oryginalnej punktacji nie zmieniono. Szczegóły: [dokumentacja przypisów](data/legal/README.md).
+Warstwa przypisów zawiera **1900 pytań z potwierdzonymi powiązaniami z przepisami**, **467 oznaczeń zagadnień specjalistycznych lub obliczeniowych** i **243 pozycji wymagających dalszej weryfikacji**. Obejmuje wskazany tekst aktu; aktualność na dziś opisuje osobna warstwa stanu prawnego (punktacja pytań nieaktualnych według obecnych przepisów). Szczegóły: [dokumentacja przypisów](data/legal/README.md).
 
 **Korekta pisowni.** Arkusze ministerstwa zawierają literówki (np. „tymczsowym”, „brytto”, brak polskich znaków). W treści pytań i odpowiedzi poprawiono wyłącznie pisownię i odstępy przy interpunkcji (`data/text_fixes.py`); sens pytań i klucze pozostały bez zmian. Każda zmiana w pytaniach z lat 2021–2026 jest zapisana w `data/text-corrections.json` (przed/po), a oryginał jest dostępny pod linkiem do PDF przy pytaniu.
 

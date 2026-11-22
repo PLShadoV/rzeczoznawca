@@ -21,5 +21,5 @@ counts = {s: sum(1 for e in items.values() if e['status'] == s) for s in law['co
 assert counts == law['counts'], 'counts out of date – run data/law/assemble.py'
 missing = [qid for qid, q in questions.items()
            if q['session'] <= '2023-12-31' and qid not in items and legal.get(qid, {}).get('status') != 'nonlegal']
-assert not missing, f'2020–2023 questions without a law status: {missing[:5]}'
-print(f"PASS: current-law layer for {len(items)} questions {law['counts']}; every 2020–2023 legal question reviewed (checked {law['checkedAt']}).")
+assert not missing, f'2022–2023 questions without a law status: {missing[:5]}'
+print(f"PASS: current-law layer for {len(items)} questions {law['counts']}; every 2022–2023 legal question reviewed (checked {law['checkedAt']}).")

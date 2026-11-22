@@ -2,7 +2,7 @@
 
 Warstwa obok historycznych kluczy. Mówi, czy odpowiedź z danej sesji zgadza się z prawem obowiązującym w dniu weryfikacji, a dla pytań nieaktualnych podaje klucz według obecnych przepisów (`currentCorrect`) albo oznacza pytanie jako unieważnione (`annulled` — żaden wariant nie jest dziś poprawny, punkt dla każdego). Aplikacja liczy punkty według tej warstwy; `dist/questions.json` zachowuje klucze z arkuszy, a klucz z arkusza jest wyświetlany obok.
 
-- `review-2020-2023.json` — wynik przeglądu 1759 unikalnych pytań z sesji 2020–2023 (grupy identycznych pytań, z identyfikatorami wszystkich wystąpień, także identycznych pytań z lat 2024–2026). Pole `verdict`: `OUT` (nieaktualne; `currentKey` = indeksy poprawnych wariantów dziś lub `null` = unieważnione), `UNC` (do potwierdzenia), `CHG` (zmieniona podstawa, odpowiedź aktualna), `OK` (sprawdzone, bez zmian); brak pola = nie stwierdzono zmian.
+- `review-2020-2023.json` — wynik przeglądu 1759 unikalnych pytań z sesji 2020–2023 (sesje 2020–2021 wycofano w 1.5.0 — w aplikacji działa tylko część dotycząca 2022–2023) (grupy identycznych pytań, z identyfikatorami wszystkich wystąpień, także identycznych pytań z lat 2024–2026). Pole `verdict`: `OUT` (nieaktualne; `currentKey` = indeksy poprawnych wariantów dziś lub `null` = unieważnione), `UNC` (do potwierdzenia), `CHG` (zmieniona podstawa, odpowiedź aktualna), `OK` (sprawdzone, bez zmian); brak pola = nie stwierdzono zmian.
 - `assemble.py` — buduje `dist/law-status.json` i raport `REPORT.md`. Uruchom: `python3 data/law/assemble.py`.
 - `REPORT.md` — lista pytań nieaktualnych i z niepewnym stanem prawnym, z wyjaśnieniem.
 

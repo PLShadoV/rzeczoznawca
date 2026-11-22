@@ -11,7 +11,8 @@ def category(t,n):
  if n<=18 or any(x in t for x in ['rachunkowo','inflac','rynk','ekonom','kapitał','statyst','warianc','odchylen','korelac'] ) and n<19:return 'Ekonomia i finanse'
  if any(x in t for x in ['wycen','wartoś','podejści','operat','kapitaliz','dyskont','porównywan','ceny średniej','zużyci','kosztów odtworzenia','dochod']):return 'Wycena nieruchomości'
  return 'Prawo i gospodarka nieruchomościami'
-for date in sorted({k[:10] for k in sources if not k.startswith('2026-10')},reverse=True):
+# Sessions before 2022 were withdrawn in 1.5.0 (see data/prune_sessions.py).
+for date in sorted({k[:10] for k in sources if not k.startswith('2026-10') and k[:10]>='2022-01-01'},reverse=True):
  keys={}
  doc=fitz.open(root/(date+'-key.pdf'))
  for page in doc:

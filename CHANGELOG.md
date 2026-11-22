@@ -1,5 +1,10 @@
 # Historia zmian
 
+## 1.5.0 — 2026-11-22
+
+- Usunięto wszystkie sesje sprzed 2022 r. (11 sesji z lat 2020–2021, 990 pytań). Baza: 2610 pytań z 29 sesji (2022–2026). Wycofanie obejmuje też przypisy, komentarze i warstwę stanu prawnego; `data/prune_sessions.py` stosuje próg przy każdej przebudowie danych.
+- Jednorazowy reset statystyk na każdym urządzeniu: przy pierwszym wejściu po aktualizacji znikają odpowiedzi, historia wyników, dni nauki i niedokończona sesja. Zakładki, notatki i ustawienia zostają. Kopia postępu wczytana później z pliku działa normalnie.
+
 ## 1.4.0 — 2026-11-19
 
 - Weryfikacja stanu prawnego wszystkich 1759 unikalnych pytań z sesji 2020–2023 na dzień 19.11.2026: porównanie powołanych artykułów ze starszymi tekstami jednolitymi (2020–2022) i obecnymi tekstami w Dz.U., przegląd pytań bez przypisu oraz opartych na uchylonych rozporządzeniach.
